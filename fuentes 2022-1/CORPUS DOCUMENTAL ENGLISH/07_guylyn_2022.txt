@@ -1,0 +1,239 @@
+In February 2009, the Ninth Circuit Court of Appeals struck down a California law banning the sale or rental of
+"violent video games" to minors and requiring such games to be labeled " 1 8" (the legal age for adults).1 In first
+writing about the decision for a legal publication, I said: 
+While this decision may surprise some California lawmakers and parents, its holding is fully consistent with
+substantial U.S. Supreme Court precedent entitling minors to a significant measure of First Amendment
+protection, and leaving parents with the duty to supervise "appropriate" content.2 
+Perhaps not. The U.S. Supreme Court just granted review of the decision.3 Mixed in with the legal issues are some
+of the most troublesome themes for free speech protection - minors, sex, and violence. 
+California's Violent Video Games Act 
+The lawsuit to invalidate California Civil Code §1746 through 1746.5 (the Violent Video Games Act) was filed by
+several video software associations against California's governor and other elected officials. The Act was
+PDF GENERADO POR PROQUEST.COM Page 1 of 8
+sponsored in part by a child psychologist, and Governor Schwarzenegger signed it into law on October 7, 2005. The
+fear, although never statistically proven, is that videos showing repetitious killing, maiming, dismembering, and
+sexual assault contribute to antisocial conduct among minors. The Act prohibited the selling or renting of video
+games labeled as "violent" to minors. Violators were subject to a civil penalty of up to $ 1 ,000 per violation. 
+The Act defined a violent video game as any game where the range of options available to the player includes
+killing, maiming, dismembering, or sexually assaulting an image of a human being if those acts are depicted in one
+of two ways: 
+Either in a manner that appeals to deviant or morbid interests of minors, is patently offensive to what is suitable to
+minors according to community standards, and where the game as a whole lacks serious literary, artistic, political
+or scientific value for minors; or, in a manner that enables the player to virtually inflict serious injury upon images
+of human beings or characters with substantial human characteristics in an especially heinous, cruel or depraved
+manner that involves torture or serious physical abuse to the victim. 
+The first method borrowed legal doctrine from obscenity laws. Obscenity is not protected speech under the First
+Amendment, as it is deemed to have no value to society, i.e., to be without serious literary, artistic, political, or
+scientific value. The second method borrowed language from federal death penalty jury instructions to define
+"cruel," "depraved," "heinous" and "serious physical abuse" to include infliction of gratuitous violence upon the
+victim beyond that necessary to commit the killing, needless mutilation of the victim's body, and helplessness of
+the victim. 
+The Act also required each violent video game imported into or distributed in California to be labeled with "18" in
+large lettering on the front of the package. To justify passage of the Act, the state asserted that it served two
+compelling interests: preventing violent, aggressive, and antisocial behavior and preventing psychological or
+neurological harm to minors who play violent video games. 
+The video game associations urged the court to strike down the Act as violating minors' rights guaranteed by the
+First and Fourteenth Amendments. The Ninth Circuit so ruled. The court first struck down the Act's ban on sales or
+rentals of "violent video games" to minors as an invalid content-based restriction on expressive speech. Video
+games are a form of expression protected by the First Amendment, and the Act sought to restrict expression
+based on game content, i.e., violence. 
+Like other courts before it, the court adopted the strict scrutiny standard of review for the Act, and not the less
+protective "variable obscenity standard" urged by California. The court noted the obscenity standards have been
+limited to nonprotected, sex-based expression, not violent content that is protected by the First Amendment, and
+refused to go "where no other court had gone" before. 
+The court held the Act could not survive strict scrutiny under the First Amendment, both because California failed
+to prove any compelling interest supported its enactment and because other less restrictive alternatives were
+available to protect minors. The court first looked to the breadth of the content of video games potentially affected
+by the Act, noting it was highly diverse and included games like Grand Theft Auto: Vice City, Postal 2, and Duke
+Nukem 3D, all of which show myriad ways in which characters can kill or injure their adversaries. The court also
+noted that some of these games have extensive plot lines that parallel historic events or place the player in a
+position to evaluate and make moral choices. 
+The court next noted the video game industry itself has a voluntary rating system to provide consumers and
+retailers with knowledge about the content of video games. The Entertainment Software Rating Board, an
+independent, self -regulated body, rates the content of games voluntarily submitted to it with one of six agespecific ratings, ranging from early childhood to adults only (eighteen and over). It also assigns to each game one
+of thirty content descriptors, like "animated blood," "blood and gore," "cartoon violence," "crude humor," "fantasy
+violence," "intense violence," "language," "suggestive themes," and "sexual violence." 
+In applying strict scrutiny, the court noted that the U.S. Supreme Court has held that minors are entitled to a
+significant measure of First Amendment protection, and only in relatively narrow and well-defined circumstances
+may government bar public dissemination and protective materials to them. 
+PDF GENERADO POR PROQUEST.COM Page 2 of 8
+Content-based regulations are also presumptively invalid. Where restrictions on protected speech are not "narrowly
+tailored" to promote a compelling governmental interest, or a less restrictive alternative would serve the
+government's purpose, the regulation cannot stand. 
+Here, the court rejected California's argument that the Act was supported by the compelling interest of protecting
+children playing violent video games from "actual harm to the brain." While acknowledging there is an abstract
+compelling interest in protecting the physical and psychological well-being of minors, the court ruled California
+failed to prove the harm was real and that the Act would in fact alleviate that harm in a direct material way. The
+court also underscored that the Supreme Court has held government cannot constitutionally premise legislation
+on the desirability of controlling a person's private thoughts. 
+The studies California relied on to support its compelling interest were faulty. They even contained disclaimers
+that significantly undermined the inferences drawn by the state in support of its psychological harm rationale. The
+relative paucity of literature also showed a "glaring empirical gap" in research on video game violence because of
+the lack of longitudinal studies. Furthermore, nearly all of the research California proffered was based on
+correlation, not evidence of causation, and therefore failed in methodology to prove the state's claimed interest.
+Although a state is not required to demonstrate a "scientific certainty," it must do more than California did to meet
+its burden of showing a compelling interest. 
+Even were a compelling interest shown by California, however, a less restrictive alternative existed to protect
+minors. The industry itself has implemented enforcement methods like ratings, and parental controls on modern
+gaming systems could serve the government's purpose. Additionally, an enhanced education campaign directed
+toward retailers and parents concerning the industry rating system could help achieve California's asserted
+interest of protecting minors. 
+The court additionally struck the Act's "18" labeling requirement as unconstitutional. Although freedom of speech
+protections generally prohibit the government from telling people what they must say, courts have upheld a few
+commercial speech restrictions that require the inclusion of "purely factual and uncontroversial information" in
+advertising. Compelled disclosures must be justified by the need to dissipate the possibility of consumer
+confusion or deception and be "reasonably related" to the government's interest in preventing that confusion or
+deception. 
+Here, instead of requiring the disclosure of purely factual information, the Act unconstitutionally forced video game
+manufacturers to carry California's subjective opinion, a message with which the industry disagrees. Additionally,
+because the Act cannot constitutionally characterize video games as "violent" and beyond First Amendment
+protections for minors, the " 1 8" label did not convey accurate factual information. There is no state-mandated age
+threshold for the purchase or rental of video games. The mandated " 1 8" label therefore conveyed only a false
+statement that certain conduct is illegal when it is not, and California has no legitimate reason to force retailers to
+affix false information to their products. 
+Supreme Court Review 
+That the Supreme Court has now granted review of this decision is unsettling. Case law has long prevented
+restricting minors' access to violent content under the doctrine of strict scrutiny. But obscenity has never been
+protected, and even sexually explicit material, although not obscene, has been labeled "variable obscenity" for the
+purpose of keeping it from minors under the rational basis test.4 So in the face of continuing defeat on the
+violence front, a new legal alliance is being formed: violence + sex. As one columnist aptly put it, "It's no wonder
+that the antiviolence people want to join themselves to the anti-obscenity people. It's losers connecting to
+winners." 
+To add to the pile of concerns, the Supreme Court frequently reverses the Ninth Circuit. Is it possible that the
+Supreme Court may consider adopting a "variable violence" standard for minors, much like the "variable obscenity"
+standard it has already employed? 
+This is not child's play. We must keep watch. 
+Footnote 
+PDF GENERADO POR PROQUEST.COM Page 3 of 8
+Endnotes 
+1. See Video Software Dealers Ass'n v. Schwarzenegger, 556 F.3d 950 (9th Cir. 2009). 
+2. Guylyn Cummins, Federal Appeals Court Strikes Down California Law Banning the Sale or Rental of "Violent
+Video Games" to Minors, martindalehubble.com Legal Library, Mar. 13, 2009, available at
+http://www.martindale.com/constitutionallaw/article_Sheppard-Mullin-RichterHampton-LLP_641238.htm. 
+3. See Video Software Dealers Ass 'n, 556 F.3d at 950, cert, granted, Schwarzenegger v. Entm't Merchants Ass'n, 77
+U.S.L.W. 3658, 78 U.S.L.W. 3012, 78 U.S.L.W. 3624, 78 U.S.L.W. 3627 (Apr. 25, 2010)(No. 08-1448). 
+4. Ginsberg v. New York, 390 U.S. 629 (1968). 
+AuthorAffiliation 
+Guylyn Cummins (gcummins@sheppard mullin. com) is a partner in the San Diego office of Sheppard Mullin
+Richter &Hampton LLP. 
+TEXTO COMPLETO TRADUCIDO
+En febrero de 2009, el Tribunal de Apelaciones del Noveno Circuito revocó una ley de California que prohibía la
+venta o el alquiler de «videojuegos violentos» a menores y exigía que dichos juegos llevaran la etiqueta «18» (la
+edad legal para los adultos) .1 Al escribir por primera vez sobre la decisión de publicación legal, dije:
+Si bien esta decisión puede sorprender a algunos legisladores y padres de California, su posición es totalmente
+coherente con un precedente sustancial de la Corte Suprema de los Estados Unidos que da derecho a los menores
+a una medida significativa de protección de la Primera Enmienda y deja a los padres con el deber de supervisar el
+contenido «apropiado» .2
+Quizá no. La Corte Suprema de los Estados Unidos acaba de conceder la revisión de la decisión3. Mezclados con
+las cuestiones legales, se encuentran algunos de los temas más problemáticos para la protección de la libertad de
+expresión: menores, sexo y violencia. 
+Ley de videojuegos violentos de California
+La demanda para invalidar el Código Civil de California §1746 a 1746.5 (la Ley de Videojuegos Violentos) fue
+presentada por varias asociaciones de software de video contra el gobernador de California y otros funcionarios
+electos. La ley fue patrocinada en parte por un psicólogo infantil, y el gobernador Schwarzenegger la promulgó el 7
+de octubre de 2005. El temor, aunque nunca se ha demostrado estadísticamente, es que los vídeos que muestran
+asesinatos repetitivos, mutilaciones, descuartizamientos y agresiones sexuales contribuyan a una conducta
+antisocial entre los menores. La Ley prohibía la venta o el alquiler de videojuegos etiquetados como «violentos» a
+menores. Los infractores estaban sujetos a una sanción civil de hasta $1,000 por infracción. 
+La Ley define un videojuego violento como cualquier juego en el que la gama de opciones disponibles para el
+jugador incluye matar, mutilar, descuartizar o agredir sexualmente una imagen de un ser humano si esos actos se
+representan de una de estas dos maneras:
+Ya sea de una manera que apele a los intereses desviados o morbosos de los menores, sea claramente ofensivo
+para lo que es adecuado para los menores de acuerdo con los estándares de la comunidad, y cuando el juego en
+su conjunto carece de un valor literario, artístico, político o científico serio para los menores; o, de una manera que
+permita al jugador infligir virtualmente lesiones graves a imágenes de seres humanos o personajes con
+características humanas sustanciales de una manera especialmente atroz, cruel o depravada que implique tortura
+o abuso físico grave a la víctima. 
+El primer método tomó prestada la doctrina legal de las leyes de obscenidad. La obscenidad no es expresión
+protegida bajo la Primera Enmienda, ya que se considera que no tiene ningún valor para la sociedad, es decir,
+carece de un valor literario, artístico, político o científico serio. El segundo método tomó prestado el lenguaje de
+PDF GENERADO POR PROQUEST.COM Page 4 of 8
+las instrucciones del jurado federal de pena de muerte para definir «cruel», «depravado», «atroz» y «abuso físico
+grave» para incluir la imposición de violencia gratuita sobre la víctima más allá de lo necesario para cometer el
+asesinato, la mutilación innecesaria del cuerpo de la víctima, y impotencia de la víctima. 
+La Ley también exigía que cada videojuego violento importado o distribuido en California tuviera la etiqueta «18"
+en letras grandes en la parte frontal del paquete. Para justificar la aprobación de la Ley, el estado afirmó que servía
+a dos intereses imperiosos: prevenir el comportamiento violento, agresivo y antisocial y prevenir el daño
+psicológico o neurológico a los menores que juegan videojuegos violentos. 
+Las asociaciones de videojuegos instaron al tribunal a anular la Ley por violar los derechos de los menores
+garantizados por la Primera y la Decimocuarta Enmiendas. El Noveno Circuito así lo dictó. El tribunal primero anuló
+la prohibición de la Ley sobre la venta o el alquiler de «videojuegos violentos» a menores como una restricción
+inválida basada en el contenido de la expresión expresiva. Los videojuegos son una forma de expresión protegida
+por la Primera Enmienda, y la Ley buscaba restringir la expresión basada en el contenido del juego, es decir, la
+violencia. 
+Al igual que otros tribunales anteriores, el tribunal adoptó el estricto estándar de revisión de la Ley, y no el menos
+protector «estándar de obscenidad variable» instado por California. El tribunal señaló que los estándares de
+obscenidad se han limitado a la expresión no protegida, basada en el sexo, no al contenido violento protegido por
+la Primera Enmienda, y se negó a ir «donde ningún otro tribunal había ido» antes. 
+El tribunal sostuvo que la Ley no podía sobrevivir al escrutinio estricto bajo la Primera Enmienda, tanto porque
+California no pudo demostrar que ningún interés apremiante apoyara su promulgación como porque había otras
+alternativas menos restrictivas disponibles para proteger a los menores. El tribunal primero analizó la amplitud del
+contenido de los videojuegos potencialmente afectados por la Ley, señalando que era muy diverso e incluía juegos
+como Grand Theft Auto: Vice City, Postal 2 y Duke Nukem 3D, todos los cuales muestran innumerables formas en
+que los personajes pueden matar o herir a sus adversarios. El tribunal también señaló que algunos de estos juegos
+tienen líneas argumentales extensas que son paralelas a eventos históricos o colocan al jugador en condiciones
+de evaluar y tomar decisiones morales. 
+El tribunal señaló a continuación que la propia industria de los videojuegos tiene un sistema de clasificación
+voluntario para proporcionar a los consumidores y minoristas conocimientos sobre el contenido de los
+videojuegos. La Junta de Clasificación de Software de Entretenimiento, un organismo independiente y
+autorregulado, califica el contenido de los juegos que se le presentan voluntariamente con una de las seis
+clasificaciones específicas por edad, que van desde la primera infancia hasta solo para adultos (dieciocho años o
+más). También asigna a cada juego uno de los treinta descriptores de contenido, como «sangre animada», «sangre
+y sangre», «violencia de dibujos animados», «humor grosero», «violencia fantástica», «violencia intensa»,
+«lenguaje», «temas sugerentes» y «violencia sexual». 
+Al aplicar un escrutinio estricto, el tribunal señaló que la Corte Suprema de los Estados Unidos ha sostenido que
+los menores tienen derecho a una medida significativa de protección de la Primera Enmienda, y solo en
+circunstancias relativamente estrechas y bien definidas puede el gobierno prohibirles la difusión pública y los
+materiales de protección. 
+Las regulaciones basadas en el contenido también son presuntamente inválidas. En los casos en que las
+restricciones a la libertad de expresión protegida no están «estrechamente adaptadas» para promover un interés
+gubernamental convincente, o una alternativa menos restrictiva serviría al propósito del gobierno, la regulación no
+puede mantenerse. 
+En 
+este caso, el tribunal rechazó el argumento de California de que la Ley estaba respaldada por el interés imperioso
+de proteger a los niños que juegan videojuegos violentos de «daños reales al cerebro». Si bien reconoció que hay
+un interés abstracto y convincente en proteger el bienestar físico y psicológico de los menores, el tribunal
+dictaminó que California no probó que el daño fuera real y que la Ley de hecho aliviaría ese daño de manera
+material directa. El tribunal también subrayó que la Corte Suprema ha sostenido que el gobierno no puede premisa
+PDF GENERADO POR PROQUEST.COM Page 5 of 8
+constitucionalmente la legislación sobre la conveniencia de controlar los pensamientos privados de una persona. 
+Los estudios en los que se basó California para apoyar su interés imperioso eran defectuosos. Incluso contenían
+descargos de responsabilidad que socavaban significativamente las inferencias extraídas por el Estado en apoyo
+de su razonamiento de daño psicológico. La relativa escasez de literatura también mostró una «brecha empírica
+evidente» en la investigación sobre la violencia en los videojuegos debido a la falta de estudios longitudinales.
+Además, casi toda la investigación ofrecida por California se basó en la correlación, no en evidencia de causalidad
+y, por lo tanto, falló en la metodología para demostrar el interés reclamado por el estado. Si bien un estado no está
+obligado a demostrar una «certeza científica», debe hacer más de lo que hizo California para cumplir con su carga
+de mostrar un interés apremiante. 
+Sin embargo, incluso si California mostraba un interés apremiante, existía una alternativa menos restrictiva para
+proteger a los menores. La propia industria ha implementado métodos de aplicación como las calificaciones, y los
+controles parentales en los sistemas de juego modernos podrían servir al propósito del gobierno. Además, una
+campaña de educación mejorada dirigida a los minoristas y a los padres sobre el sistema de calificación de la
+industria podría ayudar a lograr el interés declarado de California de proteger a los menores. 
+Además, el tribunal declaró inconstitucional el requisito de etiquetado de «18" de la Ley. Aunque las protecciones a
+la libertad de expresión generalmente prohíben que el gobierno diga a la gente lo que tiene que decir, los tribunales
+han confirmado algunas restricciones comerciales al discurso que requieren la inclusión de «información
+puramente fáctica y no controvertida» en la publicidad. Las divulgaciones obligatorias deben estar justificadas por
+la necesidad de disipar la posibilidad de confusión o engaño al consumidor y estar «razonablemente relacionadas»
+con el interés del gobierno en evitar esa confusión o engaño. 
+En 
+este caso, en lugar de exigir la divulgación de información puramente fáctica, la Ley obligó inconstitucionalmente
+a los fabricantes de videojuegos a llevar la opinión subjetiva de California, un mensaje con el que la industria no
+está de acuerdo. Además, dado que la Ley no puede caracterizar constitucionalmente los videojuegos como
+«violentos» y más allá de las protecciones de la Primera Enmienda para menores, la etiqueta "18» no contenía
+información fáctica precisa. No hay un límite de edad exigido por el estado para la compra o el alquiler de
+videojuegos. Por lo tanto, la etiqueta «18» obligatoria solo transmitía una declaración falsa de que cierta conducta
+es ilegal cuando no lo es, y California no tiene ninguna razón legítima para obligar a los minoristas a colocar
+información falsa en sus productos. 
+Revisión de la Corte Suprema
+Es inquietante que la Corte Suprema haya otorgado ahora la revisión de esta decisión. La jurisprudencia ha
+impedido durante mucho tiempo restringir el acceso de los menores a contenidos violentos bajo la doctrina del
+escrutinio estricto. Pero la obscenidad nunca ha sido protegida, e incluso el material sexualmente explícito,
+aunque no obsceno, ha sido etiquetado como «obscenidad variable» con el propósito de ocultarlo a los menores
+bajo la prueba de base racional.4 Así que ante la continua derrota en el frente de la violencia, se está formando
+una nueva alianza legal: violencia + sexo. As one columnist aptly put it, "It's no wonder that the antiviolence people
+want to join themselves to the anti-obscenity people. 
+To add to the pile of concerns, the Supreme Court frequently reverses the Ninth Circuit. Is it possible that the
+Supreme Court may consider adopting a "variable violence" standard for minors, much like the "variable obscenity"
+standard it has already employed? 
+This is not child's play. We must keep watch. 

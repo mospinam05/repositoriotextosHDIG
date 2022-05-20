@@ -1,0 +1,837 @@
+     Revista Cambios y Permanencias
+     Grupo de Investigación Historia, Archivística y Redes de Investigación
+
+               Vol. 9, Núm. 2, pp. 472-495 - ISSN 2027-5528
+
+
+Educación y video juegos. Empire Earth en la enseñanza de las
+  Ciencias Sociales en el Instituto Técnico Industrial Piloto:
+                una experiencia significativa
+
+      Education and video games. Social Science Education in the
+       Industrial Technical Institute Pilot Significant experience
+
+
+                                    Ericson Rojas
+                          Instituto Técnico Industrial Piloto
+                           orcid.org/0000-0002-8149-2152
+
+
+                         Recibido: septiembre 6 de 2018
+                         Aceptado: octubre 10 de 2018
+
+
+
+
+          Universidad Industrial de Santander / cambiosypermanencias@uis.edu.co
+Educación y video juegos. Empire Earth en la enseñanza de
+las Ciencias Sociales en el Instituto Técnico Industrial
+Piloto: una experiencia significativa
+
+
+
+Ericson Rojas                 Licenciado    en    ciencias   sociales,     Universidad
+Instituto     Técnico         Pedagógica    Nacional.    Magister     en    tecnología
+Industrial Piloto
+                              educativa, Tecnológico de Monterrey y Universidad
+                              Autónoma       de    Bucaramanga.          Estudios   en
+                              Comunicación Social y periodismo en INPAHU
+                              Docente filosofía
+                              Correo electrónico: Ericsonrojas2005@hotmail.com
+                              ORCID-ID: orcid.org/0000-0002-8149-2152
+
+
+
+
+Resumen
+El presente artículo tiene como fin exponer el potencial que pueden tener
+herramientas tecnológicas cotidianas como los videos juegos en el campo educativo.
+Se pretende mostrar como el uso del video Juego Empire Earth ha contribuido en el
+proceso de socialización del conocimiento de las temáticas del área de Ciencias
+Sociales para grado noveno, en el Instituto Técnico Industrial Piloto, entendiendo
+que esta tecnología tradicionalmente ha estado vinculada con el campo del
+entretenimiento y la diversión, razón por la cual ha sido blanco de muchas críticas
+negativas en la medida que se cree que estos generan aislamiento, actitudes
+violentas y adicción en las personas que tradicionalmente las usan.
+
+
+Palabras clave: Video Juegos, educación, sociedad del conocimiento, tecnologías
+de información y comunicación.
+
+
+
+
+472
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+Education and video games. Social Science Education in the Industrial
+Technical Institute Pilot Significant experience
+
+
+Abstract
+This article aims to expose the potential of technological tools can have daily as
+video games in education. It aims to show how the use of video game Empire Earth
+has contributed to the process of socialization of knowledge of the issues of Social
+Sciences for Grade 9 in the Industrial Technical Institute Pilot, understanding that
+this technology traditionally been associated with the field entertainment and fun,
+why has been the target of much criticism negative to the extent that they generate
+is created isolation, violent behavior and addiction in people who traditionally use.
+
+
+Keywords: Video Games, education, knowledge society, digital literacy,
+information and communication technologies.
+
+
+
+
+Introducción
+                              Los videojuegos se han convertido en un medio de socialización de
+                              los jóvenes en muchos países occidentales.
+                              Stone (1995, citado por Pindado en 2005).
+       Esta frase resume de forma clara la incidencia que han tenido los videojuegos como
+un elemento cultural e icónico influyente en los jóvenes de la sociedad occidental durante
+los últimos sesenta años. Lo que inicialmente se creó como una industria encaminada a la
+diversión y el ocio, encontró en los avances tecnológicos su más valioso aliado hasta el
+punto de convertirla en una industria que genera millones de dólares en ganancias cada año.
+       La aparición de este tipo de tecnologías, coincidió con un cambio en las
+perspectivas de vida de los jóvenes, que en la década de los cincuenta y unos años después
+del final de la Segunda Guerra Mundial, empezaron a forjar una nueva imagen de rebeldía y
+desparpajo en la que ir en contra de los valores circundantes se convertiría en uno de sus
+principales derroteros; la calle se convierte en el territorio ideal para mostrar la rebeldía,
+pero es hostil y peligrosa, los jóvenes se niegan a trabajar y a enrolarse en el ejército, y
+
+
+473
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+empieza a forjarse la imagen del vago, del rebelde sin causa, que busca sin cesar un espacio
+propio en el cual desarrollar libremente su desparpajo, es así como surgen las primera
+ludotecas, sitios en los que los muchachos se reunían para probar sus habilidades en las
+máquinas electrónicas en juegos icónicos como Pong, Pac Man o Invaders. Por la cantidad
+de tiempo que pasaban los jóvenes en estos sitios, los adultos empezaron a verlos de forma
+negativa y a asociarlos con la formación de antivalores, incitadores de violencia,
+aislamiento y pérdida del tiempo. Imagen negativa que aún prevalece en tiempos actuales
+en los que a merced de los avances tecnológicos los juegos de video han alcanzado altos
+grados de desarrollo en imagen y complejidad, lo que hace que niños y adultos pasen buena
+parte de su tiempo al frente de un televisor y una consola.
+       Sin embargo los videojuegos pueden ser dotados de una serie de atributos positivos
+que contribuyen en el proceso de formación de los jóvenes, tales como el valor cognitivo, la
+posibilidad que brindan para desarrollar destrezas de tipo motriz y mental, el valor
+socializante, la capacidad para solucionar problemas y el pensamiento lógico, entre otros.
+Esta idea pone de manifiesto el aporte que este tipo de herramienta tecnológica ofrece al
+campo de la educación, específicamente del aprendizaje en el aula, y las posibilidades que
+estos generan a los docentes para la ampliación del conocimiento a partir de la utilización
+de nuevas tecnologías para el aprendizaje, específicamente de videojuegos en el aula de
+clase, pretendiendo que la educación se incorpore en la era de a alfabetización digital y la
+tecnología.
+       En las siguientes páginas se compartirá la experiencia vivida en el Instituto Técnico
+Industrial Piloto de la ciudad de Bogotá, con la implementación del Proyecto de Aula de
+Ciencias Sociales para grado noveno denominado “aprender Sociales, un video Juego”, en
+el cual se buscó determinar la forma como el uso del juego de video Empire Earth
+Contribuye en la socialización del conocimiento del área de Ciencias Sociales y sus
+contenidos curriculares en estudiantes que cursan grado noveno.
+       De igual forma se pretende compartir los resultados concernientes a los tipos de
+competencias que se pudieron desarrollar en los estudiantes que hicieron parte del proyecto,
+así como el punto de vista de los padres y docentes con respecto a los videos juegos y su
+uso en el aula de clase.
+
+
+474
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+       El proyecto busca mostrar los videojuegos como una herramienta didáctica que va
+más allá del simple entretenimiento, explicando las diferentes habilidades que estos pueden
+desarrollar en el campo educativo, basados en estudios anteriores que a la vez logren
+posicionar esta herramienta en el campo de la enseñanza, estableciendo una serie de
+orientaciones pedagógicas, criterios y lineamientos importantes a la hora de incluir este tipo
+de instrumentos al interior del aula de clase.
+       El auge y avance de los videojuegos, su masificación, su presencia activa en casi
+todos los lugares del mundo y su uso constante por parte de un gran porcentaje de
+población juvenil, que ve en ellos no solo un medio de diversión sino una forma de
+socializar con personas de otros lugares del mundo a través de la interconectividad, sumado
+al uso constante que hace de ellos en la casa y la escuela, así como las habilidades que
+permiten evidenciar cómo el desarrollo del pensamiento lógico y la resolución de
+problemas, hacen que los objetivos del proyecto se orienten a definir la forma concreta
+como los videojuegos se pueden aprovechar en el campo de la educación. Se buscan
+alternativas innovadoras que permitan dinamizar el ejercicio de la enseñanza y el
+aprendizaje, usando nuevos lenguajes, acordes con la realidad coyuntural de los jóvenes y
+los múltiples medios con los que ellos cuentan para recibir procesar y elaborar información
+a través de los avances tecnológicos y el internet. Se trata de buscar un lenguaje común al
+educador y al estudiante que permita hacer más divertida la enseñanza y que genere buenos
+resultados en busca del mejoramiento de la calidad de nuestra educación a partir del uso de
+videojuegos que a la vez incentiven el desarrollo educativo, intelectual y psicológico en los
+estudiantes.
+       Pretender conocer el impacto que los videojuegos tienen en sus usuarios, es dar
+cuenta del desarrollo del pensamiento lógico, los niveles de observación, la resolución de
+problemas, entre otros. En este sentido, los videojuegos se convierten en una oportunidad
+de mediar a través de los intereses de los alumnos para la adquisición de aprendizajes,
+construcción de conocimientos y promoción de habilidades y destrezas. Al tomar
+consciencia de lo que representan estos videojuegos para la juventud actual, se pretende en
+el contexto de este proyecto buscar las herramientas necesarias para enfocar este fenómeno
+al campo de la educación, en busca de que esto no sea visto solamente como un medio de
+
+
+475
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+entretenimiento, sino también como un instrumento que ayude al desarrollo intelectual de
+los estudiantes y la consecución de los objetivos educativos que se persiguen en las aulas.
+       Los intereses del proyecto de investigación se inclinan a desarrollar este tema
+porque se cree que la mejor forma de innovar en la educación y alcanzar logros importantes
+para la misma es con herramientas que llamen la atención del estudiante y por medio de los
+videojuegos se puede propiciar un mayor desarrollo educativo, intelectual y psicológico, así
+como también, permitir que entre en órbita al plano de lo formal una invención que
+tradicionalmente ha sido vista con exclusividad en el plano del ocio, pero que se comienza
+a orientar como un nuevo instrumento al servicio de la educación.
+       No se pretende hacer un análisis exhaustivo de todos los videojuegos que han
+existido o que existen hasta hoy en día, se trata en un primer momento de indagar en torno
+al impacto de las actividades lúdicas, el atesoramiento con el que las nuevas generaciones
+de estudiantes conciben los medios y recursos tecnológicos, procurar establecer apertura al
+punto de equilibrio entre lo apremiante que es para el niño el entretenimiento de un
+videojuego con la oportunidad de mejorar sus procesos de aprendizaje y adquisición de
+conocimientos y finalmente, brindar bases y fundamentos pedagógicos y didácticos para la
+introducción de los videojuegos en las aulas escolares.
+
+
+Sociedad del conocimiento, video juegos y educación
+       La sociedad actual determinada por Castells (2001) como “Sociedad del
+Conocimiento”, plantea que el uso constante de nuevas tecnologías (internet, celulares,
+video juegos, tableros digitales, computadores portátiles entre otros) en el mundo actual,
+determina una relación directa entre el ser humano o ciudadano del conocimiento y la
+tecnología, así como una dependencia casi absoluta de estos artilugios que hacen más fácil
+el desarrollo de la vida. En esta nueva sociedad las ideas, el conocimiento, la inventiva y la
+creatividad reemplazan a la habilidad como elemento fundamental para el trabajo, de allí
+que sugiera la capacitación de sus ciudadanos en el campo de la tecnología, la información
+y la comunicación, para que las generaciones estén más próximas y cercanas a su uso en un
+mundo en el que los nuevos ciudadanos se denominan como nativos de la tecnología por la
+facilidad con la que aprenden a utilizar, apropiarse y modificar los aparatos de
+comunicación y diversión con los que se cuenta hoy en día.
+
+476
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+       Sedeño (2007) define que las principales investigaciones en torno al valor educativo
+de los videojuegos concluyen que estos contribuyen a la enseñanza desde dos grandes
+campos que son la dimensión socio-afectiva y la dimensión totalmente educativa. La
+primera se explica a través de las diferentes relaciones de tipo socio afectivo que los videos
+juegos pueden desarrollar en los estudiantes, en la medida que estos interactúan y realizan
+trabajo de tipo colaborativo e integrador en torno a un mismo objetivo. La dimensión
+educativa permite desarrollar una serie de habilidades y destrezas como el desarrollo
+psicomotriz, la ejercitación de los reflejos, la solución de problemas y la capacidad para
+deducir, Sedeño (2007).
+       Otros investigadores que se han dedicado al estudio de los videojuegos y su
+influencia en el campo educativo como el grupo F9 citados por Gómez del Castillo (2007)
+aseguran que las potencialidades de los video juegos en el campo educativo pueden ir desde
+la memorización de hechos hasta la planificación de estrategias y la resolución de
+problemas, así como el desarrollo del pensamiento inductivo, el manejo del espacio, la
+percepción geográfica y el conocimiento de temas históricos.
+       De lo anterior se puede deducir que la inmersión de los video juegos en el campo
+educativo ofrece amplias y diferentes perspectivas, para la realización de un cambio de
+concepción en la enseñanza al interior del salón de clase, en la que se involucran una serie
+de beneficios de tipo socio afectivo y cognitivo que podrían cambiar la perspectiva de los
+procesos de enseñanza y aprendizaje en la medida que se abre un espacio al uso de las
+nuevas tecnologías y al manejo de lenguajes comunes y del interés de los estudiantes, en
+pro de un mejoramiento de la calidad educativa y una inmersión del individuo en las
+exigencias de la sociedad del conocimiento.
+
+
+Enseñanza de las Ciencias Sociales en el Instituto Técnico Industrial Piloto mediante
+el uso del video juego Empire Earth, una experiencia Significativa
+   El rápido avance de las nuevas tecnologías, la aparición de nuevas herramientas para el
+aprendizaje, el uso masivo por parte de un gran número de jóvenes alrededor del mundo de
+dispositivos móviles, conexión a internet o participación en redes sociales, pone de
+manifiesto la necesidad inmediata de integrar las TIC en los procesos de enseñanza y
+aprendizaje de nuestras escuelas, colegios y universidades. Desde esta perspectiva, los
+
+477
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+video juegos que tradicionalmente han sido usados como forma de diversión aparecen
+como una forma alternativa entretenida para el aprendizaje, teniendo como ventaja el alto
+grado de aceptabilidad en niños, jóvenes y adultos. El planteamiento del problema, la
+revisión de la literatura, la metodología y los instrumentos de recolección de información
+han sido elaboradas por el autor del presente artículo, durante el primer semestre de 2011 y
+tiene como objetivo mostrar la forma como el video juego Empire Earth puede ser utilizado
+como una herramienta didáctica en los procesos de socialización del conocimiento en la
+asignatura de Ciencias Sociales con estudiantes de grado 9 del Instituto Técnico Industrial
+Piloto. Otros objetivos del proyecto son:
+   1. Identificar áreas de conocimiento en el juego Empire Earth para incluirlas en el plan
+       de estudios de Ciencias Sociales grado noveno.
+   2. Detectar y analizar los sentimientos y emociones que genera en los estudiantes la
+       socialización del conocimiento en el área de sociales en ambientes mediados por la
+       tecnología y ambientes en los que se usan medios tradicionales para el aprendizaje.
+   3. Identificar los aspectos cognitivos, motrices, interpersonales, afectivos y
+       procedimentales que se pueden desarrollar mediante el uso de los videojuegos como
+       herramienta didáctica para la enseñanza de las Ciencias Sociales.
+   Empire Earth es un juego de Estrategia en tiempo real de construcción de imperios,
+cuyo objetivo es construir imperios siguiendo una línea del tiempo que va desde la
+prehistoria hasta la edad contemporánea (tiempo real) y la edad digital y nano edad (tiempo
+de ficción). Se puede utilizar en estudiantes que cursen desde quinto grado de educación
+básica primaria hasta estudiantes de grado once de educación media. Los requisitos se
+relacionan con el interés que se pueda despertar en cuanto al conocimiento de la historia de
+la humanidad y las diferentes relaciones sociales, políticas, económicas y culturales que se
+generan al interior de la sociedad. El juego permite a los estudiantes asumir el rol de
+conquistadores siguiendo una serie de campañas históricas, desarrollando habilidades
+motrices y cognitivas que, usadas al interior del aula, pueden facilitar la comprensión de
+algunos temas del área de ciencias sociales.
+   Como recurso educativo el juego desarrolla competencias cognitivas y psicomotrices
+tales como: utilización de estrategias para la solución de problemas, lectura de imágenes,
+lectura de gráficos, competencias tecnológicas, competencias sociales, fortalecimiento del
+
+478
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+pensamiento lógico, motricidad, ubicación geográfica, creatividad, competencias sociales,
+trabajo en equipo, destreza mental, razonamiento, competencias comunicativas,
+seguimiento de instrucciones, conocimiento de otras lenguas, reconocimiento de la historia,
+afianzamiento de la memoria, manejo de TIC, manejo del tiempo y la secuencia histórica,
+reflejos y reacciones visión-acción y toma de decisiones.
+   Para el uso del video juego al interior de la clase de Ciencias sociales para grado
+noveno se ha destinado un tiempo de dos horas semanales de un total de cuatro que se
+trabajan en la institución en dicha área. Se usan un total de veinte computadores portátiles
+que son entregados uno por cada dos estudiantes.
+   El desarrollo de la actividad en cada sesión está distribuido de la siguiente forma:
+   1. Distribución de equipos (10 minutos): a cada estudiante se le hace entrega de un
+       equipo del cual se responsabiliza a lo largo del año lectivo, y que será entregado por
+       el docente y sus respectivos monitores en cada sesión.
+   2. Introducción a la sesión: (20 Minutos) En cada sesión el docente hace una
+       referencia metodológica y académica sobre la campaña o la misión, sus respectivos
+       objetivos, su relación con los temas de la clase, su contexto histórico, contexto
+       geográfico y entrega el respectivo formato para desarrollar durante y después de la
+       sesión.
+   3. Desarrollo de las campañas (80 minutos): en esta parte el estudiante desarrolla la
+       campaña y la misión sugeridas por el docente, diligencia el formato entregado
+       identificando los aspectos que se sugieren.
+   4. Entrega de equipos: 10 minutos: cada estudiante entrega de forma ordenada su
+       equipo y se dirige a su siguiente clase.
+   El juego presenta campañas reales con personajes que hicieron parte de la historia del
+mundo, lo que facilita el manejo de temas en el área, en la medida que los estudiantes
+asumen el rol de los principales protagonistas históricos; contextualizando los lugares en
+los cuales se llevaron a cabo los diferentes acontecimientos y conociendo de cerca la vida
+de cada uno de los personajes que asumen. Ofrece múltiples acciones de integración ya que
+se pueden realizar partidas multijugador con personas de cualquier parte del mundo siempre
+y cuando se halla adquirido una licencia para ello y se tenga conexión a internet. De igual
+forma se puede jugar partidas entre jugadores cuando los computadores se hallan
+
+479
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+conectados a una misma red de trabajo en modo mapa aleatorio. Las características del
+juego permiten que se desarrolle de forma sencilla, con una fácil instalación, no requiere
+CD de inicio. Juego desarrollado por SIERRA Tamaño: 1,50 KB (1538 bytes) Tamaño en
+Disco 4,00 KB (4096 Bytes).
+
+
+Resultados
+       La implementación del proyecto ha generado en los estudiantes un alto grado de
+interés y motivación por la clase de ciencias sociales, debido al hecho de abandonar el salón
+de clase, trabajar en un espacio distinto, implementar el uso de las nuevas tecnologías en la
+enseñanza para la explicación de las temáticas y el desarrollo de las clases es el caso del
+video beam y los computadores en los que se instaló el juego. La motivación general genera
+un alto grado de participación y actitudes respetuosas de trabajo colaborativo, así como
+competencias socializadoras durante el tiempo en que se ha desarrollado.
+       La aplicación inicial de una encuesta a los padres de familia corroboró los
+resultados encontrados por Etxeberría (2006), en cuanto a los temas que preocupan a los
+adultos y padres de familia sobre el uso de los videojuegos tales como la adicción, la
+violencia y la sociabilidad, se evidencian de forma clara en las respuestas entregadas por
+sesenta y siete padres de familia, de igual número de estudiantes, que aplicaron la encuesta.
+Es generalizada la opinión que se tiene con respecto al uso de los videojuegos y la mayoría
+la categorizaron como regular o mala, solo doce padres afirmaron tener una visión positiva
+de estos elementos. Este resultado tuvo algunas implicaciones al inicio del proyecto en la
+medida que algunos padres mostraron preocupación pues consideraban que el proyecto era
+una forma de perder el tiempo, incluso hubo la necesidad de explicar detalladamente en
+reunión de entrega de informes académicos la forma como se estaba aplicando, haciéndoles
+ver los objetivos y metas que se buscaban, además de las posibles ventajas que el proyecto
+podría generar en aspectos de tipo cognitivo y actitudinal en sus hijos.
+       Para algunos padres de familia (cuarenta y seis en total) los videojuegos generan
+actitudes agresivas en sus hijos ya que según algunas observaciones colocadas en las
+encuestas: “los niños tienden a reproducir las conductas agresivas y la violencia de los
+videojuegos en su vida cotidiana” (ver anexo 1).
+
+
+480
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+       Un menor número (veintiuno) consideran que estos no influyen en las conductas de
+sus hijos “siempre y cuando tengan un correcto acompañamiento por parte de un adulto”
+(ver anexo 1). De igual forma y frente al tema de la adicción la gran mayoría de los padres
+de familia afirman que efectivamente los videojuegos generan adicción en sus hijos y que:
+“los distraen de otras actividades, los alejan de sus responsabilidades escolares y no traen
+nada bueno para ellos” (ver anexo 1). Esta preocupación es sumada a aquella por la cual los
+jóvenes permanecen durante mucho tiempo al frente de las pantallas del televisor o el
+computador y tienden a tornarse solitarios y se aíslan de su familia y amigos.
+       Sin embargo y a pesar de sus preocupaciones los padres coincidieron en afirmar
+que: “los videojuegos pueden ser un instrumento fundamental para el aprendizaje en las
+aulas siempre y cuando lleve un seguimiento por parte de los docentes y un continuo
+acompañamiento de los padres de familia” (ver anexo 1).
+       La encuesta para docentes se realizó el 23 de Junio de 2011 día en el que el proyecto
+fue socializado en el Instituto técnico Industrial Piloto y tuvo como finalidad conocer la
+percepción que tienen los docentes con respecto al uso de los videos juegos en el aula de
+clase. Se realizaron tres preguntas que tenían que ver con las percepciones negativas que
+tienen algunas personas frente al uso de los video juegos, tal es el caso de la primera
+pregunta que indagaba por el posible aislamiento que pueden generar los video juegos.
+Ante este interrogante de los veinte cinco docentes encuestados trece afirmaron que
+definitivamente los video juegos si generan aislamiento mientras que doce contestaron que
+no. Estos resultados muestran opciones divididas frente al interrogante, se puede notar que
+algunas de las creencias que se tienen sobre el tema permanecen arraigadas en algunos
+docentes, tal vez por el desconocimiento que se tiene frente al tema.
+       Con respecto al tema de la violencia en los videos juegos y la posible influencia que
+estos pueden ejercer en las personas que los usan nueve docentes respondieron de forma
+positiva, mientras que diez y seis respondieron negativamente. De estas respuestas se puede
+deducir que algunos docentes entre ellos Pedro Gómez piensan que la violencia en los
+jóvenes: “depende de otras variables como la composición familiar, la educación recibida
+en casa, el trato que se da a los hijos en el hogar y el entorno en que se desenvuelven los
+estudiantes”. Marcela Rodríguez docente de Ciencias naturales en grado sexto opinó frente
+al tema que: “la Violencia en la televisión y los video juegos es una representación de la
+
+481
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+realidad que vive la sociedad, que no debe ocultarse y que debe ser vista de una forma
+crítica, que al igual que los video juegos los periódicos, la radio y las noticias tienen como
+tema recurrente el tema de la violencia y que a estos no se les entrega ninguna
+responsabilidad por ello”. (E. Rojas, comunicación personal, 23 de junio de 2011).
+       Por último se aplicó una encuesta a los estudiantes al final de las sesiones planeadas,
+(ver anexo 2) que buscaba reunir las impresiones que el proyecto había dejado en ellos en
+cuanto a los niveles de aprendizaje, niveles de pertinencia, interés, aplicación y motivación
+que el proyecto generó en ellos.
+       A la primera pregunta planteada la mayoría de los estudiantes respondieron que el
+uso de del video juego Empire Earth había contribuido en gran manera en el aprendizaje en
+el área de ciencias sociales, Añadiendo en algunas entrevistas que: “era una manera
+divertida y novedosa de aprender, y que las temáticas habían quedado más claras” (Ver
+anexo 2)
+       De igual forma en la segunda pregunta la mayoría de estudiantes afirmó que los
+video juegos despertaron su interés por el estudio del área en especial de la historia, algunos
+afirmaron que: “creíamos que la historia era aburridora, pero era por la forma en que no la
+enseñaban, ahora entendemos las consecuencias de las guerras, del territorio y de las
+relaciones políticas. Todo ello gracias a la forma divertida de aprender, además uno se
+vuelve parte de la historia y la puede modificar a su antojo”. (Ver anexo 2). La mayoría de
+ellos también coincidió en afirmar que sería bueno que el proyecto se ampliara a los demás
+cursos, para que hubiera continuidad y no tuvieran que esperar solo hasta noveno para
+aprender y pasarla bien.
+       El trabajo de análisis del juego por parte del docente estableció que Empire Earth
+permite desarrollar múltiples competencias de tipo cognitivo, psicomotrices, actitudinales y
+procedimentales y que desarrolla una serie de destrezas y habilidades mentales que los
+jóvenes necesitan en su vida diaria. Tales como el uso de estrategias para solucionar
+problemas, la lectura de gráficos e imágenes, el desarrollo de competencias lógicas,
+tecnológicas, sociales, de creatividad, seguimiento de instrucciones, conocimiento de otras
+lenguas, reconocimiento de la historia, lateralidad, manejo de tiempo y la secuencia
+histórica, ubicación geográfica, manejo de reflejos acción reacción. Además llevó a que el
+investigador tuviera que jugar Empire Earth y previamente al desarrollo del proyecto
+
+482
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+conociera las campañas, las características técnicas del juego, sus temáticas, movimientos y
+manejo del mismo.
+       El hecho de realizar una planeación en la tabla de trabajo por sesión, además de dar
+una organización y coherencia al trabajo permitió que el docente estableciera las diferentes
+competencias que deseaba explorar en los estudiantes, tales como las competencias
+comunicativas, interpretativas, de pensamiento lógico, creatividad, tecnológicas, lectoras y
+de interpretación de imágenes y gráficos. La tabla dio un norte al trabajo de investigación y
+facilitó la aplicación de los demás instrumentos estableciendo tiempos, temáticas y
+actividades.
+       Gracias al uso de la ficha de análisis del videojuego por misión, cuya
+responsabilidad era de los estudiantes se permitió establecer que los contenidos temáticos
+vistos en clase fueron fácilmente interiorizados y que el uso del juego para contextualizar
+los hechos con imágenes, narraciones y misiones, determinó un avance positivo en el
+aprendizaje del área ya que debían leer, investigar y aplicar los conocimientos en el juego.
+       La observación directa permitió que el docente describiera de forma efectiva
+algunos elementos que en las encuestas o entrevistas no se podían tener en cuenta, es el
+caso de los niveles de emotividad, participación, disposición para el trabajo, avances en las
+misiones, el cumplimiento de objetivos. Gracias a ella se pudo establecer que
+definitivamente los estudiantes estuvieron muy motivados por la clase mientras que se
+aplicó el proyecto, que si bien en algún momento las mujeres se mostraron un poco
+desinteresadas por el juego, al final y una vez que entendieron los objetivos y movimientos
+terminaron igual de motivadas que los estudiantes varones. Se pudo establecer también que
+el uso de esta herramienta cambia de manera definitiva el comportamiento en la clase que
+normalmente era tedioso y de poca disposición para la participación y el aprendizaje, se
+generaron conductas como la puntualidad, la responsabilidad, la atención y el
+cumplimiento.
+
+
+Conclusiones
+       Se puede apreciar que la mayoría de padres de familia no tienen una visión positiva
+de los video juegos como herramienta en el campo de la educación, ya que por diversos
+imaginarios estos asocian este tipo de tecnología con actitudes negativas como el
+
+483
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+aislamiento y la violencia, sin embargo no cierran la opción a su uso en el campo educativo
+siempre y cuando se manejen tiempos prudentes de permanencia y cuenten tanto en la
+escuela como en la casa de un seguimiento estricto por parte de los padres y docentes.
+       El hecho de tener en cuenta el punto de vista de los docentes fue fundamental para
+la investigación y contribuyó de forma efectiva en el desarrollo del ejercicio investigativo.
+Los aportes de los colegas permitieron realizar un alto en el camino y reflexionar sobre
+algunos aspectos que inicialmente no se habían tenido en cuenta y que definitivamente
+terminaron siendo imprescindibles para la investigación. Gracias a la entrevista se pudo
+realizar una categorización de las preguntas desde la perspectiva de aprendizaje,
+habilidades e implementación y uso. Las respuestas evidenciaron que para los maestros el
+uso de las nuevas tecnologías es indispensable en el aula de clase y que los videojuegos al
+ser un elemento usado cotidianamente por los estudiantes permiten que estos se acerquen al
+conocimiento de una forma fácil y divertida.
+       También coincidieron en afirmar que los videojuegos desarrollan múltiples
+competencias que en una clase normal son difíciles de lograr, tales como el pensamiento
+lógico, el desarrollo de la creatividad, la capacidad de solucionar problemas, así como el
+análisis y la observación. De igual forma algunos docentes expresaron su inconformidad y
+malestar frente al tema pues consideraron que las tecnologías son nocivas y tienden a
+reemplazar el trabajo del maestro en el aula. Esta afirmación es producto del temor que
+genera la tecnología en algunos profesores, de la aversión a la inclusión de nuevas
+tecnologías en el aula, como producto de una concepción clásica de la enseñanza cuyos
+postulados se basan en el aprendizaje rígido y memorístico de temáticas, que dejan de lado
+las capacidades que se pueden explorar y desarrollar en los estudiantes como entes activos
+del proceso de enseñanza y aprendizaje.
+       La encuesta final de los estudiantes arrojó como resultado que estos estuvieron muy
+motivados durante el desarrollo del proyecto y que este amplió de forma significativa su
+conocimiento en el área, que se convirtió en una forma alternativa, novedosa y divertida de
+aprender, que debería ser aplicado en los demás cursos, y que los estudiantes se interesaran
+por temas que antes apenas si eran tenidos en cuenta.
+       Frente a la pregunta de investigación planteada al inicio y al objetivo general ¿En
+qué forma contribuye el uso de los videojuegos (Empire Earth) en la socialización del
+
+484
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+conocimiento en el área de Ciencias Sociales en estudiantes que cursan grado 9 en el
+Instituto Técnico Industrial Piloto en la ciudad de Bogotá durante el año 2011?. Se puede
+concluir que el uso de video juegos potencializa el aprendizaje, genera motivación e interés
+por la asignatura, desarrolla competencias de tipo cognitivo, actitudinal y procedimental y
+que se convierte en una forma innovadora de socializar el conocimiento del área. Que si
+bien es cierto se presentan una serie de debilidades como la participación activa de los
+padres, la sobreestimación del uso del computador y la tecnología y el abandono de la
+lectura, son más los aspectos positivos y las fortalezas que muestra el proyecto como:
+              Desarrolla las habilidades tecnológicas.
+              Desarrolla el sentido común, la lógica.
+              El estudiante se hace partícipe y generador de su propio conocimiento
+              Se pueden enfocar desde el campo de los valores.
+              Amplia el conocimiento y la visión del mundo.
+              Fomentan la creatividad.
+              Posee buena didáctica.
+              El juego está ligado de forma directa con la enseñanza de la historia.
+            Permite explicar visualmente elementos de la historia y geografía.
+            Es una manera práctica, real divertida, dinámica para el aprendizaje.
+           Los objetivos específicos se cumplieron en la medida que el docente logró
+       incluir las temáticas vistas en el área con los temas tratados en el video juego y
+       construir una ficha de trabajo por sesión que contribuyó en la correcta aplicación del
+       plan de estudios en el grado noveno en el que se aplicó la investigación. La tabla de
+       observación directa permitió identificar los sentimientos emociones y destrezas de
+       los estudiantes a lo largo del proceso de investigación y gracias a las encuestas, al
+       trabajo en clase y al apoyo de los docentes se permitió establecer los distintos
+       aspectos cognitivos, motrices y procedimentales que desarrollo el uso del video
+       Juego Empire Earth en la clase de Ciencias Sociales y sembrar una semilla que al
+       germinar sirva de ejemplo para muchos docentes e instituciones, interesados en
+       hacer de los procesos de enseñanza en las aulas laboratorios en los que la
+
+
+
+485
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+      innovación y la motivación, se conviertan en el principal medio para hacer que el
+      estudiante se enamore y se motive por el conocimiento.
+
+
+
+
+486
+  Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+ANEXO 1
+Análisis de las encuestas (padres)
+        La primera encuesta aplicada a padres de familia arrojó los siguientes resultados:
+                                    Total de encuestados 67
+
+
+       Pregunta                 Opción 1             Opción 2                Opción 3
+   Pregunta No 1         Buena       12         Regular        46        Mala           9
+ ¿Qué opinión tiene
+ usted de los video
+        juegos?
+   Pregunta No 2           Si             46       No          21
+¿Cree usted que los
+video juegos pueden
+ generar conductas
+  agresivas en sus
+         hijos?
+   Pregunta No 3           Si             62       No           5
+ ¿Considera que los
+ video juegos crean
+   adicción en las
+       personas?
+   Pregunta No 4           Si             49       No          18
+ ¿Considera usted
+que el uso constante
+de los video juegos
+      hace que las
+personas se vuelvan
+aisladas y solitarias?
+   Pregunta No 5           Si             50       No          17
+
+
+487
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+¿Cree usted que los
+  video juegos se
+ pueden usar como
+  herramientas de
+  aprendizaje en el
+      colegio?
+   Pregunta No 6            Si        47          No          20
+¿Cree usted que los
+video juegos pueden
+  potencializar el
+desarrollo mental de
+      sus hijos?
+   Pregunta No 7            Si        50          No          17
+ ¿Su hijo tiene una
+consola o juego para
+  computador e su
+        casa?
+   Pregunta No 8            Si        12          No          55
+ ¿Ha jugado algún
+ video juego con su
+      hijo (a))?
+
+
+
+
+Encuesta realizada a estudiantes
+Resultados pregunta No 1.
+Total de encuestados 110.
+¿Considera usted que el uso de los video juegos en clase de ciencias sociales durante el
+último año:
+
+
+
+
+488
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+                                                         a. Contribuyó de
+                                                         manera significativa
+                                                         en los aprendizajes
+                                                         del área.
+
+
+
+                                                         b. No contribuyó de
+                                                         forma significativa en
+                                                         la ampliación de
+                                                         conocimientos en el
+                                                         área.
+
+
+                                                         c. La contribución al
+                                                         conocimiento del área
+                                                         fue mínima.
+
+
+
+
+Análisis de la pregunta No 1
+       Las respuestas entregadas por los 110 estudiantes encuestados deja ver que la gran
+mayoría de ellos afirmaron que la implementación del proyecto contribuyo de manera
+significativa en los aprendizajes del área de Ciencias Sociales, algunos estudiantes
+afirmaban que “es mucho más motivante, que a veces la historia y la geografía tienden a ser
+aburridoras y que con el proyecto si daban ganas de entrar a clase”. Es interesante analizar
+que un porcentaje mínimo afirmo que el proyecto no contribuyo de manera significativa en
+el aprendizaje, pues para ellos: “El proyecto no llamaba su atención pues los videojuegos
+no les llamaban no eran de su interés”.
+
+
+Resultados pregunta No 2
+Total de encuestados 110.
+       2. El uso de los videojuegos en clase de ciencias sociales permitió que usted:
+
+
+
+
+489
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+                                                        a. Tomará mayor
+                                                        interés por el área.
+
+
+
+
+                                                        desinteresara
+                                                        totalmente por los
+                                                        temas que
+                                                        normalmente se
+                                                        imparten en el área.
+
+                                                        c. Se interesara
+                                                        apenas un poco por
+                                                        los temas que se
+                                                        trabajan en el área.
+
+
+
+
+Análisis de la pregunta No 2
+       Un alto porcentaje de los estudiantes coincidió en afirmar que la implementación
+del proyecto permitió que se interesaran más por las temáticas del área que antes era
+aburrida y monótona. En esta pregunta se puede notar que el porcentaje de alumnos que no
+tuvieron interés por el proyecto coincide con la pregunta anterior, aunque algunos de ellos
+afirman que hubo algo de interés por los temas que se trabajan al interior de la asignatura
+de Ciencias Sociales.
+
+
+Resultados pregunta No 3
+
+
+
+
+490
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+                             1. Cree que con los videojuegos en clase:
+
+
+
+                                                            a. Se aprende
+                                                            más y de forma
+                                                            más divertida.
+
+
+
+
+                                                            b. Solamente se
+                                                            pierde el tiempo
+                                                            y no se aprende
+                                                            nada.
+
+
+
+
+                                               2.
+Análisis de la pregunta No 3
+        El análisis de las respuestas dadas a estas preguntas confirma que uno de los puntos
+fundamentales durante el desarrollo del proyecto fue la forma diferente y divertida en que
+los estudiantes adquirían el aprendizaje de las temáticas del área. De allí que un alto
+porcentaje coincidió en afirmar que se aprende mucho, que hay motivación y que es
+divertido asistir a clase.
+
+
+Resultados pregunta No 4
+    3. Cree usted que si el proyecto se aplicara a todos los cursos de la institución los
+        resultados serian.
+
+
+
+
+491
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+                                                         a. Positivos.
+
+
+
+                                                         b. Negativos.
+
+
+
+                                                         c. Que es mejor
+                                                         solo en el nivel de
+                                                         9 grado.
+
+
+
+
+Análisis de la pregunta No 4
+       Los resultados demuestran que los estudiantes consideran conveniente que el
+proyecto se realice en los demás cursos de la institución incluso algunos afirmaron que
+“ojala se implementara en todas las materias y todos los profesores se dieran cuenta que
+para aprender hay que divertirse y encontrar la forma de hacer más bacanas las clases”.
+
+
+Resultados pregunta No 5
+   4. Considera usted que el aprender ciencias sociales usando videojuegos hace que el
+       aprendizaje sea:
+
+
+
+                                                         a. Divertido y
+                                                         emotivo.
+
+
+                                                         b. Aburridor.
+
+
+
+                                                         c. Es normal
+                                                         como en
+                                                         cualquier clase.
+
+
+
+
+492
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+Análisis de la pregunta No 5
+       Esta última pregunta reafirma que la diversión y la emotividad fueron factores
+fundamentales en el desarrollo del proyecto, aunque algunos afirmaron que el aprendizaje
+es normal e incluso aburridor. Los estudiantes son conscientes del cambio didáctico que
+implica el hecho de usar técnicas innovadores en el aula y la forma como influyen en su
+proceso de aprendizaje.
+
+
+Referencias
+   1. Bernat C., Antonia. (2006). Los videojuegos, acceso directo a las nuevas
+       tecnologías. En Revista comunicación y pedagogía, No. 216. Extraído el 25 de
+       Febrero de 2011, de http://www.xtec.cat/~abernat/articles/bernat-II.pdf
+   2. Berrios R, Buxarais M. Las tecnologías de la información la comunicación (TIC) y
+       los adolescentes. Algunos datos. OEI, Monografías virtuales, Ciudadanía,
+       democracia valores en sociedades plurales. No 5 mayo de 2005. Extraído el 4 de
+       Abril de 2011 en:
+       http://www.oei.es/valores2/monografias/monografia05/reflexion05.htm
+   3. Cárdenas, J. (2005). El video juego competencia tecnológica al alcance de todos.
+       Revista comunicación y pedagogía, No 208. Extraído el 4 de Marzo de 2011 de
+       http://www.xtec.net/~abernat/articles/cardenas.pdf
+   4. Etxeberría, Felix. (2006). Videojuegos y educación. Editorial Red Comunicar.
+       Versión electrónica disponible en
+       http://site.ebrary.com/lib/uvirtualeducacionsp/docDetail.action?docID=10149062&
+       p00=videojuego
+   5. Gómez del Castillo, M. (2007). Video juegos y transmisión de valores. Revista
+       Iberoamericana de Educación. Volumen 46, No 6 2007. Extraído el 4 de Marzo de
+       2011 en http://www.rieoei.org/deloslectores/1909Castillo.pdf.
+   6. Gómez S, Mena E, Turci I (2006). El fenómeno de los video juegos, sus efectos. En
+       Serie Informes, Video juegos y Educacion. Extraido el 420 de Abril de 2011. En:
+       http://ares.cnice.mec.es/informes/02/documentos/iv04_0401a.htm
+
+
+493
+   Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+  7. Gonzales C, Blanco F. Emociones con videojuegos: incrementando la motivación
+      para el aprendizaje. En: revista Electrónica Teoría de la Educación. Vol. 9, No 3,
+      noviembre de 2008. Versión electrónica disponible en:
+      http://campus.usal.es/~teoriaeducacion/rev_numero_09_03/n9_03_gonzalez_blanco
+      .pdf
+  8. Grupo F 9 "Aprovechamiento didáctico de los juegos de ordenador en la escuela
+      primaria    y   en    eso".   Extraído     el   4    de    marzo    de    2011       en:
+      http://www.xtec.es/~abernat/castellano/presentacio.htm.
+  9. Fullat i GenisOctavi. (2000). Filosofía de la Educación. Capítulo 2. La reflexión
+      filosófica sobre la educación, pp. 43-70. Capítulo 4. Finalidades antropológicas de
+      la educación, pp. 97-125. Capítulo 5. Pedagogías de la esencia, pp. 127- 151.
+      Capítulo 6. Pedagogía de la existencia, pp. 153-179. Madrid, España. Síntesis, S.A.
+  10. Levis, d. (2002), Video Juegos cambios y permanencias. En Comunicación y
+      pedagogía. Barcelona Enero de 2003. Extraído el 9 de septiembre de 2010, de
+      http://diegolevis.com.ar/secciones/Articulos/Comunicacion_Pedagogia2002_v6.4.p
+      df
+  11. Lefrance, J. P. (1995). “La epidemia de los Videojuegos” Extraid el 4 de Marzo de
+      2011 en:
+      http://www.campusred.net/TELOS/anteriores/num_042/inves_experiencias0.html
+  12. Marcano, B. (2006). Estimulación emocional de los videojuegos: Efectos en el
+      Aprendizaje. Extraído el 5 de Marzo de 2011de:
+      http://campus.usal.es/~teoriaeducacion/rev_numero_07_02/n7_02_beatriz_marcano
+      .pdf
+  13. Marques, P. (1999) La tecnología Educativa, Conceptualización, líneas de
+      investigación. En: http://peremarques.pangea.org/tec.htm
+  14. Padilla Z., Natalia, José Luis González Sánchez, Francisco L. Gutiérrez, Marcelino
+      J. Cabrera y Patricia Paderewski. (Agosto 2009). Diseño de videojuegos
+      colaborativos y educativos centrados en la jugabilidad. IEEE-RITA Vol. 4, Núm. 3.
+      Extraído el 25 de Febrero de 2011, de
+      http://romulo.det.uvigo.es/revista/RITA/site/200908/uploads/IEEE-
+      RITA.2009.V4.N3.A4.pdf
+
+494
+  Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+  15. Pindado, J (2005). Las posibilidades educativas de los videojuegos, una revisión de
+      los estudios más significativos. Extraído el 25 de Febrero de 2011, de
+      http://www.sav.us.es/pixelbit/pixelbit/articulos/n26/n26art/art2605.htm
+  16. Revuelta, D Francisco, (2004). El poder Educativo de los juegos On Line y de los
+      videojuegos, un nuevo reto para la psicopedagogía en la sociedad de la información.
+      Extraído el 2 de Marzo de 2011, de http://web.usal.es/~fird/docs/8.pdf
+  17. Sedeño V., Ana María. (s. f.). La componente vidual del videojuego como
+      herramienta educativa. Extraído el25 de Febrero de 2011, de
+      http://www.rieoei.org/deloslectores/308sedeno.pdf
+
+
+
+
+495
+  Cambios y Permanencias, ISSN 2027-5528, Vol. 9 No. 2, julio-diciembre de 2018, pp. 472-495
+

@@ -1,0 +1,461 @@
+La cuestión fantástica en el videojuego: 
+entre la representación y la concepción propia
+Fantasiazko gaia bideojokoan: 
+irudikapenaren eta norberaren ikusmoldearen artean
+The fantastic issue in video games: 
+between representation and self-conception
+Antonio Francisco Campos Méndez*
+Universidad de Sevilla
+RESUMEN: El objetivo de este artículo trata de desentrañar la construcción de la fantasía en el medio videolúdico, con una conciencia sobre su introducción en el germen cultural. Los primeros acercamientos al (video)juego han planteado una visión separada de la realidad, entendida desde una esfera 
+propia y aislada. De tal forma, la presencia de la fantasía hace que el videojuego, a partir de sus propios mecanismos, elabore un entendimiento fantástico desde la amplitud de miras, tanto en influencias 
+como en aportaciones propias.
+PALABRAS CLAVE: videojuego; narrativa; cultura; medios de comunicación; juegos.
+ABSTRACT: The aim of this article is to figure out the fantastic construction in the videoludic medium, with 
+awareness of its introduction in the cultural seed. The first approaches to the (video)game have considered a separated vision of reality, understood from its own and isolated sphere. In that way, fantasy presence makes the videogame, from its own mechanisms, to develop a fantastic understanding with open-mindedness, both influences and its 
+own contributions.
+KEYWORDS: video game; narrative; culture; media; games.
+* Correspondencia a / Corresponding author: Antonio Francisco Campos Méndez. Facultad de Comunicación de la Universidad de Sevilla, 
+Calle Américo Vespucio, 27 41092-Sevilla) – antcammen@alum.us.es – https://orcid.org/0000-0003-4974-680X
+Cómo citar / How to cite: Campos Méndez, Antonio Francisco (2021). «La cuestión fantástica en el videojuego: entre la representación y la 
+concepción propia», Zer, 26(51), 163-180. (https://doi.org/10.1387/zer.22536).
+Recibido: 11 febrero, 2021; aceptado: 25 junio, 2021.
+ISSN 1137-1102 - eISSN 1989-631X / © 2021 UPV/EHU
+ Esta obra está bajo una Licencia 
+Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional
+Zer, 2021, 26(51) 163-180 eISSN 1137-1102
+https://doi.org/10.1387/zer.22536 eISSN 1989-631X
+ZER 51 (2021).indd 163 ER 51 (2021).indd 163 22/11/21 16:30:52 2/11/21 16:30:52
+164 Zer 26-51 (2021), 163-180
+Antonio Francisco Campos Méndez
+Introducción
+El videojuego, como parte intrínseca de la cultura masificada actual, ha prestado importante atención a la misma construcción idealista del ser humano. Es menester observar como la misma existencia del medio videolúdico queda supeditada a 
+la acción del jugador, es decir, del ser humano, al realizar la actividad de jugar. Sin 
+este hecho activo, el juego, sencillamente, no es, pues necesita de esa retroalimentación en el proceso comunicativo. En mayor o menor medida, el videojuego alude al 
+jugador, haciéndole partícipe de la expresión y favoreciendo su inmersión para inmiscuirle en una esfera propia que le permita substraerse del exterior. Los elementos 
+acaban siendo reconocibles a partir de la interacción y la repetición, de manera que 
+no se requiere explícitamente de un primer vistazo para establecer una familiaridad.
+Prestando atención al motivo que ocupa esta investigación, se presenta la cuestión de la construcción fantástica. La fantasía ha formado parte de la misma representación humana, entendida desde diversas perspectivas, que han permitido elaborar 
+una imagen individual y colectiva de la cultura. De tal forma, distintas artes han establecido la fantasía como parte de su imaginario, introduciéndose como un género 
+narrativo propio. Multitud de obras se entroncan dentro de esta consideración basándose en una serie de constructos populares a nivel social.
+Siguiendo este hilo, cabe plantear la siguiente cuestión que concierne al artículo presentado: ¿cómo se desarrollan las grandes obras fantásticas en el videojuego? 
+Considerando la base comunicativa del medio ludoficcional, su relación con el público es completamente diferente en gran medida. Aun con la influencia de diversos 
+medios, el videojuego plantea en su interior una diferenciación considerable que se 
+sustenta a partir de sus primeros acercamientos como pura actividad lúdica, sin consideración del componente narrativo, al menos, con suficiente desarrollo. En la actualidad, jugar posee numerosas implicaciones según lo planteado por lo que, tanto 
+su desarrollo como su conclusión, pueden tener diversidad de significados. Sin embargo, a partir de las reglas es posible estructurar la experiencia jugable en cualquier 
+ámbito considerado, permitiendo que el juego se haga evidente.
+1. Marco teórico
+1.1. El videojuego como forma de representación y simulación
+Antes de proceder a la cuestión del ámbito hipertextual, es conveniente observar la aplicación del juego como parte de la realidad. En tal forma, Huizinga plantea en Homo Ludens (1972), un acercamiento sobre la capacidad intrínseca del videojuego de absorber completamente al jugador del mundo corriente (1972: 33), 
+creando de esta forma un «círculo mágico» que incluso posee consideraciones sacraZER 51 (2021).indd 164 ER 51 (2021).indd 164 22/11/21 16:30:52 2/11/21 16:30:52
+https://doi.org/10.1387/zer.22536 165
+La cuestión fantástica en el videojuego: entre la representación y la concepción propia
+les. Es en este espacio elaborado donde funcionan las reglas propias del juego (1972: 
+42), sin poder aplicarse más allá del círculo. Esa esfera que crea el juego le da relevancia propia, apartada del mundo exterior y cotidiano, al recrear una nueva realidad propia.
+De esta forma, tenemos un ámbito propio del juego que se configura a partir 
+de unas reglas entendidas y respetadas (en principio) por sus participantes que, en relación a ello, se involucran en un entendimiento común sobre la esfera conformada 
+alrededor de la actividad jugable.
+Para Bateson (1954), muy en relación al postulado de Huizinga, el juego conforma un «caso de señales que están en lugar de otros sucesos», afirmando así una relevancia capital del juego en el avance del proceso comunicativo.» Cabe destacar la 
+idea por parte de Huizinga sobre la concepción del juego previa a la cultura y que, 
+incluso, acaba creándola desde un primer momento primitivo (1972: 13). Muy en 
+consonancia con la idea del círculo mágico, aunque observada desde una alusión a la 
+capacidad imaginativa del jugador, Bateson (1954) marca una necesidad consciente 
+sobre la existencia en el juego.
+En esa diferenciación de perspectivas que tienen como aspecto central la interpretación y aplicación por parte del receptor, Mendizábal (2004) realiza una simetría con los espejos y su capacidad reflexiva. De esta forma, se convierte en un «espacio semiósico», consistente es una «producción discursiva donde impera la realidad 
+de un segundo espacio además de una realidad segunda dados por lo imaginario y 
+lo simbólico» (2004: 48). En este aspecto, Mendizábal alude una cierta capacidad de 
+realidad al juego, estableciéndose como un apartado propio. Sin embargo, cabe destacar esa mención de una «segunda realidad», con plena consciencia sobre el mundo 
+inicial o «real» que, paradójicamente, acaba sirviendo como base para la conceptualización del videojuego, medio refundador gracias a «lo hipertextual y lo multimedial» 
+(2004: 47). Es aquí donde el postulado de Huizinga comienza a encontrar problemas 
+con la realidad.
+No obstante, sigue habiendo reafirmaciones del círculo mágico y la capacidad 
+creadora del (video)juego como un mundo alterno a la realidad. Jesper Juul (2008) 
+diferenciaba tres perspectivas en el análisis del círculo mágico, supeditadas a la consideración realizada por el jugador en una determinada situación. De esta forma, el 
+círculo mágico puede ser una, dos o todas esas perspectivas, según la experiencia extraída por el jugador. Para Juul (2008), estas consideraciones no se contraponen para 
+negar el círculo mágico, sino que lo matizan y demuestran en qué consiste. Pero esta 
+visión sigue dejando de lado aspectos intrínsecos de la misma definición del círculo 
+mágico. Para Huizinga (1972), la verdadera importancia del juego residía en ese círculo mágico, alejado de cualquier forma del exterior y sin afección alguna. Esta última apreciación entraña una dificultad de afirmación, en tanto que el videojuego 
+ZER 51 (2021).indd 165 ER 51 (2021).indd 165 22/11/21 16:30:52 2/11/21 16:30:52
+166 Zer 26-51 (2021), 163-180
+Antonio Francisco Campos Méndez
+requiere de tiempo real en su empleo que, en consecuencia, afecta a la perspectiva 
+vital de los participantes (Egenfeldt-Nielsen, Heide Smith, Tosca, 2015: 34-35).
+Entrando a considerar el propio desempeño del videojuego con la realidad, encontramos acercamientos muy interesantes. Para Collantes (2013), existen dos tipos 
+de juegos según su realidad: juegos que aluden a la realidad en sí misma, denominados juegos compactación y juegos que representan una realidad, nombrados como 
+juegos representación (2013: 25). Los primeros permiten observar una nueva realidad, elaborando una perspectiva narrativa propia que empieza y acaba en el mismo 
+ámbito de juego (2013: 27). Por su parte, los juegos representación se estructuran en 
+una doble vertiente, consistente en las reglas sobre aquella realidad que representa y 
+las mismas reglas del componente lúdico (2013: 29).
+No obstante, Collantes también otorga una importancia crucial a la observación 
+de la (no) realidad del videojuego según la visión de un autor que incluso predispone 
+las opciones de las que goza el jugador (2013: 34). De entre todas estas opciones, se 
+establece la conclusión obtenida de la experiencia. Para Huizinga, la verdadera relevancia de lo ocurrido queda dentro de la esfera y para aquellos que han sido partícipes en ese mismo espacio (1972: 86), aunque la verdadera recompensa se encuentre fuera, en el mundo cotidiano. En palabras del mismo Huizinga, «no se juega por 
+ella, pero si se trabaja por ella» (1972: 88). Sin embargo, en esta misma definición, se 
+encuentra una contradicción al entender que la realidad efectivamente sí posee consideración en la esfera jugable, al ser contenedora de la recompensa y/o experiencia 
+obtenida.
+Collantes (2013) opta por dar preferencia a la misma actividad de juego por encima de la conclusión en sí:
+La perspectiva lúdica supone la comprensión del acontecimiento a partir 
+de un esquema narrativo según el cual dicha actividad está encapsulada. Se 
+trata de una perspectiva en la que las consecuencias del resultado del juego 
+se dejan en suspenso, pues lo importante es el propio desarrollo del juego, 
+las jugadas que se hacen, la pericia y habilidad de los jugadores, las alternativas en la marcha del resultado e incluso el propio resultado final, pero lo que 
+ocurre a partir de ese punto ya no forma parte del juego ni de la narración 
+que define. (2013: 41)
+1.2. La fantasía: mitología, mundos y juego
+Con este planteamiento sobre la idea de juego, es momento de regresar a la 
+cuestión de la fantasía. Uno de los primeros acercamientos, esencial en la posterior 
+expansión de los estudios sobre la fantasía, es el postulado sobre la creación de lo 
+ZER 51 (2021).indd 166 ER 51 (2021).indd 166 22/11/21 16:30:52 2/11/21 16:30:52
+https://doi.org/10.1387/zer.22536 167
+La cuestión fantástica en el videojuego: entre la representación y la concepción propia
+fantástico establecida por Todorov (1982). Para el lingüista, existen distintos fenómenos que marcan la idea fantástica en un relato según los hechos presentados. Por 
+un lado, se encuentra la presencia de lo misterioso, sustentado sobre acontecimientos 
+que limitan con lo asumible, pero explicable dentro del ámbito terrenal. En el otro 
+extremo se encuentra la presencia de lo sobrenatural, aquello que claramente supera 
+los límites de lo explicable según los criterios terrenales. Justo en medio de esas dos 
+concepciones se encontraría lo fantástico, pero no como algo evidente, sino como 
+una disyuntiva constante. Todorov (1982) establece que la resolución de esta diatriba puede llegar a quebrar lo fantástico, hacerlo algo reconocible, aunque no pueda 
+ser explicable, por lo que el mantenimiento de esa disyuntiva hasta su conclusión e 
+incluso posteriormente, es un aspecto clave (1982: 14-15).
+Muñoz (2010) se acerca a la teorización de Todorov, pero siendo mucho más 
+resolutivo en la apreciación narrativa sobre el hecho percibido como sobrenatural que «cuestiona las leyes del funcionamiento del mundo» (2010: 6-7). Como si 
+de una ampliación extensa se tratase, Roas (2009) trata la imposibilidad del fenómeno, supeditada a aquello que es inexplicable según «la concepción que tenemos 
+de lo real» (2009: 94). Tanto es así que incluso lo considera esencial para la creación 
+fantástica, siempre y cuando quede circunscrito como parte del mundo real, de tal 
+forma que lo fantástico acabe introduciéndose de forma alterada. Sin embargo, en lo 
+que respecta a la contemplación de la realidad, Castro (2016) no sólo ciñe la elaboración fantástica a una inversión de lo real, sino también al «alterar las bases de la realidad» (2016: 4).
+A este respecto, cabe destacar la influencia de la mitología en la creación fantástica. Para Bettleheim (1976), no existe una «división clara que separe el mito del 
+cuento popular o de hadas», sirviendo como principio para las «sociedades preliterarias» (1976: 29). Siguiendo en este proceso, Castro (2016) sí realiza una categorización en forma de «fundamento primigenio de la fantasía épica» (2016: 19). De aquí 
+surgen las ideas sobre dioses, héroes y mundos de nueva creación alejados del nuestro. Se plantean ciertas características asociadas a la fantasía, tanto en su estructuración 
+como en el avance y evolución conocido. Al poseer una mirada consciente hacia lo 
+real, Castro (2016) establece una marca identificativa del mundo medieval en la fantasía épica. Por extensión, existen diversos espacios que se emplean constantemente 
+en obras fantásticas, tales como los castillos o los bosques (2016: 7). Un paso más allá 
+estaría el Secondary Belief, muy en sintonía con el círculo mágico de Huizinga, consistente en un «hechizo temporal» que envuelve al receptor en el texto en cuestión 
+(Castro, 2016: 8). Este hechizo se rompe en el momento que en ese Secondary Belief, 
+la suspensión de la incredulidad se ve trastocada (Nikolajeva, 2003: 153-154).
+Para potenciar la elaboración fantástica y, por extensión, su carácter envolvente sobre el receptor, escritores como Lovecraft o Tolkien, establecieron las bases 
+del mythmaking, la creación de un mundo nuevo, con una mitología propia y aleZER 51 (2021).indd 167 ER 51 (2021).indd 167 22/11/21 16:30:52 2/11/21 16:30:52
+168 Zer 26-51 (2021), 163-180
+Antonio Francisco Campos Méndez
+jada de la conocida en nuestro mundo (Castro, 2016: 10). Donaldson (1986) denotaba la efectividad de este modelo (extendido hasta nuestros días) gracias a la propia 
+capacidad del ser humano de identificarse con ideas heroicas de amplias proporciones, pero en un ambiente sin «conexión con la realidad de quiénes somos y que 
+hacemos» (1986: 17). La creación de mundos alternos basados en nueva mitología 
+sigue muy de cerca la teoría de mundos posibles que se establece a partir del «universo del discurso», superando las barreras del mundo real y sus estructuras (Dolezel, 1998: 40).
+En relación a su aplicación en el juego, la fantasía permite el desarrollo directo 
+por parte del receptor, creando «una retórica única y una variedad transformadora» 
+(Rick, 2019: 122). Es por ello crucial entender la postura del receptor, en este caso, 
+jugador, al asumir la «existencia» de tales personas como reales dentro del «campo 
+de la simulación» (Dolezel, 1998: 27). Para Bowman (2010), el jugador se desempeña en este mundo alterno de juego a partir de la creación de un personaje como 
+«el crecimiento de una semilla» (2010: 156). Desde aquí, el jugador trata de buscar 
+que ese crecimiento le permita desarrollarse de forma libre a través de aquello que 
+quiere expresar. Esta visión, aunque pertinente en cuanto a la crucial figura que 
+desempeña el jugador, se ciñe exclusivamente en la idea de los role playing games 
+(RPG) y, más concretamente, en aquellos de mesa regidos por la figura de un master. Al llevar este planteamiento a los videojuegos, incluso en los RPG existe una 
+aplicación diferenciada, pues el jugador no siempre posee la libertad para crear un 
+personaje inicial a su gusto. De tal forma, el tratamiento fantástico cuenta con una 
+amplitud de caminos a partir de la categorización de género, una cuestión de difícil 
+resolución.
+1.3. La problemática sobre la clasificación por géneros
+La consideración tipológica del videojuego ha persistido en un constante debate sobre los criterios a seguir. En el terreno más popular, concerniente al aspecto 
+comercial, la diferenciación es más simple, sobre todo para hacer más ameno el acercamiento por parte del público. Sin embargo, al entrar en la cuestión investigadora, 
+distintas perspectivas acaban mezclándose para aportar una visión dispersa sobre la 
+condición del medio. Todo ello sin considerar el apartado puramente argumental, concerniente a la temática y narrativa dispuesta. Precisamente, este componente 
+ha tratado de circunscribirse a aspectos intrínsecos del medio, de tal forma que sirva 
+como un ente colaborativo más.
+En este artículo, se han tratado de establecer dos acercamientos a la cuestión 
+que, posteriormente, permitan una mayor eficacia en el análisis fantástico del videojuego. El primero de ellos fue realizado por Oliver Pérez Latorre desde diversos ámbitos y consideraciones del medio. Latorre (2011) establece cuatro criterios 
+ZER 51 (2021).indd 168 ER 51 (2021).indd 168 22/11/21 16:30:53 2/11/21 16:30:53
+https://doi.org/10.1387/zer.22536 169
+La cuestión fantástica en el videojuego: entre la representación y la concepción propia
+para determinar el género de los videojuegos, retroalimentándose entre ellos. Desde 
+la dialéctica asimilación/acomodación (a partir de la psicología del aprendizaje), siguiendo la estructura de juego y la finalidad del jugador implícito, hasta llegar a la 
+dominante de las mecánicas de juego (2011: 131).
+En la primera consideración, aplicando los postulados de Piaget, Latorre (2011) 
+distingue entre juegos simbólicos, alusivos a la pura imaginación, juegos de acomodación, en los que se busca la adaptación a un entorno externo, pero conocido, y 
+juegos de competición, a medio camino entra las dos tipologías anteriormente mencionadas (2011: 133). Asimismo, el investigador sitúa los videojuegos como parte de 
+los juegos competición, aunque le añade componentes asumibles con el resto de categorías. Siguiendo con las estructuras de juego, tomando como base la dualidad paidea-ludus de Caillois, realiza una distinción pertinente entre las reglas de juego y el 
+gameplay aplicado. De tal forma, es posible hablar de sistema paidea, donde las reglas 
+son mucho más flexibles, y sistema ludus, en el cual las reglas de juegos están más 
+formalizadas. A partir de aquí, se empieza a considerar la perspectiva jugable, según 
+si se presentan bucles constantes de dinámicas o el (video)juego en cuestión admite 
+diversas estrategias (2011: 135). En el siguiente apartado, el foco se centra en aquello que el videojuego requiere del jugador, en relación con el gameplay que desarrolla. Aquí, la clasificación se hace mucho más reconocible con el entorno popular del 
+medio, distinguiendo entre videojuegos de acción (victoria/derrota con un gameplay
+rígido), videojuegos de estrategia (victoria/derrota con un gameplay abierto), videojuegos de aventura (descubrimiento narrativo con un gameplay rígido), videojuegos 
+de rol (descubrimiento narrativo con un gameplay abierto), videojuegos como simulador (comprensión del sistema con un gameplay rígido) y videojuegos de simulación 
+(comprensión del sistema con un gameplay abierto). Esta categorización posee una 
+estrecha relación con la consideración en el género de los videojuegos realizada por 
+Egenfeldt-Nielsen, Heide Smith y Tosca (2015), de la que hablaremos más adelante. 
+Por último, en conjunción con lo anteriormente expuesto, Latorre se acerca a la 
+cuestión dominante en las mecánicas de juego. Para ello, utiliza componentes asimilados con el comportamiento primitivo y la asociación competitiva (agon), así como 
+sus matizaciones. De tal forma, quedan estipulaciones asociadas con la recolección, 
+la captura, la configuración o construcción y la carrera. Estas cuatro cuestiones supondrían las mecánicas predilectas en los (video)juegos y, aunque es posible clasificar 
+distintos títulos en cada una, la riqueza del medio acaba provocando retroalimentación entre todas ellas (2011: 142).
+Es aquí donde la categorización de Latorre acaba encontrando límites, al ser 
+consciente de la existencia de títulos cuya clasificación acaba presentando matices 
+de difícil aclaración. Títulos de gran amplitud como Grand Theft Auto V (Rockstar, 
+2013) o Metal Gear Solid 2 (Konami, 2001) acaban provocando una problemática en 
+la categorización por géneros, pero también asumen ese avance constante que supone el medio videolúdico (Latorre, 2011: 143).
+ZER 51 (2021).indd 169 ER 51 (2021).indd 169 22/11/21 16:30:53 2/11/21 16:30:53
+170 Zer 26-51 (2021), 163-180
+Antonio Francisco Campos Méndez
+En estas alteraciones se podría incluir la condición fantástica, en tanto que 
+acaba introduciéndose en multitud de títulos de distinta consideración sin un paradigma claro. Bien es cierto que la fantasía posee una relevante cercanía al RPG, por 
+lo que presentaría un gameplay abierto en el descubrimiento narrativo, incluso otorgando autonomía en el origen y desarrollo del avatar/jugador. Sin embargo, es posible circunscribir la fantasía en otra serie de títulos de difícil consideración, e incluso 
+dentro del RPG, sus tratamientos son dispares, poniendo incluso en cuestión la condición libre del avatar del jugador.
+Precisamente, centrando la clasificación de géneros en la figura del jugador, 
+Egenfeldt-Nielsen et al. (2015) proponen un modelo basado en los requerimientos en el jugador para poder alcanzar el objetivo propuesto por la obra en cuestión. 
+En primer lugar, se encontrarían los videojuegos de acción, necesitando de habilidades motoras que permitan la coordinación entre la visión y la respuesta táctil. Los videojuegos de aventuras, por su parte, requieren de paciencia y reflexión para poder 
+desentrañar los desafíos propuestos, comúnmente representados en forma de puzles. 
+La siguiente tipología se centra en los videojuegos de estrategia, subdivididos en estrategia en tiempo real que necesitan de acciones rápidas por parte del jugador y la 
+estrategia por turnos, con decisiones pausadas. Por último, existen también videojuegos de procesos orientados, sin un objetivo claro y que buscan la completa inmersión por parte del jugador (2015: 56-57).
+Esta clasificación, aunque interesante y contemplando con atención la figura del 
+jugador en la experiencia completa, sigue siendo excesivamente rígida. La intención 
+de circunscribir los videojuegos a categorías concisas acaba por presentarse como 
+nula, al menos en su función completa. Su utilidad demuestra los puntos de unión 
+que existen entre distintas tipologías y, una vez más, la notable riqueza del medio. 
+No obstante, tanto el apartado sobre la distinción rigidez/apertura en el gameplay de 
+Latorre como la funciones y actitudes del jugador en la experiencia, serán elementos 
+muy considerables en el análisis sobre la fantasía videolúdica.
+2. Metodología de análisis
+Una vez planteadas cuestiones pertinentes al videojuego, ya sean derivadas o 
+intrínsecas del mismo, es el momento de establecer los distintos aspectos concernientes a la construcción fantástica en el medio videolúdico que serán parte del análisis. 
+Dada la amplitud del tema planteado, la metodología empleada para este análisis trata 
+de exponer por separado tanto la propia condición fantástica, como la estructuración lúdica para, posteriormente, reunir ambas concepciones en un último apartado 
+de análisis. Para ello, se recurre en primera instancia a la construcción del mundo, 
+atendiendo a su misma concepción para con la experiencia, así como a las disposiciones establecidas en el medio según su referencialidad y/o adaptación masificada, 
+ZER 51 (2021).indd 170 ER 51 (2021).indd 170 22/11/21 16:30:53 2/11/21 16:30:53
+https://doi.org/10.1387/zer.22536 171
+La cuestión fantástica en el videojuego: entre la representación y la concepción propia
+prestando especial atención a la relación que se establece con el jugador durante el 
+proceso. Se seguirán varios de los postulados, obras y/o escenarios comunes planteados en el marco teórico, realizando una asimilación sobre su origen, así como su tratamiento en el mundo de juego. El siguiente paso será concretar las reglas de juego, 
+un apartado en el que tomará relevancia el asunto sobre el género jugable, presentando cercanías y distancias con los postulados planteados por Pérez Latorre sobre 
+este asunto. En este análisis, se han tratado de reunir diversas sensibilidades, principalmente al considerar las mecánicas y la actitud del jugador al ponerlas en prácticas 
+según las dinámicas de juego. Este elemento adquiere suma relevancia al disponer las 
+reglas de juego predilectas según los estándares entendidos para cada clasificación. Al 
+presentar tantísima riqueza dentro de los mismos géneros predilectos, es importante 
+señalar sus particularidades y las disposiciones que se establecen para el desarrollo 
+del jugador en la experiencia. Por último, este análisis se extiende a la narrativa dispuesta y la expresión derivada, donde cobra especial importancia el alcance histórico 
+del medio y su variable representación. En este apartado, la construcción fantástica 
+y su desarrollo en términos videolúdicos cobran absoluto protagonismo, erigiéndose 
+como núcleo de conjunción entre ambas disciplinas, siguiendo parte de la corriente 
+narratológica en los game studies. Del mismo, se establece una intencionalidad cuasi 
+evolutiva en lo que respecta a su afección en distintos parámetros del medio y, en 
+particular, de la construcción fantástica a partir de los dos elementos de análisis anteriormente mencionados.
+3. Análisis
+3.1. Construcción de mundo
+Prestando atención a la consideración cultural, es conveniente partir desde el 
+componente mitológico en la construcción fantástica. Esta elaboración es sumamente relevante en el circuito más popular del medio. Por ejemplo, las dos últimas entregas de la saga Assassin’s Creed, Origins (2017) y Odyssey (2018), se ambientan en una adaptación de Egipto y Grecia respectivamente (Venegas Ramos, 2018). 
+Recientemente, como parte de esta nueva recreación mediada, la última entrega de 
+la saga, Valhalla (2020), sitúa al jugador en la cultura nórdica. Estas obras se circunscriben al manejo de un personaje que va escalando en el naciente credo de los Asesinos para atacar aquellas esferas de poder que tratan de imponer su dominio sobre 
+el mundo a partir del uso de un artefacto conocido como Fruto del Edén. Tanto en 
+Origins como en Odyssey se acaba aludiendo directamente a seres y/o hechos propios 
+de la mitología de cada región. En el primero se recrean combates contra distintos 
+dioses egipcios, conocidos como Pruebas de los Dioses, algo que en el segundo se 
+amplió al enfrentamiento contra criaturas clásicas de la mitología griega, tales como 
+el Minotauro o la Gorgona.
+ZER 51 (2021).indd 171 ER 51 (2021).indd 171 22/11/21 16:30:53 2/11/21 16:30:53
+172 Zer 26-51 (2021), 163-180
+Antonio Francisco Campos Méndez
+Esto se extiende a la misma figura del personaje con respecto al mundo a su 
+alrededor. En Origins, Bayek es el asesino protagonista que va en busca de aquellos que acabaron con su hijo. Cuando finalmente acaba encontrando y asesinando a 
+cada uno de estos enemigos principales, se reproduce una cinemática en la que, una 
+vez muerto, el enemigo en cuestión tiene una conversación con Bayek. Este momento se da en una especie de limbo etéreo, como si de un paso previo a la muerte 
+espiritual se tratase, donde Bayek utiliza una pluma para acabar definitivamente con 
+su enemigo. Esta secuencia ya existía en el resto de la saga, pero en este título se amplía a una visión basada en la creencia vital y ceremonial egipcia. Por otro lado, en 
+Odyssey, el personaje controlado por el jugador, ya sea Alexios o Kassandra, al enfrentarse con el resto de enemigos, desempeña una habilidad que incluso se acaba 
+equiparándose a una dinastía proveniente de los dioses griegos. Son varios los ataques en forma de explosiones que afectan a un área amplia, todos ellos provocados 
+por la fuerza sobrehumana de su cuerpo. En cierto modo, al estar anclada a una representación reconocible del mundo, acaba derivando hacia una inspiración fantástica basada en la influencia sacramental y una persistencia mitológica reelaborada en 
+su propio universo.
+Tal y como se ha comentado anteriormente, existen obras que sirven como 
+modelo esencial para la creación de mundo en diversas disciplinas. El Señor de los 
+Anillos (J.R.R Tolkien, 1954) fue un momento cumbre para muchos autores/as que 
+elaboraron el mapa de sus obras a partir del modelo de la Tierra Media. Siguiendo 
+este planteamiento, el videojuego ha elaborado muchos de sus territorios a partir 
+de este mapeado. Sagas como The Elder Scrolls (Bethesda Softworks, 1994), Baldur’s 
+Gate (Bioware, 1998), o Dragon Age (Bioware, 2009), apuestan por una creación 
+de mundo tolkieniana, basada en la misma disposición y reconocimiento de criaturas fantásticas, elaborando disputas en las que incluso el jugador pueda ser partícipe y 
+añadiendo elementos a su recorrido heroico. No existe, por tanto, una mirada consciente al folklore y/o mitología que ha recorrido la cultura social, sino una retroalimentación de factores argumentales del género fantástico. No obstante, hay casos 
+de gran popularidad que rehúyen esta construcción, como The Witcher 3: Wild Hunt
+(CD Projekt, 2015), un videojuego que, a primera vista, parece recrear un mapa y 
+mundo claramente basados en la obra de Tolkien, pero cuyas criaturas acaban derivando la perspectiva sobre su propio espacio, aludiendo a un folklore europeo muy 
+presente en los cuentos populares.
+En esta primera aproximación, se ha tratado la visión occidental en cuanto a la 
+elaboración fantástica. Sin embargo, al dirigir la mirada al terreno oriental, las perspectivas cambian sobremanera en lo que a la construcción de mundo respecta. Siguiendo el planteamiento tolkieniano, la derivación más clara en la industria japonesa del videojuego es Dark Souls (From Sofware, 2011). La saga de From Software, 
+representada hasta el momento por tres títulos más el primer Demon’s Souls (2009) 
+(así como su remake, realizado por Bluepoint en 2020), cuenta con una ambienZER 51 (2021).indd 172 ER 51 (2021).indd 172 22/11/21 16:30:53 2/11/21 16:30:53
+https://doi.org/10.1387/zer.22536 173
+La cuestión fantástica en el videojuego: entre la representación y la concepción propia
+tación aparentemente muy cercana a la dispuesta por el autor británico, sobre todo 
+en lo que al mapeado se refiere. Pero al considerar los distintos seres que habitan el 
+mundo, tanto en forma de enemigos como de secundarios, la perspectiva cambia 
+considerablemente. Dark Souls posee una inspiración mitológica planteada desde la 
+primera cinemática, con el germen cosmogónico en el enfrentamiento entre poderosos seres y los inmortales dragones. A este respecto, se establece una alusión directa 
+a la mitología griega, con representaciones a deidades tales como Zeus y criaturas 
+clásicas como el Minotauro. Asimismo, la presencia de seres fantásticos tradicionales, 
+como los dragones, también son muy recurrentes. Sin embargo, el tratamiento otorgado por la saga es muy interesante, concerniente sobre todo a la consideración temática. Al introducir todas estas inspiraciones eminentemente europeas en una mentalidad oriental, la representación anteriormente comentada del germen mitológico 
+entra en el terreno de la decadencia. Gwyn, el personaje inspirado en la figura de 
+Zeus, es denominado con el sobrenombre de Señor de la Ceniza, un dios venido a 
+menos por la avaricia y el poder. Del mismo modo, el Minotauro clásico se ve reducido a la aparición de un enemigo final denominado Demonio de Tauro que acaba 
+siendo derrotado en las primeras instancias del juego. Incluso los dragones, criaturas 
+representadas como magnánimos en otros universos, aquí se ven reducidos a la aparición de sus cadáveres y esqueletos.
+Esto se extiende incluso a la representación de los espacios. Muchas de las zonas en estos mundos retrotraen a un imaginario fantástico clásico, con enormes castillos donde habitan grandes reyes, bosques inmensos que la vista no alcanza a discernir e importantes fortalezas para defender de los asedios. Todos estos espacios forman 
+parte del mundo de juego, pero su significación es inversa. El único gran castillo que 
+se puede encontrar en el primer Dark Souls es Anor Londo, donde precisamente habitaba Gwyn, pero en el momento de llegada del jugador no queda nadie y, de hecho, el sol que alumbra esta zona (en contraposición a la persistente oscuridad del 
+resto del mundo) es, en realidad, una farsa.
+Siguiendo con From Software, lo cierto es que la empresa japonesa ha realizado 
+otras dos obras muy en consonancia con la saga Souls como son Bloodborne (2015) y 
+Sekiro: Shadows Die Twice (2019). Estos videojuegos, caracterizados principalmente 
+por su dificultad, poseen entendimientos sobre la fantasía muy diferenciados. En 
+el primero, la ambientación victoriana se une a una inspiración lovecraftiana consistente en la cercanía del ser humano a grandes seres de poder, contenedores de conocimiento y saber sobre su propio universo. Para ello, Bloodborne se sirve de una reflexión sobre el paso entre mundos y la influencia que se ejerce en cada acción. Por 
+su parte, Sekiro se sitúa en una representación del periodo Sengoku en el Japón feudal, al que se añaden elementos fantásticos que se asumen como naturales en el universo planteado. Sekiro reúne en su mundo jugable transiciones hacia espacios etéreos ligados a una creencia trascendental, así como la transposición de tiempos a 
+partir del mismo avatar manejado, como por la presencia de diversos personajes.
+ZER 51 (2021).indd 173 ER 51 (2021).indd 173 22/11/21 16:30:53 2/11/21 16:30:53
+174 Zer 26-51 (2021), 163-180
+Antonio Francisco Campos Méndez
+No obstante, cabe comentar que estas obras son más bien una particularidad 
+dentro de las propuestas principales que aparecen desde Oriente. Siguiendo en Japón, uno de los grandes países en lo que a producción de videojuegos se refiere, 
+Square Enix se ha erigido como una gran compañía realizando importantes sagas representativas tanto de la fantasía en el videojuego como del género RPG. Son varias las sagas que se podrían mencionar, pero entre ellas destacan tres que, aun a día 
+de hoy, siguen teniendo un importante calado en el medio como son Dragon Quest 
+(1986), Final Fantasy (1987), y Kingdom Hearts (2002). En la primera saga mencionada, la propuesta se centra en una visión medieval de caballeros y grandes castillos, 
+donde la fantasía se introduce de forma natural, al reconocerse criaturas muy particulares como parte de un bestiario propio en este mundo. El aspecto del mundo, así 
+como de los seres que lo habitan, lejos de ser intimidante, trata de aportar una cierta 
+relajación cómica. Final Fantasy ha seguido una paulatina evolución en la construcción de su mundo, desde una mirada a los cuentos tradicionales basados en una representación medieval fundida con componentes mágicos, hacia la incorporación de 
+la industrialización. En cierto modo, trata de configurar un mundo reconocible en el 
+que los componentes fantásticos puedan introducirse más como parte de la ciencia y 
+tecnología de ese universo. Existen elementos tradicionales dentro de la saga, como 
+los cristales de poder que son objeto de deseo durante el relato y criaturas que forman parte de una cierta identidad, como las invocaciones abismales o los chocobos 
+(criaturas propias del universo Final Fantasy, incluso como marca referencial). Finalmente, Kingdom Hearts bien podría considerarse una mezcla de las sensibilidades de 
+las dos sagas anteriormente mencionadas. Su universo es sumamente particular, apoyado sobre las bases de una aventura desenfadada, se estructura a partir del recorrido 
+de distintos mundos que recrean películas Disney, pudiendo interaccionar con sus 
+personajes. Estos hechos están supeditados a la referencia cinematográfica dentro de 
+un conglomerado argumental bastante complejo.
+3.2. Reglas de juego
+En primer lugar, cabría hablar de la relación de la interacción que se establece 
+con el mundo de juego. Aunque, tal y como se ha comentado, la fantasía en el videojuego establece mundos alternos en los que diversas criaturas y acontecimientos 
+se estructuran como propios y naturales, lo cierto es que buena parte de su participación con el jugador se estructura a partir del enfrentamiento. Sin embargo, el tono 
+dispuesto puede manifestar unos planteamientos u otros. Tomando como ejemplo 
+la saga Dragon Quest, su colorida presentación establece un acercamiento sencillo y
+ameno por parte del jugador, incluso en los combates contra los diversos enemigos. 
+Aun con la naturalidad que dispone el videojuego fantástico, la actitud suele ser conflictiva, como si formara parte fundamental del entendimiento aventurero. No obstante, con el avance del medio, se han ido introduciendo nuevas perspectivas para 
+poder evitar la batalla. Obras como Dragon Age: Origins (Bioware, 2009), The Elder 
+ZER 51 (2021).indd 174 ER 51 (2021).indd 174 22/11/21 16:30:53 2/11/21 16:30:53
+https://doi.org/10.1387/zer.22536 175
+La cuestión fantástica en el videojuego: entre la representación y la concepción propia
+Scrolls V: Skyrim (Bethesda, 2011) o el mencionado anteriormente The Witcher 3 incluyen el enfrentamiento como parte de sus dinámicas, pero también permiten el 
+desarrollo más pacífico por parte del jugador a partir de habilidades sustentadas en el 
+diálogo.
+Se ha hecho mención de forma implícita a un género jugable esencial en el entendimiento fantástico como es el RPG. La relación del jugador con el mundo dispuesto depende en gran medida de las reglas que adopte el videojuego, algo que 
+se sustenta en la categoría que se circunscriba. Es posible delimitar esta consideración a las reglas de juego, pero incluso ahí habría una diversificación importante. El 
+RPG más tradicional (y más ligado a la perspectiva oriental) basa sus enfrentamientos en un combate por turnos. El componente estratégico juega un papel esencial a 
+este respecto, con un jugador que maneja a un grupo conformado (normalmente) a 
+su elección y estilo. En este escenario, su relación se basa en un entendimiento sobre 
+las necesidades de cada nuevo enfrentamiento, considerando las debilidades y fortalezas de cada situación. Es algo muy extendido en la saga Pokémon (Game Freak, 
+1999), cuya distinta tipología de criaturas invita a diversas interacciones, requiriendo 
+de un entendimiento dual entre dinámicas y mundo dispuesto.
+Al igual que ocurre en Pokémon, la saga Final Fantasy comenzó estableciendo 
+combates aleatorios. La dinámica en estas obras consistía en que, en cualquier momento de su recorrido, el jugador podía encontrarse con una situación de combate 
+sin previo aviso. Más allá de los enfrentamientos contra enemigos finales, estas luchas solo son posibles de prever al recorrer zonas reconocibles, como hierbas altas en la saga Pokémon. No obstante, esta disposición ha ido variando hasta un reconocimiento actual de las criaturas a enfrentar, de tal forma que es posible evitar los 
+combates. Con ello, el acercamiento por parte del jugador varía considerablemente, 
+al poder elegir los momentos y situaciones en las que proceder al conflicto. Sin embargo, el RPG establece otra serie de dinámicas que afectan a esta cuestión. El escalado por niveles presenta una experiencia que requiere del desarrollo del avatar por 
+parte del jugador a partir de la mejora de diversas habilidades. Para poder obtener 
+estas mejoras, ya sea de forma directa o indirecta, el jugador debe entrar en combate, 
+vencer y obtener puntos de habilidad o experiencia. Según el sistema de desarrollo, el jugador podrá elegir donde emplear estos puntos o, en contraposición, estos se 
+dispondrán automáticamente por el juego. Paradójicamente, este sistema permite el 
+avance del jugador a partir de retos finales que requieren de cierto nivel y que, normalmente, se presentan como enfrentamientos más complejos.
+Esta elaboración permea sobre el RPG en general, sea un acercamiento u otro. 
+Si hablamos de un Final Fantasy o un Dragon Quest, los cambios en las subidas de nivel se sustentarán en habilidades añadidas a las opciones estratégicas de combate, a 
+mayor vitalidad o a una potencia considerable en el ataque. Por otro lado, si tratamos algún videojuego de la saga Souls, las habilidades de combate (confeccionadas 
+ZER 51 (2021).indd 175 ER 51 (2021).indd 175 22/11/21 16:30:53 2/11/21 16:30:53
+176 Zer 26-51 (2021), 163-180
+Antonio Francisco Campos Méndez
+por el jugador) permitirán acudir a los enfrentamientos finales con un mayor poder, 
+pero también se requerirá de una experiencia y un entendimiento del enemigo en 
+cuestión. A este respecto, el acercamiento del jugador entre una propuesta jugable u 
+otra difiere según las mecánicas y dinámicas concernientes al combate en cuestión.
+Tal y como se ha comentado anteriormente, es posible evitar los enfrentamientos (no siempre) recurriendo a opciones de diálogo. En estas situaciones, el jugador también requiere de un desarrollo del personaje, aunque de otra índole. La actitud por parte del jugador se establece como conciliadora, entendiendo el mundo y 
+su avatar como un conjunto de pervivencia que se entiende como partes necesarias. 
+Igualmente, su presentación es muy diversa. En Skyrim, las mismas opciones de diálogo permiten al jugador entablar unas relaciones u otras con los distintos PNJ. La 
+resolución en favor del jugador en las situaciones de diálogo se subraya con una actitud, ya sea conciliadora o violenta, y su capacidad de consecución, supeditada a la 
+habilidad que posea el avatar en este apartado. Para aumentar esta probabilidad, se 
+requiere de la repetición y el éxito continuado en este tipo de situaciones. Por tanto, 
+es un ciclo que el jugador adopta en contraposición a otra serie de opciones, dirimiendo en una cierta actitud para con la experiencia. Precisamente, esta actitud es 
+posible extenderla a otras obras cuyas opciones de diálogo son más limitadas, pero de 
+un recorrido igual o incluso más sustancial.
+3.3. Narrativa y expresión
+La persistencia en la distinción entre el aparato jugable y la narrativa de la obra 
+ha conllevado un planteamiento disperso. Es cierto que las formas de entendimiento 
+entre ambas perspectivas provocan desequilibrios en la expresión final. No obstante, 
+incluso estas disonancias establecen una discusión pertinente sobre la relevancia en el 
+acercamiento al medio. La fantasía, al ser un género recurrente desde los mismos inicios del videojuego, ha conocido diversidad de formas en el relato. Principalmente, 
+se encuentra muy en relación al género jugable dispuesto, siguiendo una serie de 
+convenciones entendidas y promovidas incluso por los jugadores. No obstante, sus 
+primeras estructuraciones eran simples, con alusiones a mundos alejados y atrasados 
+tecnológicamente.
+Con la introducción de nuevos iconos, tales como Super Mario (Nintendo, 1985), 
+Link de The Legend of Zelda (Nintendo, 1986) o los personajes (en sus inicios desconocidos) de las primeras entregas de Final Fantasy, el medio fue conociendo nuevos tratamientos sobre los distintos mundos jugables, pero la narrativa seguía anclada en una 
+adición sin sustancia. En la década de los 90, distintos géneros narrativos consiguieron 
+hacerse un lugar entre formas de juego reconocible. La narrativa de estas obras buscaba una doble función complementaria: introducir al jugador en su mundo a partir 
+del reconocimiento no sólo externo (el mundo real) sino también, interno.
+ZER 51 (2021).indd 176 ER 51 (2021).indd 176 22/11/21 16:30:53 2/11/21 16:30:53
+https://doi.org/10.1387/zer.22536 177
+La cuestión fantástica en el videojuego: entre la representación y la concepción propia
+En cierto modo, la fantasía más clásica siguió este rumbo, pero tornando hacia nuevas formas de concebir su universo. Final Fantasy VII (Squaresoft, 1997) 
+marcó un antes y un después en la forma de concebir los RPG por turnos en todo el 
+mundo. Desde la industrialización, el mundo fantástico fue circunscrito al apartado 
+científico de relato que aludía a problemáticas sociales reconocibles por parte del jugador. De tal forma, la familiaridad del jugador con la experiencia no sólo se basa en 
+el mundo establecido, sino también en una narrativa de velada denuncia y, sobretodo, con un componente emocional muy potente.
+La estructura de su guion alude directamente al viaje del héroe, con importantes detenimientos en la condición del grupo. El jugador maneja a varios personajes en las batallas, pero el relato se centra en Cloud, su relación con el mundo, con 
+sus amigos y con Sephiroth, el oponente del relato. La narrativa presenta una serie 
+de alteraciones en la fórmula clásica que provienen de la propia condición del videojuego, con una presentación alternativa entre cinemáticas y transiciones sin el control del jugador. En su lanzamiento original, dividido en tres discos, el equipo creativo se sirvió de cliffhangers sumamente potentes que daban aun mayor eficacia a la 
+expresión. Con todos estos elementos, Final Fantasy VII consiguió convertirse en un 
+éxito de masas al presentar una historia reconocible y amena, con un fondo temático 
+centrado en unas sensaciones reconocibles por parte de los jugadores que permitiera 
+una unión mucho más cercana con el avatar, aun cuando existía una cierta distancia 
+jugable. La saga seguiría con esta corriente creativa en las obras venideras, presentando relatos a medio camino entre una fantasía autorreferencial y una construcción 
+de mundo reconocida por el jugador.
+La narrativa, por tanto, acaba introduciéndose de lleno en la construcción de 
+mundo y planteando debates sobre la condición fantástica en el videojuego. Al aludir directamente a componentes como la representación distópica del mundo corriente, la esfera propia del juego se resquebraja. No obstante, el avance histórico 
+también regresa a la concepción más tradicional. La inmensidad en los mundos de 
+juego, al igual que las posibilidades de interacción, hace que decisiones del jugador 
+marquen el relato emergente. Para centrar la acción, estas obras introducen un objetivo principal, pero sin consideración de tiempo o necesidad por delante de la misma 
+intención del jugador. No obstante, el rumbo elegido puede llegar a interferir en las 
+conclusiones, no sólo por las distintas ramas de finales, un elemento muy presente en 
+numerosos videojuegos, sino por el desarrollo de las mismas.
+Es una corriente compartida por la saga Souls, pero con un desempeño diferente. Su narrativa es sumamente peculiar, con reminiscencia de los primeros 
+The Legend of Zelda. Tanto es así que acaba siendo un recorrido histórico sobre su
+propio universo, fundiendo las ideas clásicas sobre tiempo y espacio. De tal forma, 
+la esfera jugable se hace completa al circunscribir el relato al mundo planteado, con 
+una funcionalidad y expresión propias. De aquí surge la idea de las derrotas narratiZER 51 (2021).indd 177 ER 51 (2021).indd 177 22/11/21 16:30:53 2/11/21 16:30:53
+178 Zer 26-51 (2021), 163-180
+Antonio Francisco Campos Méndez
+vas (Campos Méndez, 2019: 34), elementos propios de la configuración expresiva 
+de estas obras que entronca en la comprensión sobre el universo jugable. Las derrotas narrativas se establecen en mundos abiertos donde el jugador puede marcar 
+su propio camino, por lo que también es aplicable a sagas anteriormente mencionadas como The Elder Scrolls, Fable o incluso Final Fantasy. No obstante, estos planteamientos se centran sobre todo en el desarrollo del jugador dentro de la experiencia, 
+mientras que en la saga Souls estas derrotas narrativas afectan a la comprensión propia 
+del mundo.
+4. Conclusiones
+El juego y el videojuego miran al mundo cotidiano, no sólo en términos de representación, sino en la elaboración más intrínseca de su existencia. Muchos de los 
+fenómenos reconocibles se sirven efectivamente de una herencia lúdica que incluso 
+entraña a la misma consideración cultural, pero su aplicación no es aislada y, de hecho, no busca serlo. Su relación con el ser humano ha sido cambiante y expansiva, 
+en tanto ha conocido nuevas formas de expresión y amplificación, sin estar ceñida 
+a un condicionamiento de retroalimentación en su proceso comunicativo. No obstante, aun negando la existencia de concepciones del videojuego tales como su aislamiento total del mundo cotidiano, es pertinente reconocer la capacidad del medio para adoptar discursos reconocibles y deformarlos. La recurrencia mitológica de 
+obras como Dark Souls aluden a una evidencia mundana pero también a un interés 
+por reelaborar la consideración clásica a partir de su reunión con otras sensibilidades 
+alejadas de su creación original.
+Bien es cierto que podría hablarse de nuevas concepciones fantásticas asentadas sobre las bases expansivas del videojuego. Las distintas posibilidades que presenta 
+el medio, quebrando las necesidades de categorización y sirviéndose de una retroalimentación entre elementos propios y adquiridos culturalmente, hacen que la consideración fantástica alcanza nuevas cotas, no sólo a nivel formal sino incluso exclusivo. De esta forma, se acude a una referencialidad que deja muy a las claras la acción 
+que el mundo cotidiano y su desarrollo cultural acaban provocando en la esfera jugable. Del mismo modo, la naturaleza interactiva del medio provoca que la experiencia final posea consideraciones desde diversos ámbitos y puntos de vista. Por tanto, 
+el conocimiento previo por parte del jugador, tanto del universo planteado (y sus 
+referencias) como de las convenciones y/o elementos presentados por el videojuego 
+como medio, provocan que la experiencia resultante presente distintos resultados, 
+todos de una importancia considerable en lo que, a la concreción fantástica, general 
+y particular del medio, se refiere.
+Volviendo al asunto del jugador, la doble perspectiva creadora y elaboradora 
+del videojuego presenta una nueva problemática para el aislamiento completo. Por 
+ZER 51 (2021).indd 178 ER 51 (2021).indd 178 22/11/21 16:30:53 2/11/21 16:30:53
+https://doi.org/10.1387/zer.22536 179
+La cuestión fantástica en el videojuego: entre la representación y la concepción propia
+un lado, ciñéndonos a una obra en cuestión, es posible establecer una serie de parámetros preestablecidos en su creación que la hacen acreedora de la apreciación 
+como fenómeno propio y, por tanto, con necesidad de inmersión por parte del jugador. Sin embargo, es precisamente esta figura la que acaba haciendo la experiencia 
+propia, tanto en su aplicación como en su resultado. Existe una elaboración autoral 
+por parte del jugador, en tanto participante de una experiencia conocida y aceptada, 
+pero también desempeñada y concluida por una figura externa a la obra.

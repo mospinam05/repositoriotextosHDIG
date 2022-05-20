@@ -1,0 +1,259 @@
+NSIGHTS about professional communication may come from odd
+and unexpected places. McCloud’s
+Understanding Comics (hereafter
+UC) is a case in point. Despite the
+juvenile connotations evoked by
+any discussion of comic books, the
+theory of visual communication
+presented in UC arguably rivals
+the best of contemporary semiotics
+(that is, the study of how we make
+meaning out of gestures, words,
+paragraphs, pictures, and so on).
+I’d like to relate parts of McCloud’s
+comic-book semiotics to our concerns as information designers,
+our everyday decisions to use
+photographs or line sketches to
+convey an idea. As more information is posted on the World Wide
+Web and more technical texts are
+typeset on computers, most of us
+will find it easier to scan original
+photographs into our databases
+and use these to supplement text.
+Line drawings, which used to be
+far easier to reproduce than photos
+in the old print technologies, now
+require (relatively) more time and
+artistic skill to render effectively
+on computer. Our temptation,
+then, will likely be to scan in more
+photos and labor over fewer line
+sketches. Before giving in to this
+temptation, however, we should
+consider what UC has to say about
+the unique psychological impact
+of the line sketch, in other words,
+the cartoon.
+McCloud lays out a general theory
+of “icons” (that is, visual forms
+resembling actual objects in some
+aspect). All information designers
+can make good use of this theory.
+In the balance of this article, I will
+summarize it and outline just one
+of its implications for professional
+communicators.
+Icon Theory Many have heard of
+the distinction semioticians make
+between “icons” (visual forms of resemblance, e.g., photos or sketches),
+“indices” (pointing signals, e.g.,
+smoke pointing to fire or a mercury
+level in a thermometer indicating temperature), and “symbols”
+(forms with meanings learned only
+by habitual use, e.g., a cross on a
+church, the letter A, a word, or a
+wink). Few know that this distinction was developed by American
+semiotician C. S. Peirce (1839–1914)
+and that Peirce (whose name is
+pronounced like purse) further
+divided icons into three basic types
+(see, e.g., Peirce’s Collected Papers
+[1]):
+* “iconic qualisigns” (abstract
+forms not necessarily resembling anything but themselves,
+e.g., a Jackson Pollock painting);
+* “iconic sinsigns” (realistic images resembling actual things,
+like a photograph or a realist
+painting); and, finally,
+* “iconic legisigns” (diagrams
+or cartoons—abstracted from
+real appearances, but still
+perceived as resembling some
+real thing).
+McCloud recreates and elaborates
+on Peirce’s trichotomy of icons,
+adopts a simpler terminology, and
+cleverly applies this theoretical
+schema to the specific problem of
+cartoons and comics in relation
+to other art forms (pp. 146–149,
+Fig. 1 below).
+In brief, the history of art actually
+began with cartoon-like forms.
+Consider cave paintings and Egyptian illustrations (Fig. 2).
+From these ancient roots, cartoonish representation evolves
+0361–1434/98$10.00 © 1998 IEEE in two directions. First, many
+Authorized licensed use limited to: Brigham Young University. Downloaded on January 28, 2009 at 10:23 from IEEE Xplore. Restrictions apply.
+IEEE TRANSACTIONS ON PROFESSIONAL COMMUNICATION, VOL. 41, NO. 1, MARCH 1998 67
+cartoon-icons become more symbolic (moving rightward) and form
+the basis for written language as
+the pictures come to represent
+ideas and then sounds rather than
+things. The letter A for example
+evolved from a stylized sketch of a
+bull’s head (aleph), now inverted.
+The letter B developed from an
+ancient glyph for a house (beth),
+and so on. On the other hand,
+other cartoon-icons also move in
+the opposite direction (leftward),
+gradually evolving to more realistic
+images, from Egyptian to Renaissance styles.
+In modern times, art techniques
+reached the pinnacle of realism
+(just as photography came along
+making the pure-realist artist somewhat superfluous). In order to
+progress any further, according to
+McCloud, artists had no place to go
+but “up” (in the pyramid schema
+of Fig. 1), up toward Peirce’s pure
+qualisigns, the realm of pure visual
+forms, divorced from both physical
+reality and external meaning. This
+theory explains the trend toward
+abstract art typical of the twentieth
+century.
+Psychological Impact of the Cartoon-Icon Besides justifying the
+cartoon comic intellectually in
+relation to other art forms, UC employs this same theoretical schema
+to explain the line sketch’s unique
+psychological impact, conveying
+ideas in a way that photo realism
+cannot reproduce:
+When we abstract an image
+through cartooning we’re not
+so much eliminating details
+as we are focusing on specific
+details. By stripping down an
+image to its essential “meaning,” an artist can amplify
+that meaning in a way that
+realistic art can’t. Film critics
+will sometimes describe a
+live-action film as a “cartoon” to acknowledge the
+stripped-down intensity of
+a simple story or visual style.
+Though the term is often
+used disparagingly, it can be
+equally well applied to many
+time-tested classics [e.g., The
+Wizard of Oz]. Simplifying
+characters and images toward a purpose can be an
+effective tool for storytelling
+in any medium. Cartooning
+isn’t just a way of drawing, it’s
+a way of seeing (pp. 30–31).
+Thus cartoons and cartoon-like
+sketches provide an ideal medium
+for new ideas, new ways of seeing.
+Compare an X-men comic book
+with a well-illustrated text on nuclear power. A pre-adolescent first
+explores ideas of conflict, loyalty,
+honor, and self-sacrifice by reading
+one. A naval ROTC student first
+grasps the workings of a nuclear
+sub’s atomic reactor by following
+simplified, schematic drawings in
+the other. By the theory presented
+in UC, these two documents differ
+in subject matter, but they do not
+differ in principle or in their basic
+rules of execution.
+Interface with Professional
+Communication: Photos Versus
+Sketches Most well-written technical writing manuals recognize
+that sketches have fewer distracting details than photos and that
+this can be an advantage. There
+are other reasons, however, to
+resist the overuse of photographs
+for general instruction purposes,
+not covered in standard technical
+manuals but explicit in the McCloud/Peirce theory. In McCloud’s
+terms, cartoons amplify new ideas
+by simplifying them and cartoonlike sketches embody general conFig. 1.
+Fig. 2.
+Authorized licensed use limited to: Brigham Young University. Downloaded on January 28, 2009 at 10:23 from IEEE Xplore. Restrictions apply.
+68 IEEE TRANSACTIONS ON PROFESSIONAL COMMUNICATION, VOL. 41, NO. 1, MARCH 1998
+cepts in a way that no photorealistic image of an actual thing
+can. A photograph is the imprint of
+one and only one object. A sketch
+potentially represents all objects
+of a general conceptual type. For
+example, I recently encountered on
+the World Wide Web a discussion
+of dragonflies which made the
+following, technical point:
+The body plan of the dragonfly is among the most successful of any animal on the
+planet, having survived for
+hundreds of millions of years
+with relatively little change.
+Along with grasshoppers,
+cockroaches and crickets,
+dragonflies have been on the
+planet since long before the
+dinosaurs. Fossil evidence
+tells us that some of the ancestors of this creature were
+the size of crows, measuring
+two feet from wing tip to wing
+tip (http://whyfiles.news.
+wisc.edu/coolimages/captions/
+dfly2.html).
+This passage was linked to a vast
+catalog of dragonfly images scanned
+in by the Texas Agricultural Experiment station (www.our-town.com/
+experiment/ ©1996 by Forrest L
+Mitchell. Permission granted for
+nonprofit use). I’ve included some
+suggestive samples (Fig. 3, bitmaps
+of the original color images).
+Though the images are impressive,
+both in their detail and the sheer
+number of them available, they do
+not efficiently support the point of
+the technical passage given above,
+that the general biological design
+of dragonflies has been highly
+effective for hundreds of millions
+of years.
+The photographs by themselves
+are inadequate for at least two
+reasons. First, they do not quickly
+give a sense of the general biological design of dragonflies. The
+individual insects photographed
+vary significantly in leg length,
+leg position, tail thickness, wing
+shape, and so forth. Second, the
+photographs by themselves cannot indicate just what biological
+advantages any given dragonfly
+has. The line sketch in Fig. 4 is far
+better suited to these purposes.
+Note too the similarity between the
+detail labels typical of diagrammatic sketches (which appeared
+in the original) and the balloondialogue convention in comics.
+Why does the cartoonish sketch
+reinforce the general ideas expressed in words more effectively
+than a whole catalogue of photographs? I refer readers again to
+Figs. 1 and 2. Cartoons lie closer
+than photo-real images to lanFig. 3.
+Fig. 4.
+Authorized licensed use limited to: Brigham Young University. Downloaded on January 28, 2009 at 10:23 from IEEE Xplore. Restrictions apply.
+IEEE TRANSACTIONS ON PROFESSIONAL COMMUNICATION, VOL. 41, NO. 1, MARCH 1998 69
+guage and symbolic thought in
+the McCloud/Peirce scheme. In
+their theory, thoughts and ideas
+likewise exist mainly as vaguely
+sketched (i.e., cartoon-like) forms.
+Since cartoons already exist
+as concepts for the reader,
+they tend to flow easily
+through the conceptual territory between panels But realistic images have a bumpier
+ride. Theirs is a primarily visual existence which doesn’t
+pass easily into the realm of
+ideas (pp. 90–91).
+As professional communicators,
+our business is to guide readers
+along in the realm of ideas. Cartoons and line sketches serve as
+essential tools in this business,
+tools that ought not be sacrificed
+to the now increasing convenience
+of scanning and mounting photographic images in our instructional
+texts.

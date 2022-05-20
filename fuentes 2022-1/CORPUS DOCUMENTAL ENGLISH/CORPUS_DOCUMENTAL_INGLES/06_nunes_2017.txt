@@ -1,0 +1,119 @@
+This volume contains the proceedings of ICIDS 2017: the 9th International Conference
+on Interactive Digital Storytelling. ICIDS 2017 took place at the Madeira Interactive
+Technologies Institute (Madeira-ITI), Funchal, Madeira Island, Portugal. This year the
+conference included several categories and tracks such as workshops, demos, posters, a
+doctoral consortium, and an international art exhibition.
+ICIDS is the premier annual venue that gathers researchers, developers, practitioners,
+and theorists to present and share the latest innovations, insights, and techniques in the
+expanding field of interactive storytelling and the technologies that support it. The field
+regroups a highly dynamic and interdisciplinary community, in which narrative studies,
+computer science, interactive and immersive technologies, the arts, and creativity
+converge to develop new expressive forms in a myriad domains that include artistic
+projects, interactive documentaries, cinematic games, serious games, assistive technologies, edutainment, museum science, and advertising, to mention a few.
+The ICIDS conference has a long-standing tradition of bringing together academia,
+industry, designers, developers, and artists into an interdisciplinary dialogue through a
+mix of keynote lectures, panels, long and short article presentations, posters, workshops, lively demo sessions, and the art exhibition. Additionally, since 2010, ICIDS
+has been hosting an international art exhibition open to the general public. This year we
+inaugurated a new entry, the doctoral consortia, enabling PhD students to receive
+feedback on their ongoing research.
+The review process was extremely selective and many good papers could not be
+accepted for the final program. Altogether, we received 88 submissions in all the
+categories. Out of the 65 submitted full and short papers, the Program Committee
+selected only 16 long papers and four short paper submissions for presentation and
+publication, which corresponds to an acceptance rate of 31%. In addition, we accepted
+13 submissions as posters, and five submissions as demonstrations, including some
+long and short papers that were offered the opportunity to participate in another category. The ICIDS 2017 program featured contributions from 47 different institutions in
+18 different countries worldwide.
+The conference program also hosted three invited speakers:
+Jay Bushman an award-winning producer and writer of transmedia and
+platform-independent entertainment. He was the Transmedia producer and a writer for
+“The Lizzie Bennet Diaries” and a groundbreaking video and social media modernization of “Pride and Prejudice” – the show won an Emmy Award for Outstanding
+Original Interactive Program and had over 70 million views on YouTube. He was the
+cocreator and co-showrunner of the sequel interactive series “Welcome to Sanditon.” As
+a writer and producer at Fourth Wall Studios, Jay helped to create the Emmy-winning
+series “Dirty Work,” and wrote and created the show “Airship Dracula.” Jay has worked
+on interactive campaigns for properties including “Game of Thrones,” “Silicon Valley,”
+“Terminator: Genisys,” and “Arrival.” He has also worked as a writer and consultant
+for major studios and networks, including Google, HBO, Disney, Paramount, Bad
+Robot, and Lucasfilm. An innovator and leader in the transmedia community, he pushes
+the boundaries of next-generation entertainment. Jay was one of the original founders
+of the professional organization Transmedia Los Angeles (now StoryforwardLA), and
+one publication even named him “The Epic Poet of Twitter.” Jay’s keynote was on
+“Transmedia Storytelling: No, Really, What Is It?” The joke goes like this: “Put two
+transmedia creators in a room together, and pretty quickly you’ll have three definitions
+of transmedia.” Everybody who uses the terms means something a little different. With
+stories from the trenches of making transmedia projects over the last ten years, this talk
+delved into what people mean when they say “transmedia” and why nobody can agree.
+The second keynote speaker was Pia Tikka, Adjunct Professor of New Narrative
+Media and a professional filmmaker. She is the principal investigator of the NeuroCine
+research project and has held a position as a director at Crucible Studio, Department of
+Media, Aalto University. In the field of naturalistic neurosciences, she has acted as a
+core member of the directory group of the neuroscience research project aivoAALTO
+at Aalto University. Her research in neurocinematics focuses on studying the neural
+basis of storytelling and creative imagination. She has contributed to neuroeconomics
+as a member of the advisory board of the NeuroService research project at the Laurea
+University of Applied Sciences, funded by Tekes, the Finnish Funding Agency for
+Innovation. She is a Fellow of Life in the Society for Cognitive Studies of the Moving
+Image. Currently, her research team NeuroCine applies neuroimaging methods to study
+the neural basis of narrative cognition. Pia’s keynote was on “Systemic Second Order
+Authorship for Creating Complex Narratives – A Neurophenomenological Approach.”
+In the beginning of the twenty-first century, the theoreticians of interactive narrative
+celebrated the birth of the creative audience at the corpse of the author, echoing Roland
+Barthes’s words in La mort de l’auteur (1967). But this may have been premature. The
+notion of second-order authorship allows for the reformulation of creative authorship in
+a manner inspired by the neurophenomenology and systemic enactive mind theory by
+Francisco Varela and colleagues (1991). This was exemplified by describing the
+authorship of enactive co-presence between a virtual screen character and the viewer.
+The third keynote speaker was Suzanne Scott, an assistant professor of Media
+Studies in the Department of Radio-Television-Film at the University of Texas at
+Austin. Her work has appeared in Critical Studies in Media Communication, Transformative Works and Cultures, Cinema Journal, and New Media & Society, as well as
+numerous anthologies, including How to Watch Television and The Participatory
+Cultures Handbook. Together with Melissa Click, she has co-edited The Routledge
+Companion to Media Fandom (2018), and her current book project considers the
+gendered tensions underpinning the media industry’s embrace of fans within convergence culture. Suzanne’s keynote was “Choose Your Own Adventure: Fandom and the
+Future of Interactive Storytelling.” Fan culture has, from its inception, treated media
+objects as inherently interactive, playing in the textual gaps and margins and, in some
+cases, radically reimagining a storyworld’s fictive limits. Tracing both the history of
+transformative fan texts (e.g., fanfiction, fan vids) from analog to digital participatory
+VI Preface
+cultures, as well as the politics of these industrially unauthorized interactions, this
+keynote suggested that the barriers to embracing a more expansive conception of
+“interactive digital storytelling” lie in lingering anxieties surrounding authorial and
+commercial control. Just as scholarly work on interactive storytelling must acknowledge programmatic or structural limitations on user agency, even as we celebrate the
+participatory and collaborative capacity of the form, this talk explored how media
+industries, creators, and technologies alternately curtail and foster fan culture’s interactive impulses.
+In addition to paper and poster presentations, ICIDS 2017 featured a preconference
+workshop day with five workshops:
+WS1: History of Expressive Systems, organized by Mark J. Nelson and James Ryan
+WS2: Transmedia Journalism and Interactive Documentary in Dialogue,
+by Renira Rampazzo Gambarato and Alessandro Nanì
+WS3: Authoring for Interactive Storytelling, organized by Charlie Hargood,
+Alex Mitchell, David Millard, and Uli Spierling
+WS4: Bringing Together Interactive Digital Storytelling with Tangible Interaction:
+Challenges and Opportunities, organized by Alejandro Catala, Mariët Theune,
+Cristina Sylla, and Pedro Ribeiro
+WS5: Film-Live: An Innovative Immersive and Interactive Cinema Experience,
+organized by Mattia Costa, Chiara Ligi and Francesca Piredda
+In conjunction with the academic conference, the Art Exhibition of the 9th International Conference on Interactive Digital Storytelling was held at the conference
+venue, Vidamar Resorts, during November 14–15, 2017. The 2017 ICIDS Art Exhibition featured a variety of art pieces of interactive storytelling in various media
+including Web-documentaries, VR film, narrative games, augmented reality mobile
+applications, and Transmedia projects produced by over 30 artists of national and
+international origin. The exhibition’s theme of “Time & Tempo” encouraged artists to
+explore the intrinsic qualities of interactive narrative as a time-based medium, user
+rhythms, and storytelling themes that incorporate history, time-travel, or other playful
+engagements.
+Each submission was reviewed independently by three members of the selection
+jury, after which each submission received a meta-review analysis from the curators.
+Submissions were scored on a graded scale, which was averaged across all reviewers
+for the meta-review and final decision. The exhibition artwork is featured in the ICIDS
+2017 ISBN numbered catalogue published by ETC Press.
+We would like to express our gratitude and sincere appreciation to all the authors
+included in this volume for their effort in preparing their submissions and for their
+participation in the conference. Equally we want to heartily thank all the members
+of the Organizing Committee and the Program Committee. Thanks as well to our art
+exhibition jurors for their accuracy and diligence in the review process, our invited
+speakers for their insightful and inspirational talks, and the workshop organizers for the
+Preface VII
+dynamism and creativity that they brought to the conference. A special thank goes to
+the ICIDS Steering Committee for granting us the opportunity to host ICIDS 2017 at
+Madeira-ITI in Funchal, Portugal. Thanks to you all!

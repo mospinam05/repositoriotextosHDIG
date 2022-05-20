@@ -1,0 +1,963 @@
+El videojuego de temática
+histórica como arte visual:
+anacronías conscientes y
+licencias creativas en la
+representación de espacios
+urbanos de la saga Assassin’s
+Creed*
+Recibido: 23/05/2019 | Revisado: 07/01/2020 | Aceptado: 03/03/2020
+DOI: 10.17230/co-herencia.17.33.2
+
+
+
+                                                         José Enrique Ocaña Romero**
+                                                                  joseenriqueor1987@gmail.com
+
+                                                  Francisco Javier Ruiz del Olmo***
+                                                                                             fjruiz@uma.es
+
+
+
+Resumen A partir de la revisión de bibliografía especializada
+              y del análisis crítico-constructivo del trabajo de Dow
+              (2013) que examina los anacronismos existentes en
+la recreación digital de la ciudad de Florencia en el videojuego
+                                                                                    *
+                                                                                        Este artículo hace
+Assassin’s Creed II (2009), el presente trabajo explora la capaci-                      parte de la investiga-
+dad que tienen este tipo de videojuegos para reconstruir la am-                         ción realizada en el
+bientación de un período histórico concreto a partir del uso de                         marco del doctorado
+anacronismos derivados de licencias creativas y de las necesida-                        en Comunicación
+des artísticas propias del videojuego. Los resultados demuestran                        Audiovisual de la Uni-
+que el anacronismo es una herramienta que los desarrolladores                           versidad de Málaga.
+de videojuegos históricos utilizan de forma intencionada para                       **
+                                                                                        Magíster en Desa-
+transmitir una imagen del pasado que resulte vigente y atractiva                        rrollos Sociales de
+en la actualidad. Igualmente se evidencia la necesidad de una                           la Cultura Artística
+metodología propia dentro de los denominados Game Studies                               de la Universidad
+que aborde el videojuego como objeto de estudio artístico lejos                         de Málaga, España.
+del enfoque de líneas de investigación como los Historical Game                         orcid: 0000-0002-
+Studies y otras disciplinas humanísticas.                                               0934-8981
+                                                                                    ***
+                                                                                         Profesor Titular de la
+Palabras clave:                                                                         Universidad de Má-
+Videojuegos, arte, Game Studies, Historical Game Studies,                               laga, España. orcid:
+anacronismo, Assassin’s Creed, simulación digital.                                      0000-0002-1953-1798
+
+
+
+
+    Co-herencia Vol. 17, n.º 33 julio - diciembre de 2020, pp. 41-63. (ISSN 1794-5887 / e-ISSN 2539-1208)   41
+Historically Themed Videogames as Visual
+Art: Conscious Anachronism and Creative
+Licenses in the Representation of Urban
+Spaces in the Assassin’s Creed Series
+Abstract      From the revision of specialized bibliography and
+              the critical–constructive analysis of Dow’s work
+              (2013), which studies the existing anachronisms in
+the digital recreation of the city of Florence in the videogame
+Assassin’s Creed II (2009), this study explores the capacity that
+these types of videogames have to rebuild the setting of a specific
+historic period from the use of anachronisms that arise from
+the creative licenses and the artistic needs that are typical of
+videogames. The results show that the anachronism is a tool
+that historical videogame developers use in a deliberate way
+to transmit an image from the past that seems current and
+attractive for the present. We observed the need to develop
+our own methodology within the area of game studies to tackle
+videogames as an artistic object of study, such that it is different
+from research areas such as historical game studies and other
+humanistic disciplines.
+
+Keywords:
+Videogames, art, game studies, historical game studies,
+anachronism, Assassin’s Creed, digital simulation.
+
+
+
+     A lo largo de poco más de medio siglo, los videojuegos han pasado
+de ser vistos como un simple entretenimiento a ser considerados
+por numerosos investigadores como un producto de enorme
+trascendencia cultural y también artística. Así, se “hace necesaria
+la labor de curadores de contenido, historiadores y académicos que
+estudien las repercusiones” de este medio digital (González y Matas,
+2017, p. 17), y son numerosas las investigaciones, sobre todo en el
+ámbito anglosajón, que indagan en el videojuego desde el prisma de
+la pedagogía, la psicología, la antropología, la sociología o la historia.
+Las investigaciones que abordan al videojuego desde estas disciplinas
+son de temática muy variada y tratan de forma recurrente, entre
+otras muchas cuestiones, la violencia, el impacto emocional o el
+valor pedagógico del videojuego.
+     También, aunque con menos frecuencia, salen a la luz estudios
+que relacionan arte y videojuegos, con enfoques tan diversos como
+las opiniones que existen sobre su artisticidad. Por ello, hay que dejar
+claro que esta investigación no pretende postularse al respecto, sino
+
+
+42       El videojuego de temática histórica como arte visual: anacronías conscientes y licencias
+         creativas en la representación de espacios urbanos de la saga Assassin’s Creed
+         José Enrique Ocaña Romero y Francisco Javier Ruiz del Olmo
+que el interés de este trabajo se fundamenta en establecer unas bases
+que permitan entender los mecanismos artísticos de estas obras y su
+relación con los estudios culturales.
+         La universidad española ha ignorado (y, por lo general, sigue ignorando) las
+         particularidades del videojuego, su impacto social y cultural y su carácter
+         autónomo de otras disciplinas como la comunicación o la informática.
+         En este sentido, la investigación española sobre los videojuegos […] es
+         esporádica y dispersa (Planells de la Maza, 2013, p. 525).
+
+     Sin embargo, el videojuego ya se encuentra en algunos de los
+museos más importantes del mundo1 y es motivo de inspiración y
+reflexión dialéctica para muchísimos artistas, aunque previamente
+ha tenido que atravesar un arduo camino para ser reconocido como
+elemento vehicular del arte:
+         Cada vez que una nueva tecnología proporciona un medio fresco en
+         el mundo del arte, se encuentra con faltas de respeto, indiferencia o
+         indignación y debe pasar por un período de aceptación […]; predecesores
+         del videojuego en este proceso de asimilación son la fotografía, el videoarte
+         o el cine (Martin, 2007, p. 201).2
+
+    Para dejar más patente aún esta multiplicidad de opiniones al
+respecto de la artisticidad del medio, Hideo Kojima, uno de los padres
+del videojuego moderno y artífice de la popular serie Metal Gear
+(1987-2015), afirma que “un videojuego debería asegurarse de que las
+cien personas que juegan con él disfruten. Es como una especie de
+servicio. No es arte. Pero creo que la forma de ofrecer el servicio con
+un videojuego es un estilo artístico, un tipo de arte” (Isern, 2012, p. 2).
+     Por otra parte, Tavinor (2009) dice que “debemos distinguir
+entre las diversas artes que se encuentran en la realización de los
+videojuegos y la idea de que son arte en sí mismos” (p. 172). Es decir,
+en la creación de un videojuego asistimos a la conjunción de varias
+disciplinas como el dibujo, la música, la literatura o la escultura
+digital, pero otra cuestión muy distinta es afirmar que un videojuego
+concreto es una obra de arte. Martin (2007) intenta explicarlo
+
+
+1   En 2013 se inauguró una exposición de videojuegos en el MoMA de Nueva York con una
+    selección de catorce juegos, entre ellos Pac-man (1980), Tetris (1984) y flOw (2006), de
+    una lista que se iría engrosando posteriormente.
+2   Las traducciones de los textos en inglés son nuestras.
+
+
+
+    Co-herencia Vol. 17, n.º 33 julio - diciembre de 2020, pp. 41-63. (ISSN 1794-5887 / e-ISSN 2539-1208)   43
+haciendo un paralelismo con el cine: “La mayoría del público ve el
+cine como una forma de arte, pero no todas las películas son obras
+maestras” (p. 204). Esta situación descrita por Martin conlleva entrar
+en juicios de valor estético, pero es una afirmación que bien puede
+extenderse a los videojuegos dentro de la subjetividad tanto del
+creador como del usuario de este tipo de obras.
+
+Objetivos, hipótesis, metodología y problemática
+de la investigación
+    Lo que se propone en este trabajo es una reflexión crítica hacia
+los argumentos usados por un historiador del arte que analiza el
+videojuego desde el rigor histórico y, por consecuencia, su valor
+como instrumento pedagógico. Nos referimos singularmente
+a Douglas N. Dow (2013) que, con su ya célebre y renombrado
+texto sobre el estudio del anacronismo en los espacios urbanos
+representados en el videojuego Assassin’s Creed II (2009, en adelante
+ACII), pretende advertir de la peligrosidad que estas incongruencias
+temporales pueden tener para la percepción de los jugadores sobre los
+acontecimientos históricos y las ciudades y edificios emblemáticos
+que aparecen en el juego.
+    Partiendo de la idea de que debido al uso intencionado del
+anacronismo en la recreación de espacios urbanos y edificios en la
+saga de videojuegos Assassin’s Creed (en adelante AC) por parte de
+los desarrolladores se consigue transmitir o comunicar una imagen
+del pasado que resulta vigente en la actualidad, se desarrollan los
+siguientes objetivos:
+    - Investigar el origen de los denominados Historical Game Studies
+(en adelante HGS) a partir de una breve descripción de la ludología y
+la narratología como antecedentes de los Game Studies.
+    - Analizar de forma crítica el artículo “Historical Veneers: Anachronism,
+Simulation, and Art History in Assassin’s Creed II” de Dow (2013).
+    - Identificar anacronismos ejemplares en algunos títulos de la sa-
+ga AC, con especial empeño en las recreaciones virtuales de
+edificios emblemáticos y espacios urbanos, para analizar las causas
+y consecuencias de los mismos desde una perspectiva artística en
+concordancia con los argumentos desarrollados.
+
+
+44     El videojuego de temática histórica como arte visual: anacronías conscientes y licencias
+       creativas en la representación de espacios urbanos de la saga Assassin’s Creed
+       José Enrique Ocaña Romero y Francisco Javier Ruiz del Olmo
+    - Comprobar si es necesaria una aplicación metodológica sin-
+gular para el videojuego como objeto de estudio artístico, fuera del
+enfoque de los HGS.
+    Para llevar a cabo de manera efectiva la investigación, se parte
+de una metodología de análisis de contenido crítico de la revisión
+de la literatura existente. Se plantea principalmente un análisis de
+los trabajos y testimonios de algunos de los autores más relevantes
+en esta temática, así como el estudio de una selección de ejemplos
+paradigmáticos de anacronismos presentes en algunos títulos de la
+popular saga de videojuegos de corte histórico AC. La mayoría de
+los anacronismos señalados en el trabajo se limitan a los espacios y
+edificios históricos recreados en esta saga haciendo especial mención
+a ACII y a su versión digital del Renacimiento italiano presentando
+una de las recreaciones más logradas de la ciudad de Florencia.
+    Se manejan esencialmente dos elementos que dan cuerpo al
+sentido de la investigación. Por un lado, se aborda el análisis crítico
+del artículo de Dow (2013) sobre los anacronismos en ACII, se extrae
+la información y se reformula de manera descriptiva. Por otro, se
+toma a dicho videojuego como caso ejemplar de entre todos los de
+la serie para señalar algunos de los anacronismos más relevantes de
+la ciudad virtual de Florencia representada en dicho título. Otro
+de los aspectos a destacar y que han influenciado en el enfoque
+metodológico y en el desarrollo de la investigación es que los autores
+han jugado en profundidad a ACII. También se ha viajado a la
+ciudad de Florencia en 2018 y 2019, recorrido sus calles y tomado
+fotografías de sus edificios más emblemáticos, lo que, sin duda, ha
+ayudado enormemente a tomar un posicionamiento más crítico y
+empírico frente a los argumentos que Dow vierte en su investigación.
+    El enfoque artístico siempre estuvo presente en nuestra
+investigación y eso mismo nos llevó a cambiar en gran parte el
+sentido de esta. Originalmente la intención era realizar un análisis
+de contenido del videojuego ACII, haciendo énfasis en la recreación
+digital de Florencia y en la identificación de los anacronismos
+presentes en la ciudad y sus edificios más emblemáticos para
+establecer así una crítica comparativa con el artículo de Dow (2013).
+El objetivo inicial de analizar la calidad artística de la representación
+digital de la ciudad de Florencia se transformó en la intención de
+
+
+   Co-herencia Vol. 17, n.º 33 julio - diciembre de 2020, pp. 41-63. (ISSN 1794-5887 / e-ISSN 2539-1208)   45
+realizar una crítica a los HGS como metodología de estudio del
+videojuego resaltando de esta manera las carencias de esta línea de
+investigación, para así llamar la atención sobre la emergencia de un
+método que abordara al videojuego como objeto de estudio artístico.
+
+
+Conflictos teóricos: ludología, narratología
+y Game Studies
+    Desde sus orígenes, los videojuegos siempre han estado
+estrechamente ligados al diseño y a la creación artística. Aunque
+los primeros desarrolladores no eran conscientes de la relación entre
+el arte y los videojuegos, estos “pueden ser considerados como una
+nueva forma de expresión artística en las últimas décadas, pero al
+igual que ocurre con las expresiones artísticas contemporáneas, la
+sociedad todavía no es capaz de asimilarlas y de hacerlas suyas” (Belli
+y López, 2008, p. 161).
+    Pong, el primer lanzamiento comercial publicado por la compañía
+Atari en noviembre de 1972, supuso una gran revolución en el ocio
+digital. Poco más tarde, personajes como Pac-man (1980) o Mario Bros
+(1983)3 pasaron a formar parte de la cultura popular gracias, en gran
+medida, a su diseño artístico: sus formas, sus colores o sus sonidos.
+    Con los rápidos avances tecnológicos en el campo de las consolas
+domésticas, el videojuego ganó en complejidad y en profundidad
+artística absorbiendo poco a poco el lenguaje representativo de otras
+artes como el cine o la fotografía. Es por ello por lo que “una vez
+superada la sorpresa de su novedoso elemento interactivo, se vieron
+inmediatamente en la necesidad de arroparse con argumentos”
+(Villalobos, 2015, p. 89). En este contexto, van apareciendo trabajos
+que toman como referencia central al videojuego desde el ámbito de
+los estudios culturales: los Game Studies, herederos a su vez de los
+estudios sobre artes visuales y de la resolución de un conflicto entre
+los primeros teóricos del juego y del videojuego:
+
+
+
+3    El personaje de Mario apareció por primera vez en el Donkey Kong de 1981. Dos años
+     después sale como héroe principal en el videojuego Mario Bros acompañado de su
+     hermano Luigi.
+
+
+
+46       El videojuego de temática histórica como arte visual: anacronías conscientes y licencias
+         creativas en la representación de espacios urbanos de la saga Assassin’s Creed
+         José Enrique Ocaña Romero y Francisco Javier Ruiz del Olmo
+         Antes de 1982 la única teoría que existía radicaba en la práctica de
+         los diseñadores de videojuegos, que innovaban y que con cada diseño
+         contribuían a desarrollar el medio. Programadores como Warren Robinett
+         (autor del revolucionario Adventure de 1979 para la Atari 2600) se sentían
+         inseguros de sus métodos, incluso si sólo articulaban en el código de
+         programación en lugar de hacerlo por escrito. Pero en 1982 Chris Crawford
+         escribió The Art of Computer Game Design, el primer libro dedicado a la
+         teoría del videojuego […] que se preguntaba qué eran los juegos y porqué
+         jugaba la gente, y a continuación sugería unas reglas de diseño, describiendo
+         métodos y técnicas y defendiendo siempre el videojuego como una forma
+         de arte (Wolf y Perron, 2003, p. 5).
+
+     A mediados de los 90 el videojuego se empezaba a consolidar
+como una forma de “narrativa transmedia” (término que fue
+acuñado por Henry Jenkins)4 gracias a las primeras adaptaciones al
+cine como Super Mario Bros (1993) o Street Fighter (1994) lo que,
+de cierta manera, ayudó al videojuego a ser reivindicado como
+objeto de estudio cultural dentro del ámbito académico por algunos
+investigadores pioneros. “No obstante, tuvo que pasar bastante
+tiempo hasta que los científicos vieran en ellos un referente cultural
+y social que justificara gran parte de las investigaciones futuras”
+(Planells de la Maza, 2013, p. 521).
+     La transición de lo analógico a lo digital a mediados de los 90 y la
+aparición de la World Wide Web trajeron consigo un nuevo concepto
+de estudio dentro del campo de los videojuegos: el hipertexto “como
+modelo idílico de narrativa no lineal” (Planells de la Maza, 2013, p.
+521). El estudio del hipertexto y de lo multimedia evolucionó gracias
+al teórico nórdico Espen Aarseth5 y su obra Cybertext: Perpectives
+on Ergodic Literature (1997). Para Aarseth, los videojuegos superan
+la estructura de un hipertexto para constituirse en cibertextos:
+sistemas performativos ergódicos cercanos a la lógica configurativa.
+El concepto de ergódico se asienta sobre la idea de que un videojuego
+no se basa en seguir rutas lineales y eventos prediseñados, sino que el
+jugador debe hacer un esfuerzo extra para crear nuevos textos a partir
+del sistema subyacente. Algunos videojuegos que llevan a extremo
+
+4   Henry Jenkins es un célebre académico estadounidense que ha aportado numerosas
+    investigaciones sobre el fenómeno fan, la cultura participativa y los principios de la
+    narrativa transmedia.
+5   Aarseth fundó la revista digital Game Studies en 2001 (www.gamestudies.org).
+
+
+
+    Co-herencia Vol. 17, n.º 33 julio - diciembre de 2020, pp. 41-63. (ISSN 1794-5887 / e-ISSN 2539-1208)   47
+esta idea son sin duda los de la popular saga Souls (2009-2016) de la
+compañía nipona From software ya que, para entender su trama, el
+jugador debe ir investigando e interpretando los acontecimientos a
+medida que avanza en el juego, ya sea recogiendo documentos en los
+que se explican sucesos o dialogando con los NPC.6
+    Por otro lado, la teórica Janet Murray “concibió el videojuego
+como un nuevo medio capaz de contar historias desde una
+perspectiva dramática particular” (Planells de la Maza, 2013, p. 522).
+Murray se centró en el estudio de las propiedades narrativas del
+videojuego mientras que Aarseth defendía que debía ser analizado
+desde sus propias particularidades y que es “antes que cualquier
+otra cosa, un juego y un objeto interactivo” (Aarseth, 2004, p. 45-
+49). Las aportaciones de ludólogos y narratólogos no solo abrieron
+nuevas líneas de investigación, sino que configuraron lo que hoy se
+conoce como Game Studies, “una disciplina de consenso que intenta
+dar cabida a toda perspectiva científica centrada en el fenómeno del
+juego” (Planells de la Maza, 2013, p. 522).
+    Planells de la Maza (2013) llama la atención sobre la necesidad de
+los Game Studies como disciplina para estudiar las particularidades
+del videojuego. De este campo, han emergido interesantes propuestas
+y marcos teóricos multidisciplinares para analizar “el fenómeno del
+videojuego, contemporáneo” (p. 523).
+    Surgen así los HGS, una línea de investigación emergente que
+empieza su andadura en 2007 en la revista Rethinking History. The
+Journal of Theory and Practice, la cual va dando cabida a los trabajos
+“sobre la Historia en formato lúdico, llegando en 2016 a publicar
+un número especial, Challenge the Past, dedicado exclusivamente a
+esta tendencia” (Peñate, 2017, p. 388). La mayoría de los autores que
+han aportado investigaciones en esta disciplina coinciden en señalar
+a “William Uricchio como el padre de los historical game studies”
+(Peñate, 2017, p. 389).
+    Mediante un breve artículo titulado “Simulation, history, and
+computer games”, publicado en el libro de factura colectiva Handbook
+of Computer Game Studies de 2005, Uricchio marcó “la hoja de ruta
+
+6    Del inglés non-player-character, hace referencia a los personajes no controlables que se
+     encuentran en un videojuego.
+
+
+
+48       El videojuego de temática histórica como arte visual: anacronías conscientes y licencias
+         creativas en la representación de espacios urbanos de la saga Assassin’s Creed
+         José Enrique Ocaña Romero y Francisco Javier Ruiz del Olmo
+de los historical game studies y sus principales ejes de estudio” (Peñate,
+2017, p. 389). Aunque después de este artículo el autor se desligaría
+completamente de este campo de estudio, dejó claro que le “gustaría
+explorar la relación de los juegos de computadora con los largos procesos
+culturales de comprensión histórica, concretamente con los debates
+disciplinarios dentro de la profesión histórica” (Uricchio, 2005, p. 327).
+    Entre estas primeras publicaciones y Challenge the Past de 2016,
+se publicó en 2014 el volumen colectivo Early Modernity and Video
+Games, el cual se divide en dos partes: una teórica y otra práctica
+en la que, esencialmente, se analizan aspectos históricos de la saga
+AC y “trata de averiguar cómo los videojuegos interactúan con la
+historia, usan la historia, y construyen historicidad” (Winnerling &
+Kerschbaumer, 2014, p. 20).
+    Tan solo un año antes, en 2013, se publicó Playing with the Past,
+una obra “centrada en el estudio de las simulaciones digitales del
+pasado, que ha sido considerada el segundo hito en la trayectoria de
+los historical game studies” (Peñate, 2017, p. 391). La mayoría de las
+investigaciones publicadas en este volumen se acercan al videojuego
+histórico para señalar la calidad de las ciudades digitalmente
+simuladas, así como diferentes aspectos históricos, un patrón que se
+repite en muchas de las investigaciones que comparten este marco
+teórico. Planells de la Maza (2013) se plantea si “¿podemos tratar
+estas piezas lúdicas como un medio más o es necesario reflexionar y
+encauzar sus particularidades en un marco teórico propio?” (p. 523).
+En este punto de la investigación surgen algunas de las cuestiones
+principales a abordar con respecto a la cuestión anterior y al enfoque
+que ofrecen los HGS: ¿es más relevante analizar la fidelidad o el rigor
+histórico de la obra que profundizar en su carácter de obra de arte
+como tal? ¿Se podría tender un puente entre los HGS y el estudio del
+videojuego histórico como obra de arte en sí misma?
+
+
+
+
+   Co-herencia Vol. 17, n.º 33 julio - diciembre de 2020, pp. 41-63. (ISSN 1794-5887 / e-ISSN 2539-1208)   49
+Simulaciones y simulacros en la saga
+Assassin’s Creed
+    “La historia es nuestro patio de juegos”: bajo este eslogan, la franquicia
+de videojuegos de corte histórico AC,7 producida y desarrollada por
+Ubisoft, ha conseguido llamar la atención de los investigadores. Esta
+saga de videojuegos no supone un caso aislado ya que nuestro pasado
+histórico siempre ha servido como telón de fondo para contar historias
+y “crear narraciones en ricos mundos ludoficcionales” (Planells de
+la Maza, 2015, p. 16). De acuerdo con Peñate (2017), “autores como
+Adrienne Shaw, Douglas N. Dow y Emil Lundedal Hammar se han
+aproximado a su estudio desde distintas perspectivas […] todos ellos sin
+abandonar la disciplina de la Historia” (p. 388).
+    En primer lugar, se observa que los videojuegos históricos han
+ido generando todo tipo de escenarios imaginarios dotados de mayor
+credibilidad y autenticidad según iban progresando la tecnología y la
+calidad gráfica de los equipos informáticos. En los últimos años, la
+recreación de acontecimientos históricos y su consiguiente conversión
+en espacios jugables se ha convertido en una tendencia muy atractiva
+para los usuarios de videojuegos. “Sólo en 2016, cinco de los treinta
+productos más populares trataban explícitamente acontecimientos y
+procesos del pasado o hacían referencia a ellos” (Peñate, 2017, p. 388),
+aunque existen numerosos precedentes. Títulos como Street Fighter
+(1987) o Final Fight (1989), ambos del género de lucha, ya mostraban
+esta pretensión desde hace décadas con el diseño de escenarios estáticos
+2D inspirados en ciudades célebres como Nueva York o Tokio.8
+    Sin embargo, es en los videojuegos de corte histórico donde la
+recreación, la simulación y la ambientación tienen mayor peso.9 No
+solo implica la representación de ciudades, sino también la aparición
+
+7 En 2007 tuvo lugar el primer lanzamiento y en 2018 se publicó el último bajo el nombre
+  de Assassin’s Creed Odyssey ambientado en la antigua Grecia. La franquicia cuenta con
+  un total de once entregas canónicas hasta la fecha y recientemente se ha filtrado que el
+  próximo capítulo de la saga estará ambientado en la cultura vikinga.
+8 Los espacios urbanos también se han utilizado como forma de juego en sí mismos, dando
+  origen al género de construcción de ciudades. Ejemplos de ello son SimCity (1989) o
+  Cities: Skilines (2015).
+9 Véase el caso de los juegos de acción bélica de las sagas Call of Duty o Battlefield en los
+  que se recrean batallas de la Primera y la Segunda Guerra Mundial con sus respectivas
+  localizaciones históricas.
+
+
+
+50      El videojuego de temática histórica como arte visual: anacronías conscientes y licencias
+        creativas en la representación de espacios urbanos de la saga Assassin’s Creed
+        José Enrique Ocaña Romero y Francisco Javier Ruiz del Olmo
+de personajes y tramas inspirados en sucesos históricos. Es lo que
+ocurre en casi todas las entregas de AC, cuya historia principal
+presenta el eterno conflicto entre dos sectas secretas: los asesinos y
+los templarios. La saga introduce de manera ingeniosa fragmentos de
+historia real en la narrativa ficticia que va desarrollando, por medio
+de varios videojuegos y ambientaciones. A partir de esta premisa,
+la línea principal se divide en dos subtramas vinculadas entre sí: la
+historia del pasado y la del presente. “La manera de revivir el pasado
+es una tecnología denominada Animus […] que permite acceder a los
+recuerdos de nuestros ancestros codificados en el ADN” (Esteban,
+2017, pp. 102-103). ACII se desarrolla en el Renacimiento italiano a
+finales del Quatroccento. Controlando al antepasado del protagonista
+por medio del Animus, podemos recorrer una versión muy lograda
+de las ciudades de Florencia, Venecia, el pequeño municipio de
+Monteriggioni y parte de la Toscana.
+     Por otro lado, en 2013 Douglas N. Dow publica un artículo vital
+para los HGS titulado “Historical Veneers: Anachronism, Simulation,
+and Art History in Assassin’s Creed II” que se recoge en el volumen
+Playing with the Past. Digital Games and the Simulation of History.
+En esta investigación, Dow cuenta cómo acometió el análisis de la
+ciudad de Florencia recreada en ACII cuando varios de sus alumnos
+afirmaron haber aprendido muchas cosas sobre el Renacimiento
+italiano con dicho videojuego. En su estudio, toma como referencia
+principal la teoría sobre simulación e hiperrealidad del sociólogo y
+filósofo francés Jean Baudrillard10 “para examinar cómo la inclusión
+de monumentos anacrónicos en el paisaje urbano de la Florencia
+del juego influye en la comprensión del jugador sobre el entorno
+construido de la ciudad tal como se ve hoy día” (Dow, 2013, p. 216).
+     Dow dedica gran parte de su artículo a estudiar en detalle los
+anacronismos presentes en la arquitectura de la Florencia digital, es
+decir, pone de manifiesto los “errores” en la recreación de algunos
+edificios y sus fachadas, y los posibles efectos negativos que esto
+puede tener en los jugadores:
+
+
+10 En uno de sus ensayos fundamentales, Cultura y simulacro (1978), Baudrillard se centró en
+   describir los conceptos de hiperrealidad y simulacro en base a los cuales se establece un
+   modelo virtual que suplantaría a la realidad. Dow parte de esta idea para la concepción
+   de su artículo.
+
+
+    Co-herencia Vol. 17, n.º 33 julio - diciembre de 2020, pp. 41-63. (ISSN 1794-5887 / e-ISSN 2539-1208)   51
+        La versión del juego de Santa Croce […] está decorada con una fachada
+        que se asemeja a la que adorna la iglesia real en la actualidad. Esta fachada
+        no se construyó hasta 1863, pero su presencia en el juego sugiere que es
+        mucho más antigua (Dow, 2013, pp. 219-220).
+
+    Según la lógica de Baudrillard expuesta por Dow, “el guiar a Ezio11
+a través de Florencia […] sumerge al jugador en una simulación de la
+ciudad y difumina la distinción entre lo real y lo representado” (Dow,
+2013, p. 218). Sin embargo, para Dow, esto no se cumple, ya que
+“no es una recreación exacta (simulación) de la ciudad del siglo xv y
+debe verse como un simulacro” (2013, pp. 218-19), es decir, una falsa
+semejanza que “colorea” la percepción del jugador en “lo que Anette
+Barnes y Jonathan Barnes llamaron un anacronismo no obvio […]
+una sutil mezcla de ficción que puede hacer que los observadores
+sean incapaces de distinguir entre la falsedad y la verdad” (p. 220).
+    La investigación de Dow sobre los anacronismos en la Florencia
+digital, así como los últimos trabajos sobre la calidad y rigurosidad
+histórica de la representación del Renacimiento y su ambientación
+en ACII abordan el análisis del videojuego interpretándolo desde
+disciplinas como la Historia, la Sociología, la Antropología o la Historia
+del Arte. La aparición y la implicación de los Game Studies ha sido
+beneficiosa para la aceptación del videojuego como objeto de estudio
+formal, pero, por otro lado, implica que estas líneas de trabajo dejen de
+lado la naturaleza intrínseca del videojuego como obra de arte creada
+con la misión de entretener bajo sus propias mecánicas y leyes artísticas:
+        Como campo de investigación multidisciplinar, la teoría del videojuego
+        tiene que ser -por naturaleza- la síntesis de una amplia variedad de enfoques,
+        pero al mismo tiempo tiene que centrarse en los aspectos exclusivos de los
+        videojuegos […] es precisamente la irreductibilidad del videojuego lo que
+        lo ha hecho tan difícil de definir formalmente y lo que ha provocado el
+        intenso debate sobre no sólo lo que debería ser, sino también sobre lo que
+        es exactamente (Wolf y Perron, 2003, p. 16).
+
+    Dow deja entrever estas cuestiones al comentar que las réplicas
+de los edificios que aparecen en el videojuego “no son simplemente
+escenografías, ya que el jugador debe navegarlas para conseguir los
+objetivos del juego. De hecho, el paisaje urbano fue diseñado para
+
+11 Protagonista en la trama del pasado de Assassin’s Creed II.
+
+
+
+52      El videojuego de temática histórica como arte visual: anacronías conscientes y licencias
+        creativas en la representación de espacios urbanos de la saga Assassin’s Creed
+        José Enrique Ocaña Romero y Francisco Javier Ruiz del Olmo
+acomodar la mecánica de juego” (2013, p. 216). Con esta afirmación Dow
+pone de manifiesto, de forma intuitiva, que la importancia del lenguaje
+y los mecanismos del videojuego funcionan en su propio universo.
+    Llegados a este punto nos hacemos una pregunta clave: ¿cómo
+consiguen los videojuegos como ACII construir y transmitir una
+imagen del pasado que resulte a su vez vigente en la actualidad?
+La respuesta se encuentra en los aspectos que critica Dow en su
+artículo: los anacronismos.
+
+Resultados. Anacronismos intencionados y
+sensación de familiaridad: el lenguaje artístico de
+los videojuegos históricos.
+    ACII es un caso de estudio muy peculiar ya que, aparte de ser
+un videojuego de una gran factura artística, contiene numerosas
+referencias a obras de arte existentes en la realidad (es metaarte):
+        En el entramado urbano de la Florencia de ACII nos encontraremos con
+        una serie de establecimientos en los que podemos adquirir obras capitales
+        del Renacimiento Italiano […] entre los autores de estas piezas hay algunas
+        de Piero della Francesca, Botticelli, Leonardo, Rafael y Tiziano, entre otros
+        (Leiva, 2018, p. 5).
+
+     Si adquirimos estas obras dentro del juego, más tarde aparecerán
+expuestas junto con otros objetos coleccionables en la villa de Ezio,
+como si de un museo renacentista se tratara.
+     Desde la historia del arte se han hecho análisis comparando
+con los modelos reales todas las obras arquitectónicas, pictóricas y
+escultóricas que aparecen en la recreación renacentista de ACII. En este
+sentido, Leiva (2018) relaciona el arte con los videojuegos y la historia
+para dar paso a un recorrido por la Florencia digital intercalando
+explicaciones sobre hechos históricos con la forma en la que están
+recreados los edificios y las anacronías que existen en ellos. El objetivo
+de la investigación resulta correcto, pero parece no estar claramente
+definido dado que finalmente concluye resaltando la obviedad de que
+el videojuego debe ser catalogado como arte simplemente por el hecho
+de que ACII tiene numerosas referencias a la historia del arte, o al
+menos eso es lo que se infiere. Con todo, y a nuestro juicio, el trabajo
+aporta ideas interesantes que no desarrolla lo suficiente:
+
+
+   Co-herencia Vol. 17, n.º 33 julio - diciembre de 2020, pp. 41-63. (ISSN 1794-5887 / e-ISSN 2539-1208)   53
+      Los productores y desarrolladores se toman licencias, pero su objetivo
+      principal no es el de hacer una reconstrucción histórica fidedigna, sino
+      el de crear una imagen de verosimilitud con la que podamos hacer una
+      aproximación medianamente adecuada a las características principales del
+      período histórico en cuestión (Leiva, 2018, p. 4).
+
+       Y efectivamente, al igual que ocurre con otras artes
+representacionales como el cine, los videojuegos de corte histórico
+actuales ofrecen un alto grado de inmersión gracias en parte al
+realismo de sus gráficos. El jugador que se dispone a jugar a títulos
+como ACII experimenta un acercamiento a la vida del período
+histórico representado por medio de la interacción con el personaje
+protagonista y el desarrollo de la trama. Asimismo, la inmersión
+que ofrezca un videojuego está relacionada directamente con el
+entretenimiento que es capaz de generar. A mayor inmersión, más
+entretenimiento experimenta el jugador. Brown y Cairns (2004)
+coinciden con otros muchos autores en que la inmersión propone al
+jugador, en el caso de los videojuegos, una sensación de alejamiento
+de lo real seguida de la aceptación de situaciones irreales que guardan
+una verosimilitud dentro de ese entorno no real. Según Armenteros y
+Fernández (2011), “el juego exige una mayor participación en el usuario
+y presuponemos que una de las claves de la inmersión se encuentra en
+la forma en la que el jugador interactúa con el juego” (p. 166).
+     Dow afirma al respecto que “a medida que las reproducciones
+se vuelven más sofisticadas e interactivas, es más probable que las
+experiencias sean mediadas (y medidas) a través de reproducciones
+y simulaciones” (Dow, 2013, p. 223). Partiendo de esta conjetura, el
+autor da por hecho que para algunos jugadores no familiarizados
+con los videojuegos genere decepción y confusión visitar Florencia y
+encontrarse con esos anacronismos después de haber jugado a ACII.
+Dow (2013) también indica que
+      La inclusión anacrónica de otros monumentos no construidos durante
+      el período de tiempo del juego garantiza que una persona que primero
+      experimentó los principales hitos de Florencia en la versión simulada de
+      la ciudad en Assassin’s Creed II los reconozca al visitar la ciudad al visitar
+      la ciudad real (p. 222).
+
+    Pero, para muchos, esto puede suponer el catalizador perfecto
+para que los jugadores investiguen por su cuenta sobre los sucesos
+
+
+54    El videojuego de temática histórica como arte visual: anacronías conscientes y licencias
+      creativas en la representación de espacios urbanos de la saga Assassin’s Creed
+      José Enrique Ocaña Romero y Francisco Javier Ruiz del Olmo
+históricos reales del Renacimiento. Otros autores que teorizan sobre
+las capacidades pedagógicas del videojuego están de acuerdo en que
+“un curioso efecto colateral de la falta de fidelidad […] por parte
+de la saga es la polémica y el debate que posteriormente genera en
+sus seguidores” (Iturriaga y Téllez, 2014, p. 147), incitándolos a la
+reflexión y al aprendizaje autónomo.
+     Dow revela que los anacronismos exponen a los jugadores a
+una visión falsa de los acontecimientos históricos, pero no tiene
+en cuenta que aun así también sería posible enseñar Historia por
+medio de este tipo de videojuegos. Esta es una postura defendida
+por otros historiadores que están a favor de usarlos como elemento
+educativo en sus aulas porque piensan que sus mecánicas, a pesar de
+los anacronismos, hacen más sencillo que un estudiante se pueda
+interesar en estos temas tan áridos para muchos. Baron (2010), por
+ejemplo, afirma que los videojuegos históricos como Call of Duty:
+World at War (2008) se apropian de material de archivo y eso tiene una
+carga y efectos en la percepción que de la Historia tiene el jugador:
+        Sostengo que las formas particulares en que se utiliza el material de
+        archivo documental en este juego tienen un poderoso potencial para dar
+        forma a la manera en que los usuarios experimentan y piensan sobre los
+        acontecimientos pasados representados (p. 303).
+
+    Aun así, educar al usuario no es el objetivo de las compañías que
+desarrollan este tipo de videojuegos, aunque “la trama que se quiere
+narrar se entrelaza de la forma más perfecta posible con la parte
+verificada de la Historia” (Rodríguez, 2015, p. 4). Si se realiza una
+radiografía de la calidad lograda por los artistas e investigadores que
+trabajaron en el diseño de la Florencia virtual se llega a la conclusión
+de que el propósito de dicho montaje es ofrecer una trama que resulte
+atractiva y entretenida. Y para ello, antes de ser completamente fiel
+a la Historia, debe ser creíble dentro del universo del juego. A esto
+se suma que el trabajo intensivo de documentación realizado por los
+creativos no tiene por qué verse finalmente reflejado. Raphael Lacoste,
+director de arte en ACII, afirmó en una entrevista lo siguiente:
+        No tenemos ni fotografías ni referencias contemporáneas con las que
+        empezar cuando comenzamos a concebir un proyecto. Para lograr
+        nuestros objetivos, nos comprometemos en largos e intensos períodos de
+
+
+
+
+   Co-herencia Vol. 17, n.º 33 julio - diciembre de 2020, pp. 41-63. (ISSN 1794-5887 / e-ISSN 2539-1208)   55
+      investigación empleando documentación histórica, mapas de la época,
+      ilustraciones, cuadros, diarios de viaje, etc. También tenemos la suerte de
+      poder viajar a las localizaciones para tener un sentido real de las vistas, los
+      sonidos y olores de esas ciudades fascinantes (Venables, 2011, p. 5).
+
+    Según las propias conclusiones expuestas en el volumen Playing
+with the Past, el anacronismo ejecutado de forma consciente abre la
+puerta a la curiosidad del jugador y a una posterior discusión entre
+los usuarios. Rodríguez (2015), historiadora de profesión, expone en
+su blog sobre la saga AC que la mayoría de esos anacronismos son
+intencionados por parte del equipo de desarrollo del juego y no son
+debidos a una incompetencia ya que cuentan con el asesoramiento
+de un historiador.
+    La prueba de que esos anacronismos son conscientes la podemos
+encontrar dentro del propio juego: en la base de datos del Animus.
+Uno de los personajes principales de ACII es un historiador llamado
+Shaun. Su función es ir instruyendo al protagonista cada vez que
+pasa por un edificio o conoce a algún personaje histórico relevante,
+ofreciéndole una breve referencia informativa a modo de notificación
+en la interfaz, que se va almacenando en la base de datos del Animus.
+En las entradas que se van generando durante la partida, el personaje
+de Shaun va dando pequeñas pistas sobre acontecimientos históricos
+que no están incluidos en la simulación que está reviviendo el
+protagonista por medio de la máquina Animus.
+    En la mayoría de los casos, el arte conceptual creado para el
+juego también revela estos anacronismos conscientes. Por ejemplo,
+en Assassin’s Creed III (2012) se muestra al personaje histórico
+Charles Lee sin la compañía de su célebre manada de perros
+pomerania, pero este detalle sí se encuentra recogido en la base de
+datos del Animus y en el trabajo de arte conceptual llevado a cabo
+durante el proceso de preproducción del videojuego. En la cuarta
+entrega de la saga se explica que la empresa encargada de fabricar
+el Animus selecciona los fragmentos de la memoria del protagonista
+para ofrecer a los espectadores/jugadores una aventura mucho más
+atractiva y espectacular. Esto, que puede parecer una explicación
+pobre, realmente hace referencia directa al lenguaje artificioso usado
+en la creación de este tipo de videojuegos haciendo patente que los
+
+
+
+56    El videojuego de temática histórica como arte visual: anacronías conscientes y licencias
+      creativas en la representación de espacios urbanos de la saga Assassin’s Creed
+      José Enrique Ocaña Romero y Francisco Javier Ruiz del Olmo
+creadores los conciben como un montaje que mezcla hábilmente la
+ficción con los datos reales.
+     En Assassin’s Creed Unity (2014), entrega ambientada en la
+Revolución francesa, aparece una versión digital a escala 1:1 de Notre
+Dame muy fiel a la catedral original. Sin embargo, Caroline Miousse,
+la creativa que dio vida al edificio, afirmó en una entrevista para la
+revista digital The Verge que tuvo que tomarse algunas licencias en
+el diseño de Notre Dame; cuando terminó el primer modelado, los
+testers del juego propusieron que el edificio se veía muy extraño sin
+las agujas tan icónicas que Viollet-le-Duc le incorporó en la gran
+restauración que se llevó a cabo a finales del siglo xix y, según la
+diseñadora, “la mayoría de la gente las imagina [las agujas] cuando
+piensan en el edificio, por lo que decidí incorporarlas a mi creación
+incluso si técnicamente no debían estar allí” (Webster, 2014, p. 10). Las
+vidrieras de la catedral, al estar protegidas por derechos de autor, no
+se pudieron reproducir en el juego, optando así por crear una versión
+personal lejanamente inspirada en las originales. Con ejemplos como
+este resulta patente que el desconocimiento de los desarrolladores no
+estuvo de por medio, sino más bien el imaginario actual.
+     Pero ¿por qué motivo la ciudad que aparece en ACII guarda
+más similitud con la Florencia que se puede visitar actualmente que
+con la versión del Renacimiento? Estos anacronismos se suceden
+continuamente en los videojuegos de esta saga y podemos afirmar
+que, si se analizan como herramientas propias del lenguaje del
+videojuego, ayudan a situar al jugador en una época histórica como el
+Renacimiento basándose en referencias arquitectónicas más actuales.
+Cuando contemplamos Il duomo de Florencia en el videojuego,
+        [r]esulta evidente que la mampostería de la fachada está incompleta.
+        Aunque esto refleja el estado inacabado de la catedral en el Renacimiento,
+        la fachada en construcción en Assassin’s Creed II no se parece a la fachada
+        parcial que estaba en la catedral en el siglo xv. En cambio, recuerda la
+        estructura del siglo xix que millones de turistas ven cuando visitan
+        Florencia hoy (Dow, 2013, p. 220).
+
+   El diseño que los creativos eligieron para representar el aspecto
+que luce Florencia en el videojuego hace posible que los jugadores
+experimenten algo parecido a ser turistas atemporales ya que,
+aunque no se logre una simulación perfecta del período histórico, se
+
+
+   Co-herencia Vol. 17, n.º 33 julio - diciembre de 2020, pp. 41-63. (ISSN 1794-5887 / e-ISSN 2539-1208)   57
+consigue transmitir al jugador una imagen del pasado a partir de una
+apariencia más actualizada y estilizada de la ciudad y sus elementos.
+    De ahí surgen estos anacronismos y por esta razón la fachada de la
+catedral de Santa María del Fiore que aparece en el videojuego es más
+parecida a la actual que a la original renacentista. Cabe destacar también
+que en muchos casos los edificios recreados son de una antigüedad tal
+que la Historia se ha encargado de borrar cualquier registro sobre el
+aspecto que lucían originalmente, por lo que usar el anacronismo para
+darle un aspecto actual parece ser la solución más eficaz.
+    De esta manera, la sensación de familiaridad se ve reforzada ya
+que el jugador encuentra un alto grado de similitud en los edificios
+más icónicos y en las particularidades de la ciudad captadas en el
+videojuego. Dependiendo del grado de conocimientos que tenga el
+usuario, le pasarán más o menos inadvertidos esos anacronismos,
+esas falsas semejanzas que el equipo creativo del juego lleva a cabo
+para evocar “no la exactitud, sino la personalidad de la ciudad […]
+a fin de alcanzar una mayor sensación de familiaridad de cara al
+espectador” (Rodríguez, 2015, p. 8).
+    Otro buen ejemplo sería la iglesia dominica Santa Maria Novella.
+Según Leiva (2018):
+       [E]s uno de los edificios que mejor se han recreado, destacando su portada,
+       el cuerpo externo de las naves del templo y la torre campanario […] No
+       obstante, la plaza en la que se ubica no tiene ningún parecido con la
+       realidad, y la estatua del Apolo del Belvedere que hay en el centro de esta no
+       se [descubrirá] hasta 1498 (p. 9).
+
+    Por otro lado, “la inclusión de monumentos que no se habían
+construido durante el tiempo en el que se establece el juego representa otra
+desviación” (Dow, 2013, p. 219). Vemos ejemplos de esto en la inclusión
+en ACII del corredor de Vasari añadido al Ponte Vecchio más tarde o en la
+cúpula de la iglesia de San Lorenzo construida en el siglo xvii.
+    En ACII, el equipo de desarrollo se centró en recrear con
+solvencia los edificios emblemáticos respetando la línea del paisaje
+de la urbe. Sin embargo, como ocurre con la omisión del baptisterio
+de San Giovanni, los desarrolladores decidieron adaptar el perfil
+arquitectónico de Florencia a la jugabilidad creando así rutas para
+que la navegación por el espacio resultara más disfrutable. Ezio
+escala y trepa a cualquier edificio, sube a los tejados para escapar de
+
+
+58     El videojuego de temática histórica como arte visual: anacronías conscientes y licencias
+       creativas en la representación de espacios urbanos de la saga Assassin’s Creed
+       José Enrique Ocaña Romero y Francisco Javier Ruiz del Olmo
+sus enemigos, navega por el interior y por el exterior de las iglesias
+con ayuda de andamios, cuerdas y algunos elementos ornamentales
+que nunca estuvieron allí realmente, pero que son colocados para
+favorecer la experiencia y las mecánicas de juego. Casi todas las
+decisiones de los desarrolladores a la hora de omitir o cambiar los
+elementos de la ciudad son tomadas con base en la propia naturaleza
+artística del videojuego.
+
+Conclusiones
+    Con el desarrollo de los objetivos planteados se evidencia la
+complejidad de la hipótesis inicial, verificándose solo en parte ya
+que, como se ha señalado en el ejemplo de las vidrieras de Notre
+Dame protegidas por derechos de autor, el anacronismo en el
+videojuego histórico no siempre tiene una razón de ser creativa sino
+que a menudo está motivada por el imaginario popular. Por otro
+lado, su uso proyecta sobre los jugadores una imagen actualizada del
+pasado de la ciudad reafirmando así que el proceso de creación de
+un videojuego histórico queda sujeto a una serie de variables que
+dependerán de múltiples factores artísticos: su coherencia narrativa,
+su atractivo visual o estética y su jugabilidad o gameplay.
+    A partir de las anteriores premisas se puede entender en mayor
+profundidad cómo y porqué los videojuegos de corte histórico son
+capaces de generar una imagen del pasado vigente en la actualidad.
+Estos anacronismos son parte del carácter representacional del
+videojuego ya que, en definitiva, son obras de ficción creadas por
+un equipo de artistas con el fin de atraer al usuario y entretenerlo.
+Los HGS dan cabida al videojuego en el ámbito académico de una
+forma sólida. Sin embargo, esta línea de investigación favorece un
+panorama en el que los historiadores analizan este tipo de obras
+desde un punto de vista en el que prima el rigor y la fidelidad del
+discurso histórico obviando, la mayoría de las veces, la naturaleza
+artística del videojuego y diseccionándolo según los intereses de las
+distintas disciplinas que abordan su estudio.
+    El videojuego, en definitiva, no es otra cosa que una obra
+audiovisual (e interactiva) que funciona como catalizador de las
+diferentes disciplinas artísticas que contiene en formato digital.
+
+
+   Co-herencia Vol. 17, n.º 33 julio - diciembre de 2020, pp. 41-63. (ISSN 1794-5887 / e-ISSN 2539-1208)   59
+Esto lo reivindica como “herramienta artística digital de lenguaje
+multidisciplinar” (Hidalgo, 2011, p. 341) ya que un videojuego puede
+contener técnicas derivadas del cine, la fotografía, el dibujo, la
+pintura, la literatura o la música.
+    Esta concepción se complica aún más cuando se observa que el
+propio término “Arte” relacionado a los videojuegos se ha convertido
+ya en un anacronismo lingüístico porque su uso implica relacionar un
+concepto del siglo xix con una obra que ha alcanzado la madurez en
+el xxi a pesar de que los videojuegos siempre han “mirado hacia atrás”.
+    Finalmente, y en un intento por abrir puertas a futuras
+investigaciones, ya no es novedoso relacionar arte y videojuegos
+puesto que su relación se remonta a los orígenes de estos últimos.
+Lo que sí es novedoso, además de urgente, es la búsqueda de una
+metodología propia que ayude al videojuego a asentarse como
+obra de arte visual e interactiva ofrecida en un soporte digital de
+posibilidades que se presentan infinitas y constantemente mutables.
+Una metodología que, desde los Game Studies, permita analizar a los
+videojuegos como obras de arte autónomas más allá de los postulados
+teóricos que lo vinculan a otras formas de representación
+
+Referencias
+Aarseth, E. (1997). Cybertext: Perpectives on Ergodic Literature. The Johns
+    Hopkins University Press.
+Aarseth, E. (2004). Genre Trouble: Narrativism and the art of simulation.
+    En Wardrip-Fruin, N. y Harrigan, P. (Eds.), First Person: New media as
+    story, performance and game (pp. 45-55). MIT Press.
+Armenteros, M. y Fernández, M. (2011). Inmersión, presencia y “flow”.
+   Contratexto, (19), 165-177. https://bit.ly/2BT3hOD
+Baron, J. (2010). Digital historicism: Archival footage, digital interface,
+    and historiographic effects in Call of Duty: World at War. Eludamos.
+    Journal for Computer Game Culture, 4(2), 303-314. https://www.
+    eludamos.org/index.php/eludamos/article/view/vol4no2-12/191
+Belli, S. y López, C. (2008). Breve historia de los videojuegos. Athenea
+      Digital, (14), 159-179. https://doi.org/10.5565/rev/athenead/v0n14.570
+
+
+
+
+60     El videojuego de temática histórica como arte visual: anacronías conscientes y licencias
+       creativas en la representación de espacios urbanos de la saga Assassin’s Creed
+       José Enrique Ocaña Romero y Francisco Javier Ruiz del Olmo
+Brown, E. y Cairns, P. (2004). A grounded investigation of game immersion.
+    CHI ACM Conference of Human Factors in Computing. ACM Press.
+Dow, D. (2013). Historical Veneers: Anachronism, Simulation, and Art
+    History in Assassin’s Creed II. En M. Kapell y A. Elliot. (Eds.), Playing
+    with the past. Digital Games and the simulation of History (pp. 215-231).
+    Bloomsbury.
+Esteban, G. (2017). La construcción de la narración y el héroe en el videojuego
+     a través del estudio de la saga Assassin’s Creed, desde una metodología
+     de análisis audiovisual, tomando como referencia las estructuras clásicas
+     del guion cinematográfico. (Tesis doctoral). Universidad de San Pablo
+     CEU, Madrid. https://bit.ly/2BJqEKB
+González, M. y Matas, D. (2017). De sombras y bestias: La travesía de Team
+   Ico. Héroes de papel.
+Hidalgo, X. (2011). Videojuegos. Un Arte para la Historia del Arte.
+    (Tesis doctoral). Universidad de Granada. https://digibug.ugr.es/
+    handle/10481/21727
+Isern Meix, J. (2012, marzo 11). Kojima opina que los videojuegos no son
+     arte. MeriStation. https://bit.ly/3iJarpf
+Iturriaga, B. y Téllez, A. (2014). Videojuegos y aprendizaje de la Historia:
+     la saga Assassin’s Creed. Contextos educativos, (17), 145-155. https://doi.
+     org/10.18172/con.2598
+Leiva Aldea, J. (2018). (Re) visitando la Florencia del Renacimiento.
+     Revista Eviterna, (Especial 3), 1-12. https://doi.org/10.24310/Eviternare.
+     v0i0.8223
+Martin, B. (2007). Should videogames be viewed as art? En A. Clarke y G.
+    Mitchell (Eds.), Videogames and Art (pp. 201- 209). Intellected Books.
+Peñate, F. (2017). Los Historical Game Studies como línea de investigación
+    emergente en las Humanidades. Cuadernos de Historia Contemporánea,
+    (39), 387-398. http://dx.doi.org/10.5209/CHCO.56282
+Planells de la Maza, A. (2013). La emergencia de los Game Studies como
+    disciplina propia: investigando el videojuego desde las metodologías
+    de la Comunicación. Historia y Comunicación Social, (18), 519-528.
+    http://dx.doi.org/10.5209/rev_HICS.2013.v18.43985
+
+
+
+
+   Co-herencia Vol. 17, n.º 33 julio - diciembre de 2020, pp. 41-63. (ISSN 1794-5887 / e-ISSN 2539-1208)   61
+Planells de la Maza, A. (2015). Videojuegos y mundos de ficción. De Super
+    Mario a Portal. Cátedra.
+Rodríguez, I. (2015). El videojuego como vía de expresión cultural. Blog
+    Licencia Histórica. https://bit.ly/38H3UXJ
+Tavinor, G. (2009). The Art of Videogames. Wiley-Blackwell.
+Uricchio, William. (2005). Simulation, history, and computer games en
+    Handbook of Computer Game Studies. En J. Raessens y J. Goldstein
+    (Eds.), Handbook of Computer Game Studies (pp. 327-339). MIT Press.
+Venables, M. (2011, marzo 11). Exclusive Interview: Ubisoft’s Creative
+    Teams on Assassin’s Creed Revelation. Wired. https://bit.ly/2CoBCov
+Villalobos, J. (2015). Cine y Videojuegos. Un diálogo transversal. Héroes de
+     papel.
+Webster, A. (2014, abril 17). Building a better Paris in Assassin’s Creed
+   Unity. The Verge. https://bit.ly/2VY4XNC
+Winnerling, T. y Kerschbaumer, F. (2014). Early Modernity and Video
+   Games. Cambridge Scholar.
+Wolf, M. y Perron, B. (2003). Introducción a la teoría del videojuego.
+    Formats: Revista de Comunicación Audiovisual, (4), 1-27. https://bit.
+    ly/2Obk024
+
+
+     Videojuegos citados
+
+Activision (2003-2019). Call of duty [serie de videojuegos] [Multiplataforma].
+    Activision.
+Activision (2008). Call of duty: World at War [videojuego] [Multiplataforma].
+    Activision.
+Atari / Namco (1972). Pong [videojuego] [Arcade]. Atari.
+Atari (1980). Adventure [videojuego] [Arcade]. Atari.
+Atari (1980). Pac-Man [videojuego] [Arcade]. Atari / Namco.
+Capcom (1987). Street Fighter [videojuego] [Arcade, Windows]. Capcom.
+Capcom (1989). Final Fight [videojuego] [Arcade]. Capcom.
+
+
+
+62     El videojuego de temática histórica como arte visual: anacronías conscientes y licencias
+       creativas en la representación de espacios urbanos de la saga Assassin’s Creed
+       José Enrique Ocaña Romero y Francisco Javier Ruiz del Olmo
+Colossal Order (2015). Cities: Skylines [videojuego] [Multiplataforma].
+    Paradox Interactive.
+Electronic Arts (2002-2018). Battlefield                                 [serie       de       videojuegos]
+     [Multiplataforma]. Electronic Arts.
+From Software (2009-2016). Demon Souls y trilogía Dark Souls [serie de
+    videojuegos] [Multiplataforma]. From Software.
+Konami / Hideo Kojima (1987-2015). Metal Gear [serie de videojuegos]
+    [Multiplataforma]. Konami / Hideo Kojima.
+Nintendo (1983). Mario Bros [videojuego] [Arcade]. Nintendo.
+Nintendo (1989). SimCity [videojuego] [SNES, móviles]. Nintendo.
+Pázhitnov, A. (1984). Tetris [videojuego] [Multiplataforma]. Alekséi
+    Pázhitnov.
+Thatgamecompany (2006). Flow [videojuego] [PSP, Playstation 3,
+    Playstation 4, PS Vita y Browser].
+Ubisoft (2007). Assassin’s Creed [videojuego] [Playstation 3, Xbox 360,
+    Windows]. Ubisoft Montreal.
+Ubisoft (2009). Assassin’s Creed II [videojuego] [PlayStation 4, Xbox One,
+    PlayStation 3, Xbox 360, Microsoft Windows, Mac OS]. Ubisoft
+    Montreal.
+Ubisoft (2012). Assassin’s Creed III [videojuego] [PlayStation 4, Xbox
+    One, PlayStation 3, Xbox 360, Wii U, Microsoft Windows]. Ubisoft
+    Montreal.
+Ubisoft (2014). Assassin’s Creed Unity [videojuego] [PlayStation 4, Xbox
+    One, Microsoft Windows]. Ubisoft Montreal.
+Ubisoft (2018). Assassin’s Creed Odyssey [videojuego] [PlayStation 4, Xbox
+    One, Microsoft Windows]. Ubisoft Quebec.
+
+
+
+
+   Co-herencia Vol. 17, n.º 33 julio - diciembre de 2020, pp. 41-63. (ISSN 1794-5887 / e-ISSN 2539-1208)   63
+

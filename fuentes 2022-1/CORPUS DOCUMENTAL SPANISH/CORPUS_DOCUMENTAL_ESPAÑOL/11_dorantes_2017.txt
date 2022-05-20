@@ -1,0 +1,942 @@
+ PSIENCIA                        REVISTA LATINOAMERICANA DE CIENCIA PSICOLÓGICA
+                                 LATIN AMERICAN JOURNAL OF PSYCHOLOGICAL SCIENCE
+
+
+
+                                         ARTÍCULO DE INVESTIGACIÓN                                                   RESEARCH PAPER
+
+                                         El uso prolongado de videojuegos
+                                         violentos influye en la percepción de la
+                                         violencia de adultos jóvenes
+                                         Prolonged use of Violent Videogames
+                                         Influences the Perception of Violence in Young
+                                         Adults.
+                                         Gabriel Dorantes Argandar
+                                         Centro de Investigación Transdisciplinar en Psicología. Universidad
+Cómo citar Citation                      Autónoma del Estado de Morelos.
+Dorantes Argandar, G. (2017). El uso
+prolongado de videojuegos violentos      gdorantesa@uaem.mx
+influye en la percepción de la
+violencia de adultos jóvenes.
+PSIENCIA. Revista Latinoamericana        Resumen
+de Ciencia Psicológica, 9, doi:
+10.5872/psiencia/9.2.22                  El presente estudio plantea la posibilidad de que el uso de videojuegos de
+                                         naturaleza violenta esté asociado a una mayor percepción de violencia en el
+Recibido Received
+4 / 5 / 2016
+                                         entorno. El objetivo principal es determinar la influencia que tiene el jugar
+                                         videojuegos de naturaleza violenta con la percepción de la violencia del
+Aceptado Accepted                        entorno. Con este fin, se construye un instrumento que evalúa la frecuencia
+10 / 8 / 2016                            con la que se juega una serie de videojuegos más comunes, y el nivel de
+Copyright                                violencia que tienen los mismos, además de una pequeña escala que busca
+© 2017 Dorantes Argandar                 determinar la percepción de la violencia. Dicho instrumento fue aplicado a
+Este es un artículo de acceso abierto    una muestra de 549 adultos jóvenes, quienes fueron abordados a través de
+bajo la licencia Creative Commons        diversos escenarios. Los resultados de este estudio demostraron que
+BY-NC-SA 4.0, lo que permite
+compartirlo o adaptarlo, sin fines       mientras más se jueguen videojuegos, mayor será la predilección de juegos
+comerciales, con indicación del autor    de naturaleza violenta. Además, se encuentra que el nivel educativo es un
+y la fuente original.
+                                         predictor de la predilección de menos juegos violentos, por lo que se
+This is an open access article under
+Creative Commons BY-NC-SA 4.0
+                                         recomienda abordar otras variables psicológicas en futuros estudios.
+license, which allows sharing or
+adapting it in any medium, without
+                                         Palabras clave
+commercial purposes, giving credit       Percepción de la violencia, Videojuegos violentos, Adultos jóvenes
+to original author and source.
+
+                                         Abstract
+                                         The present study states the possibility that the use of videogames that are of a violent nature
+                                         is associated to a greater perception of violence in one’s environment. An instrument was
+                                         constructed that evaluates the frequency of use of a series of the most common videogames,
+                                         the level of violence that they have, and a small scale that aims to determine the perception of
+                                         violence. Said instrument was used to gather a sample of 549 young adults, who were
+                                         contacted through different settings. The results of this study state that whilst a person plays
+                                         more videogames, the greater his perception of violence will be, and the greater he or she will
+                                         invest time in playing videogames of a violent nature. Also, it is found that the level of
+                                         education predicts the frequency of playing less violent videogames, which recommends
+                                         exploring psychological variables in future studies.
+                                         Keywords
+                                         Perception of Violence, Videogames, Young Adults.
+
+                                VOLUMEN 9 – NÚMERO 2 (JUNIO 2017)
+PSIENCIA                        VOLUME 9 – ISSUE 2 (JUNE 2017)
+                                                                                            DOI: 10.5872/psiencia/9.2.22                1
+                                                                              Uso prolongado de videojuegos violentos
+PSIENCIA    REVISTA LATINOAMERICANA DE CIENCIA PSICOLÓGICA
+            LATIN AMERICAN JOURNAL OF PSYCHOLOGICAL SCIENCE                       Prolonged use of Violent Videogames
+
+
+                    Introducción
+                    La violencia es un tema que está afectando a América Latina de una manera
+                    incontrolable, y México no está exento a esta problemática social, política y humana. La
+                    migración de la población hacia las grandes ciudades ha resultado en un estilo de vida
+                    cotidiano que incluye a la violencia como uno de sus factores de riesgo principales. El
+                    modelo de ciudad que se encuentra vigente en estos tiempos ha contribuido a que
+                    aparezcan nuevas formas de violencia que no habían sido vistas antes, como los sicarios
+                    y las masacres colectivas (Vera-Jiménez, Ávila-Guerrero & Dorantes-Argandar, 2014).
+                    Existen ya varios estudios en países latinoamericanos que buscan abordar esta
+                    problemática desde diversos puntos de vista, como lo son las dinámicas de pareja
+                    (Pazos-Gómez, Oliva-Delgado, & Hernándo Gómez, 2014), la televisión y la violencia
+                    (Martín-Ramirez, 2007), o la violencia política (Vera-Márquez, Palacio-Sañudo, Maya-
+                    Jariego, & Holgado-Ramos, 2015). Es por esta razón que los estudios que buscan
+                    entender el fenómeno de la violencia son de aporte pues permiten entender cómo es
+                    que se desencadena y qué hay que hacer para disminuirla.
+
+                    Observando los errores metodológicos de Dorantes-Argandar y Molina-Vega (2016), se
+                    pretendió abordar una metodología más comprensiva que evaluara con mayor precisión
+                    el uso de videojuegos, debido a que estos autores sólo utilizaron un ítem para
+                    determinar la frecuencia de uso de videojuegos, y no se hizo distinción entre
+                    videojuegos violentos y no violentos. Esto llevo a la decisión de construir un estudio
+                    similar pero que aborde estas deficiencias, pues existe evidencia de que sí existe una
+                    relación entre el uso de videojuegos y la exposición a contenido violento. Sobresalen
+                    dos estudios meta-analíticos sobre el contenido violento de los videojuegos y su
+                    relación con diversos componentes cognitivos, afectivos y comportamentales. El
+                    primero de ellos es de Ferguson (2007), donde evalúa el impacto de los videojuegos en
+                    la agresión y en la cognición visoespacial. Este autor encuentra que en general si hay
+                    una relación entre los videojuegos de “contenido más activo” y la generación de
+                    habilidades relacionadas con el entendimiento de los espacios, y que no hay una
+                    relación claramente probada entre este tipo de videojuegos y la generación de
+                    comportamientos agresivos, o variables relacionadas a éstos. El segundo meta-análisis,
+                    llevado a cabo por Sherry (2001), que al parecer es considerado como un argumento
+                    importante en este tema, encuentra que sí hay una relación entre la agresión y el uso de
+                    videojuegos (en general), pero que dicha relación es de naturaleza espuria, y que incluso
+                    es inferior a la que se encuentra entre la agresión y la televisión. Este mismo autor
+                    manifiesta que la distinción entre juegos violentos y no-violentos no es clara, dado que
+                    incluso los videojuegos de contenido deportivo pueden llegar a ser considerados como
+                    tales. El autor del presente estudio pretende abonar un ladrillo más al esclarecimiento
+                    de dicha problemática. Un estudio realizado en China (Wei, 2007), encontró que jugar
+                    videojuegos de contenido violento estaba fuertemente vinculado con una mayor
+                    tolerancia para la violencia, una actitud empática hacia los otros, y un nivel más alto de
+                    agresión, pero el mismo autor reporta que cuando realizaba análisis de regresión
+                    controlando por otras variables, los niveles de significancia se perdían. Definitivamente,
+                    uno puede pensar que el jugar videojuegos de contenido violento estará relacionado
+                    con el comportamiento agresivo, pero es cuestionable pensar que el primero lleva
+                    irremediablemente al segundo. Un estudio llevado a cabo en adolescentes alemanes
+                    (Möller & Krahé, 2009), encontró que sí hay una relación entre el uso de videojuegos de
+                    naturaleza violenta y la composición de normas agresivas y, un vínculo indirecto, a
+                    través de dichas normas, con un efecto de atribución social hostil. Dada la naturaleza
+                    longitudinal de dicho estudio, también encuentra que hay una relación duradera de
+                    dicho efecto a lo largo del tiempo. Otro estudio (Annie Jin, 2011) encuentra que los
+                    videojuegos “pro-sociales” tienen la capacidad de generar niveles mayores de empatía,
+                    mientras que los videojuegos violentos tienden a generar altruismo superficial.
+
+
+
+           VOLUMEN 9 – NÚMERO 2 (JUNIO 2017)
+PSIENCIA   VOLUME 9 – ISSUE 2 (JUNE 2017)
+                                                                  DOI: 10.5872/psiencia/9.2.22                  2
+                                                                               Uso prolongado de videojuegos violentos
+PSIENCIA    REVISTA LATINOAMERICANA DE CIENCIA PSICOLÓGICA
+            LATIN AMERICAN JOURNAL OF PSYCHOLOGICAL SCIENCE                        Prolonged use of Violent Videogames
+
+
+                    El ambiente social de los videojuegos permite a los participantes aprender e
+                    intercambiar códigos, normas y valores socio-culturales, además de generar una
+                    perspectiva de participación y ubicación espacio-temporal que se supone debe de
+                    constreñirse al ambiente del videojuego (Huerta-Rojas, 2005). El tener pares que
+                    constantemente incurren en comportamientos violentos y tener una perspectiva
+                    cognitiva que tienda a legitimizar las respuestas agresivas hacia la violencia, tiene un
+                    efecto de incremento de la probabilidad de externalizar conductas violentas como
+                    método de resolución de problemas, y un fuerte apego hacia los padres tiende a reducir
+                    ese mismo riesgo (Salzinger, Feldman, Rosario, & Ng-Mak, 2010). El sentido común
+                    llevaría a pensar que estos aprendizajes no se restringen al ambiente donde se generan,
+                    pues por ser un entorno social tienen un impacto profundo en las estructuras cognitivas
+                    y la personalidad de los individuos. Hay autores que consideran a los videojuegos
+                    escenarios donde los participantes aprenden y asumen la violencia como un recurso
+                    válido de resolución de conflictos cotidianos y de movimientos de desigualdad social de
+                    diversa naturaleza, incluyendo aquellos de interacción social (Huerta-Rojas, 2005). El
+                    tema de la violencia en los videojuegos y su influencia en la generación de violencia es
+                    un tema que aún está siendo debatido y no hay evidencia concreta que explique el
+                    fenómeno claramente (Ferguson, San Miguel, Garza, & Jerabeck, 2011). Scolari (2010)
+                    sostiene que el objeto de estudio no debería de ser el elemento en sí, sino el proceso a
+                    través del cual se genera la interacción entre el individuo y la tecnología en cuestión, lo
+                    que él llama “hipermediaciones”. Se considera que el efecto que tienen los videojuegos
+                    en aquellos quienes los juegan es un importante objetivo de la ciencia dado al gran
+                    número de niños, adolescentes y adultos que comparten esta afición (Prot, Anderson,
+                    Gentile, Brown, & Swing, 2014).
+
+                    Huesmann y Kirwil (2007) hacen un excelente recuento de las posturas teóricas que
+                    sostienen que la observación del comportamiento violento tiende a incrementar la
+                    probabilidad de desencadenar comportamiento violento por parte del observador, tales
+                    como el priming semántico, la construcción y evocación de esquemas de
+                    comportamiento, los modelos de procesamiento de la información, los modelos de
+                    evocación, el aprendizaje vicario, etc. Sin embargo, es posible que la participación del
+                    individuo en el videojuego haga que el esquema cognitivo sea diferente al que se evoca
+                    al ver la televisión. La importancia de estudiar la relación entre la exposición a la
+                    violencia en los medios de comunicación y el comportamiento agresivo ha crecido en
+                    función de la evolución de los formatos de dichos medios (como los videojuegos), lo
+                    cual ha llevado a cuestionar si las ideas generadas sobre el aprendizaje del
+                    comportamiento violento observado en la televisión, tiene el mismo efecto con estas
+                    nuevas tecnologías (Kronenberger et al., 2005). Anderson, Gentile, & Dill (2012)
+                    encuentran que jugar videojuegos de naturaleza violenta es un factor de riesgo causal
+                    de una serie de efectos detrimentales a corto y mediano plazo, entre los cuales se
+                    encuentra una probabilidad mayor de realizar comportamientos físicamente agresivos.
+                    Anderson & Dill (2000) encuentran que jugar videojuegos violentos es un predictor
+                    mucho más poderoso de comportamiento delictivo que sólo jugar videojuegos en
+                    general.
+
+                    La evaluación del peligro involucra a la emoción así como a diversos componentes
+                    cognitivos (como por ejemplo el miedo y la percepción del peligro), y fungen como una
+                    guía para elaborar estrategias de afrontamiento (DeBoard-Lucas & Grych, 2011). Las
+                    personas están constantemente monitoreando el ambiente social en busca de claves
+                    que les indiquen aceptación o rechazo, por lo menos a un nivel relativamente no
+                    consciente (Vorauer & Sakamoto, 2008). Estos hallazgos sugieren que las reacciones
+                    evaluativas inmediatas de las personas hacia los estímulos de su entorno son
+                    importantes determinantes de su comportamiento (Ferguson, 2007). La exposición
+                    previa a la violencia, especialmente aquella que ocurre en casa y/o la escuela puede
+                    tener mayores efectos que la violencia en la comunidad en general, dado que se espera
+
+
+           VOLUMEN 9 – NÚMERO 2 (JUNIO 2017)
+PSIENCIA   VOLUME 9 – ISSUE 2 (JUNE 2017)
+                                                                   DOI: 10.5872/psiencia/9.2.22                  3
+                                                                              Uso prolongado de videojuegos violentos
+PSIENCIA    REVISTA LATINOAMERICANA DE CIENCIA PSICOLÓGICA
+            LATIN AMERICAN JOURNAL OF PSYCHOLOGICAL SCIENCE                       Prolonged use of Violent Videogames
+
+
+                    que el o la adolescente pase la mayor parte del tiempo en estos contextos y son mucho
+                    más difíciles de evitar (Mrug & Windle, 2010). Los lazos familiares son importantes al
+                    estar constantemente expuesto a contextos violentos, pero hay evidencia de que los
+                    lazos significativos con los pares pueden ser más importantes (Salzinger, Feldman,
+                    Rosario, & Ng-Mak, 2010). El consenso gira alrededor de la adaptación de la persona a
+                    su ambiente, así como a los eventos que le son demandantes, amenazantes, o incluso
+                    peligrosos para el individuo (Lazarus & Folkman, 1984).
+
+                    El grado en que las acciones de una persona pueden dar forma a las actitudes del
+                    perceptor está determinado por el proceso cognitivo de la información individualizada
+                    preexistente que se tenga del sujeto observado (McConnel, Rydell, Strain, & Mackie,
+                    2008). Las expectativas de la habilidad propia de afrontar efectivamente una situación
+                    que es evaluada como peligrosa influyen no sólo en la respuesta comportamental, sino
+                    también en los niveles de ansiedad y depresión experimentados (DeBoard-Lucas &
+                    Grych, 2011). Además, también se percibe que uno de los factores importantes en la
+                    exposición a contextos violentos es la ansiedad que esto genera, y es importante
+                    entender las diferencias entre sexos y los grupos de edad, especialmente si son jóvenes
+                    (Gaylord-Harden, Cunningham, & Zelencik, 2011). Los niños evalúan el grado de
+                    amenaza que una interacción dada significa para ellos o para sus familias: por qué es
+                    que ocurre y cómo es que deben de responder (DeBoard-Lucas & Grych, 2011). Cuando
+                    la gente se enfrenta a decisiones riesgosas categorizan sus opciones de decisión como
+                    ganancias o pérdidas potenciales de un punto de referencia saliente, tal como el status
+                    quo (Guthrie & Rachlinski, 2001). Es por esta razón que se considera importante
+                    entender la relación que tiene el uso de videojuegos y la percepción de la violencia en el
+                    entorno de aquellos que los juegan. Este estudio pretende, dentro de sus propias
+                    limitaciones, colocar una piedra argumentativa en este sentido. El uso cotidiano de los
+                    videojuegos no debe hacer que la percepción de la violencia en el entorno de los niños
+                    sea diferente, por lo menos no diferente a aquella de sus pares que no hacen uso
+                    cotidiano de los videojuegos.
+
+                    Por otra parte, el crecimiento desmedido de la población de los centros urbanos es uno
+                    de los temas sociales más representativos de los problemas que nos hemos enfrentado
+                    como especie durante el último siglo (Villalvazo Peña, Corona Medina, & García Mora,
+                    2002). Se espera que los contextos urbanos en México sean significativamente más
+                    aversivos hacia los individuos, de tal manera que los ciudadanos utilizan una gran
+                    porción de sus recursos colectivos para asegurar su supervivencia, lo cual a su vez
+                    requiere de un constante gasto de recursos cognitivos para determinar si un contexto es
+                    seguro o no. Existen estudios que demuestran que la ciudad de Cuernavaca tiene una
+                    problemática de agresividad vial (Dorantes-Argandar, Cerda-Macedo, Tortosa-Gil, &
+                    Ferrero Berlanga, 2015 y 2015a), que puede estar relacionado con un elevado nivel de
+                    estrés en dicho contexto (Dorantes-Argandar, Tortosa-Gil, & Ferrero-Berlanga, 2016).
+                    Parece que el “progreso” ha tenido efectos negativos en la salud de los individuos,
+                    generando situaciones que tienen el potencial de impactar en las reacciones de estrés,
+                    tales como el sonido, la contaminación, el tráfico y la inseguridad (Evans, Johansson, &
+                    Rydstedt, 1998).
+
+                    El concepto de contexto urbano ha tenido que enfrentar dificultades para ser un
+                    concepto claro debido a los temas añadidos al consenso de las particularidades que le
+                    son inherentes a cada situación dada, a cada ciudad “urbana” de cada país del mundo
+                    (Villalvazo Peña, Corona Medina, & García Mora, 2002). Algunas características de los
+                    contextos urbanos han sido descritos en varios estudios (Villalvazo Peña, Corona
+                    Medina, & García Mora, 2002; Allison et al., 1999; Ahmed Memon, Pearson, & Imura,
+                    2005; Lima Aranzaes, Juárez García, & Arias Galicia, 2012; Flores Morales, Reyes Pérez,
+                    & Reidl Martinez, 2012; Medina Mora et al, 2005; Bithas & Christofakis, 2006), en los
+                    que se incluyen: muchedumbres y grandes aglomeraciones de personas, el tamaño y
+
+
+           VOLUMEN 9 – NÚMERO 2 (JUNIO 2017)
+PSIENCIA   VOLUME 9 – ISSUE 2 (JUNE 2017)
+                                                                  DOI: 10.5872/psiencia/9.2.22                  4
+                                                                               Uso prolongado de videojuegos violentos
+PSIENCIA    REVISTA LATINOAMERICANA DE CIENCIA PSICOLÓGICA
+            LATIN AMERICAN JOURNAL OF PSYCHOLOGICAL SCIENCE                        Prolonged use of Violent Videogames
+
+
+                    densidad de la población, la infraestructura involucrada en los medios de
+                    transportación, las actividades que se realizan por los habitantes de dicha localidad, la
+                    exposición que se tiene a hechos potencialmente violentos, la contaminación
+                    ambiental, la vulnerabilidad al estrés y a bajos niveles de calidad de vida, un alto índice
+                    de criminalidad y zonas con altos índices de vulnerabilidad social.
+
+                    La necesidad de estudiar los factores predisponentes a la violencia y la agresión en los
+                    individuos de los contextos urbanos es innegable. Selye (1978) sostiene que las
+                    aglomeraciones de personas y las condiciones de vida urbanas son capaces de poner en
+                    riesgo el bienestar de los individuos y disparar reacciones de estrés que indiquen la
+                    necesidad de garantizar la supervivencia de los individuos. Estudiar cómo el uso
+                    prolongado de los videojuegos, y el nivel de violencia en ellos, tienen la capacidad de
+                    modificar la percepción de la violencia en los adolescentes de un centro urbano
+                    permitirá comprender si uno de los factores particulares de este tipo de contextos
+                    impacta en el entendimiento que se tiene del entorno.
+
+                    Uno de los problemas metodológicos (además de éticos) al estudiar la exposición a
+                    contenido violento en los videojuegos es la exposición misma: en un estudio
+                    experimental, el experimentador tiene el control del tiempo al que se expone el sujeto;
+                    sin embargo, en la vida cotidiana es mucho más difícil controlar dicho efecto
+                    (Kronenberger et al, 2005). Este estudio pretende abordar el tema desde una
+                    perspectiva ex post facto. Dado que es en extremo complejo dosificar horas de
+                    exposición a un número determinado de adultos jóvenes en un espacio determinado
+                    bajo condiciones controladas, el autor de este estudio parte de la idea de evaluar a
+                    aquellos participantes que ya de por sí invierten una porción de su tiempo involucrados
+                    en esta actividad.
+
+                    El objetivo general del presente trabajo es estudiar la relación entre la percepción de la
+                    violencia en el contexto de los participantes y la frecuencia de uso de videojuegos de
+                    naturaleza violenta por parte de los participantes. Los objetivos específicos son
+                    determinar la percepción de la violencia en el hogar, la colonia y la ciudad por parte de
+                    los participantes; y determinar si el uso prolongado y el nivel de violencia de los
+                    videojuegos influye en la percepción de la violencia. De acuerdo a estos objetivos las
+                    hipótesis planteadas son las siguientes: H1: El uso de videojuegos violentos influye en la
+                    percepción de la violencia. H0: El uso de videojuegos violentos no influye en la
+                    percepción de la violencia. Ha: La percepción de la violencia influye en el uso de
+                    videojuegos violentos.
+
+                    Método
+
+                    Diseño
+                    El diseño de esta investigación es de naturaleza cuantitativa, no-experimental, de corte
+                    transversal, ex post facto. Se hizo un levantamiento de datos en el área conurbada de la
+                    ciudad de Cuernavaca a través del equipo de investigación construido con este fin en
+                    mente, a lo largo de 3 meses. La base de datos generada con los cuestionarios aplicados
+                    fue procesada a través de la paquetería estadística SPSS en su versión 19, en un
+                    ordenador de escritorio que opera a través del sistema operativo Windows en su versión
+                    7. A través de esta herramienta se calculó el Alfa de Cronbach y análisis factorial para
+                    evaluar la consistencia interna de las agrupaciones de ítems, t de Student para realizar
+                    comparaciones de medias, r de Pearson para establecer correlaciones, y regresiones
+                    lineales para determinar influencias. Adicionalmente se realizó un tratamiento de los
+                    datos tipo Logit (Johnson, 1999), para potenciar las regresiones. El diseño experimental
+                    de este estudio se basó en la estrategia de Dorantes-Argandar, Ferrero-Berlanga y
+
+
+
+           VOLUMEN 9 – NÚMERO 2 (JUNIO 2017)
+PSIENCIA   VOLUME 9 – ISSUE 2 (JUNE 2017)
+                                                                   DOI: 10.5872/psiencia/9.2.22                  5
+                                                                               Uso prolongado de videojuegos violentos
+PSIENCIA    REVISTA LATINOAMERICANA DE CIENCIA PSICOLÓGICA
+            LATIN AMERICAN JOURNAL OF PSYCHOLOGICAL SCIENCE                        Prolonged use of Violent Videogames
+
+
+                    Tortosa-Gil (2016) para crear un instrumento que se adaptara a la realidad local que
+                    pretende evaluar.
+
+                    Participantes
+                    La muestra de este estudio fue compuesta por 549 adultos jóvenes (410 hombres, 141
+                    mujeres), con una media de edad de 20.66 años (DE = 3.24). El nivel educativo de los
+                    participantes fue de preparatoria terminada (74.6%), y la ocupación más frecuente fue
+                    de estudiante (87%). Los participantes fueron elegidos por un método no-probabilístico
+                    sistematizado, a través de un grupo de investigación compuesto por 17 practicantes de
+                    la Licenciatura en Psicología, dos tesistas de la Licenciatura en Psicología, y dos tesistas
+                    de la Maestría en Psicología, todos de la Universidad Autónoma el Estado de Morelos,
+                    en el área conurbada de la ciudad de Cuernavaca, Morelos (México), la cual comprende
+                    los municipios de Cuernavaca, Temixco, Jiutepec, y Emiliano Zapata.
+
+                    Procedimiento
+                    Dichos estudiantes consultaron con amigos, compañeros de trabajo, familiares, y
+                    conocidos, buscando completar una cuota de instrumentos a llenar. El periodo de
+                    levantamiento de datos se realizó de marzo a abril de 2015. Los criterios de inclusión de
+                    la muestra fueron tener el hábito de jugar videojuegos y haber residido dentro de los
+                    límites de la mancha urbana de la ciudad de Cuernavaca, Morelos, durante al menos los
+                    últimos 5 años. Todas aquellas personas que no cumplían con los criterios de inclusión
+                    no eran invitadas a participar.
+
+                    Instrumentos
+                    El instrumento utilizado fue diseñado a través de una técnica cualitativa, descrita a
+                    continuación. Se compuso una muestra de 110 adultos jóvenes con una media de edad
+                    de 20.66 años (DE = 2.976), de los cuales 80% fueron hombres y 22% fueron mujeres. El
+                    nivel educativo de los participantes fue preparatoria terminada (75.5%) y la ocupación
+                    más predominante fue estudiante (82.7%). A esta muestra se le pidió que contestara a
+                    la siguiente pregunta: ¿Cuál es el videojuego que más juegas? A través de este esfuerzo
+                    se eligieron los 14 videojuegos con mayores frecuencias, y se construyó una escala que
+                    determina por un lado la evaluación de violencia de los videojuegos elegidos tipo Likert
+                    de 1 a 5 (siendo 1 nunca y 5 siempre., y por el otro la frecuencia de juego de los mismos a
+                    través de la misma estrategia.
+
+                    Resultados
+                    Esta escala fue aplicada a una subsecuente muestra de 549 individuos de los cuales
+                    74.7% fueron hombres y 25.3% mujeres, con una media de edad de 20.7 años (Des. est.
+                    = 3.24). Su ocupación fue prevalentamente estudiante (86.4%), y manifestaban invertir
+                    entre una hora (22.5%), dos horas (27.4%), y 3 horas (19.3%) al día para jugar
+                    videojuegos (Media = 2.89, D.E. = 2.22).
+
+                    La escala que evalúa la frecuencia de juego obtuvo un alfa de Cronbach de .720. La
+                    segunda escala, la cual evalúa la violencia del título (siendo 1 nada violento y 5
+                    extremadamente violento), obtuvo un alfa de Cronbach de .83. La frecuencia con la que
+                    los títulos seleccionados en el instrumento de este estudio son presentados en la tabla
+                    1.
+
+
+
+
+           VOLUMEN 9 – NÚMERO 2 (JUNIO 2017)
+PSIENCIA   VOLUME 9 – ISSUE 2 (JUNE 2017)
+                                                                   DOI: 10.5872/psiencia/9.2.22                  6
+                                                                                Uso prolongado de videojuegos violentos
+PSIENCIA    REVISTA LATINOAMERICANA DE CIENCIA PSICOLÓGICA
+            LATIN AMERICAN JOURNAL OF PSYCHOLOGICAL SCIENCE                         Prolonged use of Violent Videogames
+
+
+                    Tabla 1. Estadísticos descriptivos para frecuencia de uso de los títulos seleccionados.
+                    Juego                                       Media                              D. E.
+                    Assasin’s Creed                              2,06                              1,173
+                    Call of Duty                                 2,42                              1,316
+                    FIFA                                         2,68                              1,553
+                    Gears of War                                 2,68                              1,364
+                    Grand Theft Auto                             2,57                              1,383
+                    Halo                                         2,71                              1,404
+                    League of Legends                            1,83                              1,198
+                    Legend of Zelda                              2,24                              1,360
+                    Mario Bros.                                  2,87                              1,367
+                    Mario Kart                                   2,79                              1,424
+                    Resident Evil                                2,76                              1,366
+                    Mortal Kombat                                2,30                              1,289
+                    Pokémon                                      2,00                              1,333
+                    Guitar Hero                                  2,45                              1,409
+
+                    En la Tabla 2 se puede observar que el juego menos frecuente fue League of Legends,
+                    mientras que el más frecuente fue Mario Bros. En la siguiente tabla se presentan el nivel
+                    de violencia que tiene cada juego, según evaluaron los participantes.
+
+                    Tabla 2. Estadísticos descriptivos para nivel de violencia de los títulos seleccionados.
+                    Juego                            Media                             D. E.
+                    Assasin’s Creed                  2,76                              ,987
+                    Call of Duty                     3,15                              1,073
+                    FIFA                             1,29                              ,744
+                    Gears of War                     3,31                              1,099
+                    Grand Theft Auto                 3,58                              1,314
+                    Halo                             2,95                              1,106
+                    League of Legends                1,92                              ,973
+                    Legend of Zelda                  1,69                              ,866
+                    Mario Bros.                      1,33                              ,714
+                    Mario Kart                       1,35                              ,781
+                    Resident Evil                    3,37                              1,144
+                    Mortal Kombat                    3,69                              1,200
+                    Pokémon                          1,44                              ,840
+                    Guitar Hero                      1,18                              ,509
+
+
+
+
+           VOLUMEN 9 – NÚMERO 2 (JUNIO 2017)
+PSIENCIA   VOLUME 9 – ISSUE 2 (JUNE 2017)
+                                                                    DOI: 10.5872/psiencia/9.2.22                  7
+                                                                                Uso prolongado de videojuegos violentos
+PSIENCIA    REVISTA LATINOAMERICANA DE CIENCIA PSICOLÓGICA
+            LATIN AMERICAN JOURNAL OF PSYCHOLOGICAL SCIENCE                         Prolonged use of Violent Videogames
+
+
+                    La Tabla 3 muestra que el video juego evaluado como más violento es Mortal Kombat,
+                    mientras que el menos violento es Guitar Hero.
+
+                    Adicionalmente se presentaron 4 ítems que pretendían evaluar el nivel de violencia en el
+                    contexto del individuo, y está compuesto de 4 preguntas (además de la información
+                    demográfica), de las cuales 3 eran de tipo Likert de 1 a 5 donde 1 equivalía a Nada
+                    Violenta y 5 equivalía a Extremadamente Violenta. Las preguntas son las siguientes:
+                    ¿Qué tan violenta es tu casa? ¿Qué tan violenta es tu colonia? ¿Qué tan violenta es tu
+                    ciudad? El conjunto de las tres preguntas anteriores obtuvo un alfa de Cronbach de .62.
+                    Este último alfa se encuentra en la frontera entre aceptable y de buen nivel, acorde con
+                    la escala que proponen Vera-Jiménez, Ávila-Guerrero, y Dorantes-Argandar (2014).
+
+                    Se realizó un análisis factorial con rotación Varimax a la escala que evaluaba la violencia
+                    de los títulos. Dicho análisis obtuvo una medida de adecuación muestral KMO de .93,
+                    una prueba de esfericidad de Bartlett de 2618.54, gl=90 p≤.001, una prueba de bondad
+                    de ajuste X² de 195.5, gl=52, p≤.001), y arrojó tres factores diferentes que explicaban en
+                    su conjunto un 57.24 % de la varianza. La siguiente tabla muestra las agrupaciones de
+                    los ítems en los factores.
+
+                    Tabla 3. Análisis factorial con rotación Varimax de la escala de nivel de violencia.
+
+                    Juego                    Factor 1                Factor 2                      Factor 3
+                    Assasin’s Creed                          .561
+                    Call of Duty                             .700
+                    Gears of War                             .768
+                    Grand Theft Auto                         .768
+                    Halo                                    .640
+                    Resident Evil                            .757
+                    Mortal Kombat                            .773
+                    FIFA                                                              .427
+                    Mario Bros.                                                       .859
+                    Mario Kart                                                        .839
+                    Pokémon                                                            .673
+                    Guitar Hero                                                       .556
+                    League of Legends                                                                           .800
+                    Legend of Zelda                                                                             .675
+
+                    La tabla 3 muestra cómo se componen los 3 factores de la escala de nivel de violencia.
+                    Los factores se nombraron con el nivel de violencia (Muy violentos, Violentos, y Poco
+                    Violentos). Esta estructura fue sometida a un análisis factorial confirmatorio, el cual se
+                    presenta en la figura 1.
+
+
+
+
+           VOLUMEN 9 – NÚMERO 2 (JUNIO 2017)
+PSIENCIA   VOLUME 9 – ISSUE 2 (JUNE 2017)
+                                                                    DOI: 10.5872/psiencia/9.2.22                  8
+                                                                                Uso prolongado de videojuegos violentos
+PSIENCIA    REVISTA LATINOAMERICANA DE CIENCIA PSICOLÓGICA
+            LATIN AMERICAN JOURNAL OF PSYCHOLOGICAL SCIENCE                         Prolonged use of Violent Videogames
+
+
+                    Figura 1. Análisis Factorial Confirmatorio de la escala de Violencia en los Videojuegos.
+
+
+
+
+                    El análisis factorial confirmatorio muestra que la estructura tiene un adecuado nivel de
+                    ajuste (X² = 337.14, gl = 74, p ≤.01, CFI=.9, TLI= .86, RMSEA=.08), por lo que se considera
+                    que los datos obtenidos a través de ella pueden obedecer esa estructura factorial.
+                    Utilizando esta información se construyó un índice que pudiera determinar qué tan
+                    frecuente un participante jugaba los videojuegos más violentos. Dicho índice tuvo una
+                    media de 2.49, una desviación estándar de .82, y una mediana de 2.57. Así, todos los
+                    participantes que tuvieran un indicador por encima de 2.5 eran considerados dentro del
+                    grupo de los participantes que prefieren juegos violentos (50.1%), y los demás de
+                    aquellos que no prefieren videojuegos violentos (49.9%). Finalmente, se compusieron
+                    índices sencillos de las 3 escalas, lo que permitiría realizar análisis estadísticos de
+                    naturaleza inferencial. A continuación se presenta la matriz de correlaciones de Pearson
+                    de dichos índices.
+
+                    Tabla 4. Matriz de correlaciones de Pearson para los indicadores construidos.
+                                                  Frecuencia   Nivel de      Percepción        Edad       Nivel
+                                                  de Juego     Violencia     de           la              Educativo
+                                                                             Violencia
+                    Nivel de Violencia            .162**
+
+
+                    Percepción          de   la                .241**
+                    violencia
+
+
+                    Edad                          -.164**
+
+
+           VOLUMEN 9 – NÚMERO 2 (JUNIO 2017)
+PSIENCIA   VOLUME 9 – ISSUE 2 (JUNE 2017)
+                                                                    DOI: 10.5872/psiencia/9.2.22                  9
+                                                                                Uso prolongado de videojuegos violentos
+PSIENCIA    REVISTA LATINOAMERICANA DE CIENCIA PSICOLÓGICA
+            LATIN AMERICAN JOURNAL OF PSYCHOLOGICAL SCIENCE                         Prolonged use of Violent Videogames
+
+
+
+
+                    Nivel Educativo             -.136**        -.126**                         .501**
+
+
+                    Preferencia por Juegos      .801**         .111*                           -.111**    -.132**
+                    Violentos
+
+                    La tabla 4 muestra que el nivel de violencia y la frecuencia de juego están relacionados
+                    de manera espuria pero muy significativa. Además, el Nivel de Violencia está asociado a
+                    la Percepción de Violencia muy significativamente, aunque dicha correlación es baja en
+                    su intensidad. Observando el análisis factorial de la evaluación de la violencia de los
+                    videojuegos, se buscó construir un indicador que permitiera determinar qué tan
+                    frecuentemente se juegan videojuegos violentos y no violentos. Esto significó sumar las
+                    frecuencias de juego de los videojuegos que se consideran como violentos, y aquellas de
+                    los que se consideran como no violentos, y con estos datos se construyeron dos índices.
+                    Posteriormente, se categorizó a los participantes en grupos alto y bajo para cada uno de
+                    estos índices, con el fin de observar si existen diferencias en percepción de la violencia.
+                    No se encuentran diferencias significativas en ninguno de los dos indicadores.
+
+                    Observando estos resultados, se decidió dividir la muestra en grupos de percepción de
+                    la violencia y estudiar todas las variables en cuestión, pero sólo resulta que es más alto
+                    el nivel de la violencia en el grupo de alta percepción de la violencia (t = .546 gl = 543 p ≤
+                    .001). Posteriormente se buscó estudiar las influencias a través de dichas variables para
+                    establecer un modelo de influencias de la muestra completa. Se encuentra que el nivel
+                    de violencia predice la Percepción de la Violencia (R² = .06 F = 31.65 p ≤ .001 B = .294), la
+                    frecuencia de juego (R² = .03 F = 14.05 p ≤ .001 B = .189), y la preferencia por videojuegos
+                    violentos (R² = .01 F = 6.38 p ≤ .01 B = .165). Esto llevo a comparar el nivel educativo de
+                    los grupos de preferencia por juegos violentos, lo que arrojó una diferencia significativa
+                    (t = 2.63 gl = 535 p ≤ .001) confirmando que el grupo que no prefiere video juegos
+                    violentos, posee mayor nivel educativo. Dicho argumento se consolida con el análisis de
+                    regresión, permitiendo establecer que el un mayor nivel educativo predice un menor
+                    nivel de violencia (R² = .02 F = 8.15 p ≤ .001 B = -.127), y una menor preferencia por
+                    videojuegos violentos (R² = .01 F = 6.89 p ≤ .001 B = -.104). Finalmente, se determinó
+                    que la frecuencia de juego determina la preferencia por los videojuegos violentos (R² =
+                    .641 F = 968.730 p ≤ .001 B = 1.038), siendo este último el único hallazgo
+                    verdaderamente significativo, estadísticamente hablando, de este estudio. Esto va de la
+                    mano con que el nivel educativo predice a la frecuencia de juego (R² = .02 F = 10.22 p ≤
+                    .001 B = -.155). Dicho de otra manera, mientras mayor nivel educativo se tiene, se juega
+                    menos y consecuentemente, se juegan menos video juegos violentos.
+
+                    Al dividir la muestra por grupos de preferencia de videojuegos violentos, se observa que
+                    sólo la frecuencia de uso es mayor en el grupo de participantes que prefieren juegos
+                    violentos (t = 21.25 gl = 541 p≤.001). No se encuentran diferencias significativas en los
+                    otros indicadores. Finalmente, se encuentra que en el grupo de participantes que
+                    prefieren los videojuegos violentos, el índice de frecuencia de juego está relacionado
+                    estadísticamente con a la Percepción de la Violencia (r = .112 p ≤ .05) y lo predice (R² =
+                    .01 F = 3.43 p ≤ .05 B = .155), aunque nuevamente los resultados son espurios.
+
+                    Profundizando el análisis de la percepción de la violencia, se encuentra que la percibir
+                    un hogar violento predice percibir una colonia violenta (R² = .096 F = 58.125 p ≤ .001 B =
+                    .456) y una ciudad violenta (R² = .04 F = 23.513 p ≤ .001 B = .301), y, consecuentemente,
+                    percibir una colonia violenta predice percibir una ciudad violenta (R² = .269 F = 201.904
+                    p ≤ .001 B = .523).
+
+
+
+           VOLUMEN 9 – NÚMERO 2 (JUNIO 2017)
+PSIENCIA   VOLUME 9 – ISSUE 2 (JUNE 2017)
+                                                                    DOI: 10.5872/psiencia/9.2.22                 10
+                                                                              Uso prolongado de videojuegos violentos
+PSIENCIA    REVISTA LATINOAMERICANA DE CIENCIA PSICOLÓGICA
+            LATIN AMERICAN JOURNAL OF PSYCHOLOGICAL SCIENCE                       Prolonged use of Violent Videogames
+
+
+                    Discusión
+                    Los hallazgos de esta investigación son alentadores. Hay hallazgos en varias
+                    direcciones, se aportan algunas conclusiones importantes, y también nacen nuevas
+                    interrogantes. El primer hallazgo es que se obtiene una escala para evaluar la violencia
+                    de los videojuegos la cual puede, con más trabajo y muestras más grandes, llegar a ser
+                    válida para evaluar adecuadamente en la ciudad de Cuernavaca. El segundo de ellos es
+                    que si existen niveles significativos de relación entre las variables presentadas por este
+                    estudio, sobre todo la preferencia por los videojuegos violentos, la frecuencia de juego,
+                    y el nivel educativo. Esto sugiere que hay relación de variables individuales y de
+                    naturaleza estructural que puedan estar influyendo en esta relación, Sin embargo, esa
+                    es una indagatoria que permanece para una futura investigación. Dados los coeficientes
+                    significativos encontrados en las relaciones observadas, se acepta la hipótesis de
+                    trabajo: El uso de videojuegos violentos influye en la percepción de la violencia. Sin
+                    embargo, dada la naturaleza espuria de la fuerza de las relaciones, se sugiere observar
+                    los datos encontrados en este trabajo con reservas.
+
+                     Fue importante encontrar que un mayor nivel educativo predice preferir menos
+                    videojuegos violentos, pues no se tenía contemplado en las hipótesis, pero tampoco es
+                    sorprendente que los antecedentes educativos del individuo tengan influencia en sus
+                    procesos de evaluación. La experiencia con la violencia puede consolidar identidades
+                    relevantes a las situaciones de conflicto y proteger el bienestar psicológico de aquellos
+                    quienes pueden verse adversamente afectados por la violencia, además de que las
+                    consecuencias de esta consolidación de la identidad es de mayor fuerza entre las
+                    personas que se encuentran en situación vulnerable (Muldoon, Schmid, & Downes,
+                    2009). La violencia en el hogar es probablemente la que influya más negativamente en
+                    el o la adolescente, dado que el hogar se percibe como un ambiente proveedor de
+                    seguridad, además de la proximidad emocional y física de los perpetradores de la
+                    violencia doméstica como los padres o los hermanos (Mrug & Windle, 2010). Algunos de
+                    los predictores de la violencia entre adolescentes suelen ser comportamiento errático
+                    y/o antisocial durante la infancia, un rendimiento académico deficiente, vínculos débiles
+                    e incapacidad de generar nuevos vínculos con pares, y ambientes que fomenten el
+                    consumo de sustancias (Ellickson & McGuigan, 2000). Un alto nivel de violencia dentro
+                    del hogar provee un nivel de ajuste que determina el impacto de la violencia en la
+                    comunidad en los adolescentes (Mrug & Windle, 2010). Los hogares disfuncionales
+                    elevan la probabilidad de exposición a situaciones disfuncionales en otros contextos
+                    (Salzinger, Feldman, Rosario, & Ng-Mak, 2010).
+
+                    No se puede decir que los resultados encontrados en Dorantes-Argandar y Molina-Vega
+                    (2016) están equivocados por completo. Tal y como indica Sherry (2001), sí hay una
+                    relación entre la agresión y el uso de videojuegos (en general), pero dicha relación es de
+                    naturaleza espuria, y los estadísticos encontrados en este estudio también son espurios.
+                    Su nivel de significancia hace pensar que desde un punto de vista cognitivo sí tengan
+                    influencia, pero muy ligeramente. Hay variables pendientes por atender al tratar con
+                    violencia entre los jóvenes, tales como problemas de ajuste social, y la experiencia
+                    previa con la violencia (Mrug & Windle, 2010). Es preciso indagar cuáles son las variables
+                    psicológicas que están influyendo en la percepción de la violencia y el consumo de
+                    videojuegos violentos, porque también se encuentra que evaluar mayor violencia
+                    predice jugar más videojuegos y más videojuegos violentos. Möller & Krahé (2009)
+                    encontró que sí hay una relación entre el uso de videojuegos de naturaleza violenta y la
+                    composición de normas agresivas y, un vínculo indirecto, a través de dichas normas. Sin
+                    embargo, Sherry (2001) encuentra que incluso tomando en cuenta los videojuegos que
+                    son considerados como “los más violentos” por los críticos del medio, no parecen tener
+                    afectación en los niveles de agresión, invariablemente de la cantidad de tiempo
+                    invertido en dicha actividad.
+
+
+           VOLUMEN 9 – NÚMERO 2 (JUNIO 2017)
+PSIENCIA   VOLUME 9 – ISSUE 2 (JUNE 2017)
+                                                                  DOI: 10.5872/psiencia/9.2.22                 11
+                                                                              Uso prolongado de videojuegos violentos
+PSIENCIA    REVISTA LATINOAMERICANA DE CIENCIA PSICOLÓGICA
+            LATIN AMERICAN JOURNAL OF PSYCHOLOGICAL SCIENCE                       Prolonged use of Violent Videogames
+
+
+                    Fue importante haber encontrado que los jugadores que más videojuegos juegan,
+                    prefieren más a los videojuegos de naturaleza violenta, y que mientras mayor nivel
+                    educativo se tiene, se juega menos y consecuentemente, se juegan menos video juegos
+                    violentos. Para mejorar la habilidad de prevenir la violencia juvenil, es preciso obtener
+                    un mejor entendimiento de cómo es que ocurre, los factores que la promueven, y los
+                    factores que la inhiben (Ellickson & McGuigan, 2000). La violencia se ha visto
+                    incrementada en todos los países latinoamericanos, pero se ha expresado diferente en
+                    los contextos de naturaleza urbana (Vera-Jiménez, Ávila-Guerrero & Dorantes-
+                    Argandar, 2014). Es por esta razón que comprender los procesos a través de los cuales
+                    se genera la violencia y cómo los individuos interactúan con este componente de la vida
+                    y el entorno se vuelve un tema prioritario para la comunidad científica. Si es que los
+                    videojuegos si están promoviendo un comportamiento más agresivo y violento en los
+                    jóvenes, es preciso también entender los mecanismos que hacen un efecto paliativo,
+                    como es la educación.
+
+                    Una reflexión que emana del estudio y de los resultados obtenidos, es que es
+                    importante para su interpretación es que no es lo mismo estudiar la percepción de la
+                    violencia del entorno, que observar a un individuo en un entorno violento. El
+                    investigador no puede asumir que, aunque el participante percibe que su entorno es
+                    muy violento, éste lo sea. El que la percepción de la violencia y el nivel de violencia
+                    estén relacionados en este estudio pudieran indicar un tema de naturaleza cognitiva, y
+                    no de la realidad en la que está inmerso el participante. Habrá que indagar más en
+                    procesos de evaluación cognitiva de los individuos, tal y como lo describen Lazarus y
+                    Folkman (1984). Es posible que sólo sean individuos que perciben más que sus pares, o
+                    que sus procesos evaluativos sean más críticos, y no que el entorno sea violento desde
+                    un punto de vista objetivo. Esto cobra sentido en la luz de que evaluar mayor violencia
+                    en los videojuegos predice percibir más violencia en el entorno, y coincide un poco con
+                    Ferguson (2007), donde se establece el impacto de los videojuegos en la agresión y en la
+                    cognición visoespacial.
+
+                    Este estudio buscó remediar las deficiencias metodológicas de Dorantes-Argandar y
+                    Molina-Vega (1016), pero también tuvo las suyas. La primera de ellas es la edad de la
+                    muestra. Se tiene que observar este tema por la generalizabilidad de los resultados,
+                    aunque se entiende que encontrar adultos mucho más mayores que tengan el hábito de
+                    jugar videojuegos no es fácil. El segundo de ellos es el tamaño y proporciones de la
+                    muestra, pues tiene una alta concentración de estudiantes, y los participantes son
+                    predominantemente hombres, lo cual puede estar haciendo un sesgo en los resultados
+                    obtenidos. Esto debido a que hay evidencia de que el rol de género influye tanto en el
+                    uso de videojuegos (Sauquillo-Mateo, Ros-Ros, & Bellver-Moreno, 2008; Cabra, 2013)
+                    así como en la percepción de la violencia (Gómez del Castillo-Segurado, 2005; Díaz-
+                    Gutierrez, Cano-González, & Valle-Flórez, 2008; Gaylord-Harden, Cunningham, &
+                    Zelencik, 2011). En tercer lugar se sugiere realizar futuros estudios con la misma escala
+                    para determinar un mayor nivel de validez y confiabilidad. Como cuarta limitante se
+                    encuentra que los estudios de autoreporte suelen tener un sesgo en sí mismos, por lo
+                    que habría que referenciar los datos aquí encontrados con medidas de naturaleza más
+                    directa. Finalmente, se encuentra como una limitante el no diferenciar el uso de
+                    videojuegos de naturaleza “on-line” de aquellos que no lo son. Se recomienda, para
+                    futuros estudios, buscar obtener una muestra más homogénea, e incorporar otras
+                    variables de naturaleza cognitiva, de personalidad, o de activación fisiológica (Pérez-
+                    Sánchez y Torres, 2012) que ayuden a entender cómo es la dinámica psicológica en el
+                    hábito de jugar videojuegos.
+
+                    Se concluye que la relación entre el uso de videojuegos violentos y la percepción de la
+                    violencia están relacionados, aunque el sustento de esta aseveración está sujeta a una
+                    serie de precariedades metodológicas y estadísticas que se sugiere realizar más
+
+
+           VOLUMEN 9 – NÚMERO 2 (JUNIO 2017)
+PSIENCIA   VOLUME 9 – ISSUE 2 (JUNE 2017)
+                                                                  DOI: 10.5872/psiencia/9.2.22                 12
+                                                                               Uso prolongado de videojuegos violentos
+PSIENCIA    REVISTA LATINOAMERICANA DE CIENCIA PSICOLÓGICA
+            LATIN AMERICAN JOURNAL OF PSYCHOLOGICAL SCIENCE                        Prolonged use of Violent Videogames
+
+
+                    estudios de esta naturaleza para evidenciar con mayor claridad si esta relación es
+                    verdadera. Todavía hay mucho trabajo por hacer en esta dirección, y México es tierra
+                    fértil pues no hay muchos estudios de esta naturaleza, como los hay en otros países.
+
+                    Referencias
+                    Ahmed Memon, M., Pearson, C., & Imura, H. (2005). Special feature on environmental &
+                         sustainable city. Inter-city environmental cooperation: the case of the
+                         Kitakyushu Initiative for a clean environment international. Review for
+                         Environmental Strategies, 5, 531-540.
+
+                    Allison K., Burton L., Marshall S., Perez Febles A., Yarrington J., Bloch Kirsh L., &
+                           Merriwether-DeVries C. (1999). Life experiences among urban adolescents:
+                           examining the role of context. Child Development, 70, 1017–1029.
+
+                    Anderson, C. A., Gentile, D. A., & Dill, K. E. (2012). Prosocial, Antisocial, and Other
+                          Effects of Recreational Video Games. Handbook of Children and the Media, 13,
+                          249–272.
+
+                    Anderson, C., & Dill, K. (2000). Video Games and Aggressive Thoughts, Feelings, and
+                          Behavior in the Laboratory and in Life. Journal of Personality and Social
+                          Psychology, 78(4), 772–790. http://doi.org/10.1037//O022-3514.78.4.772
+
+                    Annie Jin, S. (2011). “My avatar behaves well and this feels right”: ideal and ought selves
+                          in video gaming. Social Behavior and Personality, 39 , 1175-1182.
+                          DOI: http://dx.doi.org/10.2224/sbp.2011.39.9.1175
+
+                    Bithas, K. P., & Christofakis, M. (2006). Environmentally sustainable cities. critical
+                           review and operational conditions. Sustainable Development, 14, 177–189. DOI:
+                           10.1002/sd.262
+
+                    Cabra, N. A. (2013). Muñecas de plomo y soldaditos de trapo: el videojuego como
+                          migración a otras experiencias de género. Nómadas, 39, 165-179.
+
+                    DeBoard-Lucas, R.L., & Grych, J.H. (2011). Children’s perceptions of intimate partner
+                         violence: causes, consequences and coping. Journal of Family Violence, 26, 343-
+                         354. DOI 10.1007/s10896-011-9368-2
+
+                    Díaz-Gutierrez, E. J., Cano-González, R., & Valle-Florez, R. E. (2008). La cultura sexista y
+                          la violencia en los videojuegos. Revista Mal-estar E Subjetividade, 8, 13-32.
+
+                    Dorantes-Argandar, G., Cerda-Macedo, E. A., Tortosa-Gil, F., & Ferrero-Berlanga, J.
+                          (2015). Accidentalidad de automóviles de uso particular en México: influencia del
+                          estrés y la agresividad. PSIENCIA. Revista Latinoamericana de Ciencia Psicológica,
+                          7, 418-427. doi: 10.5872/psiencia/7.3.122
+
+                    Dorantes-Argandar, G., Cerda-Macedo, E. A., Tortosa-Gil, F., & Ferrero-Berlanga, J.
+                          (2015a). Agresividad vial como predictor del estrés y del comportamiento
+                          prosocial, y su influencia en la siniestralidad de vehículos particulares en México.
+                          Ansiedad y Estrés, 21, 207-217.
+
+                    Dorantes-Argandar, G. Tortosa-Gil, F., & Ferrero-Berlanga, J. (2016). Measuring
+                          situations that stress Mexicans while driving. Transportation Research, 37, 154-
+                          161.
+
+
+
+
+           VOLUMEN 9 – NÚMERO 2 (JUNIO 2017)
+PSIENCIA   VOLUME 9 – ISSUE 2 (JUNE 2017)
+                                                                   DOI: 10.5872/psiencia/9.2.22                 13
+                                                                                Uso prolongado de videojuegos violentos
+PSIENCIA    REVISTA LATINOAMERICANA DE CIENCIA PSICOLÓGICA
+            LATIN AMERICAN JOURNAL OF PSYCHOLOGICAL SCIENCE                         Prolonged use of Violent Videogames
+
+
+                    Dorantes-Argandar, G. & Molina-Vega, L. F. (2016). Usar videojuegos no influye la
+                          percepción de la violencia en estudiantes de una secundaria cuernavacense.
+                          Revista Mexicana de Investigación en Psicología, 8, 17-36.
+
+                    Ellickson, P.L., & McGuigan, K.A. (2000). Early predictors of adolescent violence.
+                           American Journal of Public Health, 90, 566-572.
+
+                    Evans, G., Johansson G., & Rydstedt L. (1998). A longitudinal study of workload, health
+                           and well-being among male and female urban bus drivers. Journal of
+                           Occupational and Organizational Psychology, 71, 35-45. DOI: 10.1111/j.2044-
+                           8325.1998.tb00661.x
+
+                    Ferguson, C.J. (2007). The good, the bad, and the ugly: a meta-analytic review of
+                          positive and negative effects of violent video games. Psychiatry Quarterly, 78,
+                          309-316. DOI 10.1007/s11126-007-9056-9
+
+                    Ferguson, M.J. (2007). On the automatic evaluation of end-states. Journal of Personality
+                          and Social Psychology, 92, 596-611.
+
+                    Gaylord-Harden, N.K., Cunningham, J.A., & Zelencik, B. (2011). Effects of exposure to
+                          community violence on internalizing symptoms: does desensitization to violence
+                          occur in african american youth? Journal of Abnormal Child Psychology, 39, 711-
+                          719.
+
+                    Gómez del Castillo-Segurado, M. T. (2005). Violencia Social y videojuegos. Pixel-Bit.
+                         Revista de Medios y Educación, 25, 45-51.
+
+                    Guthrie, C., Rachlinski, J.J., & Wistrich, A.J (2001). Inside the judicial mind. Cornell Law
+                          Review, 86, 777-830.
+
+                    Huerta-Rojas, F. (2005). La violencia virtual: una experiencia de los jóvenes en las
+                          videosalas. Estudios Sociales. 13, 172-206.
+
+                    Huesmann, L. R. & Kirwil, L. (2007). Why observing violence increases the risk of violent
+                         behavior in the observer. In D. Flannery (Ed.), The Cambridge Handbook of Violent
+                         Behavior and Aggression. Cambridge, UK: Cambridge University Press.
+
+                    Kronenberger, W.G., Mathews, V.P., Dunn, D.W., Wang, Y., Wood, E.A., Larsen, J.J.,
+                          Rembusch, M.E., Lowe, M.J., Giauque, A.L.,& Lurito, J.T. (2005). Media violence
+                          exposure in aggressive and control adolescents: differences in self- and parent-
+                          reported exposure to violence on television and in video games. Aggressive
+                          Behavior, 31, 201-216.
+
+                    Lazarus, R., & Folkman, S. (1984). Stress, appraisal, and coping. New York: Springer
+                          Publishing Company.
+
+                    Lima Aranzaes, C.C., Juárez García, A. & Arias Galicia, F. (2012). Un estudio exploratorio
+                          sobre estresores laborales en conductores de transporte público colectivo en el
+                          estado de Morelos, México. En Arias Galicia, F. & Juárez García A. (coord.),
+                          Agotamiento profesional y estrés, hallazgos desde México y otros países
+                          latinoamericanos (pp. 431-452). México: Miguel Ángel Porrúa.
+
+                    Martín-Ramirez, J. (2007). Televisión y Violencia. Revista Latinoamericana de Psicología.
+                          39, 327-349.
+
+                    McConnel, A.R., Rydell, R.J., Strain, L.M., & Mackie, D.M. (2008). Forming implicit and
+                         explicit attitudes towards individuals: social group association cues. Journal of
+
+
+           VOLUMEN 9 – NÚMERO 2 (JUNIO 2017)
+PSIENCIA   VOLUME 9 – ISSUE 2 (JUNE 2017)
+                                                                    DOI: 10.5872/psiencia/9.2.22                 14
+                                                                               Uso prolongado de videojuegos violentos
+PSIENCIA    REVISTA LATINOAMERICANA DE CIENCIA PSICOLÓGICA
+            LATIN AMERICAN JOURNAL OF PSYCHOLOGICAL SCIENCE                        Prolonged use of Violent Videogames
+
+
+                             Personality and Social Psychology, 94 (5) 792-807. DOI: 10.1037/0022-
+                             3514.94.5.792
+
+                    Möller, I., & Krahé, B. (2009). Exposure to violent video games and aggression in
+                           german adolescents: a longitudinal analysis. Aggressive Behavior, 35, 75-89. DOI:
+                           10.1002/ab.20290
+
+                    Mrug, S., & Windle, M. (2010). Prospective effects of violence exposure across multiple
+                          contexts on early adolescents’ internalizing and externalizing problems. The
+                          Journal of Child Psychology and Psychiatry, 51 (8), 953-961. DOI: 10.1111/j.1469-
+                          7610.2010.02222.x
+
+                    Muldoon, O.T., Schmid, K., & Downes, K. (2009). Political violence and psychological
+                         well-being: the role of social identity. Applied Psychology: An International
+                         Review, 58 (1), 129-145. DOI: 10.1111/j.1464-0597.2008.00385.x
+
+                    Organización Mundial de la Salud. (2002). Informe Mundial sobre la Violencia y la Salud.
+                          Organización Panamericana de la Salud.
+
+                    Pazos-Gómez, M., Oliva-Delgado, A., & Hernándo-Gómez, A. (2014). Violencia en
+                          relaciones de pareja de jóvenes y adolescentes. Revista Latinoamericana de
+                          Psicologí, 46, 148-159.
+
+                    Pérez-Sánchez, R., & Torres, D. (2012). Intensidad de demanda de los videojuegos y su
+                          efecto sobre el estado de ánimo y la activación percibida. Universitas
+                          Psychologica. 13, 1489-1502.
+
+                    Prot, S., Anderson, C. A., Gentile, D. A., Brown, S. C., & Swing, E. L. (2014). The positive
+                           and negative effects of video games. In A. Jordan & D. Romer (Eds.), Media and
+                           the Well-Being of Children and Adolescents (pp. 109–128). New York: Oxford
+                           University Press.
+
+                    Salzinger, S., Feldman, R.S., Rosario, M., & Ng-Mak, D.S. (2010). Role of parent and
+                           peer relationships and individual characteristics in middle school children’s
+                           behavioral outcomes in the face of community violence. Journal of Research on
+                           Adolescence, 21, 395-407. DOI: 10.1111/j.1532-7795.2010.00677.x
+
+                    Sauquillo-Mateo, P., Ros-Ros, C., & Bellver-Moreno, M. C. (2008). El rol de género en los
+                          videojuegos. Teoría de la Educación, Educación y Cultura en la Sociedad de la
+                          Información, 9, 130-149.
+
+                    Selye, H. (1978). The Stress of Life. USA: McGrawHill.
+
+                    Sherry, J.L. (2001). The effects of violent video games on aggression. Human
+                          Communication Research, 27, 409-431.
+
+                    Vera-Jiménez, J.A., Ávila-Guerrero, M.E., & Dorantes-Argandar, G. (2014). Manual de
+                           evaluación de la victimización y percepción de la violencia, delincuencia, e
+                           inseguridad y la confianza en las instituciones. México: Universidad Autónoma del
+                           Estado de Morelos.
+
+                    Vera-Márquez, A. V., Palacio-Sañudo, J. E., Maya-Jariego, I., & Holgado-Ramos, D.
+                          (2015). Identidad social y procesos de adaptación de niños víctimas de violencia
+                          política en Colombia. Revista Latinoamericana de Psicología, 47, 167-176. doi:
+                          10.1016/j.rlp.2015.06.006.
+
+
+
+
+           VOLUMEN 9 – NÚMERO 2 (JUNIO 2017)
+PSIENCIA   VOLUME 9 – ISSUE 2 (JUNE 2017)
+                                                                   DOI: 10.5872/psiencia/9.2.22                 15
+                                                                             Uso prolongado de videojuegos violentos
+PSIENCIA    REVISTA LATINOAMERICANA DE CIENCIA PSICOLÓGICA
+            LATIN AMERICAN JOURNAL OF PSYCHOLOGICAL SCIENCE                      Prolonged use of Violent Videogames
+
+
+                    Villalvazo-Peña P., Corona-Medina J., & García-Mora S. (2002). Urbano-rural, constante
+                            búsqueda de fronteras conceptuales. Notas. Revista de información y análisis, 20,
+                            17 – 24.
+
+                    Vorauer, J.D., & Sakamoto, Y. (2008). Who cares what the outgroup thinks? Testing an
+                          information search model of the importance individuals accord to an outgroup
+                          member’s view of them during intergroup interaction. Journal of Personality and
+                          Social Psychology, 95, 1467-1480. DOI: 10.1037/a0012631
+
+                    Wei, R. (2007). Effects of playing violent videogames on Chinese adolescents’ pro-
+                          violence attitudes, attitudes toward others, and aggressive behavior.
+                          CyberPsychology & Behavior, 10, 371-380.
+
+
+
+
+           VOLUMEN 9 – NÚMERO 2 (JUNIO 2017)
+PSIENCIA   VOLUME 9 – ISSUE 2 (JUNE 2017)
+                                                                 DOI: 10.5872/psiencia/9.2.22                 16
+

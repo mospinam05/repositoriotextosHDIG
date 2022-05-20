@@ -1,0 +1,1472 @@
+This book emerged from my desire to understand the history and 
+present moment of violence in Colombia, as incarnated in popular culture. It 
+bears in mind the immediate and vital question of a putative end to the conflict 
+involving the Fuerzas Armadas Revolucionarias de Colombia (the FARC) and 
+other guerrilla1—a conflict that has gripped the nation during the lifetime of virtually all its citizens. But the book does not principally focus on that issue. 
+Instead, it considers violence “beyond” the conflict, as simultaneously an ordinary and extraordinary part of Colombian life; something both normal and 
+shocking, accepted and reviled—and contested.
+My personal experience of Colombia dates from inaugurating the country’s 
+first doctoral program in communications, at the Universidad del Norte in Barranquilla in 2011. I subsequently worked for twelve weeks a year at UniNorte 
+across three annual visits between 2014 and 2018, giving graduate classes when in 
+Colombia, and advising doctoral students and researching and writing with faculty then and while away. I also taught for some months at the Universidad Tecnológica de Bolívar in Cartagena de Indias in 2019. Over my time spent on the 
+Caribbean coast, I have addressed various topics related to the popular and violence, on my own and with colleagues. I learnt much from them and from students. The Persistence of Violence is the product of those efforts, and several 
+chapters involve coauthors, from Barranquilla, Bogotá, and Medellín.
+So unlike many scholars from the Global North who write about Colombia, 
+I did not study the country in college or graduate school; nor did I go there to do 
+fieldwork. My research may therefore suffer from a lack of formal training—but 
+benefit from an immersion in learning and teaching, and a network of contacts of 
+the kind that can become available to an established, and fortunate, professor.
+The fundamental theme animating The Persistence of Violence is that Colombia’s headline story, about the peace process with the FARC and attendant controversies, may not deal adequately with a fundamental contradiction of the 
+nation, famously identified by Gabriel García Márquez in his pictorial essay Por 
+Copyright 2020. Rutgers University Press.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+EBSCO Publishing : eBook Collection (EBSCOhost) - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES
+AN: 2318048 ; Toby Miller.; The Persistence of Violence : Colombian Popular Culture
+Account: undeloan.main.eds
+2 The Per sistence of Violence
+un país al alcance de los niños (A Country for Children) (1998). Gabo, as he is 
+known in the region, wrote evocatively about a common dualism within the 
+population that spanned generosity and violence, warmth and hatred. He 
+described a powerful bifurcation coursing through Colombia, the product of its 
+particular pattern of invasion, dispossession, and enslavement. This resulted in a 
+restless quest to identify the subject of violence—is it the nation, the right, the 
+left, the landowners, the state? At one point in La mala hora (The Hour of Evil), 
+Gabo says: “Es todo el pueblo y no es nadie” (It’s the whole town and it’s nobody) 
+(García Márquez 1987: 89).
+He spoke of a place that was two countries in one—the ideal and the real—
+with all the associated paradoxes of a semiotic encounter between langue and 
+parole, the abstract and the everyday:
+• A proclivity for making laws and ignoring them
+• A cathexis onto paperwork amid contempt for bureaucratic norms
+• A dedicated work ethic and love of get-rich-quick schemes
+• A taste for creating icons, then ridiculing and bringing them down
+• An obsession with sporting triumph and failure, greater than any identification with human suffering
+• A love of life mixed with murderous tendencies
+• An adoration of animals but neglect of the loss of species and the environment in general, alongside imperilment of one of the world’s great rivers
+• A loathing of negative international stereotypes of Colombia while failing to 
+admit that the reality may be worse (García Márquez 1998: 10–11)
+García Márquez deemed Colombians capable of both the noblest and the most 
+abject acts imaginable, in a world where it seemed anyone might do anything, 
+from the beautiful to the horrendous. Like many others, I have found this 
+duality—bizarrely akin to Barthes’s renowned binary list, “J’aime, je n’aime pas” 
+(I like, I don’t like) (1994: 116–117)—enormously suggestive.
+Gabo’s topics enumerated above inspired the themes covered in the chapters 
+to follow. The book you hold in your hands examines violence in Colombia as 
+reflected, refracted, generated, and criticized at specific sites:
+• Football, narcotraficantes, and militarism
+• Tourism, sexual exploitation, and imperialism
+• Journalism, narconovelas, and gender
+• The environment and emotion
+Victor Hugo is reported to have satirized the 1863 Colombian Constitution as 
+“faite des anges” (written for angels) (quoted in Blanquer and Gros 1996).2 The 
+nation labors under what the Financial Times calls “extreme legalism”: a bewil-
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 3
+dering array of laws and courts of review, matched only by its bewildering array 
+of lawbreakers (Rathbone and Long 2018). This collective irony is emblematized 
+by Francisco José de Paula Santander Omaña, the man regarded as the country’s 
+founding parent of law following independence who was in fact a key figure in 
+maintaining an intransigent political-economic elite (Calvino Ospina 2008: 13).
+The apparent lawfulness of what has been a political democracy for six decades 
+leads many outsiders to admire seemingly significant governmental initiatives. 
+For example, the International Organization for Migration details well-codified 
+Colombian legislation forbidding sexual violence (Organización Internacional 
+para las Migraciones 2015); the world’s most famous liberal philosopher praises it 
+for policies protecting women (Rawls 1999: 110); and the state produces impressivelooking reports for the UN’s Committee on the Elimination of All Forms of Discrimination against Women (2017). But anyone with material knowledge knows 
+that this is one more case where policing, the courts, government, and everyday 
+life are distant from such ideals and claims. Hence the Organisation for Economic Co-operation and Development (OECD) producing an Integrity Review
+as part of deciding on Colombia’s accession to the group and to propose a way 
+forward to genuine peace (2017). It continues to find major flaws in the country’s 
+claims that it is implementing the Organisation’s Anti-Bribery Convention 
+(OECD Working Group on Bribery 2019). For the long-standing and contemporary reality is that many citizens bribe public officials as a matter of course. 
+They regard Colombia as a profoundly corrupt blend of collusive private and 
+public interests, clientelism, fraudulent elections, and criminal-justice abuses 
+(Transparency International and Chr. Michelson Institute 2013; Transparency 
+International 2017).
+The situation is summed up in the idiomatic expressions (not unique to 
+Colombia, but particularly popular there) “Hecha la ley, hecha la trampa” (When 
+you pass a law, you create a loophole) and “muy viva” (truly alive)—the notion 
+that one must be slyly on the make to be fully “with it.” For example, the mythic 
+vivo (street sharp), makes his living from the tonto (fool) who actually bothers to 
+work in the formal economy. This is a means of dealing with the duality of a supposedly open capitalist system governed by rules and open to competition, versus the reality of stubbornly immobile oligarchies and oligopolies.
+That inevitably leads to stereotypes from foreign observers. It is a shock, 
+even from this distance, to read Darwin referring to “the savages of Colombia” 
+(2008: 307). A century and a half later, Eric Hobsbawm alarmingly described 
+the country as “a naturally bloodthirsty culture” (1994: 52). Edgar Morin typifies Colombia as taking the underside to all societies and internationalizing it 
+via drugs (Baudrillard and Morin 2004: 61). This puts such thinkers uncomfortably close to elites in Bogotá and Washington, who speak “as if Colombians had 
+an innate propensity to shed one another’s blood” (Hylton 2006: 8) and the 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+4 The Per sistence of Violence
+common local discourse arguing that Colombia is a “sick” society (Woodward 
+2018). The head of the Instituto Colombiano de Medicina Legal (Colombian 
+Institute of Legal Medicine) reflected on the 2016 peace accord by saying that 
+the population had interiorized violence as ordinary conduct. Its form might 
+alter with history, but a dark underlying reality still characterized the nation 
+(Valdés 2017).
+Alongside Gabo’s imaginative cultural interpretations and others’ Olympian 
+generalizations, some basic definitions and data are necessary in order to comprehend the grisly phenomenon of Colombia’s persistent violence. The statistics 
+and stories make chilling reading:
+• Millions killed over the life of the country
+• The largest national displacement of a citizenry in history
+• The ongoing kidnapping, murder, and “disappearance” of activists3 and 
+journalists
+• Levels of domestic and street violence that both color and transcend the 
+conflict
+Mass killings in what is now Colombia began with the Spanish state’s attacks on 
+the Muisca people in 1595. The Catholic Church collaborated: it sought the 
+destruction of alternative religious materials and customs, with information 
+obtained through torture and punishment gladly meted out (González and 
+González 2007: 60–61). Ever since, human devastation has taken so many forms, 
+and in so many, often isolated, parts of the country, that even with the increasingly systematic collection of data, judicial and medical statisticians, the police, 
+and peace activists all doubt the reliability of the numbers they come up with 
+and compare, which tend to stress urban violence, neglecting rural realities 
+(Rubio 2000; Cumbre Agraria et al. 2018).
+Of the quarter-of-a-million people killed by firearms worldwide in 2016, half 
+perished in the Americas, with Colombia a leading contributor (Global Burden 
+of Disease 2016 Injury Collaborators 2018). The first official Colombian homicide figures, from 1938, counted sixteen murders per hundred thousand residents. The ratio diminished with the introduction of limited hours of alcohol 
+availability, but was spurred on again by contests over cocaine production and 
+distribution, increasing in the 1950s and hovering between twenty and thirty 
+deaths per hundred thousand until a dramatic hike in the 1980s, from forty to 
+eighty. (United Nations Office on Drugs and Crime 2014: 22–23, 26, 37, 75–76). 
+By 2015, the ratio had fallen to seventeen, but that was still almost double the 
+level considered to be endemic (Guerrero and Fandiño-Losada 2017).
+Both Human Rights Watch (2015) and the Colombian government (“Colombia’s Santos” 2015) estimate that well over two hundred thousand people have been 
+killed and almost eight million displaced in “the conflict” since the 1960s—but the 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 5
+state only began systematic collection of these data in 1985, and 85 percent of murders probably elude human-rights discourse (Human Rights Watch 2017: 152). 
+They are often defined as “common crime” (W. Tate 2007: 4) but approach warlike 
+figures, especially with three thousand people a year kidnapped at the turn of the 
+century and an annual average between 1990 and 2010 of 1,800 (see figure  1) 
+(Pécaut 2001; Bergman 2018: 64).
+In 2018, the state announced that the conflict had claimed 262,197 lives—of 
+whom just 46,813 were combatants (Romero 2018), with the paramilitares specializing in mass killings and disappearances, the guerrilla in kidnapping, and the 
+military in falsifying the number of enemies killed by counting civilians they had 
+murdered (Hunt 2009; Uribe Alarcón 2011; Aranguren Romero 2017: 2–3; 
+Human Rights Watch 2017; Bergman 2018: 64). The Institute for Economics & 
+Peace’s Global Terrorism Index ranks the country in 27th  place worldwide, 
+28 points above any other South American state (2018: 38). Improvised explosive devices killed 221 Colombians in 2018, up from 57 the year before (Oquendo 
+2019). Since the FARC came out of jungle hideouts in 2017, handed over their 
+arms, and moved to supposedly safe areas, many have been assassinated: 31 in 
+2017, 65 in 2018, and 77 in 2019 (Torrado 2019; United Nations Verification Mission in Colombia 2019). Official figures for 2019 list over ten thousand homicides 
+in the first eleven months, up more than 2 percent on 2018 (“Colombia cierra” 
+2019). One wonders how the nation could embark on “a new era of post-conflict 
+when the paramilitary’s surmounting debt with humanity is nowhere close to 
+being paid” (Hristov 2014: xviii; see also Manrique Rueda and Tanner 2016; 
+Centro Nacional de Memoria Histórica 2018b).
+How to explain the persistent violence? Colombia’s mythic nineteenthcentury liberator, Simón José Antonio de la Santísima Trinidad Bolívar Palacios Rate x 1,000K inhabitants
+Date (Year)
+figure 1. Colombian homicide rate per hundred thousand people, 1938–2014. (Source: 
+Guerrero and Fandiño-Losada, 2017.)
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+6 The Per sistence of Violence
+Ponte y Blanco, thought of the “new” Americans as bicultural products of usurping 
+Spaniards and resistant indigenous folk, and hence inheritors of both a rulegoverned struggle to impose empire and a fiercely elemental refusal of invasion 
+and conquest (Villota Galeano 2017). The reality was that the violence of the 
+conquista (conquest) amplified following independence, as the new criollo rulers 
+(direct descendants of the Spanish) sought to take over, govern, and exploit more 
+and more territory in order to confirm their colonization, statehood, and economic future (Colmenares 1996). Bolívar’s remarkable 1815 letter from Jamaica 
+leaves no doubt as to his preferred identity. Even though he acknowledges Spanish “[a]trocities [that] transcend the limits of human perversity,” refers to a 
+“genocide,” and regards slavery as “inherently corrupt,” Bolívar says “natives [must] 
+become civilized,” and deems Columbus to be “the creator of our hemisphere” 
+(2003: 13, 18, 26–27). That mythic version of the struggle for independence has 
+been handed down over generations. It denies the role of Afro-descendant and 
+indigenous Colombians in the movement (Cote 2019) and sidesteps Bolívar’s 
+own taste for violence (García Márquez 1998).
+Local and foreign novelists, essayists, activists, survivors, fighters, and social 
+scientists have endeavored to explain the long and disturbing history of Colombia’s violence (Farnsworth-Alvear et al. 2017).4 These violentólogos attribute the 
+nation’s violent characteristics to numerous causes in addition to those mentioned by Gabo and Bolívar (García Villegas 2015). They include the following:
+• A topography that militates against the effective government of numerous 
+regions (Cauca, Antioquia, the Andes, and the north coast) with people left 
+to fight for terrain and power in the absence of a functioning state
+• Machismo
+• Systematic class inequality
+• Discrimination against indigenous and Afro-descended Colombians
+• Marxism
+• The role of the United States, from the creation of the Panama Canal to Plan 
+Colombia and Peace Colombia (today’s military policies)
+• The World Bank making Colombia a template for development via the exploitation of natural resources and antisocialist strategies
+• The Janus face of neoliberalism, as a blend of economic deregulation and statist reformation of citizens
+• Cross-generational oligarchy
+• Media dominated by clientelist and familial ties to politics
+• Paramilitary, guerrilla, and mafia forces
+• Kidnapping, drug dealing, and the informal economy
+• A state riddled with corruption
+• Public distrust of the police, the judiciary, and politics
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 7
+Since the 1960s, being in a “state of siege” has become routine in Colombia, 
+enabling exponential growth in the size, reach, and violence of the military and 
+its U.S. partners. Emergency is a daily condition; counterinsurgency, a norm of 
+political organization (Aranguren Romero 2017: 13–14). No surprise, then, that 
+the late 2019 nationwide protests against neoliberal authoritarianism saw 170,000 
+troops mobilized within moments (“Colombia Anti-Government” 2019).
+The country “is synonymous with ‘violence’” in a “global imagination . . . of 
+kidnappings and assassinations” (Karl 2017: 1). In the eyes of “most international 
+observers, violence remains the primary evidence of Colombian national failure” (W. Tate 2007: 31)—what Alfredo Molano has called its “diabólica inercia” 
+(diabolical inertia) (2001: 13). No wonder Ana María Ochoa Gautier describes 
+violence as the country’s “foundational myth” (2014: 159) and Idelber Avelar 
+avows that it “has come to represent Latin America’s ultimate instance of violence as a constant, pervasive element in the nation’s self-definition” (2004: 20).
+For many Colombians, familial violence, from murder to sexual assault, is “a 
+daily occurrence,” generally associated with machismo, alcohol, narcotics, and 
+unemployment. As a consequence, the streets often feel safer to children than their 
+homes, leading to new forms of criminality and violence deriving from drug use 
+and truancy (Moser and McIlwaine 2000: 3–4). Polling indicates that many 
+Colombians endorse personal and systematic violence alike. Half the urban population believes in taking force into their own hands and killing to protect their 
+families. A third favors eliminating criminality through limpieza social (social 
+cleansing) and deploying corporal punishment against children (Guerrero and 
+Fandiño-Losada 2017). It is estimated that 39 percent of children under the age of 
+4 have suffered such physical assaults at home (Cuartas 2018). And while Law 294 
+of 1996 only permits parents to “correct them and sanction them moderately,” 
+Civil Code 1883 allows “violent punishment in the home” (Global Initiative 2018).
+Comparative social psychology proposes that authoritarian conservative ideology is close to Colombians’ sense of a national self and may involve a certain 
+admiration for violence when associated with success (Espinosa Pezzia et al. 2017). 
+Public-opinion research suggests that just half the population favors democracy 
+over other forms of government—a lower percentage than in most of the 
+continent—and voter turnout is the lowest across Latin America (Hellinger 2015: 
+8, 397). Such attitudes, born of a history of intense malevolence, contrast with 
+much of the Global North (Puig-i-Abril and Rojas 2018). True believers in biological roots of conduct throw their hands in the air when thinking about 
+Colombia (Raine 2013: 125) or blame it on the “decivilizing” antics of “gangs of 
+drugged or drunken hooligans” (Pinker 2011: 437).
+Prior to explaining the history and contemporaneity of this violence and outlining the chapters to come, I want to spend some time working in more conceptual detail on two key themes: violence and the popular.
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+8 The Per sistence of Violence
+Violence
+Across the globe, violence is one of the world’s most pressing yet enduring issues. 
+From time immemorial, it has been a key theme of religion, social organization, 
+family dynamics, and politics—a central concern of public policy, social movements, academic research, journalism, drama, fiction, military strategy, godbothering, and policing. In other words, violence is a universal problem. Whether 
+we look at nuclear weaponry, civil war, or domestic assault, violence stalks both 
+social and interpersonal relations. I cannot imagine newspapers, current-affairs 
+programs, or congressional debates without it.
+Colombians under the age of 75 have no experience of life beyond the conflict/
+civil war that began in the 1940s. For women around the world, both the street and 
+the home can be places where violence must be avoided on a daily basis (Goel and 
+Goodmark 2015). The World Health Organization (WHO) (2017) estimates that a 
+third of women have suffered physically at the hands of lovers. For working-class 
+U.S. youth, the military is a “poverty draft” (Mariscal 2006). Australians date their 
+emergence as a nation from the bloody attempt to invade Turkey in 1915 (McKay 
+2018). French and U.S. citizens rise to national anthems celebrating weaponry and 
+slaughter. Colombians sing along to words glorifying the fact that their land 
+emerged from “surcos de dolores” (furrows of pain) and “se baña en sangre de 
+héroes” (bathes in the blood of heroes).5 Marginalized, low-income groups in 
+Colombia came up with sixty dif­ferent definitions of violence in the late 1990s, with 
+most connected to economic deprivation (Moser and McIlwaine 2000: 2). Such 
+linguistic distinctions may derive from profound experience: regression analysis 
+correlates violence with income inequality across Colombia’s regions like no other 
+factor, while at the urban level key elements also include poverty, the labor market, 
+and education (Cotte Poveda 2012, 2011). Bogotá’s incapacity to keep its citizens safe 
+and govern whole swaths of the country places under erasure its ability to govern.
+Around the world, there are differences between state, group, and interpersonal violence; between planned and passional violence; and between fatal and 
+nonfatal forms. And even free-speech absolutists worry that hateful language, 
+whether interpersonal or demagogic, may index or provoke violence. The WHO 
+favors this broad definition:
+The intentional use of physical force or power, threatened or actual, against oneself, another person, or against a group or community, that either results in or has 
+a high likelihood of resulting in injury, death, psychological harm, maldevelopment or deprivation. It takes the forms of self-directed violence, interpersonal 
+violence and collective violence. (2002)
+That focus on intentionality, power, and threats has set the tone for many scholars, states, and activists (Lee 2019).
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 9
+The OECD specifies political violence as
+the use of force towards a political end that is perpetrated to advance the position 
+of a person or group defined by their political position in society. Governments, 
+state militaries, rebels, terrorist organisations and militias engage in political violence, 
+as well as actors who may adopt both political and criminal motives. (2016: 20)
+It describes social violence like this:
+a broader manifestation of grievances, criminal behaviours and interpersonal violence in society. These include multiple types of crime, homicides, and interpersonal and self-directed violence. (2016: 20)
+The United Nations defines violence against women as
+any act of gender-based violence that results in, or is likely to result in, physical, 
+sexual, or mental harm or suffering to women, including threats of such acts, 
+coercion or arbitrary deprivation of liberty, whether occurring in public or in private life. (1993)
+Official pronouncements and statistics clearly don’t cover the totality of violence. But they derive from scholarly and social-movement influences as well as 
+governmental ones and affect the way we calculate the phenomenon’s dimensions. They must be understood through the lens of theoretical reasoning, 
+whether via philosophy or faith.
+A lock on the legitimate use of force is foundational to the essence of the 
+state. It is intimately bound up with the nation via mythic origins and obligations, through policing and war. Weber’s classic definition of sovereignty is of a 
+“human community that (successfully) claims the monopoly of the legitimate 
+use of physical force within a given territory” (1946: 78). Achille Mbembe modifies Weber’s account to argue that “necropolitics” is the state’s way of life, “that 
+the ultimate expression of sovereignty resides, to a large degree, in the power and 
+capacity to dictate who may live and who must die” (2003: 11). Both are of course 
+dependent on Tolstoy’s provocation that “government is violence” (1990).
+Wars are generally thought of as occurring between governments. Few theorists of war have been able to transcend von Clausewitz’s capacious yet precise 
+definition of it (Sharma 2015), even if his use of the first-person plural is troubling in its certitude about the allegedly universal desire for power: “War is . . .
+an act of force to compel our enemy to do our will” (von Clausewitz 1989: 75). 
+Von Clausewitz avowed that it “is not merely an act of policy but a true political 
+Instrument, a continuation of political intercourse, carried on with other means” 
+(1989: 87).6 Yet Michael Howard suggests that wars have long been understood 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+10 The Per sistence of Violence
+as “an aberration in human affairs . . . an occurrence beyond rational control,” 
+and more recently as effects of masculinity, class greed, or evolutionary necessity 
+(1984: 90). Those accounts still resonate, but we have some newer ones.
+Institutionalist political science identifies “power theories, power transition 
+theories, the relationship between economic interdependence and war, diversionary theories of conflict, domestic coalitional theories, and the nature of 
+decision-making under risk and uncertainty” (Levy 1998: 139). Quantoid neoliberals advise the following:
+There are two prerequisites for a war between (rational) actors. One is that the 
+costs of war cannot be overwhelmingly high . . . there must be some plausible 
+situations in the eyes of the decision makers such that the anticipated gains from 
+a war in terms of resources, power, glory, territory, and so forth exceed the 
+expected costs of conflict. Second, . . . there has to be a failure in bargaining, so 
+that for some reason there is an inability to reach a mutually advantageous and 
+enforceable agreement. ( Jackson and Morelli 2011)
+This decontextualized game theory, founded on rational action as defined by a 
+capitalist consumer mentality, dominates the deracinated world of mainstream 
+political science—the reductive, selfish side of rationality (Altman 2015; Meadwell 
+2016). Psychological explanations have been diminished to such assumptions 
+and their cozily artificial experiments (Böhm et al. 2015); cliometricians are also 
+subject to the imposing spells of this warlockcraft (Eloranta 2016; Jenke and 
+Gelpi 2017).
+Such approaches form part of the warfare/welfare mentality that colors U.S. 
+and northern European social science, alongside service to capital. In the case of 
+war, we see such forms of life adopted and encouraged by technocrats and militarists alike (Roxborough 2015). In short, mainstream academia, diplomacy, and 
+the military are wedded to the notion that “war between states is to be seen in 
+terms of rationally decided aggression rather than in the internationalization of 
+social conflict” (Halliday 1990: 207).
+Contra those perspectives, we confront J.  A. Hobson’s (1902) ideas about 
+imperial conquest being driven by the capitalist problem of domestic overproduction; Marxist theories of class war caused by unequal control of the means of 
+production; Maoist arguments for the peasantry as motors of revolutionary 
+change; feminist critiques of masculine violence; and postcolonial insights into 
+wars that derive from decolonizing cartography (Gruffydd Jones 2006).
+Keynes (1936: 381) provides a succinct political-economic explanation:
+War has several causes. Dictators and others such, to whom war offers, in expectation at least, a pleasurable excitement, find it easy to work on the natural bellicosity of their peoples. But, over and above this, facilitating their task of fanning the 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 11
+popular flame, are the economic causes of war, namely, the pressure of population and the competitive struggle for markets
+The development economist Frances Stewart (2002) advises the following:
+• The incidence of war has been rising since 1950, mostly within rather than 
+between states.
+• Wars may be prompted by race and religion, but with underlying economic 
+causes.
+• The principal stimuli are political, economic, and social inequality; poverty; 
+economic stagnation; poor government; high unemployment; environmental degradation; and individual incentives.
+The Royal Geographical Society nominates “land disputes, politics, religious 
+and cultural differences and the distribution and use of resources” as causes of 
+war, while the Heidelberg Institute for International Conflict Research database 
+finds that ideological struggle is a source of most wars, generally nested with 
+other factors.7
+Like states, most religions take the codification and enactment of violence as 
+fundamental to their very being, as any glance at doctrines of allegedly just war 
+or putatively holy tracts will attest (Finlay 2019). For true believers, deities are 
+intimately bound to crime and punishment, requiring them to “root . . . out heresy, natural impulses, and evil” (Fanon 2004: 176). Virtually all religions justify 
+violence under defined circumstances, and a desire for their gods to rule humanity 
+with unquestioned authority (Popovski et al. 2009; Jerryson et al. 2013). Prelates 
+of righteous, omniscient deities ready to judge and mete out painful punishment 
+are matched by political theorists and military commanders discerning when 
+and how might is right in order to make the remaining life ‘better.’ Sometimes 
+these groups overlap in their membership.
+The Olympian idea of violence as purifying also relates to secular revolutionary fantasies about clearing away the past to free the future. Hence Engels (1968: 
+151, 154) and Rosa Luxemburg (2004: 64) saying acts of violence are ipso facto 
+political, as private property only emerges from theft and assault, notably during 
+primitive accumulation; Sorel (2004) and Michels (2001) viewing proletarian 
+violence as a riposte to decadence that paradoxically revives the bourgeoisie; or 
+Sartre naming it “the midwife of history” in his endorsement of “murderous 
+rampage” as the “collective unconscious” of the colonized to their subjugation. 
+One must destroy colonial authority in order to “erase the marks of violence: 
+violence alone can eliminate them” (2004: 117, 127, 135). In Fanon’s words, “decolonization reeks of red-hot cannonballs and bloody knives” (2004: 165). For her 
+part, Emma Goldman saw political violence as a response to “accumulated forces 
+in our social and economic life,” akin to Nature’s “storm and lightning”; it “may 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+12 The Per sistence of Violence
+destroy life and cause great loss,” but “also bring relief ” (1917: 1). Nietzsche 
+regarded it as crucial to modernity (2002: 78).
+Sexuality and gender issues are crucial to comprehending violence. Wherever 
+you look, from diplomats to bombardiers to correspondents, war is an implicitly 
+male activity. This is rarely if ever recognized in mainstream media coverage and 
+academic knowledge, or problematized as such (Ackerly et al. 2006; Hearn 2012; 
+Sjoberg 2013). But the astonishing inequality between men and women, in 
+socioeconomic power and cultural representation alike, relies on the threat and 
+the actuality of violence to undergird it, as exemplified in the fact that so many 
+more men than women bear arms, both inside and outside the military. Violence 
+between men is also important in determining who among them obtains the 
+spoils of this gendered dominance, and as an index of, and displacement from, 
+other crises such as economic disadvantage (Connell 2005: 82–83).
+Feminist international relations theory stresses the significance of gender in 
+the causes of war, emphasizing these factors at structural and interpersonal levels, from across the world system to internal dynamics within nations, including 
+the masculine priorities and personalities that drive conflicts. At the level of 
+mythology, the “right” way of doing violence births ideas of male nobility, from 
+protective dueling knights to endless military campaigns allegedly waged in the 
+name of women, whose putative vulnerability is routinely invoked as a justification for conflicts, even as they suffer from the violence that ensues (Riley et al. 
+2008; Mackie 2012). Of course, the claim that women are naturally nurturing or 
+pacific has not stood up to a multitude of counter-examples, from feminist guerrilla (in the FARC as elsewhere) to women who are violent to children (Enloe 
+1983; Feinman 2000; Rayas Velasco 2009). But this violence is in no way symmetrical with male militarism.
+Recent, rather sanguine, analyses argue that war is, so to speak, dying out. 
+They rely on the Uppsala Conflict Data Program, which emphasizes state participation and battlefield casualties. The Program privileges a form of warfare that 
+has been partially superseded by violence done to civilians by non-state actors 
+(Kaldor 2012: 10–11). That tendency underscores that fully-fledged, declared wars 
+are only the most spectacular and all-encompassing form of violence.
+Popular Culture
+Unsurprisingly, violence is a common theme in popular culture. Much drama 
+derives from interpersonal and international conflict, many sports are dedicated 
+to physical brutalization, and numerous social anxieties derive from the fear that 
+representing violence may encourage it.
+The word popular generally denotes “of the people,” “by the people,” and “for 
+the people.” In other words, the popular both constitutes and is constituted by 
+the following:
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 13
+• Subjects, whom it incarnates via such genres as sports, information, and drama
+• Workers, who produce performances and recordings
+• Institutions, which industrialize, regulate, and sell their work
+• Audiences, who interpret it
+In Latin America, however, the word popular connotes the proletarian, the 
+peasant, or the poor and their production of meaning: “prácticas culturales de 
+las clases de bajos ingresos y/o de grupos racializados o subordinados que no se 
+han domesticado al negociar su entrada en las esferas mediáticas nacionales o 
+globales” (cultural practices of low-income classes and/or racialized or subordinated groups who have neither been disciplined, nor have they tailored their 
+points of entry into national or global media spheres) (Yúdice 2016: 95). The 
+Persistence of Violence moves easily and uneasily—as one can and must—
+between hegemonic Anglo understandings of the popular and its Latin American connotations, which are both similar and dif­ferent from what one finds 
+elsewhere.
+The word culture derives from the Latin colere, which describes tending and 
+developing agriculture (Benhabib 2002: 2; Adorno 2009: 146). With the advent 
+of capitalism’s division of labor, culture paradoxically came to embody instrumentalism and to abjure it, via the industrialization of farming, on the one hand, 
+and the cultivation of individual taste, on the other. Eighteenth-century Spanish, 
+French, and German dictionaries document this metaphorical shift from agricultural cultivation to spiritual elevation. As the spread of literacy and printing 
+saw customs and laws passed on, governed, and adjudicated through the written 
+word, cultural texts supplemented and supplanted physical force as guarantors 
+of authority. With the Industrial Revolution, populations urbanized, food was 
+imported, and textual forms were exchanged. An emergent consumer society 
+produced such events as racing, opera, exhibits, and balls. The impact of this 
+shift was indexed in cultural labor: poligrafi in fifteenth-century Venice and hacks 
+in eighteenth-century London wrote popular and influential conduct books. 
+These works of instruction on everyday life marked the textualization of custom 
+and the development of new occupations. Anxieties about cultural imperialism 
+also appeared, via Islamic debates over Western domination (Mowlana 2000; 
+Briggs and Burke 2003).
+Immanuel Kant ideologized these commercial and imperial changes, arguing 
+that culture ensured “conformity to laws without the law.” Aesthetics could generate “morally practical precepts,” schooling people to transcend particular interests via the development of a “public sense, i.e., a faculty of judging which in its 
+reflective act takes account (a priori) of the mode of representation of everyone 
+else . . . to weigh its judgement with the collective reason of mankind” (2007: 
+123). Kant envisaged an “exit from . . . self-incurred immaturity,” independent of 
+religion, government, or commerce (1996: 62).
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+14 The Per sistence of Violence
+Culture’s organic law and lore, and their textual manifestations, have come to 
+represent each “epoch’s consciousness of itself ” (Althusser 1969: 108). As a consequence, audiences, creators, governments, and corporations make extraordinary investments in it. For imperial Britain, the study of culture formed “the core 
+of the educational system.” It was “believed to have peculiar virtues in producing 
+politicians, civil servants, Imperial administrators and legislators,” incarnating 
+and indexing “the arcane wisdom of the Establishment” (Plumb 1964: 7) to 
+reproduce and renovate what Matthew Arnold called “that powerful but at present somewhat narrow-toned organ, the modern Englishman” (1875: x).
+Culture has usually been understood in two quasi-Kantian registers, via the 
+social sciences and the humanities. They emerged as secular alternatives to deistic knowledge (Schelling 1914) focused on dual forms of “self-realization” (Weber 
+2000)—truth and beauty. This heuristic distinction grew substantive as time 
+passed (Williams 1983: 38). Culture came to be understood as a marker of differences and similarities in taste and status within groups. It could be explored 
+interpretatively or methodically.
+So art is understood through iconography, quality, and representativeness, as 
+framed by cultural criticism and history. The social is understood through language, religion, custom, time, space, and exchange, as framed by ethnography 
+and statistics. Whereas art articulates differences within populations via symbolic norms (for example, providing some of us with the cultural capital to 
+appreciate high culture) the social articulates such differences via social norms 
+(such as legitimizing inequality through doctrines of human capital) (Bourdieu 
+1984; Wallerstein 1989). An aesthetic discourse about culture sees it elevating 
+people above ordinary life, transcending body, time, and place. A folkloric discourse expects culture to settle us into society through the wellsprings of community, as part of daily existence. A populist discourse idealizes fun, offering 
+secular transcendence through joy (Frith 1991: 106–07).
+For some Anglo analysts, popular culture is the apex of modernity. It stands 
+for the expansion of civil society—the moment in history when the state 
+becomes receptive to, and part of, the general community. The general population is hence made part of the social rather than excluded from the means and 
+politics of political calculation. This occurs along with diminished authority, 
+augmented rights, and newly intense, large-scale human interactions that are 
+necessitated by industrialization and aided by the media: the spread of advertising is taken as a model for the breakdown of social barriers, exemplifying the 
+triumph of the popular (Shils 1966; Hartley 1992). “Administrative research” was 
+named and valued in the 1940s and operates under this sanguine sign (Lazarsfeld 
+1941). It supports technological innovation, buoyant demand, audience measurement, marketing, regulation, enforcement of property relations, and so on, 
+in the name of capitalist efficiency and governmental normativity—making capitalism function by ensuring a skillful, willing, and docile populace.
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 15
+But popular culture also elicits critique. At the onset of European imperialism, Antonio de Nebrija wrote in his Grammar of the Castilian Language, published in the fateful year 1492, that one must systematize and promulgate an 
+orthodox Spanish in order to elevate readers beyond “romances or stories” that 
+consisted of “a thousand lies and errors” (2016: 203). And for centuries, the links 
+between art as a form of market-based entertainment and a reflection and generator of social identities have produced very varied reactions: during Europe’s 
+Industrial Revolution, anxieties about a suddenly urbanized and educated population raised the prospect of a long-feared “ochlocracy” of “the worthless mob” 
+(Pufendorf 2000: 144). Ever since, theorists from both right and left have argued 
+that newly literate or minimally educated publics could be manipulated by demagogues. Bourgeois economics may assume that rational consumers determine 
+what is popular culture, but even neoclassical/neoliberal chorines worry that 
+ordinary people can be bamboozled by unscrupulously fluent ones. Marxism 
+has often viewed popular culture as a route to false consciousness that diverts 
+the working class from recognizing its economic oppression; feminist approaches 
+have moved between condemning the popular as a similar distraction from gendered consciousness and celebrating it as a distinctive part of women’s culture; 
+and cultural studies has regarded it as a key location for the symbolic resistance 
+of class, race, and gender oppression (Hall and Jefferson 1976; Mattelart 1980; 
+Smith 1987).
+There has been a cross-generational, cross-disciplinary emphasis on the number and conduct of audiences to popular culture: where they came from, how 
+many there were, and what they did as a consequence. Such concerns are coupled with a focus on content: what were audiences watching when they. . . . Both 
+audiences and texts are conceived of as empirical entities that can and must be 
+known, via research instruments derived from sociology, the psy-function, criticism, demography, linguistics, communications, law, anthropology, accountancy, economics, and marketing.
+Administrative research was originally juxtaposed with the anti-Nazi Frankfurt School’s critiques of popular culture, which suggest that its commercial conditions “impress . . . the same stamp on everything.” The principals of that 
+School, Theodor Adorno and Max Horkheimer (1977), saw consumers and citizens as manipulated from the social order’s economic apex, with “[d]omination” 
+masquerading as choice in a “society alienated from itself.” On this reading, culture becomes just one more industrial process, ruled by economic forces that 
+diminish ideological or generic innovation in favor of standardization. That 
+organizational form necessitates repetition rather than difference, because of the 
+factory-like production of film, music, news, and radio.
+The Frankfurt School and its adherents worry that popular culture commodifies and governmentalizes signification. As a consequence, while semiosis begins 
+as a reflection of reality, commodity signs displace representations of the truth 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+16 The Per sistence of Violence
+with false information. Then these two delineable phases of truth and lies 
+become indistinct. Once underlying reality is lost, signs become self-referential, 
+with no residual correspondence to the real: they have adopted the form of their 
+own simulation (Baudrillard 1988). People are said to buy commodities to give 
+meaning to their lives because societies no longer make them feel as though they 
+belong. This concatenating simulation has implications for the aesthetic and 
+social hierarchies that “regulate and structure . . . individual and collective lives” 
+(Parekh 2000: 143) in competitive ways that harness popular culture for social 
+and commercial purposes. For this reason, analysts discern close ties between 
+ideological content and industrial impact.
+More positive responses to popular culture also exist within critical thought. 
+For example, Brecht admired, copied, and sought to transcend the popular, welcoming passionate crowds as potential sites of resistance to government and 
+capital (1964). Even Adorno reflected that sports had “an anti-barbaric and antisadistic effect by means of fair play, a spirit of chivalry, and consideration for the 
+weak” (2005: 196–197). Historical and contemporary analyses of slaves, crowds, 
+pirates, bandits, minorities, women, and the working class have utilized archival, 
+ethnographic, and statistical methods to emphasize day-to-day noncompliance 
+with authority, via practices of popular-cultural consumption that frequently 
+turn into practices of cultural production. For instance, U.K. research has lit 
+upon Teddy Boys, Mods, bikers, skinheads, punks, school students, teen girls, 
+Rastas, truants, dropouts, and magazine readers as magical agents of history—
+groups who deviated from the norms of schooling and the transition to work, 
+thereby generating moral panics. Scholar-activists examine the structural underpinnings to collective style, investigating how bricolage subverts the achievementoriented, materialistic values and appearance of the middle class. The working 
+assumption has often been that subordinate groups adopt and adapt signs and 
+objects from dominant culture, reorganizing them to manufacture new meanings. 
+The oppressed become producers of new fashions, inscribing alienation, difference, and powerlessness on their bodies (Leong 1992).
+A commitment to social and cultural justice as well as academic theorization 
+and research has proven magnetic to many subordinate groups embarking on 
+international academic exchange over the last fifty years. Hence the appeal of 
+studying popular culture not only at the conventional scholarly metropoles of 
+the United States and Britain, but in Colombia, Brazil, Turkey, India, and other 
+important sites that are all too accustomed to being theorized and analyzed; and 
+all too unfamiliar with being regarded as the sources of ideas, not merely places 
+for their application.
+Perhaps the foremost theorist of popular culture in critical thinking of the 
+kind represented in The Persistence of Violence is Gramsci. He maintained that 
+each social group creates “organically, one or more strata of intellectuals which 
+give it homogeneity and an awareness of its own function not only in the economic 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 17
+but also in the social and political fields”: the industrial technology, law, economy, and culture of each group. The “‘organic’ intellectuals that every new class 
+creates alongside itself and elaborates in the course of its development” assist in 
+the emergence of that class, for example via military expertise. Intellectuals operate in “[c]ivil society . . . the ensemble of organisms commonly called ‘private,’ 
+that of ‘political society’ or ‘the State.’” They represent the “‘hegemony’ which 
+the dominant group exercises throughout society” as well as the “‘direct domination’ or command exercised through the State and ‘juridical’ government.” Ordinary people give “spontaneous’ consent” to the “general direction imposed on 
+social life by the dominant fundamental group” (Gramsci 1978: 5–7, 12). In other 
+words, popular culture legitimizes socioeconomic-political arrangements in the 
+public mind and can be a site of struggle as well as domination. Gramsci also 
+crucially noted that the words for “national” and “popular” were similar in several languages, such was their affinity, and called for a closer alignment between 
+everyday concerns and intellectual practice to reflect that linguistic kinship and 
+animate socialism (2000: 366). The process might take dialectical form: for 
+example, cinema has been the property and design of elites seeking to recruit 
+the population to their projects through film’s carnivalesque expressivity and 
+mythologies of upward mobility, but brokered through multinational taste cultures of a very dif­ferent kind that bring status and rewards from a cosmopolitan 
+cultural élite.
+Raymond Williams (1977) drew on the idea of residual, dominant, and emergent hegemonies to describe the process whereby class formations compete over 
+narratives that legitimize social control. Examples of these categories might be 
+the remains of an empire, a modern mixed economy, and neoliberal transformation, respectively. Extensive use has been made of Gramsci’s beyond the Global 
+North, in South Asia and segments of the Arab and African worlds (Marks and 
+Engels 1994; Patnaik 2004; Dabashi 2013). Across Latin America, his notion of 
+the national popular harnessing class interests is common sense for both left and 
+right (Massardo 1999); for example, music represented this incorporation of 
+popular urges into officially-sanctioned and -enjoyed culture in many parts of 
+the region from the 1920s to the 1940s (Yúdice 2016).
+I well remember arriving late to a meeting in Guadalajara prior to the 2006 
+presidential elections in Mexico, when it seemed likely that the left would triumph. A group had been assembled to plan a new cultural policy. I entered quietly and remained so, in part due to my lateness and in part through lack of 
+familiarity with the people present. Two middle-aged men were citing Gramsci 
+and Benjamin. I thought “Good grief, here we go again—leftist academics droning on about Euro theorists. Pointless.” Little did I know. For the speakers were 
+both members of Congress, including a senator; one a survivor of the Tlatelolco 
+massacre of 1968, the other a campaigner for media reform. Unlike my experience of the white-settler colonies and Britain, such embodied theorization was 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+18 The Per sistence of Violence
+part of capital P political discourse. In Colombia, Gramsci’s ideas have been 
+adopted and adapted since the 1950s by academics, social movements, arts educators, writers, the teachers’ union, and the Communist Party, which proceeded 
+to endorse guerrilla resistance (Brands 2010: 17; Santofimio-Ortiz 2018).
+Hegemonic cultural ideas have always mattered. They informed imperial 
+expansion through the religious, civilizational fervor of Spain’s conquista de 
+América (conquest of America), Portugal’s missão civilizadora, and France and 
+Britain’s mission civilisatrice (civilizing mission), as western Europe sought to 
+remake the globe in its own phantasmatic image (Rojas 2002). The Spanish 
+wrote self-aggrandizing tracts to celebrate killing native peoples (Braudel 1984: 
+393; Colmenares 1996). And from the first days of her empire, Queen Isabella’s 
+functionaries established Castilian as a mode of conquest and management. 
+Indeed, the imperial grammarian de Nebrija argued that “language was always 
+the companion of empire.” Along with Christianity, it would enable the queen to 
+“put under her yoke many barbarous peoples and nations of alien languages.” 
+With physical conquest came linguistic and hence codified rule (2016: 202, 204).
+The outcome was religious violence and conversion, a cohort of satraps doing 
+the work of Eurocentrism, and a forceful reaction against foreign cultural domination that has never subsided, exacerbated over the last century by the global 
+entertainment demesne of the United States (Mowlana 2000). This latter element is especially strong in Latin America, in keeping with the Monroe Doctrine, which was enunciated almost two centuries ago to keep Europe out of the 
+Americas by declaring anything that went on in the region’s new states to be the 
+business of the United States:
+The Governments who have declared their independence and maintained it, and 
+whose independence we have, on great consideration and on just principles, 
+acknowledged, we could not view any interposition for the purpose of oppressing them, or controlling in any other manner their destiny, by any European 
+power in any other light than as the manifestation of an unfriendly disposition 
+toward the United States. (Richardson 2004: 1038–1039)
+The Colombian government embraced this policy in 1826, referring to it as the 
+“gospel of the new continent” (quoted in McPherson 2016: 17). And by midcentury, the now-established independence elites sought their own hegemonic civilización mestiza (mixed civilization). It would transcend the country’s “black and 
+indigenous past” through education, faith, fashion, and conduct (Rojas 2002: xxvi).
+Critiques of cultural imperialism have found significant uptake throughout 
+the Global South—not least for their focus on the machinery of propaganda 
+sold to ordinary people by powerful sovereign-states. Such arguments have resonated in everyday talk, broadcast and telecommunications policy, unions, international organizations, nationalistic media and heritage, cultural diplomacy, 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 19
+anti-Americanism, and postindustrial service-sector planning (see Dorfman and 
+Mattelart 1971; Beltrán and Fox de Cardona 1980; Schiller 1976, 1989). They are 
+exemplified by Armand Mattelart’s stinging denunciation of external cultural 
+influence on the Third World:
+In order to camouflage the counter-revolutionary function which it has assigned 
+to communications technology and, in the final analysis, to all the messages of 
+mass culture, imperialism has elevated the mass media to the status of revolutionary agents, and the modern phenomenon of communications to that of revolution itself. (1980: 17)
+The concern is that popular culture exported from the Global North transfers its 
+dominant value system to others, through hegemony over news agencies, advertising, market research, public opinion, screen trade, technology transfer, propaganda, telecommunications, and security. There is a corresponding diminution 
+in the vitality and standing of local languages, traditions, and national identities. 
+As Herbert I. Schiller expressed it, “the media-cultural component in a developed, corporate economy supports the economic objectives of the decisive 
+industrial-financial sectors (i.e., the creation and extension of the consumer society)” (1991: 14).
+It can be no surprise that Latin Americans generated the theory of dependent 
+development in the 1940s to explain why the industrial takeoff experienced by 
+western Europe and the United States had not occurred elsewhere. It gained 
+adherents across the Global South over the next three decades in reaction to the 
+fact that rich societies at the world core had become so through their colonial 
+and international ventures—importing ideas, fashions, and people from the 
+periphery while exporting manufactured popular culture (Prebisch 1982; Cardoso 2009). When UNESCO formed its International Commission for the 
+Study of Communication Problems in the 1970s, chaired by Séan MacBride, 
+García Márquez was a member. Its landmark 1980 report, Many Voices, One 
+World, resonated across the globe. Britain and the United States withdrew from 
+UNESCO, in part because the Commission’s radical findings and proposals fell 
+victim to the Cold War (Preston et al. 1989). This critique has enjoyed particular 
+purchase in Latin America and other postcolonial states whose traditions and 
+languages tie them to texts exported from the metropole. That analysis is of value 
+for Colombia, given the oligarchies that run politics and the media and a dependent relationship on U.S. screen drama and music, albeit leavened by black, 
+indigenous, and mestiz@ cultural production. Foreign influences have been 
+enabled by successive generations of local policy makers following the Yanqui 
+dictum of open communications technologies but copyrighted textual markets 
+as a means to development and modernization (Dorfman and Mattelart 1971; 
+Segoviana García 2011; Barranquero Carretero et al. 2017).
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+20 The Per sistence of Violence
+And there remains a paradox—possibly a contradiction—in critical engagements with the popular. Whenever spectacle is used effectively by social movements, advertising agencies “borrow” what they see. The fashion and music 
+industries dispatch spies to watch and listen to the popular as part of a restless 
+search for new trends to market. Capitalism appropriates its appropriators, and 
+so do its lackey governments, as per the transmogrification of the term “culture 
+industries” into “creative industries” (Miller 2012) (of which more below).
+Popular culture around the globe has become ever more central to economic 
+and social life: world trade in culture increased from US$559.5 billion in 2010 to 
+US$624 billion in 2011 (United Nations Conference on Trade and Development 
+2013). Popular culture has internationalized, in terms of the export and import of 
+texts, attendant fears of cultural imperialism, and a New International Division 
+of Cultural Labor (NICL) (Miller 2018b). A prosperous economic future supposedly lies in finance capital and ideology rather than agriculture and 
+manufacturing—seeking revenue from innovation and intellectual property, not 
+minerals or masses.
+Popular culture offers important resources to markets and nations—reactions 
+to the crisis of belonging and economic necessity occasioned by capitalist globalization. It is crucial to advanced and developing economies alike, and can 
+provide the legitimizing ground on which particular groups (e.g., African Americans, lesbians, the hearing impaired, or evangelical Protestants) claim resources 
+and seek inclusion in national and international narratives (see Yúdice 2002 and 
+Martín-Barbero 2003 on Latin America; Colla 2012 and Pahwa and Winegar 2012 
+on Egypt; Yang 2009 on China; Boateng 2011 on Ghana).
+Latin American cultural policy has gone through several transformations in 
+response to this commodity fetishism. The rather musty, dusty sphere of arts 
+policy has become subject to intense criticism for its failure to encompass the 
+popular-culture industries and their relationship to development (Yúdice 2018). 
+But Latin American critics of the old patrimony approach to cultural policy—
+arts and crafts—did not all wake up with sore heads from a wine-and-cheese 
+gallery opening and turn into prelates of the putative creative industries. Many 
+maintained and even developed their concerns about neoliberalism as it turned 
+its lustful gaze toward culture. They favored an approach that blended solidarity 
+and difference, through a mixture of regional policy making and taking culture 
+beyond markets to recognize the issues confronting indigenous and Afrodescended peoples (Yúdice 2018).
+Methodologically and theoretically, we need to be aware of the double-edged 
+side to cultural commodities, as objects of resistance whose very appropriation 
+can then be recommodified. That makes socioeconomic analysis via critical 
+political economy a good ally of representational analysis via close reading. But a 
+certain tendency on both sides has maintained that the two approaches are 
+mutually exclusive: one is concerned with structures of the economy, the other 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 21
+with structures of meaning. That need not be the case. Historically, the best critical political economy and the best close reading have worked through the imbrication of power and subjectivity at all points on the cultural continuum, bringing 
+together the insights of Gramsci and Frankfurt. Such examples help animate 
+what follows, together with an appreciation of history.
+History
+Eduardo Galeano put it well when he wrote that “Colombians suffer violence 
+like a disease, but they do not wear it like a birthmark on their foreheads. The 
+machinery of power . . . is indeed the cause of violence” (2013: 426). For like most 
+sovereign-states, the nation’s history has been contoured by the earth-shattering 
+concatenation of political-economic events since the eighteenth century:
+• The shift from absolute monarchy to parliamentary democracy
+• The social upheavals of imperialism, colonialism, slavery, war, postcolonialism, 
+industrialization, urbanization, human rights, feminism, and climate change
+• The expansion of global capitalism
+Against that heady history of exploitation, productivity, democracy, and destruction, one scholarly tradition, populated by conservative ethnonationalists, argues 
+that nations are constants across history, albeit changing their morphology with 
+time and circumstance (Smith 2000). The nation is sustained through supposedly indelible ties: origin myths, languages, customs, races, and religions (Herder 
+2002).
+For those more in thrall to modernity, such “ties” are invented traditions 
+(Hobsbawm and Ranger 2002). Far from being the outcome of abiding mythologies, the materiality and idea of the nation derived from the Industrial Revolution and imperialism, which brought places together that had not previously 
+deemed themselves linked in any way. Relatively isolated, subsistence villages 
+were transformed by the interdependence engendered by capitalist organizations, the commodification of everyday relations, and the sense of unity generated from nation-binding technologies and institutions, most notably print 
+and public education (Gellner 1988). Since that time, the state articulates the 
+nation as a spirit-in-dwelling, which gives it legitimacy, but which it nonetheless 
+reserves the right to name and monitor; for nations are coterminous with systems of government. Even as the nation is manufactured, it is said to be an 
+already-extant, authentic essence of statehood and personhood.
+Discussions with campesinos (peasants) about political violence in Colombia 
+generally return to one point of origin: the clearance of the poor from land by 
+murderous means, at the hands of state, guerrilla, and paramilitar alike (Molano 
+2001). That suggests the nonessentialist account of nationalism can best help us 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+22 The Per sistence of Violence
+understand Colombia’s history—that is, in the light of the development and 
+reproduction of national, regional, and global capitalism (Giraldo Durán and 
+Álvarez de Castillo 2018).
+Prior to its conquest in the first quarter of the sixteenth century, the area we 
+know today as Colombia comprised distinct peoples. Those distinctions were 
+ramified with the administrative geography imposed by Spain, which created 
+western and eastern spheres of control (Safford and Palacios 2002). It soon 
+imported West African slaves to mine gold, leaving the agricultural east largely 
+intact, where indigenous populations generally survived. The colonists’ basic 
+unit of social control and economic production alike was the hacienda, a sphere 
+of living and working for slaves and First Peoples. The latter were required to pay 
+tributes to the Spanish Crown. They lived somewhere between servitude and 
+slavery throughout the colonial period (Celis González 2018: 32–33).
+The Colombian nation-state was birthed, like many others, in revolutionary 
+struggle over the long period of 1810 to 1824 when the Republic of New Grenada 
+(now Panamá, Venezuela, Ecuador, and Colombia) won independence. The 
+major beneficiaries were hacienda landholders, whose power over people and 
+territory was consolidated at the expense of those with smaller holdings. The 
+requirement to ‘pacify’ hitherto-neglected terrain as part of this process made 
+violence a core part of extending the authority of state and capital alike and paying the costs of the war by selling off cultivable land. The formalization of land 
+ownership and use militated against the peasantry, who lacked the finance to 
+purchase what was physiocratically theirs. The nation’s wealth was being integrated into the world economic system after a period of economic contraction 
+following independence, and class exclusion via race was a core component of 
+ensuring restrictions on how that wealth was distributed internally. The process 
+was in turn colored by divergent interests—conservative Catholic landowners 
+and liberal urban businessmen. Manumission was achieved in 1851 and helped 
+motivate intense struggle. Liberal and Conservative blocs and parties formed to 
+represent dif­ferent fractions of capital and relationships to religion (Bergquist 
+1991; Green 2000; Rojas 2002: xxiv; Bértola and Ocampo 2012: 66; Comisión 
+Histórica 2015; Celis González 2018: 33, 35; Pino Uribe 2017).
+That binary party system has plagued the country ever since. The power of 
+the two blocs has essentially precluded electoral uprisings and economic 
+redistribution alike; conservative, Spanish-oriented Catholics opposed Britishleaning liberals and radicals via their infamous tendency to divide people and 
+formations as amigo-enemigo (friend-enemy) (Rojas 2002: xxvii; Giraldo Durán 
+and Álvarez de Castillo 2018). Although this division applied in much of the 
+region, it was nowhere so deep or violent as in Colombia. The blocs fought ten 
+civil wars in the nineteenth century over slavery, land reform, and new institutions, driven in part by U.S. intervention in Panamá’s isthmus (then part of 
+Colombia) (Deas 2015).
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 23
+At the close of the colonial period, the nation’s export base was dominated by 
+gold and silver mined in the eastern highlands. It soon diversified, thanks to coffee, tobacco, and quinine, while hitherto-limited imports grew through consumer goods, particularly luxury items. What had been a country in name 
+only—it was more a set of autonomous regions, and frequently lamented as such 
+by urban intellectuals—was now subject to struggle by competing capitalists, 
+governments, and social groups, alongside the denunciation of indigenous and 
+Afro-Colombians as degrading development and national identity alike. In addition, there came to be not only industrialization and repositioning within the 
+world economy, but also an emergent capitalist imaginary. It drew on reactionary Christianity as a moral technology but allowed for cultural heterogeneity as 
+a means of justifying class hierarchies (Pécaut 1987, 2001; Bulmer-Thomas 2003: 
+25, 43, 143; Castro-Gómez and Restrepo 2008; Alvarado 2012).
+Colombia became one of the least secular countries in the region, in keeping 
+with the large number of Church officials and priests from the colonial era. Its 
+first Constitutions disavowed religious tolerance, until liberal hegemony from 
+the 1850s undermined Catholic exclusivity, legalized divorce, and cut previous 
+tithes. The 1860–1863 war saw liberalism triumphant. Armed with a new Constitution, Liberals exercised political dominance through the mid-1880s, when they 
+were displaced by another civil war and a revised Constitution that favored the 
+Catholic Church, granting it suzerainty over education and religious control of a 
+third of the country. Uniquely across the region, a concordat was signed with the 
+Vatican in 1888 that institutionalized Church hegemony until the 1970s, by which 
+time 95 percent of Colombians affiliated with Catholicism, up from 80 percent in 
+1910 (Freston 2004: 228; Schwaller 2011: 154–56, 181; Pew Research Center 2014: 
+27; de la Torre and Martín 2016: 476).
+Conservatives ruled until 1930 in concert with the Church, punctuated by the 
+horrendous 1899–1902 War of the Thousand Days, which claimed the lives of a 
+hundred thousand people from a population of four million and saw the Panama 
+Canal ceded to Washington. Theodore Roosevelt regarded the Colombian government as “homicidal corruptionists.” He insisted that the “Bogotá lot of jack 
+rabbits” must not be permitted to “bar one of the future highways of civilisation” 
+(quoted in McPherson 2016: 57). The period also saw chaotic currency movements. Conservatives and Liberals both issued paper money, and the peso’s 
+value against the gold standard fell from 30 to 0.4 cents over the three years 
+(Bulmer-Thomas 2003: 111 n. 96).
+Conservative control fell into disrepute during the Depression, even though 
+the latter’s economic effects were relatively mild. When the government slaughtered up to three thousand banana workers who were striking against U.S. capital 
+on the Caribbean coast, this helped stimulate the Communist Party’s organization of the rural and urban poor. Violence between Conservatives and Liberals emerged again under Liberal hegemony from 1930, and a new bloc erupted, 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+24 The Per sistence of Violence
+the Unión Nacional Izquierdista Revolucionaria (National Union for Leftist 
+Revolution). Vicarious tensions arose during the Spanish Civil War, when Conservatives favored Francoist and Hitlerian demagoguery. Liberals removed the 
+Church from its privileged position in favor of a nonsectarian and secular 
+approach to daily life and public education. Meanwhile, an urban proletariat was 
+forming, with the rise of textile manufacturing and government public-works 
+programs designed to offset the loss of export revenue to the Global North. 
+Through it all, extravagant claims were made for coffee as a panacea that could 
+bring Colombians together pacifically in an idyll of decent work and just rewards 
+(Bergquist 1991; Galeano 1997: 102; Bulmer-Thomas 2003: 230, 247; Schwaller 
+2011: 195; Comisión Histórica 2015; Aranguren Romero 2017: 7–8; Guerrero and 
+Fandiño-Losada 2017).
+In 1946, the twenty-year Violencia began, as the dif­ferent interests of peasants, 
+workers, politicians, soldiers, and fractions of capital were drawn into conflict. 
+Conservatives used their electoral success to displace and persecute Liberals, 
+who revolted. The radical presidential candidate Jorge Eliécer Gaitán, a brilliant 
+radio orator and arguably the Colombian politician who has resonated most 
+with the popular classes, was assassinated. Bogotá burned, though the main 
+areas affected were in the countryside. General Gustavo Rojas Pinilla’s military 
+coup in 1953, and associated anti-leftist rhetoric, bundled opposition groups 
+together under a putatively socialist barrier. The Conservatives rolled back minimal agrarian reform in a welter of Cold War panic mixed with opportunism, 
+slaughtering campesinos in the process and initially identifying Protestantism 
+with the Soviet bloc. Colombia led the way when the Organization of American 
+States expelled Cuba in 1962. By that time, Christian groups had combined in 
+their opposition to the Left, though liberation theology was also emerging 
+within Catholicism (Bergquist 1991; Roldán 2002; Freston 2004: 229; Brands 
+2010: 51; Schwaller 2011: 197, 244; Deas 2015: 97; Guerrero and Fandiño-Losada 
+2017; Celis González 2018: 36; Giraldo Durán and Álvarez de Castillo 2018). 
+Meanwhile, Frantz Fanon fondly imagined Colombia’s campesinos interpreting 
+national radio against the grain and taking revolutionary direction from Cuban 
+and Chinese broadcasts instead (1965: 6–7).
+The period from 1946 to 1966 cost three hundred thousand Colombians their 
+lives, displaced two million others, and stole four hundred thousand plots of 
+land from indigenous people. The Violencia ended when the junta installed a collaborative front, the two major parties agreed to take the presidency in turn, and 
+Liberals purged progressives and minorities from their ranks. The accord suited 
+an emergent international division of labor that set citizens of the periphery to 
+work as extractors of primary goods and consumers of secondary ones, dragging 
+peasants toward either regional production of cement, energy, and textiles, or 
+industrialized food for export, notably bananas and coffee. As coal and petroleum grew in importance for the nation’s balance of trade, agriculture’s share 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 25
+diminished, and campesinos’ economic prospects worsened. The demographic 
+corollaries were intense: Colombia’s rural dwellers formed 70  percent of the 
+population in 1960, less than 25 percent at the end of the century, and 20 percent 
+in 2018. Food aid across the 1950s and ’60s had impoverished the rural sector by 
+driving down the price of local commodities versus imported wheat, dispatching 
+campesinos to the cities. Primary products accounted for 80 percent of exports in 
+1980 and 66 percent in 2000, drawing level with manufacturing in their contribution to gross domestic product (GDP) (Orlando Melo 1998: 65; Ocampo and 
+Tovar 2000: 240; Pécaut 2001; Dennis 2006; Comisión Histórica 2015; McMichael 
+2017: 68; Economic Commission for Latin America and the Caribbean 2019a: 13).
+These changes birthed and developed today’s principal guerrilla and propelled the nation into collective traumas that have never truly ended. Political 
+violence took a new turn from the 1960s due to insurgencies. In keeping with 
+Cold War norms, Washington successfully urged violent repression on Bogotá. 
+They jointly bombed resistant peasant groups and set up militias to persecute 
+leftists. That set the precedent for paramilitares: Las Autodefensas Unidas de 
+Colombia (AUC) (United Self-Defense Force of Colombia) (Dugas 2005; Hunt 
+2009; Brands 2010: 60) and Las Autodefensas Gaitanistas de Colombia (AGC) 
+(United Self-Defense Gaitanistas of Colombia), their successors following a 
+putative demilitarization in 2007. These forces have also done the dread work of 
+corporations and ranchers (Hellinger 2015: 311). The AGC exploits the revered 
+memory of Gaitán to reverse his politics, invoking populism while serving established interests.8
+As in many cases across modern history, the relationship of such militias to 
+the state is ambiguous (Carey et al. 2015), and there has been a tendency for the 
+media to emphasize the horror of guerrilla atrocities by contrast with those committed by paramilitary forces (García Marrugo 2017) despite the latter’s intense 
+brutality, from rituals of initiation to forms of torture and combat (Whitehouse 
+and McQuinn 2013). And when a leftist political party ran for office in the 1980s, 
+it was decimated by what the Centro Nacional de Memoria Histórica (National 
+Center for Historical Memory) now refers to as a genocide (2018a).
+The Colombian government has sponsored three major studies into the 
+causes and effects of this violence, in 1958, 1987, and 2007. They betray the lineaments of their time. The 1958 Comisión Nacional Investigadora de las Causas y 
+Situaciones Presentes de la Violencia en el Territorio Nacional (National 
+Research Commission into the Causes and Current State of Violence in the 
+Nation) comprised men from politics, the military, literature, and Catholicism. 
+It attempted to put a bipartisan end to bipartisan violence, referred to as “a widespread cancer” that could be overcome by cathartic confrontation and ameliorative social policies ( Jaramillo Marín 2015).
+The 1987 Comisión de Estudios Sobre la Violencia (Study Commission 
+into Violence) saw membership shift to public-university faculty from law, 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+26 The Per sistence of Violence
+anthropology, sociology, and engineering, plus one retired officer; all were men. 
+Because the agents of violence had become so varied and intense, it had to manage 
+events that went beyond disagreements between elites that might be resolved technocratically. A discourse of bipartisanship neither described nor explained the 
+numerous guerrilla and paramilitary groups plus narco gangsters generating what 
+was now referred to as a “dirty war.” Whereas the 1958 group looked at policies, the 
+1987 team focused on classification, generating taxonomies rather than programs, 
+predicated on the belief that a renewed democracy would bring peace. A penny 
+for your Habermas, since the evidence suggests that opening dialogue and 
+interaction escalated the violence from 1985, when mayors were directly elected 
+and a leftist political party made legitimate, and 1991, when a new Constitution 
+increased decentralization (Steele and Schubiger 2018). Narcoterrorism emerged 
+and the paramilitares and guerrilla alike killed and terrorized more and more 
+people in struggles for these new political-economic resources, defying the 
+assumptions underlying democratization. That said, the Commission marked a 
+key moment in the advance of human-rights discourse in Colombia, which 
+remains an intermittently potent tool of denunciation to this day ( Jaramillo 
+Marín 2015).
+Its successor, the Subcomisión de Memoria Histórica (Subcommission into 
+Historical Memory) (2007–2012), comprised scholars and activists. It sought to 
+monitor the supposed integration of armed groups into civil society and justice 
+for their victims. Memory became a key concept, not merely as an aspect of 
+knowledge but as a performative right in itself. It was to be used as proof of suffering and to shed light on sociocultural experiences of loss and grief. But the 
+Subcommission’s work was overdetermined by an administration dedicated to 
+violent destruction of the guerrilla and the assertion of nationwide state power 
+(Shapiro et al. 2014; Jaramillo Marín 2015).
+In summary, the various official inquiries, like academic work, tend to converge on certain topics as explanations of violence in Colombia, albeit with differences attributable to their governing conjunctures. But most agree that it 
+results from elite desires and disputes, profound social inequality, disparities in 
+living conditions between urban and rural life, the structure of political parties, 
+failures of democratic will and participation, and narcotrafficking (Celis González 
+2018: 28).
+Drugs
+Narco has become the prefix to much of contemporary Colombian life—narcotrafficking, narco-war, the narco-state, narco-culture (Lezcano 2018). Cocaine 
+runs across the recent history of national violence, largely determined by the 
+drug’s labor process, which has diversified over time with industrialization and 
+as the gangs hired by cartels become actors in their own right. For some critics, 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 27
+the nexus of cocaine and violence is a gruesome neoliberal project “in conjunction with both civil society (social capital) and the state, to forge both a model 
+and a mythology of development whilst waging a phony war on drugs and drug 
+dealers who have been incorporated into, and/or deployed by, elites in their genuine wars to dispossess rural citizens” (Fine and Durán Ortiz 2016: 14). The 
+notion is that oligarchs, drug dealers, paramilitares, the United States, and Colombian national and departmental governments conspired to seize land, develop 
+the corporate sector, and discredit the Left. That may be true, but the history is 
+longer than it might suggest.
+Andean coca leaves, which naturally abound in Bolivia and Perú, were immediately seized on by the conquistadores as a means of controlling and stimulating 
+their indigenous silver-mine workers. Coca was inserted into world capitalism in 
+the mid-nineteenth century, though its industrial alkaloid derivative cocaine was 
+fairly insignificant globally until the 1970s, other than for anesthetic purposes 
+and as a creative and sporting stimulant. Legal commodity chains operated from 
+1860 to 1910, connecting Europe and the United States to Andean suppliers. Then 
+criminalization took hold, and the trade internationalized as contraband through 
+the Dutch, Japanese, and U.S. empires until World War II (Gootenberg 2006).
+From the mid-1970s, Colombian gangsters imported coca paste from the 
+Andes and chemical-processing elements from the Global North, using a complex supply chain of many small, informal businesses. The cartels set up cocaine 
+factories in urban and then jungle laboratories, sending the product to Europe 
+and the United States on passenger flights or light planes (Orlando Melo 1998: 
+68). Coca leaf was successfully transplanted en masse to Colombia in the 1990s 
+from Bolivia and Perú, which were gradually overrun by Yanqui interdiction. In 
+1994, 20,000 hectares in Colombia were dedicated to coca. By 1996, the figure 
+was 200,000. During initial production, indigenous and campesino rural dwellers 
+were attacked to subdue or clear them out. Once cocaine was in play, intense violence proliferated across numerous sites (Bergman 2018: 5, 30, 51, 102):
+• Distribution markets and routes
+• Among traffickers
+• With the state
+• During retail on the street
+• In related fields (football, oil, and minerals)
+• Caused by addicts
+By the twenty-first century, cocaine accounted for a quarter of the country’s 
+exports and three percent of its GDP (Bulmer-Thomas 2003: 9). Coca cultivated 
+in Colombia virtually halved between 2000 and 2013; but that was followed by 
+massive increases as a consequence of failed compensation schemes for farmers, 
+new cartel tactics, and diminished interdiction. The amount grew by a third from 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+28 The Per sistence of Violence
+2015 to 2016, to almost nine hundred tonnes. Two-thirds of the globe’s hectares 
+dedicated to coca (170,000) are in Colombia, the majority in the Pacific and central zones. Thousands of laboratories convert the raw material (United Nations 
+Office on Drugs and Crime 2018a: 8, 29; 2018b: 11). There are gun battles in 
+Bogotá and Medellín between rival gangs and the police, threatening the relative 
+calm in big cities as assault weaponry proliferates via FARC cast-offs and Venezuelan military sales. Meanwhile, cartels compete for domestic as well as international demand (Ávila 2019).
+As a consequence of cocaine, what had been largely political struggles 
+branched out and deepened in both their violence and their overall impact. The 
+blend of organized, non-ideological, criminal violence and organized, ideological, militia/guerrilla/state violence is unprecedented in Latin America since 
+independence. New fractions of capital have become involved via the financial 
+sector’s invention of monetary instruments to launder plunder (Alvarado 2012; 
+Kacowicz and Mares 2016: 16; Aranguren Romero 2017: 9–11; Guerrero and 
+Fandiño-Losada 2017; Giraldo Durán and Álvarez de Castillo 2018).
+As a consequence, whereas violent crime and systematic conflict are generally quite separate, that is not the case in Colombia. During the 1980s, the cocaine 
+trade stimulated the rise of powerful, ruthless cartels, notably in Cali and Medellín. They ruled as alternative governments, vying with each other and the state 
+for control and authority: the informal economy rearing up to challenge all comers and seize the mythology of populism. The power of the narcos derived from 
+many factors (Atehortúa Cruz and Rojas Rivera 2008; Castells 2010: 205):
+• Support for the trade in drugs by the U.S. government during the Vietnam 
+War as a means of funding proxy local actors, who quickly perceived potentially powerful market forces at play among the U.S. military and fueled a 
+demand that was soon repatriated
+• The counterculture’s fantasy of alternative consciousness
+• Favorable climatic and agricultural conditions
+• Peace Corps veterans’ taste for “Santa Marta Gold” mariguana
+• Capacity, based on generations of coca production
+• Proximity to U.S. ports
+• Smuggling skills garnered from transporting contraband over generations of 
+piracy and catering to legal addicts (of tobacco)
+• The ease of transporting large amounts of powder by contrast with weeds
+• Interest from U.S. mafiosi
+• Lack of interdiction, facilitated by police who were for sale
+Since the Cold War, the conflict has transformed from a desire for land 
+redistribution to human exploitation via narcotics and sequestration, as inspiration for the guerrilla switched from Marxism-Leninism to wealthy nasal passages 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 29
+(Moser and McIlwaine 2000: viii, 7). Today, drug traffickers and rebel groups of 
+all kinds are often one and the same—by turns rivals and collaborators in a trail 
+of cocaine that is harvested and manufactured in Colombia then moves through 
+Ecuador, bordering the Pacific en route to the United States. This fragmentation 
+of gangsters leads to massive violence between rival groups, as yesterday’s cartel 
+enforcers become tomorrow’s new cartel (Bergman 2018). Gangs and guerrillas, 
+inhumanness and ideology, kidnapping and cocaine overlap in an “age of violence entrepreneurs” (Organisation for Economic Co-operation and Development 2016: 27, 2009: 39).
+New and transformed occupations and formations proliferate and transmogrify: assassins, militia, gangs, mafia, and corrupt administrations, churches, football clubs, universities, press, politics, police, the FARC, the Ejército Popular de 
+Liberación (EPL—Popular Liberation Army—Maoist then Marxist-Leninist), 
+the Ejército de Liberación Nacional (ELN—Army of National Liberation—a 
+Guevarist group originating among urban students), and its dissidents, who 
+formed the Ejército Revolucionario del Pueblo (ERP—People’s Revolutionary 
+Army) (Pécaut 2001; Celis González 2018; Oquendo 2019).
+“There are no ‘good guys’” (Meltzer and Rojas 2005: 1). As a consequence, 
+the association of Colombia with the drug has become magnetic for outsiders. 
+To give just one instance, John Oliver’s liberal HBO satire Last Week Tonight
+(2014–) dedicated a 2018 episode to Venezuela’s political economy, in a way that 
+was remarkably balanced for bourgeois Yanqui (U.S.) television. But almost 
+inevitably, in order to provide some context to that nation’s level of corruption, 
+Oliver compared it to Colombia, “a country where the only campaign finance 
+law is ‘please report all bribes consisting of more than 10 kilos of cocaine.’”9
+Beyond ideology and social structure, cocaine has transmogrified the country. It represents the collision of rural resources and poverty, urban mafia and 
+commerce, corrupt and fragmented guerrilla, and international demand for distraction and addiction (Hobsbawm 1995: 366). The governmental context for all 
+this is a state that is by turns overly present (as a threat) and overly absent (as a 
+source of protection).
+The State
+The state can be forcefully present in Colombia through the police, the military, 
+and proxy AUC/AGC paramilitares. As already noted, the militarization of 
+Colombian society was undertaken at the partial expense and behest of the 
+United States, which preferred state-sponsored violence to development aid as a 
+route to control cocaine traffic and political insurgency (Tokatlian 1997; Rosen 
+and Kassab 2019: 61). The bilateral “Plan Colombia” shifted the battleground 
+states for cocaine export elsewhere and led to a vast array of extrajudicial killings 
+and other crimes: former members of the AUC/affiliates of the AGC now harass 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+30 The Per sistence of Violence
+and kill indigenous, peasant, and Afro-Colombian activists, while others have 
+been extradited to the United States for drug trials to avoid implicating establishment co-conspirators. The record shows that the paramilitares are emboldened 
+to commit more and more killings with increased “military assistance,” as it is 
+coyly known. They have a particular taste for assassination during elections 
+(Dube and Naidu 2014).
+At a geopolitical level, Colombia is celebrated by DC as a successful junior 
+partner in defeating the guerrilla. The  U.S. and Colombian militaries position 
+themselves as joint masters of drug interdiction, protecting their budgets and 
+numbers by offering such services around the globe (Lindsay-Poland and Tickner 2016; Sontag 2016). This is known as “risk-transfer militarism” (Smith et al. 
+2014). It serves as a model for U.S. intervention in conflict from a distance: 
+select, train, and arm foreign militias, police, and armies, tell them whom to 
+kill—then sell them materiel that had once been distributed as aid (LindsayPoland 2018: 7–8, 11).
+U.S. nationalists regard Colombia “as perhaps the U.S. military’s greatest 
+human rights success story in Latin America” (Laurienti 2007: 62). Amateurhour foreign-policy experts, informed by helicopter visits rather than scholarly 
+or practical knowledge, declared a “Colombian miracle” a decade ago (Boot and 
+Bennet 2009). John Kerry’s 2013 confirmation hearing as secretary of state featured astonishing claims to this effect, capable of coming only from someone 
+ignorant of the language, life, geography, history, and contemporaneity of the 
+nation. He called Colombia “[o]ne of the great stories of Latin America,” praising ultra-rightist ex-president, rentier-class propagandist, and paramilitary patron 
+and pardoner Álvaro Uribe Vélez for “rescuing that nation.” Kerry euphemized 
+these changes as a tribute to DC’s “citizen security partnership” (“Nomination” 
+2013: 19, 80). For their part, coin-operated liberal think tanks such as the Brookings Institution speak of the Plan as offering “much to celebrate”; it may be “too 
+soon for America to declare victory and forget about Colombia,” but Uribe’s 
+“personality and energy” are prized along with his ability to develop tighter links 
+between the military and citizenry (O’Hanlon and Petraeus 2013). This is pomposity as per the discourse of these bodies during the Cold War, an arrogance 
+that Hannah Arendt sought to puncture (1970: 14–16) but which has never been 
+deflated. In the similarly bizarre world of orthodox international-relations scholarship, Plan Colombia is understood as the successful disciplining of an errant 
+child: “a combination of rewards, punishments, and capacity improvements” 
+(Vaughn 2019: 80).
+A breathtaking blend of solipsism and ignorance forms the substructure of 
+such great-game international strategizing. In that world, the putative task of foreign policy is to stabilize conflict to the satisfaction of the leading powers, acting 
+in the name of principle and commitment but favoring the satisfaction of one’s 
+own interests in restricting the spread of unrest. That is how Colombia appears 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 31
+in the literature of U.S. policy (Morgenthau 1969: 26–27). It has nothing to do 
+with proletarian and peasant views, nothing to do with languages beyond 
+English, nothing to do with material life, nothing to do with the cultures being 
+tossed about like so many suddenly worthless cards in a hand. The continuity is 
+obvious: the desire of Western powers to create a form of stability by selecting, 
+encouraging, and securing comprador elites. This doctrine is a regrettable and 
+seemingly unstoppable legacy from imperial order and international-relations 
+discourse.
+The Colombian corollary is that successive administrations in Bogotá picked 
+up on Washington’s post 9/11 fetishes and redefined the FARC and others as terrorists, thereby expanding U.S. aid by enveloping the conflict in the putative 
+“war on terror” (Rosen and Bagley 2015). Uribe colluded with the worst of the 
+worst. Hundreds of politicians had “relationships” with the paramilitary and cartel worlds (Romero 2007; Acemoglu et al. 2013; Fine and Durán Ortiz 2016).
+More generally, Colombia is a “paradoxical marriage of a state of continuous 
+violence with the hallmarks of democratic civilization” (Rojas 2002: xxii), “an 
+extreme example of the contemporary unpicking of the so-called Westphalian 
+model of territorial states that monopolize violent resources” (Keane 2004: 179). 
+This is true in terms of both the impunity of violent actors and the failure to 
+deliver basic social services to citizens. But there is a national government, which 
+has been almost exclusively democratic in form, unlike many of its neighbors 
+(Karl 2017: 1) (albeit routinely put into a state of exception to permit repression 
+[Aranguren Romero 2017: 12]). It is putatively held to account by an independent press. International obligations are entered into, whether bilaterally with 
+the U.S. military, or multilaterally, in the form of commitments to neoliberal economic restructuring. In terms of the chapters to come, there is intense nationalism, on display in football fandom. Hugely popular televisual dramatizations 
+invoke glamorous and easy (albeit illicit) lives. And Bogotá’s policies stimulate 
+and govern tourism and claim to protect the environment.
+With a large, educated middle class and significant resources suitable for secondary accumulation, Colombia is supposedly poised to open its newly secure, 
+bountiful territory to increased foreign investment, extraction, construction, 
+and natural and human exploitation. Hence the tourism slogan adopted by the 
+government in 2012, “La Respuesta es Colombia” (The Answer Is Colombia), 
+displacing the idea of the nation as a problem with the conceit that it is instead a 
+solution—rebranding the country as enduringly appealing and now safe. Once 
+the drug cartels and terrorist guerrilla were dispensed with, it was said, Colombia 
+would enter a new golden age. This would counter such stereotypes as being the 
+“Tibet Suramericano” (the Tibet of South America) in the 1980s and a narcodemocracia (narcodemocracy) in the 1990s. Instead, the nation seeks to define itself 
+as “una estrella que brilla” (a shining star) and the new “tigre de Latinoamérica” 
+(Latin American tiger), troping the booming Southeast Asian economies of the 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+32 The Per sistence of Violence
+1980s. Colombia stands ready and able to help meet the world’s economic 
+needs—and focuses, in dutifully neoliberal fashion, on labor-market training 
+rather than guaranteed income, agrarian reform, or job creation (Economic 
+Commission for Latin America and the Caribbean 2019b: 392), obediently liberalizing, deregulating, and privatizing to satisfy its northern masters (Rodrik 
+2007: 20).
+Here is the current economic reality. By the end of 2018, Colombia’s (formal 
+sector) GDP measured by purchasing-power parity stood at well over US$730 
+billion. Petroleum, petrochemicals, coal, and coffee were its major exports, principally to the United States, China, and Panamá (Economist Intelligence Unit 
+2019). Yet despite these numbers, a lengthy period of significant economic 
+growth, and virtually zero inflation, the country is as unequal as when the conflict began. Two decades of neoliberal policies have slowed growth, increased 
+unemployment in the formal sector—and brought double-digit percentage job 
+growth ‘thanks’ to cocaine (Hellinger 2015: 326).
+The supposed national interest serves a small ruling elite of ranchers, politicians, moguls, and narcotraficantes, buttressed by state violence (Hunt 2009; 
+Aranguren Romero 2017: 14). Oxfam estimates that “over 67 percent of productive land is concentrated in 0.4 percent of agricultural landholdings” (2016: 5–6) 
+and Thomas Piketty and the World Top Incomes Database list Colombia’s elite 
+receiving a fifth of all national income between 1990 and 2010—more than is the 
+case in the United States (2014: 327).
+Waves of fixed capital formation investment and contraction cycling with 
+international demand for oil and related commodities have done little for the 
+popular classes, while public works have generally been undertaken to enable 
+capital or recover from environmental disasters (Bulmer-Thomas 2003: 8, 10, 
+387; Economic Commission for Latin America and the Caribbean 2018: 498–
+499, 505). The tax system minimizes corporate contributions to government revenue and maximizes indirect taxes. Corporate taxes and surcharges plunged 
+from 40  percent in 2017 to 33  percent in 2019. Indirect taxation soared to 
+19 percent, the highest rate ever (Economist Intelligence Unit 2019; International 
+Monetary Fund 2019), thereby aiding the wealthy at the expense of the poor. The 
+economy had already slowed down due to levies on consumption, while unemployment was just below ten percent (United Nations Economic Commission 
+for Latin America and the Caribbean 2018).
+Almost half the population is stuck in the informal sector. A third lived below 
+the poverty line in 1980; half did so twenty years later. Lower-income people 
+improved their income relative to the wealthier in 2017, but the tenth of Colombians living in extreme poverty was double the proportion of Brazilians and 
+many times the percentages of Chileans and Argentines (Hellinger 2015: 320; 
+Organización para la Cooperación y el Desarrollo Económico 2015: 8; Economic 
+Commission for Latin America and the Caribbean 2019b: 110, 234).
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 33
+Nor is there a national popular identifiable with the needs and hopes of the 
+majority. Rather, it is animated by entitled classes, many of whose forebears 
+gained authority and wealth from colonial dispossession and enslavement. This 
+has accentuated regional and other differences. No wonder so many people 
+shrugged their shoulders when they were promised that the peace would see a 
+true exchange of armaments in favor of votes: two-thirds of the electorate did 
+not participate in the 2016 plebiscite to endorse the accord with the FARC 
+(Magallón 2016).
+The lack of trust in major institutions has spread to religion: Catholic hegemony has come under challenge. About 60 percent of the population are practicing Christians, while over a third say they embrace God but do not attend 
+church. Seventy percent are Catholic. Atheism and agnosticism are marginal, 
+and just a quarter of people adhere to the theory of evolution. But the period 
+since the 1990s has seen a wave of Pentecostalism in both urban and rural Colombia, especially among women and young people, to the point where around a 
+sixth of the population identify as evangelical, three-quarters of whom were 
+raised Catholic (Beltrán 2012; Pew Research Center 2014: 5).
+There are profound contradictions at play here: a country with one of the 
+longest-running conflicts in history is technically a stable democracy. Cocaine 
+and mining are a toxic mixture for defenders of indigenous and peasant lands, 
+who face execution by means up to and including decapitation, deeds undertaken with impunity as the paramilitary assert authority over terrain in ways 
+reminiscent of the 1990s. The number of indigenous, human-rights, and environmental activists murdered has multiplied massively since the peace accord was 
+endorsed, while corporate geologists and others involved in gold exploration 
+have been killed or kidnapped by groups seeking hegemony over illegal mining 
+and corruption and killing—directed by rivalrous multinationals (Dennis 2006; 
+Sheinin 2015; Pino Uribe 2017; Chaparro and Yagoub 2018; Goldberg 2018; McEvoy 2018; Rueda De la Hoz 2018; Saavedra 2018; Sánchez-Garzoli 2018; Peláez 
+Sierra 2019).
+The cosmic failure of the Colombian state and oligarchy to produce a substantive and inclusive national popular has seen violence fill that gap, as the 
+seeming essence of the nation and its people. Elsewhere, such traumas have produced a solemn public and elite determination to turn tragedy into myth in the 
+name of unity. Not in Colombia. Instead, the violence has taken numerous grotesquely targeted forms.
+Gender and Race
+Violence against women is more common in Latin America than in the rest of the 
+world, as are female deaths from firearms (Small Arms Survey 2016). Colombia’s 
+many extreme forms of gendered violence feature rape, disfigurement, and 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+34 The Per sistence of Violence
+femicide (Moloney 2015; Huertas and Jiménez 2016). The Instituto Colombiano de 
+Medicina Legal reported 21,115 cases of sexual violence in 2014, with 85.05 percent 
+of victims being women (2015). As in many countries, over 90 percent of homicide victims are men, but unlike women, generally not as a consequence of violence undertaken at home, or with a sexual element. Women are frequently 
+killed by people they know—attacked by family members rather than strangers 
+(De la Hoz Bohórquez and Romero Quevedo 2016). A full 39 percent of Colombian women report violent treatment from male partners, and a spate of acid 
+attacks by men on women over the last five years has affected thousands (Guerrero 2013; “Alarma y repudio” 2014; Gaviria Castellanos et  al. 2015; “Wonder 
+Women” 2015). Public-health experts argue that a failure to consider historical 
+patterns of oppression downplays the statistical significance of such violence 
+(Bello-Urrego 2013).
+All sides in the conflict have engaged in sexual torture, with women and sexual minorities targeted for humiliation as part of a violent clearance aimed at sex 
+workers, street retailers, and other people on the margins of power, who are 
+assaulted by armed groups when in public space (Oxfam 2009; Suárez-Pinzón 
+2015; Serrano-Amaya 2018). Colombia Diversa, a human-rights organization 
+dedicated to lesbian, gay, bisexual, transgender, and intersex issues, estimates 
+that over a thousand queer people were killed between 1993 and 2017. Many 
+victims are unidentified, and perpetrators remain free.10 Statutory rape is routine practice for the guerrilla and paramilitares alike (Human Rights Watch 
+2019).
+Colombian women played key roles in the struggle for independence and 
+have formed social movements to define and defend their rights and publicize 
+their experiences over the past two centuries (Villarreal Méndez 1994; Solano 
+2003; Lamus 2008; Puello Sarabia 2017: 84–85; León Soler 2019). But state policies designed to alleviate systematic gender discrimination and inequality have 
+been inconsistently applied and largely ineffective (Gómez Cano et  al. 2015). 
+And there has been a wave of U.S.-inspired evangelical opposition to women’s 
+and queer rights, culminating in the defeat of the peace plebiscite: Pentecostals 
+are distinguished by their heterosexist and patriarchal politicization, and the 
+process had dared to guarantee marriage equality and other citizenship norms. 
+These evangelicals closely follow leaders’ instructions, which promise health and 
+prosperity as quae pro quibus.11 Those hegemonic intellectuals also engineer 
+events understood as “divine healing,” which three quarters of their flock say 
+they have witnessed. Half deem themselves to have been present at exorcisms 
+and a quarter to have spoken in tongues (Beltrán 2012; Pew Research Center 
+2014: 15, 65–66; Marcos 2016). The Pentecostals seem less concerned that a third 
+of women in their twenties are subject to child marriage than with their exercise 
+of sexual and reproductive rights (UN Women n.d.).
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 35
+Women’s health and participation in the workforce, education, and politics 
+saw Colombia ranked 42nd  of 145 countries in 2015, descending from the 
+22nd spot it attained in 2006 (World Economic Forum 2015). The Human Development Report’s index of gender inequality reveals that Colombian women 
+encounter serious difficulties in securing positions of public leadership (Programa de las Naciones Unidas para el Desarrollo 2015). More than four out of 
+five seats in the congress are held by men (Economic Commission for Latin 
+America and the Caribbean 2019a: 27). A decade ago, the United Nations noted 
+a stark gendered difference in the unemployment rate: 11.5 percent for women as 
+opposed to 6.9 percent for men (2010). That disparity continues today (Economic Commission for Latin America and the Caribbean 2019a: 17). Women are 
+likely to be stuck in the informal sector and secondary labor markets, especially 
+if they are indigenous or black; and those groups have disproportionately high 
+levels of maternal mortality (Organización para la Cooperación y el Desarrollo 
+Económico 2015: 34; Cabezas Cortés 2016; Perazzi and Merli 2017; Economic 
+Commission for Latin America and the Caribbean 2019b: 472).
+Ethnicity/race are defined differently from the norms of the Global North. 
+The state counts much of the population as mixed race—a single group that 
+would be disaggregated as indigenous, black, Asian, and so on in western Europe 
+and its settler colonies. The latest census (2005) considers 37 percent of Colombians to be white and 49 percent mestiz@ (mixed)—a distinction that is itself 
+not always clear (Hudson 2010: 10). It identifies three non-mestiz@ minorities: 
+87 national indigenous groups, comprising 1.4 million people who live communally and use their original languages (3.4 percent of the overall population); 4.3 
+million Afro-Colombian descendants of slaves (10.6 percent); and 5,000 Gitano 
+(Roma) (0.01 percent) (Departamento Administrativo Nacional de Estadística 
+2007: 33).
+The majority is therefore defined as largely unified in racial terms, despite 
+being a blend of indigenous, Afro-Colombian, Asian, European, Sephardic, and 
+Arabic heritage. The prevailing ideology of mestizaje assumes a norm in which 
+Colombians form a mosaic of racial intermarriage and respect. As the popular 
+saying goes, “Aquí en Colombia somos muy mezclados” (Here in Colombia we 
+are very mixed) (quoted in Restrepo et al. 2014). Recent scientific, political, and 
+commercial investments in genomics seek to confirm Colombia’s hegemonic 
+cultural landscape. Results are pored over to reveal that most people have indigenous heritage—downplaying Africanism—and that the dominant fons et origo
+was sexual liaisons between conquistadores (conquerors) and indigenas (Wade 
+2013).
+Here’s the real deal: descendants of the original inhabitants who survived 
+colonization and capitalism mostly occupy peripheral areas, through isolation or 
+exile (Stavenhagen 2002). Indigenous and black minorities suffer massive 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+36 The Per sistence of Violence
+inequality, and whites and mestiz@s dominate political, economic, cultural, and 
+social life (Cabezas-Cortés 2016; Perazzi and Merli 2017. Black lives are cheapened by state actors and others—not just in colonial history or contemporary 
+tourism, but through violence that targets them from all sides (Vergara-Figueroa 
+2018).
+This social structure follows a familiar history throughout the region—an elite 
+defining itself against indigenous and black peoples while relying on slave labor, 
+forcibly dispossessing native peoples, and raping and marrying indigenous women. 
+South American movements for independence from Spain and Portugal were 
+not about distancing oneself from Europe and integrating with original owners. 
+The revolutionaries favored Westphalian nation-building, U.S. political republicanism, British economic liberalism, Prussian militarism, and social Darwinism.
+In sum, Colombia’s problems arose before it did, with the horror of empire 
+and slavery. They concatenated with the formation of a powerful oligarchy, 
+which continues to this day: obsessed with the rule of law, dependent for its origins on stolen lands worked by slaves, and for its continuation on clientelism and 
+control of the formal economy and politics. That has left little opportunity for a 
+vast number of poor people other than in the informal sector, where they frequently operate through criminal, violent means, sometimes with and sometimes without ideological alibis.
+That macrohistorical account gains human contour in the remarkable work of 
+Miguel Ángel Beltrán Villegas (2018). Incarcerated for many years as an alleged 
+FARC ideologist, Beltrán Villegas spent his time interviewing fellow-prisoners 
+from across the spectrum—guerrilleros, paramilitares, soldiers, and their visitors. 
+The result is a profound work of participant observation that finds much in common among fellow cellmates: they combined a lamentation for the pain they had 
+caused with a disgust for the corrupt oligarchies running corporate and state life.
+Columbia and the Popular
+Iván Duque Márquez, an invention/political creature of Uribe, was elected 
+Colombian president in 2018, having spent many years in the Inter-American 
+Development Bank’s Division of Culture, Creativity and Solidarity. During his 
+time in DC, he became a fervent disciple of an English conceptual export to the 
+world, the fantasy of a creative economy—a postindustrial, post-polluting world. 
+Duque is coauthor of the Bank’s book, Orange Economy: An Infinite Opportunity
+(Buitrago Restrepo and Duque Márquez 2013). The choice of the word “orange” 
+derives from pharaonic tombs, but for me, it invokes Benjamin’s distaste for the 
+nation’s 1930s stamps: “the postal parvenus . . . large, badly perforated, garish formats” (2016: 82).
+I remember, with a stiff stomach, a congress in Lima when Felipe Buitrago 
+Restrepo, Duque’s coauthor, presented their extravagant promises, obediently 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 37
+copied from the British Council: a secular religion that offered transcendence 
+in the here and now through a world blessed for workers, consumers, and residents, where waste would be code rather than carbon. Other participants tried 
+to foment discussion on the subject, but it was almost impossible. We were in 
+the presence of a true believer and an audience keen to see itself transferred 
+from welfare recipients to economic agents. Six years on and his reward was to 
+be Duque’s Viceministro de Creatividad y Economía Naranja (Deputy Minister 
+of Creativity and the Orange Economy), responding to what Buitrago describes 
+as the challenge to “hacer digerible, sexy y provocativa a la economía naranja” 
+(make the orange economy digestible, sexy, and provocative) (quoted in S. 
+Rincón 2019).
+The latest fetish among the sacerdotes of creativity is the putative “collaborative economy.” A cybertarian fantasy of pre-capitalist bartering is brought to bear 
+on supposed new liberties occasioned by digital communications and economic 
+deregulation, but with monetary incentives for brokers (think of lonely-hearts 
+club Internet dating, bed and breakfast services that don’t pay taxes, or underregulated door-to-door driving services).
+Unsurprisingly, Duque’s administration emphasizes the financial value of the 
+sector:
+La economía naranja está en camino de convertirse en uno de los principales 
+motores económicos de Colombia: el mundo de la iniciativa empresarial, la tecnología y las industrias creativas ya representa casi el 3% del PIB del país latinoamericano, lo que representa tres veces la contribución del café y casi 1,5 veces el 
+aporte de la minería. Colombia quiere posicionarse como símbolo naranja, color 
+de la cultura y creatividad.
+“Impulsar la economía naranja es una de las prioridades del gobierno. En ProColombia, hemos identificado grandes oportunidades de ventas en el desarrollo de 
+software, películas, televisión, animación y videojuegos. Estos son sectores que 
+han crecido más de un 30% en exportaciones,” explica Flavia Santoro, presidenta 
+de ProColombia, la entidad del Gobierno de Colombia que promueve las inversiones, las exportaciones, el turismo y la marca país en el exterior. “Colombia se 
+está convirtiendo en un lugar ideal para filmar industrias como Hollywood. 
+Antonio Banderas, Tom Cruise, Will Smith o Mark Wahlberg son algunos de los 
+actores de talla internacional que en los últimos años han filmado películas en 
+territorio colombiano.”
+(The orange economy is on the way to becoming one of Colombia’s principal 
+economic engines: the world of entrepreneurship, technology and the creative 
+industries already represents almost 3% of the GDP of the Latin American country, which represents three times the contribution of coffee and almost 1.5 times 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+38 The Per sistence of Violence
+the contribution of mining. Colombia wants to position itself as an orange symbol, the color of culture and creativity.)
+(“Promoting the orange economy is one of the government’s priorities. At ProColombia, we have identified great sales opportunities in the development of 
+software, movies, television, animation and videogames. These sectors have 
+grown more than 30% in exports,” explains Flavia Santoro, president of ProColombia, the Colombian Government body that promotes investment, exports, 
+tourism and the country brand abroad. “Colombia is becoming an ideal place for 
+film industries like Hollywood. Antonio Banderas, Tom Cruise, Will Smith and 
+Mark Wahlberg are some of the actors of international stature who in recent years 
+have made movies in Colombian territory.”) (“Orange Economy” 2018)
+Again, there is a space between governmental rhetoric and reality. The United 
+Nations Conference on Trade and Development’s comparison of Colombia’s 
+cultural import-export performance in 2003 and 2012 discloses a serious and 
+growing trade imbalance in the culture industries, with the U. S. an increasingly 
+powerful influence (2015: 36–37). The nation’s own accounts indicate that the 
+area’s contribution to GDP in a period of strong overall economic growth 
+(between 2001 and 2007) went from 1.6 percent to 1.8 percent, though that represented a doubling in value, from under three and a half billion pesos to over eight 
+and a half billion (Oxford Economics 2014).
+Colombia has issued the world’s first bonds to develop cultural infrastructure, to the value of four billion pesos (“Colocados” 2018). Duque spoke at the 
+auction, indicating that he wanted his invented “Orange Economy” to contribute a tenth of the nation’s GDP, akin to the contribution from manufacturing. 
+Ironically, the model was Holland—very orange. Given that proletarian labor 
+costs are higher than in many Asian economies, Duque sees Colombia’s urbanism and digital connectivity as key competitive advantages—and supposed 
+safety from the violence that disrupts the extractive sector in remote areas (Sonneland 2018). The generous state underwrites/materializes Duque and Buitrago’s desiderata via fiscal, monetary, and taxation incentives designed to encourage 
+the NICL by promising foreign investors that they will pay no income tax for 
+seven years and receive a 19% break on indirect taxes for exported texts. The 
+government allocated half a billion dollars towards this extravaganza for 2019, 
+thanks to the formation of Duque’s very own Consejo Nacional de Economía 
+Naranja (National Orange Economy Council) (S. Rincón 2019; “Consejo 
+Nacional” 2019).
+So Colombian popular culture is reborn as a set of creative industries; subordinating inalienable heritage, craft production, and the refusal of racism, sexism, 
+and nationalism to avaricious capital. It seeks to make things in similar ways to 
+the manufacture of an automobile or artificial knee, producing objects for con-
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 39
+sumption in the so-called magical operation of supply and demand. Consider 
+the New Cinema and Location Colombia laws. Taking advantage of the growing 
+number of technical and university degrees that school the willing and worthy in 
+film and television, Location Colombia was enacted to lure international productions. It copied similar actions elsewhere: cash rebates and tax returns to foreign companies (AKA Hollywood) willing to relocate production. The lure 
+included a new El Dorado of cheap labor, beautiful scenery, and industrious 
+servitude—the classic NICL. It is creating primary (international) versus secondary (local) audiovisual labor markets: international productions increase the 
+quality of life for audiovisual workers in an environment that is out of reach for 
+those employed in Colombian screen drama. For example, Dynamo, a Colombian production company that has profited from the new legislation, has done 
+little to support local talent or national films (Rocha 2018: 363). Despite the 
+increasing numbers of Colombian films and audiences for them, the local industry remains a site of precarious work and difficult working conditions (Arias 
+et al. 2018). And runaway productions promote the exploitation of local workers 
+by local producers, since foreign producers are required to hire Colombian firms, 
+which profit most when expanding their overheads and reducing local costs, 
+generating those primary versus secondary labor markets that separate foreign 
+from domestic crews (Uribe-Jongbloed and Corredor-Aristizábal 2020).
+Like the orange economy in general, the benefits are unevenly distributed, 
+because they require technology and English. Twenty million Colombians do 
+not have access to the Internet and well under a fifth of the workforce is bilingual 
+(S. Rincón 2019). At the high end financially, this means that Colombian settings 
+and actors are used to represent Venezuela in the second season of Amazon’s Jack 
+Ryan (2019), its highest-rating series ever, with virtually no one aware of the part 
+played by the NICL. In case anyone imagined that Bogotá standing in for Caracas was dubious, lead actor John Krasinski was on hand to reassure viewers that 
+filming in Colombia was “genuinely dangerous” (quoted in Griffiths 2019). Conversely, Colombia becomes the diegetic source of a rampaging imperialism in 
+season five of The Last Ship (TNT, 2018)—shot in California (Richford 2018; 
+Thorne 2019; Debnath 2018)—to match its lawless, leftist reputation.
+Despite this oleaginous political economy, other cultural practices—heritage, 
+craft, the avant garde, contemporary dance, and activism—are not mere crumbs 
+scraped from the chopping board of a ‘creative’ corporate bakery.
+Consider the century-long career of José Eustasio Rivera’s 1924 modernist 
+classic of the jungle novel, La Vorágine (The Vortex) (1985). It details the elopement of a young couple from Bogotá during the 1879–1912 rubber boom. They 
+make their way through violent gangs and rough terrain, all the while observing 
+the hell of daily life for enslaved indigenous plantation workers. The vortex of the 
+Amazon ultimately claims the protagonists: they can neither find a way out, nor 
+be found by others.
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+40 The Per sistence of Violence
+The story borrows from an array of influences:
+• A Greco-Roman tragedy of an inferno claiming star-crossed lovers
+• The avant garde
+• The fearful encounter of mestizaje with the environment
+• The horror of forced labor
+• The destructiveness of industrial lust for natural resources
+La Vorágine is regularly reimagined in commercial screen forms via Colombian 
+film and TV adaptations—part of a constantly developing national tradition of 
+rap music, plays, poetry, and drama that places the horror of violence and the 
+hope for peace at its core. Again and again, the theme is the seeming inevitability 
+of conflict, the desire to end it, and links between corporatized crime, ideological violence, the state, and mainstream civil society (Oslender 2008). The 
+nation’s novelists and short-story writers in particular frequently use first-person 
+narration, offering horrified wonderment at their survival, or feature protagonists making their way across the country who are bewildered by its “ubiquitous 
+tragedy” (Chaparro Valderrama 2007: xviii).
+This literary fascination is not always critical or progressive; the popular is 
+also crucial to gendered violence. So memoirs by Colombian assassins articulate 
+masculinity to violence through pleasure—a hedonistic cathexis onto motorbikes, guns, and clothes as signs of virility obtained through death (Franco 
+2001). Consider the textualization of Jhon Jairo Velásquez, a key assassin for the 
+Medellín cocaine cartel in the 1980s. He was personally responsible for killing 
+hundreds of people, and managed the assassination of thousands more. Jairo 
+Velásquez became known as Popeye due to a supposed resemblance to the cartoon character—a typical sicario (assassin) appropriation of popular culture to 
+leaven and lighten their image (Uribe 2018). Following his release from prison in 
+2014, Popeye’s YouTube channel exploded in popularity, gaining well over a million subscribers.12 He remade himself under the soubriquet “Popeye Rependido” (Repentant Popeye) and claimed redemption through apology, even as he 
+started his videos with bullet holes and gunfire, proudly admitted to mass murders, and interpellated his ultra-right followers as political confrères (compatriots) 
+(Mele and Garcia 2016; Anderson 2018). Netflix merrily parlayed a Colombian 
+adaptation of his memoir, Sobreviviendo a Escobar (Surviving Escobar) (2017) 
+and a reactionary Spanish province hired him to promote its setting and cuisine.13 Rolling Stone and the New Yorker profiled him (Glade 2017; “Popeye” 2018) 
+and Russia Today released a bizarre documentary, Escobar’s Hitman (2017), 
+which trailed Popeye around Medellín as he encountered victims and their families and was hailed on the streets by the popular classes.14 Throughout, the carefully curated image is of a paradoxically dependent man’s man, indebted to 
+hegemonic masculinity, craving the approval of his chosen chief, and eschewing 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 41
+introspective males and ‘scheming’ women (Bialowas Pobutsky 2013). In 2018, 
+he was back in the joint, accused of extortion, intimidation, and leading a group 
+of bagmen for the mob. The following year, he was charged with human-rights 
+violations for his part in the 1986 murder of the prominent newspaper editor, 
+Guillermo Cano Isaza (Higuera 2019).
+To understand how vanguardist prose and a mass murderer can be so influential, we must travel beyond material macrohistory and enter the seemingly 
+ephemeral world of popular culture. Gabo’s thoughts about the binary contradictions of Colombian subjectivity apply tellingly to both a modernist classic’s 
+intertexts and remakes, where an intolerable, inevitable fate is part of the ecstasy 
+of love, development ruins the environment, and labor is forced and painful—
+and to a crude, cruel, coarse assassin who draws on so-called social media for 
+self-aggrandizement, incitement—and renewed criminal organization.
+La Vorágine instantiates and criticizes hegemonic forms of racial, ecological, 
+and gender power in a way that presages both the magical realism of Gabo and 
+his list of binaries: paradoxes of gentle and harsh people and places, where comfort and ease are cheek by jowl with pain and suffering for humans and the natural world. Those paradoxes are homologous with the novel’s industrial history, 
+which crosses ancient European myth-making, modernist literature, and popular cinema and television. For his part, Popeye’s brazenly murderous narcissism 
+appeals to young men, publishers, and Hollywood alike in its quasi-humorous 
+deadly outrage at the world—and right-wing bling.
+Comprehending the life of these commodified cultural signs is part of understanding Colombia’s persistence of violence, especially now that there is such 
+adoration of culture’s commercial potential via the putative orange economy.
+The Book You Hold in Your Hands
+I write as someone who has been heavily influenced by Latin American social 
+science and humanities and their equivalents in the United States and Europe. 
+Colombian communication studies, which is of particular pertinence to me, is 
+divided into “four fields” (not unlike U.S. anthropology). They include journalism, quantitative method, organizational communication, and semiotics, derived 
+from the intersection of administrative (U.S.) and critical (Latin American) paradigms (Martín-Barbero 2006; Barranquero Carretero et al. 2017). But unlike in 
+the Global North, Colombian faculty and students frequently function across 
+these domains, doing policy-oriented and quantoid work as well as textual analysis and political economy. The Persistence of Violence follows that lead in its methodological mix.
+The book draws on the accounts and contradictions adumbrated in this introduction to contextualize detailed investigations of key sites in Colombian popular culture that express violence and its counters. I blend political economy, 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+42 The Per sistence of Violence
+ethnography, and content and textual analysis, mixing philosophical, scientific, 
+and social-scientific approaches through the filter of Latin American studies. 
+Each chapter commences with an account in theoretical and research terms of the 
+general phenomenon of popular culture that follows, in its Colombian context.
+Chapter 1, on sports, focuses on the national pastime, association football. It 
+looks at the hypermasculinity embodied by many fans and its imbrication with 
+narcotrafficking, the media, and symbolic ties to militarism. The chapter draws 
+on football’s history, its corruption and violence, and a close reading of the 
+game’s recent use by television networks and the state to invoke and develop a 
+regressive national popular, as the government seeks to emphasize its monopoly 
+on legitimate symbolic and actual violence.
+Chapter 2, on tourism, examines the marketing of Colombia as a brand in the 
+formal and informal economy, with a dual attention to sexuality and history. The 
+sexual component argues that successive tourism policies have emphasized gender and nature via homologies between young women and the environment. 
+This tendency is connected to child sex trafficking in Cartagena de Indias, the 
+incipient violence underpinning the port’s gender and racial politics—and resistance to these formations. The historical component focuses on the recent controversy in Cartagena over a plaque erected to attract U.K. tourists that 
+commemorated Britain’s blockade of the city during a struggle to control the 
+Caribbean slave trade.
+Chapter 3, on the media, is again double-sided. The first side investigates past 
+and present violence against Colombian journalists, using interviews with victims to see how self-censorship arises from newsroom corruption and public 
+threats and what can be done about it. The chapter’s second side draws on a content analysis of high-rating broadcast narconovelas and their narco aesthetic of 
+light-skinned, blonde, surgically modified femininity, in a country where very 
+few people either resemble that stereotype or can afford to develop it. This popularity derives from production practices within the media, historic tendencies 
+toward machismo and Marianismo, domestic violence, and wider debates over 
+gender and narcocultura.
+Chapter  4, on the environment, looks at the nation’s crucial riparian thoroughfare, the Río Magdalena, and its systematic and accidental pollution 
+through industrialization, warfare, and neglect. A content analysis centers on 
+emotions expressed by Colombians in the words they use to describe the river, 
+its meaning, and their feelings about the devastation it has undergone. The context is debates within science, activism, and government over the environment 
+and the violence suffered by the Magdalena from development and conflict.
+The book concludes with the notion that García Márquez’s oppositions are 
+useful ways to understand the profound duality over violence in Colombian life 
+that is both evident in, and sustained by, popular culture. At the same time, 
+although binaries are good to think with, they are frequently logocentrically 
+ EBSCOhost - printed on 4/26/2022 3:32 PM via UNIVERSIDAD DE LOS ANDES. All use subject to https://www.ebsco.com/terms-of-use
+Introduction 43
+interdependent, rather than truly opposed. One can see them more as paradoxes 
+than contradictions.
+The liberal/UN mantra of demobilization, disarmament, and reintegration as 
+routes to post-conflict Colombian peace and prosperity derive from postwar 
+western Europe and Japan—taking industrialized fascist countries and reestablishing them after monumental military defeat by state-socialist and state-capitalist 
+ones. The model is barely credible when “reintegration” means returning to a 
+corrupt, hugely unequal, and barely/badly governed nation. The focus on former combatants as problems is understandable, but it misses the reasons for 
+their and others’ alienation, and the structural and organizational forces that 
+either incubate or enact violence (Carranza-Franco 2019).
+That said, many Colombians are dedicated to peaceful progress. In that spirit, 
+I analyze the book’s themes in the context of theories and initiatives for building 
+peace. For there are progressive elements in sports that draw on history and critique to problematize corporate nationalism. In tourism, social movements organize contra child sexual abuse, and there was opposition to the British plaque. 
+Colombian journalists have shown a bravura, inventive response to occupational 
+and physical intimidation, and critical responses problematize the racial and 
+sexual politics of narcocultura. Social movements and environmental scientists 
+seek to protect the environment from development.
+The evidence of these diverse yet interconnected sites of the popular is that 
+violence is never far from the surface; but nor are alternatives to it. The Persistence 
+of Violence sheds light on the nation’s scarred bringing-into-being, the strange 
+dialectic of a state that is either too present or too absent—able to coerce/unable 
+to serve—and prevailing economic, racial, and sexual dogmas. It also addresses 
+equally Colombian, pacific, social movements. They are just as persistent as the 
+violence they oppose

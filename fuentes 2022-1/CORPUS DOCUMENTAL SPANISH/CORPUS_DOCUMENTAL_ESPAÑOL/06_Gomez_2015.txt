@@ -1,0 +1,828 @@
+
+
+
+
+
+Cuestiones de filosofia
+ISSN: 0123—5095
+Vol. 1 — No. 1.7
+Año 2015
+pp. 239—25 7
+
+
+EL VIDEOJUEGO: DEL SIMULACRO A LA
+IMAGEN-PENSAMIENTO*
+
+The Videogame. From Simulacrum to the Image-Thought
+
+José Fernando-Gñmez gomezgo.jose@urosario.edu.co Universidad delRosario (Colombia)
+
+Fecha de recepciñn: 11..''11..'' 2014 Fecha de evaliiaciñn: 24/02/201 ñ Fecha de aprobaciñn: 
+1ñ/09/201 ñ
+
+Eiitoiices el cine prickle lloruarse cine-verclacl, fonfo ities riionfo que liahrñ rlestriiirlo 
+toclo moclelo rle. lo verrlarlero prii a lincerse. creaclor, prorliictor rle. verrlarl.’ rio serf 
+tin ciiie ale In verclacl, lino la verclacl clel cine.
+Gilles Deleuze
+
+Resumen
+
+Elarticulo describe y probleniatiza las relaciones existentes entre la imagen del videojuego y la 
+imagen del cine, planteada por Gilles Deleuze como imagen- pensamiento. En la primera parte, 
+niediante la descripcion de las imâgenes del videojuego ysu coniparacion con las imâgenes del cine, 
+que describe Deleuze, se pretende trazar una hipérbole que permitaver las imâgenes delvideojuego 
+como potencialmente mâs complejas que las presentadas por e1 cine. La imagen del
+
+* A lo largo de este articulo se hara referencia a varios videojuegos;. la mayoria de ellos pueden 
+ser visualizados en el portal de video YouTube. Invitamos at rector a acercarse al menos a los tres 
+mas conocidos y a buscar aHi la referencia directa de lo que aqui se diga. Grand Theft Auto [https: 
+^uwvu.youtube.com/ivatch?v=F9tni2Z-T0w]
+Heavy Rain [https://iwvu.youtube.com/ivatchfi=UMA fal8FcM] Beyond two Souls [https: 
+^wuwv.youtube.com watch?v=UJfko71qqE0]
+
+
+El videojuego: del simulacro a la imagen-pensamiento Jose Fernando-Gomez - p. 239-257
+239
+
+
+
+
+
+
+videojuego, potenciada por e1concepto de sinnilacro, con  lejiza la fomia conio e1 ser humano 
+establece ciertos vinculos con la realidad y con e1concepto misnio de realidad. La segunda parte se 
+aborda mediante los conceptos de siniulacro de Baudrillard yDeleuze, para llegar alsinntlacro 
+pensado en clave de interactividad, desde donde es plausible concluir que las iniâgenes 
+delvideojuego tienentarnbién la potencia de la imagen-pensamiento.
+
+Palabras rfnre. Videojuego, Imagen-Pens  ento, Sinnilacro, Interactividad, Cine.
+
+
+
+This paper describes and problematizes the relationship between the image ofthe video game and the 
+image filni posed by Gilles Deleuze as thinking-image. In the first part, by describing the images 
+ofthe video game and its comparison with the images ofcinenia that Deleuze describes, it is 
+intended to draw a hyperbole that can view pictures of the video game as potentially more 
+complexthan those presented by the film. The image of the video game, powered by the concept of 
+siniulacrum, con  ñcates how humanbeings establish some links with realityandwiththe concept of 
+reality. The second part is addressed through the siniulacrurn concepts of Baudrillard and Deleuze, 
+in order to reach the sinnihcrurnthought in key interactivity, where it is plausible to conclude 
+that the images of the video game also have the power ofthe thinking-image.
+
+Key words: Videogarne, Thinking-Image, Sinnilacrunx Interactivity, Cinema.
+
+
+1. L MODY'CCION: IhLAGENt PENSMIfiIENTO Y SOILTACRO
+
+Cuando Gilles Deleuze escribio sus estudios sobre cine tenia enniente una empresa filosñfica 
+particuhr bastante concreta: crear conceptos a partir de las imâgenes cinematograficas (Deleuze y 
+Guattari 1993, 8). Pero contrario a lo que pudiera pensarse de un filñsofo, Deleuze no se propuso 
+subsuniii la imagen en hs categorias de la filosofia, por e1contrario, empezñ negando esa primacia 
+para hacer que e1 pensamiento yla imagen pudieran entenderse en témJos simétricos, esto es, hacer 
+que uno y otra pudieran referirse entre st para analizar cñmo se afectaban en su especificidad 
+propia, afectaciñn después de la cualninguno de los dos volviñ a ser lo que era (Cârdenas, 2011, 
+pp. 244-246).
+
+
+240    Cuestiones de Filosofia No. 17 - Vol. 1 Año 2015 ISSN 0123-5095 Tunja-Colombia
+
+
+
+
+
+
+En palabras mâs sencillas, e1objetivo de Deleuze era ver, mediante e1dialogo de resonancias entre 
+pensarniento e imagen, qué tienen para decir y enseñarse mutuamente, y, particularmente, qué tiene 
+que decir la imagen del cine sobre e1 pensarniento. La imagen se ofrece, entonces, como una vitrina 
+para observar los mecanismos propios delpensamiento, suestructura. Elcine de Eisenstein, 
+yelniontaje de oposiciñn de contraltos (luz/oscuridad. pobres/ricos, etc.), por ejemplo, pone en 
+evidencia hs particuhridades delpensamiento dialectico. De ese modo particuhr, las artes pueden 
+actuar sobre e1 pensarniento, asi como este puede actuar sobre ellas. Es con base en esta relacion 
+reciproca entre la imagen y elpensamiento que este articulo cobra sentido, ya no viendo qué puede 
+decir la imagen del cine a1 pensamiento, sino qué puede decir una imagen nueva, conio la 
+delvideojuego, enel ârnbito delpensamiento.
+
+Una primera mirada hace pensar que elvideojuego tiene sin  tudes con e1cine, con sus niétodos de 
+produccion y sus ideas estéticas, asi conio diferencias con éL pues elcine debe entenderse como una 
+re-produccion de lo reaL y elvideojuego como la realizacion grafica de un niodelo. Otra diferencia 
+es que las resonancias entre imâgenes ypensarniento, en e1caso delvideojuego, estân fuerteniente 
+ligadas a1 concepto de siniulacro y a su potencia de siniulacion. La inclusion de un jugador que 
+interviene activarnente en la imagen, junto con la potencia siniulativa de esta, abren elespacio 
+deljuego para repensar la realidad en témJos delsiniulacro. Enlo que sigue, (i) se empezarâ por 
+trazar elparecido de los dos regimenes de imâgenes (cine/videojuego), enlos términos analiticos que 
+elmisnio Deleuze propone: luego,
+(ii) se plantearân los desafios que elnuevo régimen de iniagenes conlleva para la relaciñn 
+imagerrpensamiento entémiinos de sinnilacro e interactividañ y, finalniente,
+(iii) se harân algunas consideraciones.
+
+2. Dos REG fENES DE ONGENES
+
+Una chica sin recuerdos esta sentada en la oficina del sheriff en un pueblo nortearnericano en 
+medio de la nada; elsheriffla interroga, curioso por saber qué ie ha sucedido o como ha llegado 
+alli; los recuerdos de la nntjer vienen yvan: luces en medio delbosque, perros ladrando enla 
+oscuridad, un jadeo asfixiante niientras se ie ve corriendo. De vuelta enla oficina delsheriff, un 
+escuadrñn delSWAf entra sin mayor aviso; la estân buscando a ella, que permanece irirnovil en la 
+silh. El sheriff sale de su oficina, yluego de que ie preguntanpor“la nntjer que recogio”les indica 
+dñnde esta. La siguiente escena nntestraun coche que llega allugar, yunhonibre en traje que entra a 
+la comisaria yla encuentra totalniente destruida: los cuerpos del
+
+
+
+El videojuego: del simulacro a la imagen-pensamiento Jose Fernando-Gomez - p. 239-257
+241
+
+
+
+
+
+
+equipo SWAf estân regados por e1 suelo junto con muchos escombros, yno hay rastros de la nntjer. 
+entonces, la câniara se aleja para dejar ver en un plano general a un sheriff aterrorizado que se 
+mantiene en pie en la niitad de la sala destruida.
+
+¿Estamos aqui ante la escena inicial de una pelicula de accion?, ¿es acaso elultinio estreno de 
+Hollyvood? Enun principio podria parecer asi, sin embargo, lo descrito corresponde a la secuencia 
+inicialdelvideojuego Bes'oiicl.’ omsoiils. Lejos estarnos ya deyoc-inert escapando de los 
+fantasnias mientras se alimentaba a través de los niveles laberinticos, o de Mario Bros saltando de 
+tuberia en tuberia en busca de su princesa de 8 bits. En printer lugar, habra que decir que esta 
+cercania narrativa no siempre ha existido yque solo hasta ahora, en los ultinios años, las 
+fronteras entre la imagen cinematografica yla imagen cineniatica delvideojuego se estân haciendo 
+cadavez niâs difusas. Tanes asi que elvisionado de las secuencias de juego a través de portales web 
+conio YouTube es similar a como se veria un seriado televisivo o una pelicuh, lo que antes era 
+imposible, pues los juegos estaban diseñados para dar alusuario un entretenimiento mâs ludico que 
+estético y conteniplativo. Hoy, sin embargo, se puede obtener delvisionado de un videojuego una 
+experiencia muy similar a hque se tiene cuando se ve unapelicuh, gracias a que e1cine y 
+elvideojuego actual coniparten eluso de la composiciñn de la imagen y elmontaje.
+
+Los videojuegos, conio e1cine, traen ante e1 espectador determinadas iniagenes- moviniiento 
+cuidadosarnente con  uestas, mediante las cuales agencian bloques de sensacion que interpehn 
+alespectador, todas ellas unificadas mediante un niontaje particuhr de cortes nioviles de 
+espacio-tiempo: sinembargo,1o que hoyes tendencia mundial no siempre fue asi. Las cinemâticas 
+delvideojuego, delmisnio modo que las iniagenes del cine empezaron siendo cortes irirnñviles, pues 
+las técnicas mas rudirnentarias de aniniacion apenas permitian sinnihr elmovimiento mâs bâsico. En 
+consecuencia, las primeras iniâgenes delvideojuego eran cercanas a la toma fija y e1 phno inmovil; 
+la mayoria de ellas consistia en una silueta del personaje que posteriorrnente era anirnada para 
+siniuhr moviniientos de habla que venian acon  añados de texto, mediante los cuales eljugador podia 
+enterarse de la historia. Un clâsico ejen  lo de este tipo de imagen esta presente en la saga de 
+juegos Mega Hen, producida por Capconi; en ella se presentaba una iniagentotalrnente irirnovil 
+(silueta) a la que luego se agregaba tiempo abstracto (aniniacion); eltien  o apenas se insinuaba 
+en estas iniâgenes de n  era tangencial
+
+Ask pues, al igualque e1cine, solo un avance tecnologico ie permitiria al videojuego acceder a 
+todas sus potencialidades aldarle acceso a la presentacion de genuinas
+
+
+242   Cuestiones de Filosofia No. 17 - Vol. 1 Año 2015 ISSN 0123-5095 Tunja-Colombia
+
+
+
+
+
+
+iniâgenes-moviniiento. Enestas iniâgenes, al contrario que conlos cortes inmñviles, e1 moviniiento 
+ya no proviene de una añadidura extema que hace que la imagen irirnovil imite elmovimiento, sino 
+que, por e1contrario, este pertenece a la imagen conio dato irirnediato (Deleuze, 1985a, p. 15): es 
+decir,que elmovimiento esta ya presente en e1 corte. Este avance se dio en e1 cine gracias a la 
+aparicion de la câniara move que permitiñ incluir este movimiento dentro del corte. Dellado del 
+videojuego este avance se dio gracias a que la animacion en  ezñ a realizarse en tres 
+dirnensiones,1o que permitio que la imagen adquiriera profundidad de campo y pudiera en  ezar a ser 
+pensada entémJos de con  osicion. Lo niismo sucedio con la imagen cinematografica que en su 
+nioniento habra pem  ecido congelada en e1 phno general
+
+Fue gracias al medio tecnologico quela con  osicion creativa de las iniâgenes tanto delcine como 
+delvideojuego pudieron obtener elestatuto de cortes mñviles. Tanto en elcine conio enelvideojuego 
+se daunpaso de la iniagenconx› instante privilegiado (alque se ie agrega tien  o abstracto para 
+conseguir niovimiento) hacia la imagen como “moniento cualquiera”, lo que significa que la imagen 
+en niovimiento es comprendida ya no como una fotografia que se une a otras para generar un 
+movimiento, sino como un corte toniado de la duracion deltien  o quepor siniisnio da la inipresion 
+de continuidad (Deleuze, 1985a, p. 18). En ellas ya no puede encontrarse una silueta definid+ sino 
+que, por elcontrario, la iniagenesta en continua transformaciñn. tales e1caso de hs imâgenes en 
+Silent Hill 2, videojuego producido por Konami, que son de las prirneras en usar este tipo de 
+aniniacion que ya tiene en cuentatambién la composiciñn de la iniageny la profundidad de 
+cans.Alcontrario que en Mega Mali y otrosjuegos por elestilo, donde una silueta era aniniada luego 
+mediante h inclusiondemovimiento, en SileritHill2 las inñgenes estânya constituidas ellas niismas 
+como cortes mñviles; en ellas ya hay movimiento.
+
+Ahora bien, con la configuracion de la imagen conio corte niñvk las iniâgenes del videojuego se 
+constituyen como potencialniente equivalentes a las iniâgenes del cine, por lo que deberia ser 
+posible habhr de la imagen-acciñn en los videojuegos mâs connines: delniismo modo que de la 
+imagen-tien  o en aquellos cuya narrativa e historia son mâs con  lejas. Sin embargo, 
+existetanf›iénunadiferencia fundanuntal entre e1cine ylos videojuegos, que sera retoniada mâs 
+adehnte, y se trata de la inclusiñn activa delespectador conio jugador, actitud activa que no se 
+contempla en elcine, con lo que entra en escena elfactor ludico delvideojuego, pues la presencia 
+yla acciñn deljugador se hacen vitales en tanto eljuego debe ser jugado para que la historia se 
+desarrolle.
+
+
+
+El videojuego: del simulacro a la imagen-pensamiento Jose Fernando-Gomez - p. 239-257
+243
+
+
+
+
+
+
+3. EL ¥ DEOJLTGO Y LA IhLAGEN ACCION1  JJ V
+
+Una vez puestas en relieve las siniilitudes y diferencias entre e1cine y elvideojuego, quisiera ver 
+conio operan los conceptos de Deleuze sobre un ejen  lo concreto. En este apartado se hara 
+referencia a un juego que se considera puede ser leido en clave de imagen-accion: se trata de GTA 
+U'. Empecemos por retoniar la definiciñn de Deleuze sobre imagen-acciñn, que no es otra cosa que la 
+sintesis de perceptos, afectos ypulsiones que derivan en acciones que las encaman(Deleuze, 1985a, 
+pp. 203-204). Lo vital de esta imagen es la relacion entre las fuerzas yun centro de 
+indetemiinaciñn, de modo que la imagen-accion esta sien  re atada a la reaccion en hs situaciones. 
+Eljugador y elpersonaje alque davida debenreaccionara situaciones limite implicitas en imâgenes 
+sensoniotrices en las que e1espectador/jugador es capaz de participar. Ala identificacion propia 
+del cine (Deleuze, 1985b, p. 13) se surna, en e1 caso del juego, la interaccion motriz con elmando 
+que ratifica a cada moniento esa relacion.
+
+Tal es e1 caso de GTA U, donde las acciones de los protagonistas estân motivadas por pulsiones y 
+situaciones limite que los empujan a actuar. Eljuego comienza con MichaelDe Santa traicionando a 
+sus amigos durante un asalto de banco en elque con ayuda delFIB finge su nnterte; pero tien  o 
+después (luego de llevar una vida relativarnente normal) descubre que su esposa lo engaña: la 
+revelaciñnlo lleva a ser doniinado por la pulsiñn de los celos y, conio consecuencia, termina 
+destruyendo la casa de un poderoso narcotraficante, que ie exige pagar la reconstruccion. La 
+situacion limite de pagar la deuda o ser asesinado junto con su faniilia obliga a Michael a volver 
+a su vida de ladron, lo que ira desencadenando una gran cadena de eventos que vuelven a estar 
+relacionados con su pasado y con las decisiones que ha toniado. Los otros dos protagonistas, 
+Franklin y Trevor, se enfrentan también a1 influjo de sus pasiones y pulsiones que de igual modo 
+los ponen en situaciones liniite.
+
+Las acciones y eldesarrollo de la historia de GTA Uestan condicionados siempre por la reaccion a un 
+aconteciniiento inesperado, acciones que adeniâs son asumidas y llevadas a cabo por e1 
+jugador/espectador que debe vérselas con imâgenes percepciñn afeccion ypulsiñn con hs que connive y 
+que enftltimasle exigen adquirir
+
+
+I  Siglas para Grand Theft Auto V. para mayor informaciñn sobre la saga ver :http:.^
++'+'+'. zoc kstargames. com/grandtheftauto.  o  https:. /en.wikipedia.org/wiki. Grand Theft Auto 
+(series)
+
+
+244    Cuestiones de Filosofia No. 17 - Vol. 1 Año 2015 ISSN 0123-5095 Tunja-Colombia
+
+
+
+
+
+
+una nuevan  era de sero cambiar sus n  eras de ser de acuerdo con las exigencias delniedio yla 
+situacion. Tales también e1caso de Franklin, quien debe tomar una decisiñn fundarnentaly adaptarse 
+a la situaciñn cuando ie piden niatar a sus dos amigos y con  añeros a carnbio de conservar lavida: 
+duelo de fuerzas con elniedio, conlos otros y consigo niismo: todo ello de n  era siniultânea, 
+pues, conio afirnia Deleuze del cine, cada situaciñn esta tirando de otras lineas de acciñn(1985a, 
+pp. 204-219).
+
+La imagen-accion toma entonces la forma delrealisnio, en tanto las acciones estân dadas por una 
+suerte de conductismo.pero es un conductisrno nntcho mâs con  lejo de lo que parece, pues considera 
+factores internos (Deleuze, 1985a, p. 224). Asi, aquello que debe aparecer en elexterior es lo 
+niismo que sucede en elinterior del personaje, en e1 cruce de la situaciñn que lo inipregna y de la 
+accion que élva a hacer detonar. Los afectos y las pulsiones que poseen a Trevor cuando descubre 
+que Michaello engaññ en elpasado se refiejan de manera cristalina en sus acciones ysus gestos. 
+Delmismo nx›do, ypara mantener elrealisnx› instaurado, se configuran también relaciones 
+eniocion-objeto en las que e1 objeto es captado en toda su virtualidad alniisnio tiempo que las 
+eniociones actualizadas. Tal es e1caso de la relaciñn fetichista que sostiene Trevor con un oso de 
+peluche que se ve envuelto en un sinfin de situaciones hasta ser sodomizado por Trevor enunniomento 
+de locura.
+
+La imagen-acciñn se presenta entonces conio un discurso realista y veridico en tanto aspira a 
+laverdad aun en la ficciñn. Asi, aunque en su estructura puede incluir tarnbien recuerdos, sueños y 
+delirios, ensu visualizacion e1sistem sensorio motor se despliega adecuadarnente (Deleuze, 1985b, 
+p. 173), es decir, que los diferentes estados de percepcion no resultan indiscemibles. Las 
+iniâgenes que se presentan se mantienen chras y diferenciadas; se sabebien qué es un sueño yqué es 
+un recuerdo. De modo que, aunque consituyen un régimen de imâgenes complejo, las rupturas 
+narrativas, conio elipsis y espirales, operan como representaciones indirectas del tiempo. No son 
+imâgenes-tiempo, ya que la imagen enla de la acciñn, depende delmovimiento yse deduce delespacio, 
+por loque no in  orta cuân dislocado esté eltienipo siempre volvemos al principio deltienipo 
+cronologico (Deleuze, 1985b, pp. 173-174).
+
+
+
+Mas cercanos a la imagen-tiempo estan los dos titulos de QuruiticDreams, en los que deliberadamente 
+se ha reducido la interacciñn a favor del registro y la
+
+
+
+El videojuego: del simulacro a la imagen-pensamiento Jose Fernando-Gomez - p. 239-257
+245
+
+
+
+
+
+
+presentaciñn de situaciones purarnente opticas y sonoras. En e12010, Her  Join tuvo su debut en las 
+consohs yllegñ para revolucionar hs narrativas delvideojuego. Si las imâgenes-acciñn de GTA V 
+parecen estar cerca de la narrativa del cine tradicional, en Heave'Rain no hay duda de que nos 
+encontrarnos enun punto de indiferenciaciñn entre la imagen-accion y la imagen-tiempo.
+
+Heave'Main coniienza conun prologo que tiene lugar enla casa de Ethan Mars, un arquitecto de éxito 
+que tiene la vida perfecta. En e1 prologo, que dura unos 35 minutos, se nos niuestra la 
+cotidianidad de Ethan, desde levantarse yducharse hasta salir a jugar con los niños en e1 jardin. 
+Esta primera parte esta constituida por imâgenes-afeccion, esto es, un sinfin de primeros pianos 
+que detallan los estados emocionales de los personajes. En esta primera parte se logra una primera 
+presentacion deltien o cristalizado2, entanto las acciones estân nntyrestringidas y corresponden a 
+lo cotidiano. El paroxismo delprñlogo logra hacer que eljugador se abandone, junto con e1personaje, 
+a bloques de inaccion en los que se entrega a una presentaciñn—visualy sonora—pura deltiempo 
+(Deleuze, 1985b, p. 14).
+
+Es tan pura la presentacion que para niuchos videojugadores puede resultar insoportable, 
+precisarnente porque ante la presentacion de estas iniâgenes y sonidos puros, los personajes, que 
+solian reaccionar ante las situaciones (lo hacian incluso cuando, a causa de los accidentes, se 
+veian reducidos a la inipotencia) ahora estân condenados ala inacciñn pues por nosque se nuevan, 
+corrany se agiten, la situacion en que se encuentran desborda por todas partes su capacidad motriz, 
+de modo que mâs que reaccionar  rife o, registranlapurainiagen(Deleuze, 1985b, p. 13). Elhijo mayor 
+de Ethan se ha perdido enuna nziltitud. Ethanse entrega a la acciñn mâs pura dada por una situacion 
+limite, pero, incluso enla acciñn, eltiempo se presenta casi detenido, pues aunque la adrenalina 
+ylatension crecen por la pérdida delhijo mayor en e1centro conierciaL los niovimientos de Ethan 
+sonlentos y, adeniâs, estân siendo retrasados por una niuchedurnbre que ie inipide llegar a Jason, 
+quien luego de una persecucion en raleiiti finalrnente es arrollado por un coche.
+
+Contrario a la imagen-acciñn, aqui hay un derrurnbamiento de los esquenias sensorioniotores 
+(Deleuze, 1985b, pags. 175-176); la imagen no esta subordinada a1 niovimiento todo e1 tiempo, sino 
+que, por e1 contrario, tiende a cero, lo que
+
+
+"  El tiempo cristalizado corresponde a un tiempo escindido que conserva todo el pasado y hace 
+pasar todo el presente: se ve en e1 crustal la perpetua fundaciñn del tiempo, e1 tiempo no 
+cronolñgico (Deleuze, 1985b, p. 114).
+
+246    Cuestiones de Filosofia No. 17 - Vol. 1 Año 2015 ISSN 0123-5095 Tunja-Colombia
+
+
+
+
+
+
+deseniboca enuna crisis de la accion. Mas añn, en Her  fio/ri la imagen-tiempo termina por 
+distorsionar la imagen-accion. En la deriva deltiempo presentado, los movimientos que produce son 
+necesariarnente falsos, pues responden a un tiempo en elque tanto jugador como personaje estân 
+incapacitados para actuar, e incluso se resisten a ver.
+
+Sin embargo, Her  Main esta aun a medio camino. La narrativa cristalina solo llega a su climax con 
+BeJ'onJ.’Evosoiils, juego que desarrolla la historia de Jodie Holmes, unajoven con dones 
+sobrenaturales, capaz de coniunicarse con espiritus y quevive atada auno desde que tiene niemoria, 
+por lo cualha sido objeto de estudios delgobiemo arnericano desde pequeña. Eljuego comienza con una 
+Jodie que ha escapado de sus responsabilidades con e1 gobierno y, mientras huye, reconstruye sus 
+recuerdos. Las imâgenes-accion de sus escapes de las agencias del gobierno la llevana situaciones 
+limite que se intercalan con la exposicion de imâgenes opticas y visuales puras delrecuerdo y 
+sueño, en ocasiones indiscemibles entre st, las cuales registran y presentan eltienipo mientras que 
+exponen la vida de la protagonista en su inacciñn. Eljugador tiene que entregarse a la 
+inacciñnniucho niâs radicalmente que en Her  fio/ri, pues sonniuchas niâs las horas dedicadas 
+aldesmarañamiento de los recuerdos/pesadillas de Jodie que a la accion de escapar.
+
+Elmontaje en este caso es niucho niâs complejo, pues no solo salta enuna rapsodia de recuerdos 
+ypesadillas, sino que no hay una sofa referencia ten  oral o espacial que garantice de una u otra 
+forma un principio cronologico. Solo la contextura de la protagonista brinda pistas sobre su edad, 
+pero no deja de ser una especulaciñn, pues incluso en las secuencias en las que es una niña no se 
+tiene claridad de cual precede a la anterior. En la intrincada red deJoS/ibocI-s que organizanestos 
+bloques de imâgenes, e1 jugador no puede mâs que surnergirse en eltodo, en elbloque de sensaciones 
+puro propio de la imagencristA abandonando hpretensiñn de reordenar cronolñgicarnente eldesarrollo 
+de la historia. En lugar de buscar e1sentido, aqui se invita aljugador a dejarse afectar por e1sin 
+sentido de lo que ve.
+
+5. VIDEOJLTGO Y SOILTACRO
+
+Ahora bien, aunque elvideojuego presenta la divisiñn analitica que Deleuze realiza de las imâgenes 
+cinematogrâficas, tiene tarnbiéndiferencias, sobre todo en e1canto de la produccion y en las fomias 
+de interaccion. Esas diferencias se profundizan en la relacion que uno yotro tienen con 
+e1siniulacro y con la imagen-pensamiento.Asi, pues, habrâ que preguntarse qué relaciñn establece 
+elvideojuego con elsimulacro.
+
+
+
+El videojuego: del simulacro a la imagen-pensamiento Jose Fernando-Gomez - p. 239-257
+247
+
+
+
+
+
+
+Para ello es conveniente revisitar algunos conceptos, suponiendo que las iniâgenes delvideojuego 
+son equivalentes a las iniâgenes del cine. Para e1cine, la apariciñn de imâgenes Opticas y sonoras 
+puras puso de relieve la coniplejidad temporal: en e1 videojuego esta complejidad se potencia por 
+la interactividad. Este nuevo factor en la ecuacion phntea nuevos retos para elpensamiento, 
+especialniente akededor del problema ontolñgico de la realidad yla verdad de las imâgenes. La con  
+lejizaciñn delespectro imagen+interacciñn hace necesario repensar los alcances del concepto de 
+sinntlacro. Elviedojuego no sohrnente se constituye conio siniulacro, sino que, con fines distintos 
+a los del cine, su vocaciñn y su empresa es constituirse como e1 mejor sinnilacro posible.
+
+Atendamos prirnero a la necesidad de eschrecer qué hace de los videojuegos parte de un régimen de 
+siniulacros, o, mejor, empecemos por achrar qué entendenios por sinnilacro. La idea misnia de 
+simulacro debe rastrearse hasta la teoria platñnica de las ideas, a su vocaciñn radicalniente 
+eidética, es decir, apegada a una idea modélica de identidad que permite tener un criterio de 
+seleccion estricto entre e1 modelo y la copia. Siendo la ‘cosa’ real una copia del modelo, toda 
+copia de la cosa sera considerada un siniulacro que accede a la idea através delengaño artistico o 
+la falsa seniejanza.
+
+¿Qué tiene que ver todo esto con la imagen delvideojuego? La respuesta parece estar en la distancia 
+radicalque estas iniagenes instauran entre lo que es ylo que parece ser (lo real y lo siniulado). 
+Las imâgenes representan en ese sentido un desafio a la hora de mantener ese sentido estable de 
+identidad que parece garantizar la reproduccion cinematografica. pero no tanto por la calidad dela 
+reproduccion, sino por la credibilidad que les otorga eljugador. Las imâgenes deljuego ponen, 
+mediante la interactividad, a su espectador enuna posiciñn compleja: la sincronia que unas y otros 
+pueden establecer es tan fuerte que, en algunos casos, eljugador llega a asuniii que las imâgenes 
+deljuego son mas reales que lo realniisnio. Esta capacidad de poner en cuestiñn lo real es propia 
+delsinnilacro, que con su apariciñn subvierte esa fijeza de la identidad eidética.
+
+Eljuego se configura conio espacio de siniulaciñn por excelencia, conio e1lugar donde elrecrear la 
+realidad se vuelve una exigencia categorica; aqui la sin  tud con lo reales cada vez niâs 
+radicalniente puesta a prueba, y e1éxito deun videojuego radica precisamente en eso: sin embargo, 
+la voluntad de sinntlacion puede resultar probleniatica. La discrepancia entre las concepciones que 
+Deleuze y Baudrillard tienen del simulacro puede, seguramente, ayudar a coniprender e1problema y 
+sus
+
+
+248    Cuestiones de Filosofia No. 17 - Vol. 1 Año 2015 ISSN 0123-5095 Tunja-Colombia
+
+
+
+
+
+
+implicaciones en la concepcion ontologica de la realidad, dado que, a niijuicio, la discrepancia 
+entre estas dos concepciones es precisamente producto de las variaciones fundarnentales que las 
+imâgenes que proliferan ante nosotros hicieron posible.
+
+Para Baudrillard, e1 mundo que aparece ante nosotros, la realidad, asi como las imâgenes que 
+proliferan frente a nuestros ojos, no tiene equivalente ninguno, no pueden canjearse; en sus 
+propias pahbras: ‘to existe un equivalente para elnnindo. En eso consiste precisamente su 
+definiciñn, o su indefiniciñn” (2000, p. 11); esto implica que en su concepcion ontolñgica lo real 
+y lo verdadero son arbitrarios, imposturas que solo existen como forrnas de ordenar un caos de 
+indiferenciacion originario, una incertidurnbre sobre e1 mundo y las cosas que lo coniponen, pues 
+ninguna de estas cosas tienen sentido fuera de st mismas, no se pueden canjear con nada (p. 12). 
+Como resultado, para Baudrillard la esfera de lo real no puede ser canjeada con la esfera del 
+signo, pues para que un intercambio asi se dé debe existir un principio de equilibrio que sirva de 
+niediador entre las partes, en este caso entre lo realy e1signo; sin embargo, este principio yano 
+es posible fornnihrlo, las nomias bajo las cuales los intercarnbios deben darse han dejado de 
+funcionar y se esta de frente aldesorden especulativo.
+
+Aparece entonces la ilusion como elemento fundamental; la ilusiñn de que este intercambio es 
+posible y que es llevado a cabo de modo que tras la ilusion de un intercambio de algo se esconde de 
+manera evidente un intercambio dela nada, de modo que indefectibleniente cuando la realidad hace 
+frente a su signo, a aquello por lo que es canjeada, que es la virtualidad, queda in  osibilitada 
+para canjearse nunca mâs, pues la proliferaciñn de lo virtual hace que e1 principio de equilibrio 
+se desmorone, que las normas ylos principios de canje yano funcionen adecuadamente (Baudrillard, 
+2000, pp. 13-15). De modo que solo queda en eluniverso, en todos los terrenos posibles, la 
+incertidumbre radica y esta debe constituirse como regla de juego, como unica norma para entender 
+elnnindo.
+
+El problenia fundamental de la apariciñn de esta incertidurnbre radicalyace, para Baudrillard, en 
+quetodo aquello quejunto con su aparicion deberiamorir ha olvidado hacerlo; ask la incertidumbre 
+radical no es la nomiaguiadora.Aunque nos niovenios en unniundo de incertidumbres, avanzarnos a 
+través de élamiados de certidurnbres, pero no cargamos sus cadaveres (en palabras del niismo 
+Baudrillard: “si tal cosa conio e1cadâver de lo realexiste, añnno lo hemos encontrado”), cargamos 
+contodos sus ritos, normas ycertezas. Por lo cual, aunviviendo enestenztndo de indiferenciacion
+
+
+
+El videojuego: del simulacro a la imagen-pensamiento Jose Fernando-Gomez - p. 239-257
+249
+
+
+
+
+
+
+y de incertidumbre, e1pensamiento y, en general, todos los sistemas hurnanos se esfuerzanenescapar 
+de esta incertidurnbre,por hacer delintercanibio in osibleposible, encontrando las equivalencias de 
+todas las cosas (Baudrillard, 2000, pp. 19-21), para que de esa manera la incertidumbre se despeje 
+y sea posible volver ala certeza. Baudrillard ha sido niuy chro aldecir que todas las en resas que 
+se han llevado a cabo para lograr este conietido han fallado de manera rotunda y se han chocado de 
+intevo conhbarrerahasta ahorainfranqueable de1intercanf›io inq›osib1e. Sinenf›argo, ve en la 
+apariciñn de lo vimiaL de la siniulacion en ftltinias del simulacro, la ultinia vanguardia de ese 
+deseo de superar h incertidurnbre yreificar la certidurnbre mediante la instauracion de un 
+equivalente delniundo, delo reaL aquello por lo cualfinalmente lo realpuede canjearse(Baudrilhrd, 
+2000, pp. 21-22).
+
+Aquello que resulta del canje de lo real y lo virtual se constituye entonces coniorealidad 
+virtualentodas sus forrnas: una realidad que es mas real que lo reaL su equivalencia tots la 
+so1ucionfina1(Baudrillard, 2000, pp. 21-22).Ahorabien la apariciñn del siniulacro como ultinio 
+esfuerzo por dar un sentido y un orden a1 nnindo, por poder canjearlo con su otro, hace que 
+elsinnilacro yla siniulaciñn de lo realproliferen en su negatividad, aunque sigan siendo percibidos 
+conio una ilusiñn radical frente ala incertidumbre fundamental(Baudrilhrd, 1978, p. 47). 
+Baudrillard utiliza un ejemplo de la biologia: gracias alproceso de apoptosis,1as células tienen un 
+nñrnero limitado de divisiones para después morir; sin embargo, cuando se introduce abruptamente 
+algunaperturbacion en ese orden, elproceso de apoptosis falla, yla célula olvida como niorir, por 
+lo que procede a clonarse a st misma hasta formar un tumor cancerigeno que casi siempre termina por 
+dar la nnterte al sujeto. De fomu simihr, al introducir enla ecuaciñn de lorealalgo conlo qué 
+intercai hiarse, se introduce entonces ese fallo que hace de la realidad algo inutil(Baudrillard, 
+2000,
+p. 47). La realidad ahora puede intercambiarse con su doble. lo real enipieza a operar conio una 
+célula que ha olvidado niorir. Mas aftn, todo aquello que condone la realidad, las iniâgenes que la 
+constituyen, aunque estan muertas, han olvidado cñnx› niorir, subsisten en su virtiialidad conx› 
+extremidades fantasnias de unniiembro amputado (Baudrillard, 2000, pp. 48-50).
+
+En ese sentido, e1 videojuego como siniulacro es para Baudrillard otra forma de aniquilacion de lo 
+real, y su sustitucion por su doble operativo, ypor eso mismo renuncia a esa certidumbre que se 
+instah en ellugar de h incertidumbre fundamentfi Para Baudrilhrd, los simuladores virtuales de la 
+vida humana que los videojuegos ofrecen sonun mecanismo que, ante la incertidumbre fundamental de 
+lo red impone una certidurnbre que se constituye conio su doble efectivo. Cabe aqui elejemplo de
+
+
+250  Cuestiones de Filosofia No. 17 - Vol. 1 Año 2015 ISSN 0123-5095 Tunja-Colombia
+
+
+
+
+
+
+Sims Cir', un siniulador que permite dar vida auna ciudad contodos sus problems sociales ypoliticos 
+y donde, alresolverlos, la utopia pueda verse consuniada. En e1 mundo de la realidad virtual, en e1 
+que Baudrillard cree nos instalarnos de manera pulsional para evitar la incertidurnbre delo 
+realniismo, la utopia esta consumada gracias a esa ilusion, a ese redejo de lo realque ha empezado 
+a tomar su lugar.
+
+A Deleuze, por e1contrario, la proliferaciñn de siniulacros ie parece positiva, en tanto que 
+gracias a ellos se produce la aparicion de distribuciones nñmadas y de cierta in  osibilidad de 
+order de jerarquia: asi, termina por afirniar los efectos de la producciñn de simulacros (Deleuze, 
+2005, pp. 264). Deleuze encuentra en esa potencia cañtica uno de los origenes de la efectividad de 
+la imagen. Mientras en Baudrillard elsinzihcro tiene una fuerzanegativa, negacion de lo realy 
+consunuciñn de la ilusiñn de certeza, en Deleuze opera enun sentido positivo. Deleuze también 
+encuentra enlo real algo lleno de potencias de incertidumbre y de indiferenciaciñn, sin embargo, ve 
+e1simulacro no como una forma de retomo a la seguridad de un estado previo, garantia de la 
+permanencia de las certezas, sino todo lo contrario, como e1 potenciador de esta diferenciacion 
+fundamental.
+
+Es gracias a1simulacro que se abre e1camino a nuevas experiencias mediante una inversiñn de la 
+representacion La senujanza delsinnihcro, que en Baudrillard ocupa ellugar deldoble perverso, es 
+ahora proyectada yretroyectada, “[e1sinnilacro] no presupone lo mismo ylo seniejante, sino que, por 
+e1 contrario, constituye elñnico mismo delo que difiere, Rica seniejanza de lo 
+deseniparejado”(Deleuze, 2005, p. 266). En Baudrillard, la presencia delsimulacro como reemphzo 
+efectivo delo real enipobrece la experiencia del sujeto (entanto que e1siniulacro resulta no ser 
+nada mâs que una ficcion, una ficcion que se prefiere a lo reaL pues ie salva de su monstruosidad, 
+de la monstruosidad de la incertidurnbre), interponiéndose entre lo realy su percepciñn, ocupando 
+su lugar. En Deleuze, por e1contrario, elsiniulacro es en si mismo cada vez una realidad nueva que 
+se despliega y otorga nuevas posibilidades de pensamiento, de sensaciñn, de experinientacion. Asi, 
+mientras Baudrillard sigue condenando la huida del simulacro a la seguridad de la representacion, 
+en Deleuze e1 simulacro no tiene que ver ya con la idea de representaciñn en sentido estricto. Las 
+imâgenes que e1simulacro ofrece ya no son mâs representaciones, se han liberado dela carga 
+representativa para adoptar una nueva fuerza expresiva.
+
+En sintesis, Deleuze y Baudrillard coinciden en otorgar alsinnilacro la capacidad de expresar la 
+multiplicidad e incertidumbre del mundo y de las imâgenes que lo
+
+
+
+El videojuego: del simulacro a la imagen-pensamiento Jose Fernando-Gomez - p. 239-257
+251
+
+
+
+
+
+
+constituyen:paraarnbos, su aparicion significa la confirniaciñndeesas incertidumbres sobre cñmo se 
+presenta lo realante nosotros, pero difieren en elrolontolñgico que cun  ie elsiniulacro en 
+elproceso de entendimiento delnnindo. Para Baudrilhrd, la siniulaciñn es una operacion de retorno 
+aunnx›niento anterior niucho niâs comodo (e1 de las certezas y las norrnas funcionales) que tiene 
+conio consecuencia la aniquihcion de lo reaL yque tern  a por transformarlo en un cadâver viviente 
+que ha olvidado conio niorir y se mantiene conio un fantasnia degradado, inoperante, en tanto se 
+esta confinado a la simulacion. En Deleuze, la entrega a la ilusiñn y a la certeza no esta dada por 
+la apariciñn yproliferaciñn delsinnilacro; por e1contrario, es su potencia ontologica la que 
+afirrna e1caracter indiferenciado e incierto de lo red entanto puede proliferar de 
+manerailimitada.Aquie1sinni1acro es elabandono de lapulsion de retorno y la aceptacion de la 
+condicion multiple y diferenciada de lo real
+
+Volvamos, entonces, luego de este breve repaso de las concepciones de simulacro, a las iniagenes 
+delvideojuego. Es hora de preguntamos qué ofrecen las iniâgenes delvideojuego pam enriquecer la 
+discusionsobre elsinzihcro. Unaprirnera respuesta, un tanto arnbigua, diria que las iniagenes 
+delvideojuego probleniatizan aspectos fundamentales de las dos concepciones de simulacro que hemos 
+descrito anteriormente. Desde la perspectiva de Baudrillard, estamos asistiendo quiza a la 
+consumacion de su mayor tensor, una realidad virtual por la que lo real puede intercambiarse de 
+manera efectiva, haciendo que quienes se exponen a estas inñgenes, que son ahora interactivas, 
+puedanreen lazar lo realcon ellas y someterse a la ilusion de certeza que estas iniagenes ie 
+ofrecen. Del otro lado, desde la perspectiva deleuziana, la imagen delvideojuego se constituye 
+conio otro campo de ese realincierto y diferenciado que pone de nuevo a rodar e1pensamiento, que an 
+lia elespectro delo realylo hace mâs complejo; de modo que pemiite, nudiante la apreciacion 
+yapropiaciñn de esas imâgenes-sinnilacro, con render aspectos de ese real que de otra form pasarian 
+inadvertidos ante nuestra niiiada.
+
+De aqui se desprende una segunda respuesta, enfocada ahora enla cuestiñn de si la particularidad 
+material de las iniagenes del videojuego, creada en funcion de la interactividad, permite nuevos 
+desarrollos akededor del concepto de sinnilacro. La respuesta que quiere dar este articulo es que 
+st puesde unau otra forma elsinzihcro, conio lo hemos descrito, no contempla esa nueva materialidad 
+en la que vendria a proliferar ya germinar la radicalizaciñn del siniulacro, entanto que la imagen 
+del videojuego esta añn mâs alejada, es aun mâs siniulativa que la imagen del cine, y esto es asi 
+gracias a la aparicion de esta interactividad. De modo que e1siniulacro,
+
+
+252   Cuestiones de Filosofia No. 17 - Vol. 1 Año 2015 ISSN 0123-5095 Tunja-Colombia
+
+
+
+
+
+
+alnienos elque prolifera desde las imâgenes-niovimiento, debe ser repensado, ya no solo bajo la luz 
+de la imagen del cine, sino también desde la imagen-interactiva del videojuego. La razñn es que en 
+ella e1 simulacro opera de manera niucho mâs abstracta, entanto la imagen interactiva 
+delvideojuego, como la del cine, no debe ser entendida como mirnética yrepresentativa; por 
+e1contrario, en elh debe intuirse la aparicion de una nueva realidad que ie es propia. De cierta 
+manera, las concepciones de siniulacro presentadas deberian, quiza, buscar un punto de convergencia 
+en esta nueva form de siniulacro que tiene esa potencialidad de ser positivo (siguiendo a Deleuze) 
+o negativo (siguiendo a Baudrillard).
+
+A juegos como los que he presentado en la primera parte de este articulo les corresponde una 
+realidad propia que no solamente es instaurada mediante e1 siniulacro, es decir, mediante su 
+apariciñn material, sino también reforzada mediante la interactividad. Las dos posturas pueden 
+operar sobre estas imâgenes sin contradecirse, pues si bien e1 factor de la interactividad hace que 
+un intercambio entre lo realy ese doble virtual que se presenta en elvideojuego se refuerce y se 
+haga cada vez mas una posibilidad real, en lugar de una mera posibilidad del pensamiento, la 
+positividad del siniulacro también opera de manera intensificada. En ultimas, la interactividad 
+parece sugerir una conexion mayor con ese doble un tanto perverso en e1 que es posible perderse 
+para siempre, como también una conexion mayor con esa posibilidad de arnpliacion delhorizonte de lo 
+real mediante iniagenes que tienen una fuerza expresiva y de pensamiento que lo excede.
+
+Asistinios auna radicalizaciñn de las propiedades de hs imâgenes, auna ratificaciñn de la 
+no-representatividad de la imagen conceptualizada por Deleuze en térn  os de imagen-tiempo. 
+Solamente que ahora e1 jugador parece poner en accion ese “doble operativo” intuido por Baudrilhrd, 
+ya que eljugador no solamente interactiia comas iniagenes del videojuego, sino que de cierta forma 
+hace parte de ellas, a1 punto que a medida que se hace niâs sofisticada la siniulacion es niâs 
+probable que élmisnio pueda hacer proliferar los siniulacros. La experiencia entonces yano solo 
+estarâ mediada por los sentidos que perciben la imagen sino tanf›iénporlavo1untad de siniulaciñn 
+que eljugador pueda instaurar a partir de esas iniâgenes.
+
+6. M EtIAGEN DEL PENSAJYBENTO
+
+En la introducciñn hicimos un primer acercamiento a la relacion que puede existir entre las 
+iniagenes, los siniulacros y elpensarniento en la teoria de Gilles Deleuze.
+
+
+
+El videojuego: del simulacro a la imagen-pensamiento Jose Fernando-Gomez - p. 239-257
+253
+
+
+
+
+
+
+Aquinos centraremos en e1caso particular ya no de las imâgenes del cine, sino de las imâgenes 
+delvideojuego: ¿qué tienen estas que decirle alpensamiento? Deleuze encuentra en las 
+iniâgenes-nioviniiento la potencialidad de evidenciar de manera privilegiada e1 pensamiento de una 
+época; para Deleuze es evidente que e1 pensamiento nunca piensapor siniismo, sino que solo produce 
+a partir de un canto de posibilidades (Asiain  varez, 2007), campo deterniinado por la imagen del 
+pensamiento, que no esta dada explicitamente enninguna filosofia, no es ni visible ni enunciable, 
+pero siconfigurae1canq›o de enunciacion yde visibilidad delpens   ento ytodo lo que lo afecta.
+
+Esta imagen del pensamiento, ese campo de enunciaciñn, sin embargo, esta constituido, a1 menos en 
+lo que respecta a1 pensamiento occidentaL de manera dogniatica (Asiain   varez, 2007); esto es, 
+atado a la idea platonica de la representaciony fuertemente ligado a la idea delsiniulacro conx› la 
+copia degradada y sin valor. Para Deleuze, cuando se crean conceptos filosñficos se establece un 
+piano de inmanencia, phno que es elhorizonte infinito sobre e1cuallos conceptos proliferanypueblan 
+elphno, que no es un concepto, nialgo pensado nialgo pensable, sino una imagen delpensamiento 
+(Deleuze y Guattari, 1993, p. 41), y dado que la imagen delpensamiento solo conserva lo que 
+elpensamiento puede reivindicar por derecho, lo verdadero solo puede definirse enun ‘volverse 
+hacia’ o un ‘hacia lo que se vuelve elpensamiento’ sin conservar ningñn concepto de verdad (p. 43), 
+por lo que lañnica fomia de ampliar elphno de inmanencia, la imagen delpensamiento, es precisamente 
+h busqueda de un sien  re nuevo, de un no pensado. Asi,1os elementos del phno son caracteristicas 
+diagramâticas, en tanto que los conceptos son caracteristicas intensivas (Deleuze y Guattari, 1993, 
+pp. 43-44). Este no pensado, este nuevo espectro delo realesta dado, entonces, por la proliferacion 
+de la diferencia en las iniâgenes, proliferaciñn de sinnilacros que amplian ese espectro de lo 
+realylo hacen mas rico, mâs con  lejo.
+
+La inugen dogniâtica delpe    ento, sin embargo,en tanto reniite a unyapensado, es siempre una 
+imagen representativa, esta en referencia a un modelo particular que detern  a su valor de verdad, 
+un fundarnento priniero. Esta imagen dogmâtica se corresponde con elpensamiento platonico, que 
+sigue distinguiendo entre niodelo, copia y sinnilacro, de tal modo que solo puede existir de mera 
+consistente cuando la division modelo-copia se n  tiene (Asiain Alvarez, 2007). Este tipo de imagen 
+se asimila a la idea de siniulaciñn en Baudrillard, que se explicaba mâs arriba; asi, existe una 
+reificacion de una certeza dada, un ya pensado,que permite mantener las certezas de intercambio, la 
+verdad, la objetividad, etc. Sin embargo, una vez que la
+
+
+254   Cuestiones de Filosofia No. 17 - Vol. 1 Año 2015 ISSN 0123-5095 Tunja-Colombia
+
+
+
+
+
+
+imagen se ha liberado de esta carga, una vez que los siniulacros han proliferado y han vuelto a la 
+superficie, la imagen delpensamiento puede carnbiar, ser otra.
+
+Porlo que hs imâgenes delvideojuego,alincluir h interactividadensus caracteristicas, se instauran 
+conio las imâgenes que hacen visible y enunciable la complejidad del mundo de hoy, con  lejidad que 
+esta dada por la potencialidad de abandono a esa realidad virtualque Baudrillard pone de relieve 
+enla constitucion de un real virtual que puede efectivarnente tomar ellugar de lo real mismo. Esta 
+aparicion de una posibilidad realde aniquilacion de lo realpone de manifesto unas con  lejidades 
+para elestudio ontolñgico que solo son pensables y enunciables luego de que las iniagenes 
+delvideojuego han proliferado, que nos hemos apropiado de ellas yque nos han permitido pensar de 
+manera mâs radicalque nunca en esa hiperrealidad, en ese real virtual mas realque lo real
+
+Cuando se interroga por qué la imagen del cine es una imagen-pensamiento, es fâcil notar que lo es 
+gracias a que,mediante su presentaciñn directa del tiempo y su superacion delnioviniiento, e1cine 
+permite contemplar espacio-temporalidades nuevas, dirnensiones no cronologicas deltien  o y su 
+relaciñn con elespacio (Asiain Alvarez, 2007). En otras palabras, a1salir de la representaciñn 
+delespacio-tiempo para pasar a su presentacion, la imagen del cine escapa delniodelo 
+representativo, hace proliferar sus siniulacros como elphno de expresion de una nueva potencia de 
+la imagen-pensamiento. Delniisnio modo, la imagen delvideojuego, que también hace proliferar sus 
+siniulacros, ahora mas coniplejos gracias a su interactividad, abre tarnbiénnuevos espacios y 
+situaciones conx› potencias ‘sinnihdas’ dela imagen- pensamiento.
+
+Por eso, del argurnento por comparacion hemos pasado a la afirmacion de la diferencia de la imagen 
+interactiva propia delvideo juego. La imagen interactiva no solo construye y presenta los bloques 
+de sensacion, sino que precisa del agenciamiento deljugador para que la composicion sea completa 
+yefectiva. Eso es posible verlo enunciado en los juegos descritos en este articulo, pues en cada 
+uno de ellos no sohmente la participacion deljugador es vitalpara completar la historia, sino que 
+la interactividad phnteada hace que sea posible que la historia cambie y se modifique con las 
+decisiones del jugador, que de una u otra forma termina por apropiarse de la historia, por hacerla 
+tan suya conio ie es posible. De modo que e1 simulacro delvideojuego invita aljugador a surnergirse 
+en su realidad, a vivir esa realidad visual conio propia, si bien no definitivamente, st cadavez de 
+mera mâs intensa yniejor lograda. Elnivelde immersion e interaccion alcanzado gracias a esta
+
+
+El videojuego: del simulacro a la imagen-pensamiento Jose Fernando-Gomez - p. 239-257
+
+
+
+
+
+
+nueva imagen no solamente permite repensar los limites del siniulacro, sino que propone nuevas 
+forrnas de interaccion con la imagerrlo real que estân am por descubrir y desarrollar.
+
+
+
+Asiâin Varez, E. (2007). “La imagen delpensamiento enGilles Deleuze; Tensiones entre cine y 
+filosofia”. Observacioiies Filosoficas.
+Baudrillard, J. (1979). El iiitercamhio siitibolico v la iiiiierfe. Caracas: Monte
+Avila.
+Baudrillard, J. (1993). Ciilnira vsiitiulacro . Barcelona: Kairñs. Baudrillard, J.(2000). El 
+intercambio iitiposihle. Madrid: Catedra.
+Bevoiicl Tin Souls.(2013). Dirigido por Davd Cage. Producido por Guillaume de Fondaurniere. Sony 
+Computer Entertainment.
+Cârdenas, J. D. (2011). “Entre la imagen y e1 pensamiento: a proposito del pensamiento de Gilles 
+Deleuze”. UrirverS/fosP/ii/oSop/iico, n.° 57, pp. 241- 262.
+Deleuze, G. (1985a). Jo iitiageri-itioviitiieiito. Estiirlios sohre cine J. Barcelona: Paidñs.
+Deleuze, G (1985b). Jo imagen-tieitipo. Estiiclios sohre clue ?. Barcelona: Paidos. Deleuze, G 
+(2005). Logica rlel seri/irfo. Barcelona: Paidos.
+Deleuze, G. y Guattari, F. (1993). ¿Qiié es In filosofia? Barcelona: Anagrama.
+Her  Raiii. (2010). Dirigido por David Cage. Producido por Quantic Dream.
+Sony Con uter Entertainment.
+Houser, D. yHumphries, R. (2013). Graiicl TlieftAiito U Dirigido por SamHouser.
+Producido por Leslie Benzies y Imran Sanvar. Rockstar Games.
+Mega Mali.(1997).Producido por Keiji Inafune yYoshinori Takenaka. Capcom.
+Mario Bros.(1983).Dirigido por Shigeru Miyamoto, Satoshi Tajiri y Mitsuharo Sato. Producido por 
+Nintendo. Nintendo.
+
+
+256   Cuestiones de Filosofia No. 17 - Vol. 1 Año 2015 ISSN 0123-5095 Tunja-Colombia
+
+
+
+
+
+
+Prin-uuiii (1980). Dirigido por Toru I atani. Producido por Nainco. Nainco. 1980.
+Silent Hill ?.(2001). Dirigido por Masaslii Tsuboyaiiia. Producido por Akiliiro
+lit  ura. Konanii.
+Sir sCin.( 1989). Dirigido por Will Wright. Producido por Maxis. Electronic Arts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+El videojuego: del simulacro a la imagen-pensamiento José Fernando-Gomez - p. 239-257
+2 fi 7

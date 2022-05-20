@@ -1,0 +1,638 @@
+Introducción
+Una de las herramientas tecnológicas más populares en la actualidad son los videojuegos. 
+Estos se entienden como plataformas creadas para el entretenimiento que permiten en gran 
+medida satisfacer necesidades individuales relacionadas con el ocio; no obstante, ofrecen 
+grandes potencialidades para el desarrollo de actividades de formativas (Calvo-Ferrer, 2018). 
+Dentro del campo de los videojuegos encontramos los juegos serios (Zhu et al., 2020), que 
+han sido ampliamente difundidos en diferentes contextos de aplicación, como salud, 
+rehabilitación, educación, política, defensa, marketing, entre otros. Su aplicación se soporta 
+en el hecho de que este tipo de videojuegos son una herramienta educativa y altamente 
+motivacional con la capacidad de cambiar las actitudes de los usuarios, desarrollar habilidades 
+y despertar conciencia acerca de estos campos específicos (Calvo-Morata et al., 2020; Moizer 
+et al., 2019). Los juegos serios son más que una categoría específica de los video juegos 
+(aventura, estrategia, deportes, etc.) y pueden definirse como juegos digitales creados con la 
+intención de entretener y alcanzar al menos un objetivo adicional (Dörner et al., 2016). 
+También, según Djaouti et al. (2011), los juegos serios son videojuegos cuyo propósito 
+primario no es el entretenimiento y la diversión. Asimismo, según Da Silva Simões y Ferreira 
+(2011), este tipo de videojuegos permiten el desarrollo de simulaciones que resultan más 
+atractivas de jugar, al tiempo que ofrecen actividades que favorecen la asimilación de prácticas 
+y habilidades psicomotoras. 
+Teniendo en cuenta lo anterior, en este tipo de videojuegos el interés principal va más allá 
+del entretenimiento. Algunas de las características que los diferencian de los videojuegos 
+comerciales son: están destinados para la educación, el entrenamiento de habilidades, la 
+comprensión de habilidades complejas en diferentes contextos de aplicación y pueden ser 
+usados en el ámbito de la publicidad; están vinculados o abordan una temática de la realidad; 
+constituyen un ambiente en el que se permite la práctica segura de las habilidades de los 
+aprendices y hay diferentes tipos de interés en sus contenidos dependiendo del contexto de 
+aplicación en el que se desarrollen (política, marketing, economía, religión, entre otros) 
+(Marcano, 2008). De acuerdo con lo presentado en Aguilar et al. (2018), los juegos serios 
+pueden clasificarse en cuatro categorías: advergame, edutainment, edumarket y simulation 
+game. Los advergames se emplean en la promoción de productos y servicios, de tal modo que 
+involucran el producto dentro de la historia del juego; los edutainment tienen por objetivo el 
+desarrollo de competencias educativas aprovechando el entretenimiento y la inmersión; los 
+videojuegos tipo edumarket combinan aspectos relacionados con los advergame y los 
+edutainment, de tal modo que muestran información sobre el funcionamiento de los mercados, 
+generando atracción hacia ellos. Finalmente, los juegos de simulación buscan que el jugador 
+adquiera o ejercite ciertas habilidades en el contexto de situaciones simuladas. Del mismo 
+modo, según otros autores se pueden distinguir dos categorías principales que agrupan los 
+diferentes tipos de juegos serios: advergame y edutainment (López Raventós, 2016).
+Dadas las características propias de los videojuegos serios tipo edutainment, su aplicación 
+en el contexto educativo tiene un gran potencial de cara al desarrollo de competencias 
+Directrices para el diseño y la construcción de videojuegos serios educativos |
+Gabriel Elías Chanchí-Golondrino
+María Clara Gómez-Álvarez
+Luz Marina Sierra-Martínez
+Primer cuatrimestre de 2022 (enero-abril) || e-ISSN: 2323-0134 || 4
+educativas y resultados de aprendizaje en diferentes niveles de educación. En este sentido, 
+los juegos serios tipo edutainment presentan diferentes contenidos educativos de la forma 
+más lúdica posible, buscando hacer divertido aquello que no parece serlo (López Raventós, 
+2016) y facilitando la apropiación de algunos conceptos complejos por parte de los estudiantes 
+en el aula de clase. Del mismo modo, los videojuegos serios aplicados al contexto educativo 
+universitario buscan servir de apoyo a los docentes en cuanto a la formación de futuros 
+profesionales en los retos de desempeño exigidos por un mundo globalizado, complejo y de 
+cambio técnico acelerado (Rojo y Dudu, 2017). A pesar de las potencialidades de los 
+videojuegos serios en el contexto educativo, aún existen desafíos en cuanto a su 
+implementación en escenarios educativos, dada la estrecha relación que debe existir con el 
+proceso educativo (Darwesh, 2015). En este mismo sentido, la adopción de juegos serios en 
+una amplia gama de contextos educativos y de capacitación genera una necesidad creciente 
+para comprender y evaluar su efectividad desde la perspectiva de la experiencia de usuario, 
+con el fin de mejorar la interacción entre el usuario y el videojuego (Moizer et al., 2019). De 
+este modo, conviene que los videojuegos serios tengan en cuenta pautas y directrices tanto a 
+nivel educativo como a nivel de calidad de uso, usabilidad y jugabilidad, con el fin de permitir 
+que los estudiantes centren su atención en los retos y objetivos de aprendizaje propuestos 
+teniendo en cuenta los procesos de aprendizaje, no en las dificultades en el manejo de los 
+videojuegos (comandos complicados, interfaz poco intuitiva, tiempo de respuesta inadecuado, 
+excesiva o insuficiente cantidad de información, fallas en la navegación, etc.) (Savazzi et al., 
+2018; Tolentino et al., 2011). 
+La usabilidad puede ser entendida como la calidad de la interacción entre el usuario y el 
+sistema y está compuesta por atributos tales como facilidad de aprendizaje, eficiencia, 
+facilidad de recordación, manejo de errores y capacidad de producir satisfacción en el usuario 
+final (Chanchí et al., 2020; Tolentino et al., 2011). Del mismo modo, la usabilidad se puede 
+definir como la eficacia, eficiencia y satisfacción con la que un usuario puede alcanzar objetivos 
+específicos en un contexto de uso específico (Finstad, 2010; González-Sánchez et al., 2012). 
+Dentro de las principales ventajas de la usabilidad se encuentra la posibilidad de que las 
+empresas del sector software sean más competitivas y los usuarios finales de los desarrollos 
+sean más productivos (Madhavan y Alagarsamy, 2013; Mascheroni et al., 2012; Sánchez, 
+2011). Por otra parte, la experiencia de usuario va más allá de la usabilidad y está 
+comprendida en el servicio en el cual se enmarca el software, es decir, se enfoca en la 
+interacción de los clientes con los productos, sistemas y servicios. De este modo, mientras la 
+usabilidad se enfoca en la satisfacción en el uso del software, la experiencia de usuario 
+involucra la satisfacción en el servicio (González-Sánchez et al., 2012; Jang y Yi, 2019; 
+Kramer, 2012). 
+Con el fin de mejorar la calidad de interacción, así como propiciar el desarrollo de 
+competencias educativas dentro de los videojuegos serios tipo educativo o edutainment, se 
+hace necesario recopilar, adaptar, sintetizar y clasificar diferentes pautas y directrices de 
+diseño a partir de la literatura, las cuales tengan en cuenta aspectos como la calidad de uso, 
+la experiencia de usuario, el proceso de enseñanza-aprendizaje y la jugabilidad. Las directrices 
+propuestas pretenden servir de apoyo mediante su articulación en el proceso de desarrollo de 
+videojuegos serios educativos centrados en el usuario, de manera específica en las fases de 
+diseño y evaluación, de tal modo que se contribuya con la calidad de la interacción y la 
+apropiación de los conceptos educativos abordados por los videojuegos serios.
+Directrices para el diseño y la construcción de videojuegos serios educativos |
+Gabriel Elías Chanchí-Golondrino
+María Clara Gómez-Álvarez
+Luz Marina Sierra-Martínez
+Primer cuatrimestre de 2022 (enero-abril) || e-ISSN: 2323-0134 || 5
+A continuación, se presenta un conjunto de trabajos que se tuvieron en cuenta como 
+referencia para la definición de las directrices para el diseño de videojuegos serios tipo 
+edutainment.
+En Pinelle et al. (2008), se propone un conjunto de diez heurísticas de usabilidad para 
+videojuegos, las cuales fueron obtenidas del análisis de 108 revisiones realizadas por usuarios 
+en el portal GameSpot. A partir de las revisiones analizadas se obtuvo un conjunto de 
+problemas comunes, que fueron organizados y clasificados dependiendo del tipo de problema. 
+Las heurísticas planteadas por los autores sugirieron respuestas a los problemas identificados. 
+Estas fueron: respuesta consistente a las acciones del usuario; personalización de 
+configuraciones multimedia (audio y video) y dificultad del juego; comportamiento razonable 
+para las unidades controladas por computador; vistas sin obstrucción apropiadas para las 
+acciones del usuario; permitir saltar contenido frecuente, repetitivo y no jugable; proveer 
+entradas intuitivas y personalizables; proveer controles fáciles de manejar y con un adecuado 
+nivel de sensibilidad; información sobre el estado del juego; proveer instrucciones, 
+entrenamiento y ayuda; representaciones visuales fáciles de interpretar. Si bien estas 
+heurísticas han sido propuestas inicialmente para el contexto de los videojuegos, muchos 
+aspectos de los aquí presentados pueden extrapolarse al escenario de los videojuegos serios. 
+En Paliokas et al. (2011), se propone un videojuego educativo denominado PlayLogo 3D, 
+que fue diseñado para el desarrollo de habilidades básicas de programación en niños de seis 
+a trece años. Además, para la evaluación del videojuego desde la perspectiva de la usabilidad 
+se propuso un instrumento que toma en consideración tres categorías de heurísticas de 
+usabilidad (usabilidad del juego, aspectos del juego, aspectos educativos y pedagógicos), a 
+cada una de las cuales se les definieron unos criterios expresados en términos de preguntas. 
+Los criterios definidos pueden servir de referencia para el diseño de videojuegos educativos y 
+su extrapolación al contexto de los videojuegos serios tipo edutainment.
+En Annetta et al. (2011) se propone una rúbrica de evaluación para videojuegos serios 
+educativos, en la cual se definen quince aspectos por considerar tanto en las fases de diseño 
+como de evaluación, los cuales incluyen elementos pedagógicos y de experiencia de usuario. 
+La rúbrica definida por los autores está compuesta por las siguientes categorías: prólogo, nivel 
+de práctica, interactividad, retroalimentación, identidad, inmersión, frustración Deseable, 
+Manipulación, Incremento de la complejidad, Reglas, Aprendizaje informado, Efectividad 
+pedagógica, Eficiencia en la lectura y comunicación. Los aspectos definidos incluyen tanto 
+elementos pedagógicos como de usabilidad, que pueden ser agrupados y sintetizados en un 
+conjunto reducido de categorías, dada la relación existente entre estos.
+En Darwesh (2015), se menciona que, a pesar de la potencialidad en los videojuegos serios 
+educativos, estos no han sido ampliamente utilizados en el contexto educativo debido a la 
+falta de articulación de los videojuegos serios con el proceso educativo. A partir de lo anterior, 
+se proponen seis conceptos fundamentales por considerar en el diseño y construcción de 
+juegos serios con propósito educativo. Dentro de los conceptos propuestos están: escenario 
+educativo, interactividad, seguimiento del usuario, entusiasmo, puntuación y aprendizaje. A 
+partir de los anteriores conceptos, el autor plantea la posibilidad de propiciar el diseño de 
+videojuegos serios educativos que propendan por el desarrollo del concepto de educación 
+adaptativa.
+Directrices para el diseño y la construcción de videojuegos serios educativos |
+Gabriel Elías Chanchí-Golondrino
+María Clara Gómez-Álvarez
+Luz Marina Sierra-Martínez
+Primer cuatrimestre de 2022 (enero-abril) || e-ISSN: 2323-0134 || 6
+En Fitchat y Jordaan (2016), se propone un conjunto de diez heurísticas definidas para 
+evaluar la experiencia de usuario en videojuegos serios. Las heurísticas planteadas en este 
+trabajo fueron obtenidas a partir de las entrevistas realizadas a un grupo de usuarios que 
+desarrollaron un test de usuario con el videojuego serio educativo StoryTimes, que define un 
+conjunto de actividades lúdicas para la apropiación del concepto de tablas de multiplicación. 
+Las heurísticas definidas fueron expresadas en términos de lo que los usuarios desearían que 
+el juego tuviera, así: los jugadores quieren conveniencia; los jugadores quieren estar 
+encantados e inmersos en el juego; los jugadores desean aprender sin esfuerzo; los jugadores 
+quieren ser motivados constantemente por el juego; los jugadores quieren practicar; los 
+jugadores quieren ser recompensados por sus logros; los jugadores desean utilizar todos sus 
+sentidos; los jugadores quieren conocer s u progreso; los jugadores necesitan ser guiados a 
+lo largo del juego; los jugadores requieren personalización en el juego.
+En Savazzi et al. (2018), se propone un modelo utilizado para evaluar la usabilidad de 
+videojuegos serios en el área de neuro-rehabilitación. La definición del modelo de evaluación 
+de usabilidad es una adaptación de las heurísticas de Nielsen en un conjunto de ocho principios 
+para el diseño y la construcción de videojuegos serios: consistencia, visibilidad, relación entre 
+el sistema y el mundo real, memoria, retroalimentación, flexibilidad y control, manejo de 
+errores y lenguaje. El artículo presenta los resultados de un estudio de caso en el que se usan 
+las heurísticas definidas para evaluar un videojuego del área de la neuro-rehabilitación, y se 
+obtuvo un conjunto de aspectos por mejorar denle cuanto al diseño.
+Abdellatif et al. (2018) mencionan la necesidad de definir un conjunto de heurísticas que 
+determinen el diseño y la evaluación de videojuegos serios, con el fin de mejorar la experiencia 
+de uso. A partir de lo anterior, en este trabajo se propone un marco de cinco dimensiones 
+para la evaluación de videojuegos serios, en donde cada una está conformada por un conjunto 
+de criterios que permiten verificar su cumplimiento. Dichas dimensiones son: usabilidad, 
+motivación, compromiso, experiencia de usuario y comprensibilidad. A partir de las 
+dimensiones y criterios definidos, se desarrolló una evaluación del videojuego de 
+programación Robocode. 
+En Moizer et al. (2019) se propone la adaptación de un modelo de evaluación de la 
+experiencia de usuario en videojuegos serios de carácter holístico, la cual está conformada 
+por dimensiones, atributos y criterios (definidos en términos de preguntas). Las dimensiones 
+incluidas en el modelo propuesto son: experiencia en el juego, experiencia de aprendizaje, 
+adaptabilidad, usabilidad y fidelidad. El modelo se empleó para la evaluación del juego serio 
+S-Cube, que se basa en roles y tiene por objetivo el desarrollo de habilidades blandas en 
+trabajadores de empresas de carácter social. Los autores concluyen que el modelo puede 
+servir de referencia para mejorar la experiencia de usuario en videojuegos serios de diferentes 
+contextos de aplicación.
+En Vee Senap e Ibrahim (2019) se presenta una revisión de literatura centrada en la 
+identificación de heurísticas para la evaluación de videojuegos educativos móviles, que puedan 
+ser empleadas en la conducción de evaluaciones heurísticas sobre videojuegos, con el fin de 
+mejorar aspectos referentes a la interacción. De este modo, a nivel de la usabilidad en el 
+contexto de los videojuegos se identificó la presencia de los siguientes componentes en 
+diferentes trabajos: desafíos, fantasía, curiosidad, interfaz, mecánicas, jugabilidad, historia, 
+usabilidad, movilidad, entretenimiento y social. Igualmente, con respecto a los componentes 
+Directrices para el diseño y la construcción de videojuegos serios educativos |
+Gabriel Elías Chanchí-Golondrino
+María Clara Gómez-Álvarez
+Luz Marina Sierra-Martínez
+Primer cuatrimestre de 2022 (enero-abril) || e-ISSN: 2323-0134 || 7
+de usabilidad en videojuegos educativos se identificaron a partir de diferentes trabajos los 
+siguientes componentes: interfaz, pedagógico, contenido, jugabilidad, multimedia, 
+entretenimiento, usabilidad, mecánicas, personajes y movilidad. Asimismo, en cuanto a los 
+componentes claves de usabilidad en aplicaciones móviles se identificaron: usabilidad, interfaz 
+y control. Los componentes identificados por los autores permiten la definición de heurísticas, 
+pautas y directrices que pueden ser extrapoladas al contexto de los videojuegos educativos.
+En Maheu-Cadotte et al. (2020) los autores realizan un comparativo entre las 
+características de los simuladores virtuales y los videojuegos serios en el contexto de la salud. 
+A partir de la identificación y el estudio de los elementos diferenciadores en estos dos tipos 
+de aplicaciones, los autores definieron un conjunto de heurísticas para guiar el proceso de 
+diseño y construcción de simuladores virtuales y videojuegos serios en el contexto de la salud. 
+En cuanto a los juegos serios educativos aplicados al contexto de la salud, los autores 
+proponen las siguientes heurísticas: autenticidad, diversión, fantasía, retroalimentación, 
+estructura e inquietudes. Dentro de la categoría Diversión se destacan las subcategorías 
+Logros, Competencia, Control y Curiosidad. A modo de conclusión, los autores resaltan que 
+las categorías de Diversión y Fantasía están presentes en los videojuegos serios, mas no en 
+los simuladores virtuales. 
+A partir de los trabajos presentados en esta sección, se concluye que existen diferentes 
+propuestas de heurísticas y pautas para el diseño y la construcción de usabilidad, las cuales 
+tienen en cuenta aspectos como la usabilidad, la experiencia de uso y los elementos 
+pedagógicos y de aprendizaje. Estas heurísticas y pautas pueden ser clasificadas y agrupadas 
+en un conjunto de directrices puntuales organizadas por categorías que permitan apoyar el 
+proceso de desarrollo de videojuegos serios tipo edutainment. 
+El resto del artículo está organizado de la siguiente forma: la sección 2 presenta la 
+metodología considerada para el desarrollo del presente trabajo; en la sección 3 se muestran 
+los resultados del trabajo, específicamente las directrices adaptadas y clasificadas para el 
+diseño y la construcción de videojuegos serios de tipo educativo, así como un estudio de caso 
+en el cual se realiza una inspección sobre un videojuego serio tipo edutainment con el fin de 
+verificar el cumplimiento de las directrices propuestas en este; finalmente, la sección 4 
+presenta las conclusiones y los trabajos futuros derivados de esta investigación.
+Métodología
+En el desarrollo de la presente investigación, se definieron cuatro fases, a saber: F1) 
+conceptualización de los juegos serios en el contexto educativo, F2) exploración de heurísticas 
+para juegos serios, F3) adaptación y clasificación de las directrices para juegos serios en el 
+contexto educativo, y finalmente, F4) estudio de caso (véase la figura 1).
+Directrices para el diseño y la construcción de videojuegos serios educativos |
+Gabriel Elías Chanchí-Golondrino
+María Clara Gómez-Álvarez
+Luz Marina Sierra-Martínez
+Primer cuatrimestre de 2022 (enero-abril) || e-ISSN: 2323-0134 || 8
+Figura 1. Metodología considerada para el desarrollo del estudio. Esta metodología 
+permitió proponer directrices específicas para el diseño, la construcción y la evaluación de 
+videojuegos serios en contextos educativos
+Fuente: elaboración propia.
+En la fase F1 se realiza la conceptualización de los juegos serios aplicados al contexto 
+educativo, con el fin de identificar sus características principales. En la fase F2, se exploraron 
+a partir de la literatura diferentes directrices para el diseño de videojuegos y juegos serios, 
+las cuales fueron adaptadas y clasificadas para el contexto de los juegos serios en el ámbito 
+educativo en la fase F3. Finalmente, a partir de las directrices definidas, en la fase F4, se 
+condujo una inspección sobre un videojuego serio clasificado como de tipo educativo 
+(Lightbot). 
+Resultados
+En esta sección, se presenta un conjunto de directrices para el diseño y la construcción de 
+videojuegos serios para el contexto educativo, las cuales fueron obtenidas y adaptadas a partir 
+de los trabajos presentados en la revisión del estado del arte, que involucran pautas, 
+heurísticas, conceptos y cuestionarios de evaluación para videojuegos, juegos serios y 
+videojuegos en el contexto educativo. Las directrices presentadas abordan temáticas como la 
+usabilidad, el proceso de aprendizaje y los aspectos referentes al juego, por tanto fueron 
+agrupadas en estas tres categorías, de acuerdo con lo propuesto por Paliokas et al. (2011). 
+En cuanto a la usabilidad, se tuvieron en cuenta heurísticas relacionadas con la interacción en 
+el ámbito de los videojuegos, las cuales generalmente son adaptadas a partir de las heurísticas 
+propuestas por Nielsen. En lo referente a la categoría Aprendizaje, se tuvieron en cuenta 
+aspectos relacionados con la incorporación del aprendizaje dentro de los videojuegos. 
+Finalmente, en cuanto al aspecto del juego, se tomaron en consideración elementos como 
+inmersión, motivación, seguimiento al jugador, retroalimentación, retos, logros, puntaje, 
+retroalimentación, entre otros. Las directrices referentes a la usabilidad se identifican con el 
+prefijo DU, las directrices relacionadas con el aprendizaje tienen el prefijo DA, y las directrices 
+que comprenden los aspectos del juego tienen el prefijo DJ. En total se obtuvieron cincuenta 
+Directrices para el diseño y la construcción de videojuegos serios educativos |
+Gabriel Elías Chanchí-Golondrino
+María Clara Gómez-Álvarez
+Luz Marina Sierra-Martínez
+Primer cuatrimestre de 2022 (enero-abril) || e-ISSN: 2323-0134 || 9
+y una directrices, organizadas de la siguiente manera: 15 de usabilidad, 13 de aprendizaje y 
+23 de juego (tabla 1).
+Tabla 1. Directrices propuestas para videojuegos serios
+Categorías Directrices
+Usabilidad 
+DU1. La interfaz del videojuego serio es intuitiva y fácil de utilizar 
+para el jugador. Se ha hecho uso de metáforas visuales que 
+resultan familiares al jugador. 
+DU2. El videojuego serio debe incluir un diseño consistente en las 
+diferentes vistas en cuanto al uso de los colores, fuentes, 
+disposición de los elementos en pantalla, lo cual propicia la 
+inmersión del jugador en el juego.
+DU3. El videojuego serio incluye una navegación y operación 
+consistente, lógica y minimalista. 
+DU4. El videojuego serio incorpora en el escenario y las 
+representaciones visuales elementos que se corresponden con el 
+mundo real.
+DU5. En la medida de lo posible, el videojuego serio debe evitar 
+que el usuario memorice una gran cantidad de información 
+referente a la historia y al modo de usar el juego.
+DU6. El videojuego serio debe proveer información sobre el 
+estado del juego en sus diferentes vistas.
+DU7. Los diferentes elementos del videojuego serio, tales como 
+personajes, objetos y elementos del escenario, deben tener un 
+comportamiento predecible. 
+DU8. El videojuego serio debe usar comandos convencionales y 
+personalizables con un nivel de respuesta y sensibilidad 
+adecuado.
+Directrices para el diseño y la construcción de videojuegos serios educativos |
+Gabriel Elías Chanchí-Golondrino
+María Clara Gómez-Álvarez
+Luz Marina Sierra-Martínez
+Primer cuatrimestre de 2022 (enero-abril) || e-ISSN: 2323-0134 || 10
+Categorías Directrices
+DU9. El videojuego serio debe permitir al usuario tener control 
+sobre el funcionamiento del juego, así como deshacer acciones 
+indeseadas.
+DU10. El videojuego serio se adapta a diferentes estilos y permite 
+la personalización de las configuraciones de juego. 
+DU11. El videojuego serio debe posibilitar la configuración de 
+opciones de audio y video. 
+DU12. El videojuego serio debe prevenir los posibles errores que 
+un jugador puede cometer, y en caso de que el jugador cometa 
+un error emplear mensajes claros que permitan al usuario volver 
+a un estado estable. 
+DU14. El videojuego serio provee opciones de ayuda claras que 
+permiten guiar al usuario sobre los comandos, modos de juego 
+y posibles configuraciones. 
+DU15. El videojuego serio provee una ayuda contextual en los 
+diferentes retos planteados, la cual orienta al usuario sobre el 
+propósito de estos.
+Aprendizaje DA1. Para que un videojuego serio pueda resultar efectivo y con 
+una buena divulgación en el contexto educativo debe partir de 
+las competencias académicas formales de un curso determinado 
+o basarse en ellas. 
+DA2. Los retos y actividades del videojuego serio están bien 
+estructurados y organizados de acuerdo con las competencias 
+del curso en el cual se enmarca el juego.
+DA3. El escenario del videojuego serio es adecuado, consistente 
+y relevante para el desarrollo de las competencias abordadas por 
+los objetivos de aprendizaje. 
+DA4. El videojuego tiene definidos claramente para cada nivel 
+y/o reto un objetivo de aprendizaje y un objetivo de juego, los 
+cuales guardan consistencia entre sí.
+Directrices para el diseño y la construcción de videojuegos serios educativos |
+Gabriel Elías Chanchí-Golondrino
+María Clara Gómez-Álvarez
+Luz Marina Sierra-Martínez
+Primer cuatrimestre de 2022 (enero-abril) || e-ISSN: 2323-0134 || 11
+Categorías Directrices
+DA5. El videojuego serio debe propender por la apropiación de 
+las diferentes temáticas educativas a través del diseño de retos 
+y niveles que le resulten divertidos al jugador.
+DA6. El videojuego serio posibilita a través de sus retos el 
+aprendizaje implícito del jugador, de tal modo que este olvide 
+que está aprendiendo. 
+DA7. Los diferentes niveles y retos de los juegos serios permiten 
+abordar implícitamente los contenidos educativos del aula de 
+una forma simplificada y entretenida. 
+DA8. El videojuego serio está diseñado y estructurado para 
+promover el aprendizaje autónomo por parte de los jugadores. 
+Está diseñado bajo el enfoque de aprender haciendo. 
+DA9. El videojuego serio debe propiciar la sensación en el usuario 
+de que el cumplimiento de los retos contribuye a su proceso de 
+aprendizaje.
+DA10. Los diferentes niveles o retos del videojuego serio son 
+incrementales, de tal modo que las temáticas educativas 
+abordadas en cada nivel contribuyen al cumplimiento de retos y 
+niveles futuros.
+DA11. El videojuego serio permite la recopilación de los datos 
+referentes al desempeño del jugador en los diferentes retos 
+(puntajes obtenidos) y opcionalmente permite la obtención de 
+métricas útiles con las que el jugador pueda hacer un 
+seguimiento a la relación entre objetivos de aprendizaje y 
+objetivos del juego. 
+DA12. El videojuego serio permite el seguimiento del progreso 
+del jugador en los diferente retos y niveles, de tal forma que este 
+pueda visualizar y analizar su progreso en el cumplimiento de 
+los objetivos de aprendizaje.
+Directrices para el diseño y la construcción de videojuegos serios educativos |
+Gabriel Elías Chanchí-Golondrino
+María Clara Gómez-Álvarez
+Luz Marina Sierra-Martínez
+Primer cuatrimestre de 2022 (enero-abril) || e-ISSN: 2323-0134 || 12
+Categorías Directrices
+DA13. Dependiendo del campo de aplicación del videojuego serio, 
+el juego posibilita el trabajo colaborativo para la consecución de 
+objetivos de aprendizaje colectivos. 
+Juego DJ1. El videojuego propuesto permite la inmersión del jugador 
+en los diferentes retos y niveles de este, del tal modo que el 
+jugador tenga la sensación de perder la noción de tiempo y 
+lugar.
+DJ2. El videojuego serio mantiene la motivación del jugador 
+cuando existen dificultades para superar los retos propuestos. 
+De este modo, el videojuego busca reducir al máximo la 
+retroalimentación negativa. 
+DJ3. El videojuego serio debe propiciar el uso y la estimulación 
+de los diferentes sentidos a través de los contenidos multimedia 
+usados en los diferentes niveles y retos. 
+DJ4. La retroalimentación e inmersión provistas por el videojuego 
+serio en los diferentes niveles permiten crear en los jugadores la 
+sensación de querer cumplir cada reto.
+DJ5. El videojuego serio debe posibilitar que el jugador 
+incremente su motivación y autoestima con el cumplimiento de 
+los retos propuestos en los diferentes niveles.
+DJ6. Los retos y actividades del videojuego serio, en la medida 
+de lo posible, no deben ser repetitivos ni aburridos. 
+DJ7. El videojuego serio a partir de sus retos debe incluir 
+progresivamente elementos novedosos que promuevan la 
+curiosidad por seguir jugando. 
+DJ8. El videojuego debe posibilitar la visualización del progreso 
+de los diferentes jugadores con el fin de propiciar la motivación 
+del jugador.
+DJ9. El videojuego serio debe dar la posibilidad de superar los 
+retos de cada nivel con diferentes grados de cumplimiento o 
+Directrices para el diseño y la construcción de videojuegos serios educativos |
+Gabriel Elías Chanchí-Golondrino
+María Clara Gómez-Álvarez
+Luz Marina Sierra-Martínez
+Primer cuatrimestre de 2022 (enero-abril) || e-ISSN: 2323-0134 || 13
+Categorías Directrices
+niveles de puntaje con el fin de que el jugador tenga una mayor 
+motivación de superarse. 
+DJ10. Se sugiere el uso del tiempo como mecanismo para 
+propiciar la diversión en los diferentes retos del juego.
+DJ11. El videojuego serio debe proveer una introducción al juego 
+y a los diferentes retos, que permita informar al jugador sobre 
+los objetivos por cumplir.
+DJ12. La narrativa del videojuego serio debe permitir conectar 
+con los diferentes retos del juego. 
+DJ13. Se recomienda la incorporación de logros o recompensas 
+para los diferentes retos pertenecientes a los niveles del 
+videojuego serio.
+DJ14. El videojuego brinda la posibilidad de entrenar las 
+habilidades del jugador a través de un nivel de entrenamiento o 
+dando la posibilidad de volver a jugar los retos.
+DJ15. El videojuego posibilita la interacción con los objetos del 
+entorno virtual y con otros personajes, de tal modo que las 
+diferentes interacciones proporcionan como respuesta 
+información para que el usuario cumpla los objetivos del juego. 
+DJ16. Las diferentes acciones realizadas en el videojuego serio 
+tienen una retroalimentación, la cual está de acuerdo con las 
+narrativas del juego y ayudan a orientar al usuario en el 
+cumplimiento de los objetivos. 
+DJ17. El videojuego serio le permite al jugador escoger o 
+personalizar un avatar que lo represente a lo largo de los 
+diferentes retos y niveles. 
+DJ18. La historia del videojuego serio permite al usuario 
+conectarse con los retos y temáticas abordadas en el juego.
+Directrices para el diseño y la construcción de videojuegos serios educativos |
+Gabriel Elías Chanchí-Golondrino
+María Clara Gómez-Álvarez
+Luz Marina Sierra-Martínez
+Primer cuatrimestre de 2022 (enero-abril) || e-ISSN: 2323-0134 || 14
+Categorías Directrices
+DJ19. El videojuego debe hacer uso correcto del audio y la música 
+de fondo, de tal forma que propicien la motivación y 
+concentración del jugador en los diferentes niveles y retos. 
+DJ20. El videojuego serio debe ser flexible y permitir adaptarse 
+a diferentes estilos de juego y de jugador.
+DJ21. El videojuego serio promueve la competencia entre los 
+jugadores a través de la presentación de los resultados de 
+desempeño y el manejo de clasificaciones.
+DJ22. Los textos empleados en las instrucciones y en la
+retroalimentación del videojuego serio son claros y adecuados 
+para los usuarios objetivo del mismo. Además, estos textos 
+pueden ser complementados mediante audios diseñados de 
+manera pedagógica.
+DJ23. Los diferentes mensajes presentados en el juego deben 
+emplear un lenguaje claro y cercano al usuario.
+Total 51 Directrices (DU = 15, DA = 13, DJ = 23)
+Fuente: elaboración propia.
+Una vez se presentaron las cincuenta y una directrices para el diseño y la construcción de 
+videojuegos serios educativos (véase la tabla 1), se desarrolló un estudio de caso consistente 
+en una inspección cualitativa de usabilidad. Se trata de un método mediante el cual un 
+conjunto de evaluadores inspecciona y detecta los posibles problemas de diseño de un 
+software de acuerdo a un conjunto de heurísticas, pautas o directrices (Enriquez y Casas, 
+2013). Los resultados de la inspección permiten determinar aspectos del software que se 
+pueden mejorar con el fin de aumentar su calidad. 
+Como estudio de caso se realizó la inspección de usabilidad sobre el videojuego serio 
+educativo Ligthbot (https://lightbot.com/flash.html), que tiene como objetivo el desarrollo de 
+habilidades de lógica de programación (véase la figura 2). El videojuego cuenta con tres 
+niveles: basics, procedures y loops, cada uno de los cuales tiene asociado un conjunto de retos 
+propuestos, que involucran la creación de un algoritmo que permite programar los 
+movimientos del robot para llegar de un origen a un destino.
+Directrices para el diseño y la construcción de videojuegos serios educativos |
+Gabriel Elías Chanchí-Golondrino
+María Clara Gómez-Álvarez
+Luz Marina Sierra-Martínez
+Primer cuatrimestre de 2022 (enero-abril) || e-ISSN: 2323-0134 || 15
+Figura 2. Videojuego Lightbot.
+Fuente: tomado de https://lightbot.com/flash.html.
+A partir de la inspección realizada al videojuego serio Ligthbot, se obtuvieron las siguientes 
+recomendaciones para las tres categorías consideradas en las directrices propuestas: 
+usabilidad, aprendizaje y juego (véase la tabla 2). Estas recomendaciones buscan mejorar la 
+interacción, la jugabilidad y el refuerzo de aspectos de aprendizaje en el videojuego serio 
+evaluado.
+Tabla 2. Resultado de la prueba de inspección de usabilidad según las directrices propuestas
+Categorías Problemas
+Usabilidad 
+Con el fin de mejorar la consistencia en las diferentes vistas del 
+juego, se recomienda trabajar con una sola gama de colores, ya 
+que existen diferentes colores (gris, azul, verde) en los botones 
+del videojuego serio (DU2). 
+Aunque el videojuego serio permite personalizar diferentes 
+idiomas del juego, al escoger el idioma español no se mantiene 
+la consistencia en los diferentes textos, dado que algunos 
+permanecen en inglés (por ejemplo, Main). En este sentido, se 
+recomienda mantener la consistencia en los textos traducidos 
+(DU2). 
+La orientación de las flechas que permiten programar el 
+movimiento del robot no es la misma con respecto a la dirección 
+Directrices para el diseño y la construcción de videojuegos serios educativos |
+Gabriel Elías Chanchí-Golondrino
+María Clara Gómez-Álvarez
+Luz Marina Sierra-Martínez
+Primer cuatrimestre de 2022 (enero-abril) || e-ISSN: 2323-0134 || 16
+Categorías Problemas
+en la que este se mueve. Se recomienda seguir las convenciones 
+del mundo real (DU4). 
+Es conveniente emplear íconos más claros y que se 
+correspondan con las convenciones del mundo real para 
+programar los movimientos de giro a la derecha y a la izquierda 
+(DU4). 
+Se recomienda incluir en la barra de estado del juego aspectos 
+tales como: el número de intentos, el tiempo empleado en 
+cumplir cada reto y el identificador del reto en el que se 
+encuentra el usuario (DU6).
+Se recomienda la inclusión de comandos convencionales de 
+teclado para la programación de la ruta y el movimiento del 
+robot, dado que el juego solo puede operarse mediante el mouse
+(DU8). 
+Es aconsejable presentar la información de la ayuda en una 
+forma unificada, debido a que al presionar la opción respectiva 
+se muestran un conjunto de mensajes secuenciales, que no se 
+pueden evitar hasta que se visualicen por completo. Esto hace 
+que el jugador pierda el control sobre la interfaz del juego (DU9). 
+Se sugiere incluir un mensaje informativo cuando el jugador falle 
+en la programación del camino del robot, de tal modo que exista 
+una retroalimentación clara en la interacción entre el jugador y 
+el juego (DU12).
+Aunque el videojuego serio cuenta con ayuda al inicio de cada 
+uno de los retos, en los cuales los mensajes de ayuda son 
+presentados en ráfaga, se sugiere incluir una ayuda contextual 
+para retos en los que el jugador se pueda estancar (DU15). 
+Aprendizaje Dado que el videojuego serio incluye tres temáticas: básico, 
+ciclos y procedimientos, se recomienda incorporar en los niveles 
+del juego temáticas intermedias que corresponden con el 
+Directrices para el diseño y la construcción de videojuegos serios educativos |
+Gabriel Elías Chanchí-Golondrino
+María Clara Gómez-Álvarez
+Luz Marina Sierra-Martínez
+Primer cuatrimestre de 2022 (enero-abril) || e-ISSN: 2323-0134 || 17
+Categorías Problemas
+contenido programático de los cursos de lógica de programación, 
+como son instrucciones de decisión (DA1 y DA2). 
+Se sugiere incluir en el videojuego serio mensajes de 
+retroalimentación ante aciertos o fallas en la programación de la 
+ruta del robot, los cuales permitan al usuario percibir que el 
+cumplimiento de los retos contribuye al proceso de aprendizaje 
+(DA9). 
+Dado que el videojuego serio solo permite mostrar al jugador los 
+niveles que este ha superado, pero no maneja puntajes o 
+recompensas, se recomienda incluir puntajes, tiempos asociados 
+a cada reto y niveles de cumplimiento de los retos, con el fin de 
+poder realizar un seguimiento más adecuado del cumplimiento 
+de los objetivos de aprendizaje (DA11 y DA12). 
+Se sugiere que el videojuego serio permita visualizar al jugador 
+el nivel de cumplimiento de cada uno de los retos, con el fin de 
+que pueda mejorar el desempeño en cada uno de estos (DA12). 
+El juego solo muestra si se ha superado o no el reto.
+Juego Para mantener la motivación del jugador a la hora de superar un 
+reto, se recomienda la inclusión de mensajes que lo motiven y 
+lo retroalimenten mediante indicaciones sobre las posibles 
+causas de que no haya cumplido el objetivo de cada reto (DJ2, 
+DJ4 y DJ16). 
+Es necesario incluir mensajes cuando el jugador no cumpla un 
+reto, al igual que otros que propicien la motivación y autoestima 
+cuando haya superado un reto (DJ5, DJ16). 
+Se recomienda mejorar la presentación de estadísticas con 
+respecto al grado de cumplimiento de cada uno de los retos del 
+juego, dado que hasta el momento solo se muestra si el reto fue 
+o no aprobado. Lo anterior implica la inclusión de puntajes, 
+tiempos y métricas asociadas a estas variables (DJ8 y DJ9). 
+Directrices para el diseño y la construcción de videojuegos serios educativos |
+Gabriel Elías Chanchí-Golondrino
+María Clara Gómez-Álvarez
+Luz Marina Sierra-Martínez
+Primer cuatrimestre de 2022 (enero-abril) || e-ISSN: 2323-0134 || 18
+Categorías Problemas
+Se sugiere incluir el tiempo como mecanismo para evaluar el
+progreso y promover la diversión en cada reto del juego, dado 
+que hasta el momento los retos son independientes del tiempo 
+(DJ10). 
+Es aconsejable incluir en cada nivel, u opcionalmente en cada 
+reto, una introducción que describa de manera clara el objetivo 
+de aprendizaje o de juego que debe cumplir cada jugador (DJ11). 
+Se recomienda la incorporación de logros o recompensas para 
+los diferentes retos aprobados por el jugador en cada uno de los 
+niveles del juego (DJ13). 
+Se sugiere la inclusión de un nivel de entrenamiento, en el cual 
+se describan aspectos como los íconos comunes con los que el 
+jugador interactuará para que comprenda las mecánicas del 
+juego (DJ14). 
+Aunque la narrativa del juego no está explícita, puede intuirse 
+una vez se van superando los retos del juego. Sin embargo, con 
+el fin de contextualizar y promover la inmersión del jugador, se 
+sugiere la inclusión de la historia del juego (DJ18). 
+Para promover la competencia entre diferentes jugadores en el 
+aula de clase, se recomienda la inclusión de los resultados y 
+clasificaciones de desempeño. Como se mencionó, es necesario 
+que el juego incluya los niveles de cumplimiento de cada reto, a 
+partir de métricas como el tiempo, número de fallas, etc. (DJ21). 
+Se recomienda complementar los mensajes de ayuda y 
+retroalimentación con audios diseñados de manera pedagógica 
+(DJ22).
+Fuente: elaboración propia.
+Directrices para el diseño y la construcción de videojuegos serios educativos |
+Gabriel Elías Chanchí-Golondrino
+María Clara Gómez-Álvarez
+Luz Marina Sierra-Martínez
+Primer cuatrimestre de 2022 (enero-abril) || e-ISSN: 2323-0134 || 19
+Conclusiones
+En este artículo se propuso como aporte un conjunto de directrices para el diseño, la 
+construcción y la evaluación de juegos serios educativos, que se pretende sean incorporadas 
+en el proceso de desarrollo de software y articuladas en las metodologías para la construcción 
+de videojuegos, de tal modo que se propicie el desarrollo de videojuegos cada vez más 
+pertinentes al contexto educativo deseado. Las directrices propuestas apoyan la incorporación 
+de aspectos referentes a la usabilidad, el aprendizaje y la jugabilidad de los videojuegos serios 
+en el contexto educativo. 
+En total se obtuvieron 51 directrices, organizadas de la siguiente manera: 15 de usabilidad, 
+13 de aprendizaje y 23 de juego; propuestas a partir de la exploración y adaptación de 
+diferentes trabajos del estado del arte, que abordan los aspectos relacionados con la usabilidad 
+de los videojuegos, los elementos pedagógicos presentes en los videojuegos educativos y los 
+elementos relacionados con el juego (interactividad, motivación, logros, seguimiento, etc.). 
+La inspección desarrollada en el presente artículo en términos de estudio de caso permitió 
+concluir que el videojuego serio Lighbot tiene problemas en los tres aspectos considerados en 
+las directrices: usabilidad, aprendizaje y juego. Presenta menor número de fallas en cuanto a 
+las directrices de aprendizaje, y un mayor número de problemas en las directrices de juego. 
+En este último aspecto, se recomendó mejorar la retroalimentación en las acciones del 
+jugador, la incorporación de puntajes, la inclusión de métricas como el tiempo y el nivel de 
+cumplimiento, así como la visualización del nivel de progreso de los diferentes jugadores y la 
+vinculación de una historia a la narrativa del juego. Como aspectos a resaltar del videojuego, 
+se encuentran la inmersión, la secuencialidad de los retos y la promoción del aprendizaje 
+autónomo. 
+Como trabajo futuro derivado de la presente investigación, se desea especificar un conjunto 
+de directrices asociadas a la temática de accesibilidad para videojuegos serios educativos, con 
+el fin de ampliar el número de potenciales usuarios de dichas aplicaciones. Además, se 
+considera necesario trabajar en la generación de un conjunto de criterios de evaluación 
+consolidados en una rúbrica que permita la conducción de evaluaciones de manera más 
+sencilla en videojuegos serios del contexto educativo. Asimismo, se pretende extrapolar las 
+directrices propuestas a otro tipo de categoría de juegos serios, teniendo en cuenta las 
+generalidades y particularidades de cada contexto de aplicación.

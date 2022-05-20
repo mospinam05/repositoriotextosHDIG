@@ -1,0 +1,984 @@
+RMIE, 2015 VOL. 20 NÚM. 64, PP. 219-240 (ISSN: 14056666)
+
+
+Investigación
+
+
+
+
+LA INVESTIGACIÓN BASADA EN LA PRÁCTICA
+DE LAS ARTES Y LOS MEDIOS AUDIOVISUALES
+PERLA CARRILLO QUIROGA
+
+
+
+
+         Resumen:
+         La investigación basada en la práctica de las artes y los medios audiovisuales es un
+         género metodológico que se utiliza principalmente en Europa y Estados Unidos en
+         disciplinas que cuentan con un componente práctico o de producción, como las
+         artes visuales, los medios de comunicación, el diseño, la arquitectura y los estudios
+         cinematográficos. Este artículo analiza esa vía de investigación y sus metodologías,
+         explorando su validación e implementación en un contexto latinoamericano. La
+         discusión aborda algunos de los retos a los que dicha vía se enfrenta en relación
+         con los métodos dominantes de la investigación científica, el discurso positivista
+         y el lugar de la subjetividad y la autobiografía como nociones fundamentales en la
+         investigación basada en la práctica de las artes y los medios audiovisuales. Asimismo,
+         el trabajo discute algunas de las direcciones epistemológicas que surgen de esta vía
+         de investigación en un marco contemporáneo.
+
+         Abstract:
+         Research based on participation in art and audiovisual media is a methodological
+         genre used primarily in Europe and the United States in disciplines that have a
+         practical or productive component, such as the visual arts, communication me-
+         dia, design, architecture, and cinema. This article analyzes such research and its
+         methodologies, exploring its validation and implementation in a Latin American
+         context. The discussion addresses some of the challenges that such research faces in
+         relation to the dominant methods of scientific research, positivist discourse, and the
+         place of subjectivity and autobiography as fundamental notions in research based
+         on participation in art and audiovisual media. The paper also discusses some of the
+         epistemological directions that arise from this sort of research in a contemporary
+         framework.
+
+         Palabras clave: investigación, medios audiovisuales, artes visuales, comunicación,
+         metodologías.
+         Keywords: research, audiovisual media, visual art, communication, methodologies,
+         Mexico.
+
+
+Perla Carrillo Quiroga es profesora en la Unidad Académica de Derecho y Ciencias Sociales de la Universidad Autó-
+noma de Tamaulipas. Edificio CAUCE, 2o piso, Centro Universitario Victoria, Ciudad Victoria, 87149, Tamaulipas,
+México. CE: perlacquiroga@hotmail.com
+
+
+Revista Mexicana de Investigación Educativa                                                                 219
+                                                                          Carrillo Quiroga
+
+
+
+
+Introducción
+
+E   n mi experiencia como docente y directora de tesis de maestría en Co-
+    municación de la Universidad Autónoma de Tamaulipas, he encontrado
+que existe una necesidad de proveer a los alumnos interesados en la inves-
+tigación sobre la producción de medios audiovisuales, con herramientas
+metodológicas diseñadas específicamente para la investigación basada en
+la práctica de los medios de comunicación, una disciplina que converge
+con las artes visuales y la tecnología. Esta necesidad es prevalente en las
+universidades mexicanas que ofrecen posgrados en comunicación y me-
+dios, aunque también se presenta en programas dedicados al diseño, la
+arquitectura, las artes, así como a las industrias creativas y culturales. La
+necesidad de ofrecer a los estudiantes lineamientos claros en términos de
+metodologías de investigación basadas en la práctica de las artes y los me-
+dios audiovisuales es aún más significativa en la vía de titulación conocida
+como proyecto terminal de práctica profesional. Asimismo, es imperativo
+que este género metodológico se incluya en programas doctorales dedicados
+a la investigación referente a las industrias creativas, culturales y medios
+de comunicación.
+   El creciente desarrollo de tecnologías digitales para la producción de
+medios y de las artes ha generado nuevas necesidades en su estudio y se
+enfrenta a problemáticas que surgen de la relación entre tecnología, arte
+y producción de medios. Este tipo de investigación representa un interés
+creciente en el panorama académico global y un reto para las universidades
+mexicanas que imparten estos programas académicos. Si bien parece que
+cuando hablamos de comunicación y arte nos referimos a campos discipli-
+nares separados e independientes, en la práctica se mezclan creando lazos
+interdisciplinares, sobre todo en relación con los procesos de producción
+de las industrias culturales.
+   Por un lado, el estudio del arte así como su investigación analiza la
+producción artística dentro de contextos históricos y corrientes de pensa-
+miento. Por otro lado, cuando hablamos del estudio de la comunicación,
+nos referimos a un vasto engranaje de teorías y prácticas relevantes a la
+facultad humana comunicativa. El lado práctico de la comunicación, se
+refiere a los medios, a las industrias culturales y a los procesos de produc-
+ción de dichos medios. En México, como en muchos otros países, los estudios
+de comunicación se componen tanto de partes teóricas como prácticas. Es
+decir, las universidades que imparten programas académicos dedicados a
+
+220                                            Consejo Mexicano de Investigación Educativa
+La investigación basada en la práctica de las artes y los medios audiovisuales
+
+
+
+
+la temática, generalmente ofrecen materias de teoría de la comunicación
+así como otras prácticas en donde se desarrollan habilidades técnicas y
+tecnológicas. Sin embargo, la investigación de los medios de comunicación
+en México tiende a los aspectos teóricos, interpretativos, de carácter social
+y cuantitativo de la comunicación y sus medios, sin duda imprescindible
+pero que deja fuera un vasto campo de conocimiento: la práctica misma
+de los medios de comunicación como procesos de producción y reflexión
+artística.
+    Históricamente, el arte y la investigación científica han sido consideradas
+como categorías separadas aunque actualmente esta división se encuentra
+bajo una revisión. Durante las últimas décadas ha surgido un nuevo género
+metodológico que une la investigación social con las artes creativas, se le
+conoce como investigación basada en las artes, en inglés arts-based research
+(Leavy, 2009), también practice-based research o practice-led research. Este
+género metodológico se introduce en la producción de medios digitales,
+artes electrónicas, video y cine por lo que en este artículo utilizo las siglas
+ibapama para referirme a la investigación basada en la práctica de las artes
+y los medios audiovisuales. La práctica de las industrias culturales integra
+las disciplinas de la comunicación y las artes; por ejemplo, la investigación
+en el campo de los estudios cinematográficos se nutre de la intersección
+entre la tradición de las artes visuales y las comunicaciones. Los estudios
+de cine surgieron a mitad del siglo pasado como resultado del interés de
+los críticos de la revista francesa Cahiers Du Cinema. Si bien es cierto que,
+al principio, los estudios de cine tuvieron que tomar prestado conceptos
+de otras disciplinas como las artes visuales y la pintura, con el tiempo
+fueron evolucionando a través de la apropiación de conceptos tomados
+del psicoanálisis, la semiótica, el estructuralismo y post-estructuralismo,
+la fenomenología, la antropología y la etnografía, entre otras disciplinas
+y corrientes de pensamiento.
+    Desde la década de los noventa, la investigación en los estudios de cine
+también abarcó los procesos de producción desde una perspectiva prác-
+tica. Algo similar sucede con los medios digitales, en donde han surgido
+nuevas categorías para explorar la naturaleza interdisciplinaria. En las
+últimas décadas se han producido categorías teóricas interdisciplinares
+que exploran la emergencia de tecnologías digitales en los medios audio-
+visuales tales como: la imagen en movimiento, la cultura de la imagen, la
+estética digital, las industrias culturales y la producción de medios como
+
+Revista Mexicana de Investigación Educativa                                      221
+                                                                          Carrillo Quiroga
+
+
+
+
+base de la investigación. Es indudable que la producción de medios digi-
+tales ha creado nuevas relaciones entre la tecnología, la comunicación y
+el arte. La práctica de medios como la creación de espacios multimedia,
+la producción sonora, el videoarte, el cine experimental, la instalación, la
+producción de ambientes virtuales e inmersivos, son algunos ejemplos
+de formas de producción interdisciplinarias. Su investigación requiere
+no solo comprometerse con el análisis teórico de varias disciplinas sino
+que trata directamente con la experimentación mediante sus procesos
+de producción. De este modo, la investigación basada en la práctica de
+las artes y los medios audiovisuales surge de la necesidad de estudiar por
+medio de la práctica misma, artefactos que son contextualizados dentro
+de múltiples disciplinas.
+
+Inicios de la investigación basada en la práctica
+de las artes y los medios audiovisuales (IBPAMA)
+Primero debemos preguntarnos: ¿qué es la investigación basada en la
+práctica de las artes y los medios audiovisuales? ¿Quién la realiza y cómo
+se lleva a cabo? La investigación basada en la práctica existe como género
+metodológico desde los inicios de la década de los noventa y ha sido un
+fenómeno creciente desde entonces, siendo cada vez más común en las
+instituciones de enseñanza superior; este modelo ha crecido principalmente
+en las artes y las humanidades (Lebow, 2008), además, se ha nutrido de
+la intersección entre la producción de medios digitales y las artes, dentro
+del marco del arte contemporáneo pero también dentro de un contexto
+de experimentación con nuevas tecnologías de comunicación.
+    Uno de los métodos más importantes dentro de este tipo de investi-
+gación es la contextualización del tema de estudio desde la perspectiva
+del sujeto. Es decir, se analiza el proceso de producción de un artefacto
+mediático (cine, video, fotografía, multimedia, música, teatro, escultura o
+instalación) desde una postura subjetiva. Podemos definir la investigación
+basada en la práctica como cualitativa y de carácter interdisciplinario, que
+utiliza procesos de producción (audiovisuales, artísticos, literarios, perfor-
+mativos, mediáticos) para indagar a través de la práctica y la experiencia
+humana, problemas que no son revelados a través de otras metodologías
+(Hernández, 2008:92-93). El objetivo final de una investigación basada
+en la práctica es producir un artefacto mediático de carácter audiovisual
+
+
+
+222                                            Consejo Mexicano de Investigación Educativa
+La investigación basada en la práctica de las artes y los medios audiovisuales
+
+
+
+
+en conjunto con una tesis escrita que –además de contextualizar la pro-
+ducción del artefacto dentro de un marco teórico– tenga como objetivo
+la creación de nuevos conocimientos en el tema, exponiendo una relación
+simbiótica entre la práctica y la teoría. Un punto importante en el pro-
+ceso de investigación basada en la práctica es la producción simultánea
+de conocimiento a través del artefacto; este modelo es especialmente apto
+para artistas visuales que llevan a cabo una indagación teórica sobre sus
+propios procesos creativos y de producción, así como para investigadores
+con experiencia en la producción de medios audiovisuales.
+    Desde sus inicios, la ibapama se ha enfrentado a un proceso de valida-
+ción por parte de las instituciones académicas en donde se realiza; una de
+las condiciones que validan su calidad es que la tesis escrita no sea solo un
+prefacio a la producción audiovisual y que, al mismo tiempo, el artefacto
+no tenga un carácter meramente ilustrativo. Es importante mencionar
+que el proceso de la ibapama no tiene como objetivo ilustrar la teoría
+relevante al tema de estudio, sino que debe crear a través de la práctica
+nuevos paradigmas, en un proceso conjunto de producción escrita y de
+producción audiovisual. Un requisito en aras del rigor en este modelo de
+investigación es que ambas partes (la teórica y la práctica) se complementen
+y se informen la una a la otra, y que el proceso de producción sea auto-
+reflexivo, es decir, que se cuestione a sí mismo. Debemos hacer hincapié
+en el aspecto de producción artística y mediática, el cual constituye la
+práctica misma del investigador, un ejemplo del criterio que se utiliza
+en este tipo de investigación es el caso del Consejo de investigación en
+las artes y humanidades de Reino Unido (Arts and Humanities Research
+Council in the UK), el cual otorga apoyos para la investigación basada en
+la práctica con la condición de que los métodos se enfoquen en la práctica
+del investigador y no únicamente en la historia o la teoría del tema. Este
+tipo de trabajos debe ser ubicado dentro de un contexto de producción
+apropiado, además de tener un enfoque claro que lo distinga de la obra de
+un practicante profesional y debe iluminar o brindar nuevo conocimiento
+a la disciplina (Kälvemark, 2011:16).
+    Un aspecto primordial de la investigación basada en la práctica es su
+auto-reflexividad, es decir, su capacidad para reflexionar sobre sí misma. Este
+aspecto reconfigura la relación tradicional entre el sujeto investigador y el
+objeto de estudio porque significa que los primeros requieren involucrarse
+
+
+
+Revista Mexicana de Investigación Educativa                                      223
+                                                                          Carrillo Quiroga
+
+
+
+
+a sí mismos en el proceso, trabajando en proyectos que reflejan perspectivas
+tanto críticas como subjetivas (Leavy, 2009:19). Lo cual, como discutiré
+más adelante, no resta rigor a la calidad de los resultados de investigación
+sino que revela aspectos sociales y culturales que no podrían develarse de
+otra manera. La investigación basada en la práctica es también un grupo
+de herramientas metodológicas que atraviesan múltiples disciplinas y
+áreas de estudio y conllevan todas las fases de la investigación social, desde
+la recolección de datos, análisis, interpretación y representación. Estas he-
+rramientas se han adaptado a las artes creativas para responder a preguntas
+en donde la teoría y la práctica se entremezclan (Leavy, 2009:3-4).
+
+Los inicios de la   IBAPAMA
+La ibapama comenzó como parte de un giro en la investigación en ciencias
+sociales a principios de la década de 1980; como un proceso de exploración
+y validación institucional que daría como resultado la constitución de un
+nuevo género metodológico una década después (Hernández, 2008). Ofi-
+cialmente, fue en Reino Unido en donde por primera vez se reconocieron
+los resultados de la práctica como investigación en 1992, en el Research
+Assesment Exercise ( rae ), desde entonces el Consejo de Investigación de
+Artes y Humanidades ( ahrc, por sus siglas en inglés ) ha continuado su
+apoyo y reconocimiento de proyectos de investigación basados en la prác-
+tica. El primer investigador que completó su programa doctoral fue Joram
+ten Brink en 1999 en la Universidad de Westminster en Londres, su tesis
+tomó como tema el cine-ensayo, y como parte de la misma, produjo en
+1996, el filme The Man Who Couldn´t Feel and Other Tales. Actualmente
+es el director del Centre for Research and Education in Arts and Media
+( cream) que cuenta con un portafolio multidisciplinario en cerámica,
+artes visuales, fotografía, cine, medios experimentales, música y moda, y
+ha jugado un papel clave en el debate sobre la investigación basada en la
+práctica; además, este centro es miembro fundador de la iniciativa AVP h D
+(Audiovisual PhD) fundada en 2005, y patrocinada por ahrc , es una red
+de apoyo para todos aquellos que hacen, supervisan o examinan doctorados
+basados en práctica. A pesar de que en países como Suecia, España, Reino
+Unido e Irlanda, esta vía de investigación es un estándar para la titulación
+de doctorados en comunicación y artes visuales, en otros países aún existe
+un velo de misterio alrededor de estas metodologías.
+
+
+
+224                                            Consejo Mexicano de Investigación Educativa
+La investigación basada en la práctica de las artes y los medios audiovisuales
+
+
+
+
+La   IBAPAMA      en el contexto latinoamericano
+América Latina cuenta con una tradición consolidada desde la década de
+los noventa en cuanto a la producción artística de medios electrónicos,
+especialmente en México, Argentina, Colombia y Perú (Jasso, 2004). Sin
+embargo, a pesar de que estas prácticas existen desde hace varias décadas,
+la investigación sobre las mismas no ha avanzado de igual forma. En países
+como Brasil y Colombia, la ibapama existe principalmente en institu-
+ciones privadas con laboratorios propios, mientras tanto, en Argentina
+y México, no se destinan suficientes recursos a la investigación en las
+artes electrónicas, además de que no existe aún una cultura académica
+consolidada que apunte hacia estas vías. Una de las preocupaciones más
+importantes al respecto en Latinoamérica es el proceso de legitimación
+dentro de un marco académico por la cual atraviesan actualmente estas
+disciplinas. Arlindo Machado, teórico del videoarte brasileño y docente
+en el posgrado de Comunicación y Semiótica de la Pontificia Universidad
+Católica de San Pablo, declaró que un paso importante para la legitimación
+del sector arte y nuevas tecnologías en Brasil fue la creación del grupo de
+posgrado en la Universidad de Río (Jasso, 2004). Arlindo agregó que en
+Brasil existen grupos de investigación dedicados a este tema en las univer-
+sidades de Brasilia que cuenta con un laboratorio de investigación en arte
+y realidad virtual; la de Caxias do Sul que investiga en nuevas tecnologías
+en artes visuales y en la de Río, con el Centro de Investigación en Medios
+Digitales (Jasso, 2004:11).
+    Asimismo, México tiene una larga trayectoria en la producción audio-
+visual y de artes electrónicas sobre todo en videoarte, cine, documental y
+video, esto es significativo si la comparamos con la creación de multime-
+dia o de software. Sin embargo, hay poca producción teórica sobre estos
+procesos artísticos y tecnológicos. En una entrevista con Rodrigo Alonso,
+curador de arte y nuevos medios, declara que Latinoamérica es un ámbito
+con poca producción teórica de este tipo, en donde las universidades no
+están muy orientadas hacia estos temas. Karla Jasso (2004) argumenta
+que en México surge un fenómeno durante la década de 1990 en donde se
+empiezan a crear centros de producción de arte usando nuevas tecnologías.
+Así, surge el centro multimedia, creado en 1994, del Centro Nacional de
+las Artes, una de las principales iniciativas en México por promover esta
+vía de investigación, este centro depende del Consejo Nacional para la
+
+
+
+Revista Mexicana de Investigación Educativa                                      225
+                                                                         Carrillo Quiroga
+
+
+
+
+Cultura y las Artes (Conaculta) y está dedicado a fomentar la educación,
+la investigación y la producción de las artes electrónicas. Su oferta educa-
+tiva ofrece talleres sobre imágenes en movimiento, interfaces electrónicos
+y robóticas, realidad virtual, gráfica digital, sistemas interactivos y de
+investigación. Según la publicación conmemorativa del decimoquinto
+aniversario del centro multimedia, el taller de investigación “tiene como
+objetivo generar proyectos de reflexión, formación y divulgación desde
+un enfoque filosófico acerca de la relación arte-tecnología” (Conaculta,
+2009:7). Otro ejemplo es el Laboratorio de Arte Alameda, fundado en
+noviembre de 2000, también por Conaculta, con el objetivo de ofrecer un
+espacio de exhibición, documentación, producción e investigación sobre
+prácticas artísticas-tecnológicas. Cuenta con el centro de documentación
+Priamo Lozada, un acervo que incluye bibliografía especializada sobre
+artes electrónicas, investigaciones, un archivo de arte sonoro y un archivo
+audiovisual con una colección de cine experimental y video mexicano.
+    A pesar de estas iniciativas, en México son muy pocas las universidades
+que ofrecen programas doctorales dedicados a la investigación en artes
+visuales y digitales. Es evidente que la investigación y el debate teórico
+sobre los procesos de producción de medios y artes visuales no son tan
+extensos como la práctica misma. Esto se debe a dos factores: que las
+metodologías de la ibapama no han sido formalmente diseminadas en el
+ámbito académico mexicano; y que requiere un proceso de validación por
+parte de la misma comunidad académica. Sin embargo, es importante que
+la producción de medios audiovisuales –como el video y el cine así como
+de artes electrónicas como la multimedia, la instalación y la creación de
+software– sean sustentadas en términos de investigación, lo que otorga
+legitimación y validez a este campo de producción artística dentro de los
+debates académicos internacionales.
+    Una parte importante de este proceso de legitimación es la creación de
+espacios de exhibición y muestra, además de laboratorios de producción
+e investigación. Por ejemplo, existen diversas instituciones y organismos
+privados que promueven y dan exposición a la producción de arte y medios,
+como VideoBrasil, el primer festival de artes electrónicas en Latinoamérica,
+el Festival FILE (Electronic Language International Festival) en San Pablo;
+los premios Itaú Cultural de la fundación del mismo nombre de Argentina,
+Chile, Paraguay y Uruguay y el Sergio Motta de Arte y Tecnología, entre
+otros (Jasso, 2004).
+
+226                                           Consejo Mexicano de Investigación Educativa
+La investigación basada en la práctica de las artes y los medios audiovisuales
+
+
+
+
+    El Instituto Sergio Motta otorga un premio para estimular la producción
+artística que utiliza nuevas tecnologías. La premiación funciona también
+como un espacio de exposición y como una fuente de presupuesto para
+realizar proyectos de este tipo, además hay un foro de debate en donde se
+discuten temas relacionados. Cabe mencionar que en Brasil, los centros
+de investigación de artes electrónicas son, en su mayoría, privados, mien-
+tras que en México son principalmente de iniciativa gubernamental. El
+Centro Multimedia y el Festival Transitio_ mx, así como el Laboratorio de
+Arte Alameda, el Cyberlounge del Museo Rufino Tamayo, son parte de la
+iniciativa del Consejo Nacional para la Cultura y las Artes y del Instituto
+Nacional de Bellas Artes. Según Jasso (2004), en México existe cierto recelo
+en cuanto a la literatura sobre la relación arte y tecnología. En realidad,
+no solo en México sino en Latinoamérica, la proliferación de festivales de
+artes electrónicas no ha sido equivalente a una producción teórica sobre
+las mismas. Esto ha ido cambiando en la última década, por ejemplo, en
+Colombia se celebra anualmente el Festival Internacional de la Imagen
+que inicia en 1997 y es realizado por el Departamento de Diseño Visual
+de la Universidad de Caldas. Está dedicado al diseño interactivo, las artes
+mediáticas, la creación audiovisual, la producción sonora y, en general,
+a las nuevas relaciones entre arte, diseño, ciencia y tecnología. Durante
+este festival, se celebra el Foro Académico de Diseño, donde se realizan
+debates en mesas de trabajo dedicadas a temas como el diseño y desarro-
+llo de productos interactivos, la gestión y transmisión de conocimiento,
+la comunicación, memoria, patrimonio y sostenibilidad social y medio
+ambiental en las dinámicas urbanas actuales. La Universidad de Caldas
+ofrece también el programa doctoral Diseño y Creación, el cual tiene como
+objetivo el estudio de procesos interdisciplinarios entre el diseño, el arte,
+las ciencias y la tecnología.
+    En México existe sin duda una larga trayectoria por recorrer en términos
+de innovaciones metodológicas en la investigación de medios audiovisuales.
+Es importante que estos debates lleguen a los círculos académicos mexi-
+canos para que se abra paso no solo a proyectos aislados de investigación
+basada en la práctica, sino a inversiones a largo plazo para que, tanto las
+instituciones de arte como los programas académicos de producción de
+medios, puedan ser transformados de una “cultura de taller” a futuros
+laboratorios de investigación en las artes (Kälvemark, 2011:22). En di-
+chos laboratorios no solo se producen artes visuales y mediáticas sino que
+
+Revista Mexicana de Investigación Educativa                                      227
+                                                                          Carrillo Quiroga
+
+
+
+
+también se analiza y se transforman las realidades sociales por medio de
+la producción audiovisual.
+   Según Lizzaralde Gómez (2014), en Colombia, la creación de Media-
+Labs o “laboratorios de medios” genera prácticas artísticas que resultan
+transformadoras a nivel social, los MediaLabs son “interfaces sociales de
+resistencia” en donde por medio de la apropiación crítica de los medios
+y las tecnologías, se logra un cambio en el tejido social al crear espacios
+abiertos de participación para los ciudadanos. Un punto clave en la imple-
+mentación de laboratorios de medios es la investigación interdisciplinaria,
+que ha sido uno de los objetivos del MediaLab del Centro Multimedia, en
+donde la investigación y la experimentación buscan fortalecer las líneas del
+mismo centro y “generar nuevos campos de conocimiento a partir de cruces
+disciplinarios” (Jasso, 2004:9). Este cruce interdisciplinario es un campo
+fértil para la reflexión y exploración de problemáticas sociales específicas
+a nuestro propio entorno, las que pueden ser expresadas por la producción
+audiovisual y teorizadas por medio de la investigación.
+
+Los retos de la   IBAPAMA
+Torsten Kälvemark (2011:22) escribe que en algunos países la investiga-
+ción basada en la práctica no es una prioridad debido a que aún existe la
+idea de que el arte está separado del discurso científico y afirma que en
+estos países hay una reflexión intelectual sobre el arte y la práctica pero
+ciertamente no son muy visibles en términos de investigación; en muchos
+aún existe el prejuicio que separa la investigación científica de la práctica
+tanto artística como de producción mediática y audiovisual; en el ám-
+bito académico la hegemonía del discurso moderno privilegia modos de
+pensamiento objetivos y abstractos sobre la subjetividad de la experiencia
+humana. Según John Hartley (2009:140), este discurso tiene su base en
+la Revolución Industrial en donde se inicia una clara diferenciación entre
+el trabajo manual y el del pensamiento. 1 Aunque desde la Edad Media,
+las artes se dividieron entre “liberales” y “mecánicas”, las primeras eran
+disciplinas intelectuales que se enseñaban en universidades mientras que
+las segundas eran habilidades manuales aprendidas en talleres artesanales
+(Burgin, 2006:102). Si revisamos los antecedentes históricos y discursivos
+que han validado la generación del conocimiento como un proceso textual
+y escrito, nos encontramos con el modelo positivista que es base de la
+investigación científica.
+
+228                                            Consejo Mexicano de Investigación Educativa
+La investigación basada en la práctica de las artes y los medios audiovisuales
+
+
+
+
+    La ciencia positivista, también conocida como empirismo, surge en
+las últimas décadas de 1800. Este modelo primero se estableció en las
+Ciencias Naturales y fue basado en el “método científico”, el cual sirvió
+como base para la perspectiva de las Ciencias Sociales en la producción del
+conocimiento (Leavy, 2009:5). Según Patricia Leavy esto se debe en gran
+parte a la pionera en sociología clásica Emile Durkheim, quien se esforzó
+por legitimar la sociología como un método modelado a partir de la dis-
+ciplina de la física, para Durkeheim, el mundo social consistía en hechos
+factuales que se podían estudiar mediante formas objetivas y empíricas.
+La ciencia positivista atravesó disciplinas y se convirtió en el modelo de
+toda la investigación científica (Leavy, 2009:5), fue así como se desarrolla
+la ontología positivista y el enfoque epistemológico. La epistemología
+positivista se convirtió en la clave del paradigma cuantitativo.
+    Por su parte, el positivismo sostiene que una realidad conocible existe
+independientemente del proceso de investigación y que esta realidad con-
+siste en una verdad que puede ser descubierta, medida y controlada por
+medio de métodos objetivos empleados por investigadores “neutrales”.
+Se basa en la premisa de que tanto el investigador como la metodología
+son, o deberían ser, siempre objetivos. Según Leavy, la realidad social es
+predecible y controlable en la visión positivista (la pregunta ontológica)
+y el estudio del investigador adquiere un carácter objetivo y autoritario
+en la producción de conocimiento (la pregunta epistemológica). De este
+modo, las herramientas diseñadas para medir cuantitativamente el mundo
+social forman el paradigma cuantitativo (Leavy, 2009).
+    No solo el pensamiento positivista y científico ha exigido procesos y
+metodologías observables, medibles y repetibles, sino que además, los
+estudios en cultura visual, guiados por los intereses de los estudios cultu-
+rales, han enfatizado la producción social y recepción del arte por encima
+de la producción material (Bolt, 2009:34). Por otro lado, existen artistas/
+investigadores que utilizan los estudios culturales como marco teórico en
+su práctica audiovisual como Fusco, Gómez-Peña, Minh-ha y Kempadoo
+entre otros. Además, los estudios culturales han servido como plataforma
+para dar voz a subjetividades que, de otro modo, permanecerían sin ser
+representadas. Así, artistas que se identifican con grupos e identidades
+culturales marginadas han abierto paso tanto en la escena del arte como
+en la teoría a grupos y culturas minoritarias. Teorías con enfoques críticos
+como los estudios poscoloniales y los de género han funcionado como
+
+Revista Mexicana de Investigación Educativa                                      229
+                                                                          Carrillo Quiroga
+
+
+
+
+metodologías para expresar formas subjetivas de experiencia humana que,
+de otro modo, serían ocluidas dentro de los cánones de las humanidades
+y las ciencias sociales.
+    El asunto no es el marco teórico utilizado en relación con la práctica
+sino que el propio conocimiento creativo –generado a través de la prác-
+tica– resulta problemático para el discurso positivista y, por lo tanto,
+para el método científico. Una razón es que el conocimiento creativo se
+basa en un saber derivado de la experiencia humana, y puede verse como
+una restauración de lo que tanto tardó en erradicarse en el dominio del
+conocimiento, es decir, la subjetividad (Hartley, 2009:141). El concepto
+de la experiencia humana es considerado como un término demasiado
+suave, y difícil de definir dentro de la investigación académica (Sobchack,
+2004: xiv ). La experiencia parece referirse a un momento pre-conceptual,
+pre-lingüístico, pre-epistemológico en donde un sujeto o individuo en-
+tra en contacto con el mundo; y su estudio desde la percepción hasta la
+constitución del sujeto y la conciencia son temas clave en la filosofía sobre
+todo en la corriente fenomenológica.
+    La fenomenología es un movimiento que inicia durante la década de
+1920 y ha legado su actitud protectora hacia el punto de vista subjetivo
+de la experiencia humana, está concebido como una pieza clave en el
+entendimiento de la naturaleza del conocimiento (Moran, 2000:21). Su
+aplicación al estudio de las artes visuales enfrentó una crítica severa des-
+pués de 1968, cuando la diseminación del proyecto estructuralista cobra
+una relevancia importante en las ciencias sociales y las humanidades. En
+parte, debido al clima político a nivel internacional; era un momento de
+grandes cambios en donde fue necesario contextualizar el análisis de las
+artes y las humanidades dentro de un marco político y social, dejando a un
+lado el análisis estético. Por su parte, la fenomenología fue criticada por
+cargar con los enfoques esencialistas e idealistas del humanismo liberal.
+La idea fenomenológica de que la realidad era percibida directamente en
+la experiencia humana resultó problemática para el enfoque estructuralis-
+ta. El concepto de la “experiencia humana” confronta el análisis externo
+porque sugiere un mundo interior que no puede ser conocido fuera del
+marco perceptual del sujeto mismo.
+    De cualquier modo en las últimas décadas, se ha presentado un retorno
+a la estética, a la ontología y, asimismo, a la fenomenología como marcos
+
+
+
+230                                            Consejo Mexicano de Investigación Educativa
+La investigación basada en la práctica de las artes y los medios audiovisuales
+
+
+
+
+relevantes en el análisis de la experiencia humana (Rutherford, 1998). Estos
+enfoques dan prioridad no solo al sujeto, sino al cuerpo mismo como sitio
+de percepción y significado. En la investigación basada en la práctica de
+las artes y los medios audiovisuales, la intervención del sujeto y su cuerpo
+como elementos clave en la producción de conocimiento ha resultado en
+una metodología productiva que logra contextualizar la práctica creativa
+dentro de un marco teórico y filosófico.
+    Existe una tendencia dominante a considerar la investigación cuanti-
+tativa y el enfoque positivista en la evaluación como el máximo estándar
+de investigación. Sin embargo la investigación cualitativa, que abarca la
+basada en la práctica, provee nuevos enfoques y respuestas a problemas de
+investigación social (Leavy, 2009:4). Abarca una amplia gama de métodos
+y metodologías prácticas informadas por diversas teorías y epistemologías.
+Por ejemplo, la imagen y su potencial como un medio epistémico es un
+tema central en la investigación de las artes visuales, la historia del arte
+y otras disciplinas dentro de las humanidades, pero también dentro de
+las ciencias naturales. Este campo se conoce como “epistemología visual”
+(Klinke, 2014); las imágenes epistémicas son las que contienen algo más
+allá de lo visible, es decir, un entendimiento más complejo del mundo.
+Se ha debatido por siglos el potencial de la imagen para comunicar ideas
+(Klinke, 2014:1). La tarea de la epistemología visual es determinar lo que
+es posible conocer a través de las imágenes y se ha convertido en un área
+de investigación multidisciplinaria, en donde se incluyen la percepción
+visual y los procesos de retroalimentación y los cognitivos, las imágenes
+mentales, la transformación de imágenes externas, el pensamiento visual,
+la lógica pictórica y el potencial epistémico de las imágenes. La filosofía,
+neurología, psicología, los estudios visuales así como la historia y la teo-
+ría del arte pueden contribuir ampliamente a esta área del conocimiento
+(Klinke, 2014:6).
+
+La subjetividad y la autobiografía
+La ibapama utiliza nociones como el ser, la subjetividad y la autobiografía
+como herramientas metodológicas. Éstas incluyen la práctica reflexiva, la
+auto-etnografía, los estudios de performance y la investigación documental,
+entre otros. Estos métodos pueden ubicarse dentro de diversos marcos
+teóricos, feministas, poscoloniales, queer, fenomenológicos, antirracistas,
+
+
+
+Revista Mexicana de Investigación Educativa                                      231
+                                                                         Carrillo Quiroga
+
+
+
+
+deconstructivos, experimentales, etc. Podemos afirmar que toma como
+recurso la narrativa propia del sujeto, es decir la autobiografía como una
+manera de explicar fenómenos sociales, artísticos y culturales más amplios.
+Además, la subjetividad de la experiencia humana ha resultado significa-
+tiva en metodologías como la etnográfica, biográfica, histórica, narrativa
+y performativa.
+   El pensamiento occidental de los últimos trecientos años ha sido mar-
+cado por la corriente dualista, que divide el sujeto que observa e investiga
+del objeto de investigación (Hernández, 2008:88). Esta premisa ha re-
+sultado en una preferencia por los resultados de investigación en formas
+matemáticas, traducibles a términos numéricos, lo cual le adscribe a la
+investigación una mayor confiabilidad y fiabilidad. En las humanidades,
+algunas disciplinas se identifican como ciencias: de la educación, de la
+comunicación o sociales, lo que establece un carácter de legitimación a
+sus respectivos campos disciplinares. Sin embargo, la adición del término
+“ciencia” a dichos campos no garantiza que sus modelos de investigación
+sean necesariamente de carácter científico.
+   El método científico que es resultado de la práctica de investigación en
+laboratorios y es difundido en las áreas médicas y biológicas, no siempre
+resulta adecuado o aplicable en la investigación de las humanidades, esto
+es aún más notable en las áreas que involucran el análisis y la producción
+de medios visuales; a pesar de involucrar métodos cualitativos en esta
+investigación la evidencia que puede resultar del proceso de producción
+no siempre es medible por metodologías convencionales. Existe, sin em-
+bargo, un balance entre el pragmatismo de la experiencia humana y su
+lógica, análisis y observación empírica. Para Fernando Hernández (2008),
+estas ideas impactan la investigación de modo que descubren áreas del
+conocimiento previamente ocluidas por un interés objetivista. Esto es de
+vital importancia en las humanidades, en donde se tratan temas relaciona-
+dos con el comportamiento, las relaciones sociales y las representaciones
+simbólicas.
+   La inserción del sujeto y la subjetividad en las metodologías basadas en
+la práctica también reflejan una tendencia global hacia los enfoques auto-
+biográficos. La proliferación de enfoques autobiográficos es una tendencia
+en la cultura audiovisual contemporánea. La expresión de la subjetividad,
+desde los blogs personales en internet, la reality-tv, la transmisión de vi-
+deos personales en youtube, son parte de esta misma tendencia (Rascaroli,
+
+232                                           Consejo Mexicano de Investigación Educativa
+La investigación basada en la práctica de las artes y los medios audiovisuales
+
+
+
+
+2009) y escribe que las formas autobiográficas como el diario son afines a
+la contingencia y se relacionan con el tiempo privado y personal de cada
+individuo, al tiempo de la experiencia humana. Por lo tanto, son formas
+mejor situadas para producir micro-historias (Rascaroli, 2009:120). Al
+mismo tiempo, son modos que expresan un contexto cultural y social, es
+decir, son plurales en primera persona. Sobre este punto, Fernando Her-
+nández (2008) argumenta que las aportaciones principales de la investiga-
+ción basada en las artes son su reflexividad y su forma de auto-expresión
+artística, el modo en que captura estéticas que dan sentido a la experiencia
+humana y la forma en que nos exige que involucremos nuestros sentidos,
+emociones e intelecto con el objeto de estudio. Es decir, este tipo de in-
+vestigación involucra respuestas corporeizadas, de este modo, convierte
+la experiencia personal en social y lo privado en público (Hernández,
+2008:107). Morwenna Griffiths (2010) agrega que cuando el investigador
+es parte del contexto o del enfoque de la investigación, como en el caso de
+la auto-etnografía, él o ella es la única con acceso al tipo de conocimiento
+que se requiere. Es evidente que el enfoque subjetivo así como la auto-
+biografía y la auto-reflexividad son métodos necesarios y productivos en
+la investigación basada en la práctica.
+    La crítica que recibe este tipo de métodos generalmente se basa en la
+idea de que la participación humana evita que seamos objetivos o impar-
+ciales. Este tipo de premisas cuestionan la participación del investigador
+y su efecto en los resultados de la investigación. Es decir, ponen en tela
+de juicio la fiabilidad de los resultados, así como su nivel de validez y
+confiabilidad. Sin embargo, este tipo de criterios de evaluación fueron
+diseñados desde la perspectiva de las ciencias positivistas. Patricia Leavy
+(2009) argumenta que la investigación cualitativa es erróneamente juzgada
+en términos cuantitativos y la legitimidad de las técnicas de evaluación
+sigue siendo criticada con mayor escrutinio que los métodos cuantita-
+tivos. Las razones de este escrutinio están ligadas a la producción del
+conocimiento científico y a los estándares del mismo carácter (Leavy,
+2009). El problema aquí, no es que las artes y las ciencias no puedan o
+deban ser medidas dentro de los mismos sistemas de evaluación. Si ha-
+blamos estrictamente de los resultados de investigación, debemos revisar
+cuidadosamente los métodos cualitativos empleados en la investigación
+basada en las artes, para demostrar que la misma no es sinónimo de un
+ocultismo metodológico.
+
+Revista Mexicana de Investigación Educativa                                      233
+                                                                          Carrillo Quiroga
+
+
+
+
+   Según Alisa Lebow (2008), la resistencia por parte de los investigadores
+basados en práctica a delinear un único camino en el proceso de investi-
+gación no es casualidad. La razón por la cual los criterios metodológicos
+varían de una institución a otra se deben más bien a una frágil, pero
+bastante válida flexibilidad, sobre la manera en que esta área de investi-
+gación académica se define y se lleva a cabo. Lebow (2008:202) afirma
+que en el Reino Unido, existe un temor justificable en el clima académico
+contemporáneo a una creciente burocratización y estandarización de la
+investigación basada en las artes. Sobre todo, que las regulaciones por me-
+dio de las cuales se evalúa este tipo de investigación terminen delimitando
+innecesariamente la práctica.
+   Según Griffiths (2011:180), la crítica dirigida hacia la subjetividad de
+los resultados de la investigación basada en la práctica generalmente asume
+que únicamente un observador ajeno al fenómeno de estudio puede ser
+parcial y neutral y que ambas características son en todo caso deseables
+en la investigación. Griffiths asegura que, en primer lugar, es imposible
+investigar cualquier fenómeno o contexto humano desinteresadamente. La
+participación del investigador como parte del sujeto de estudio presenta,
+evidentemente, un problema epistemológico. La pregunta no es si somos
+capaces de producir conocimiento verdadero partiendo de nuestra propia
+experiencia subjetiva. Es evidente que cualquier investigación que tome
+en cuenta aspectos humanos, sociales o culturales debe considerar la ex-
+periencia humana como un punto de partida importante. Esta forma de
+mezclar la dicotomía racional-emocional y sujeto-objeto es un reto para
+el positivismo, que enseña a los investigadores a descartar sus propios
+sentimientos. Pero, según Leavy (2009:19), las emociones juegan un papel
+importante en la expresión artística y también pueden servir como señales
+en la práctica de la investigación.
+
+La invención de metodologías para la     IBAPAMA:
+ direcciones y lineamientos
+Aparentemente, los criterios que definen el rigor y la calidad de la ibapa-
+ma dependen en gran medida de las instituciones educativas así como del
+contexto social y cultural del país en donde se lleva a cabo la investigación.
+Sin embargo, podemos observar que, en la última década, ha existido una
+serie de debates y simposios de carácter académico que han tenido como
+objetivo sentar las bases metodológicas de esta vía de investigación. Así, en
+
+234                                            Consejo Mexicano de Investigación Educativa
+La investigación basada en la práctica de las artes y los medios audiovisuales
+
+
+
+
+octubre de 2004 se celebró el simposio Supervising and Examining Practice-
+based PhDs in the Moving Image (Supervisando y examinando doctorados
+basados en la práctica de la imagen en movimiento) en la Universidad
+de Westminster, en Londres, según Thomas y Dowmunt (2005), en este
+simposio se mencionó que esta investigación genera formas de conoci-
+miento intuitivas y empíricas, las cuales deben ser integradas al campo de
+las humanidades. Además, se sugirieron algunas estrategias para lidiar con
+la bifurcación entre la práctica y la teoría. Primero, se recomienda una
+preparación epistemológica para clarificar el estatus de la investigación
+en una vía de práctica creativa. Segundo, se exhorta a los practicantes a
+crear alianzas con otras disciplinas basadas en la práctica, de modo que se
+logre una relación contextual. Tercero, se recomendó compartir la práctica
+y gestionar la creación de archivos para su futuro acceso. Y, por último,
+tratar de relacionar el trabajo doctoral a la investigación de los miembros
+de las facultades (Thomas y Dowmunt, 2005:125).
+    Un año después, en junio de 2005 se celebró el simposio Articulating
+Media Practice as Research (Articulando la práctica de los medios como
+investigación) en la Universidad London South Bank. Sobre éste, Mica
+Nava (2005:3) escribe que, en el futuro, la práctica será solo una forma
+más de acercarse al objeto de estudio y de hacer investigación, otras formas
+incluyen la historia, el análisis textual, la teoría y la investigación empírica.
+Ese mismo año, el gobierno sueco aprobó una ley que ampliaba el rango
+de investigación (Vetenskapsrådet) para incluir a las artes creativas y per-
+formativas. La legislación de 2005 Research for a Better Lif’ (investigación
+para una vida mejor) fue la respuesta de un periodo experimental de tres
+años de financiamiento en áreas de interés nacional. Un año después este
+periodo experimental fue sujeto de una evaluación de calidad que incluía
+asesores internacionales y profesores visitantes financiados por Vetenskaps-
+rådet (Biggs y Büchler, 2007:64). En marzo de 2007 se celebró el simposio
+Lens-Based Research Practice Training: New Directions (Entrenamiento para
+la investigación basada en la lente: nuevas direcciones) en Dublín, Irlan-
+da, donde se discutieron problemas teóricos, conceptuales e históricos en
+este tipo de investigación que se refiere a estudios de fotografía, cine y
+multimedia. Los temas principales fueron las políticas de representación
+y culturas materiales, la construcción y exploración de archivos y el reto
+epistemológico de representar conocimiento corporizado 2 (embodied), la
+memoria y los sentidos.
+
+Revista Mexicana de Investigación Educativa                                      235
+                                                                          Carrillo Quiroga
+
+
+
+
+    El Consortium on Creative and Critical Practice (Consorcio para la
+práctica creativa y crítica) une a las siguientes instituciones: Film and
+Imaging Studies de la Queen’s University, Huston Film and Digital Me-
+dia School, National University of Ireland; Media Research Institute de
+la University of Ulster y el Centre for Transcultural Research and Media
+Practice en el Dublin Institute of Technology. Todas estas instituciones
+ofrecen programas doctorales en cine y medios de comunicación basados
+en metodologías para la práctica. En general los estudiantes doctorales
+que optan por la ruta de la práctica creativa producen un cuerpo de tra-
+bajo visual, supervisado, diseñado para exhibición y acompañado de una
+disertación de 50 mil palabras en las cuales se contextualiza el trabajo de
+la práctica dentro de un marco más amplio en la cultura visual.
+    El rigor es uno de los puntos más importantes en la investigación
+académica de alta calidad. Por ejemplo, el UK Research Assessment Exer-
+cise 2008 ( rae ) describe el más alto nivel de investigación al que tenga
+“calidad líder a nivel mundial en términos de originalidad, significado y
+rigor” (Biggs y Büchler, 2007:62). Existen debates que tratan de deter-
+minar si la investigación basada en la práctica es diferente a la basada en
+otras disciplinas. Algunos de estos debates se originan en el Reino Unido
+como resultado de la fusión, en 1992, entre politécnicos y universidades,
+donde el criterio que establecía lo que constituye y define la investigación
+en cualquier área se convirtió en un tema de debate y discusión abierta.
+Debido a la autonomía intelectual de las universidades, comenzaron las
+divergencias (Biggs y Büchler, 2007:62). Según Mica Nava, en el mundo
+de la ibapama no existe un consenso general de lo que constituye una
+metodología válida. Porque, según esto, el arte no puede ser organizado
+por parámetros limitantes o exclusivos, aunque existan criterios dentro
+de la práctica del arte. Según Nava (2005), el arte crítico propone nuevos
+métodos pero no están ligados a una disciplina específica, por lo tanto el
+método es contingente porque no existen parámetros disciplinares. Muchos
+de los criterios invertidos en la investigación basada en las artes son perso-
+nales y contextualizados dentro de la práctica contemporánea en campos
+similares. Podemos decir que un estándar dentro de toda práctica artística,
+es la ruptura con las formas tradicionales y la búsqueda de posiciones crí-
+ticas contra los discursos hegemónicos, de este modo, se producen nuevas
+posibilidades dentro de la práctica creativa (Nava, 2005).
+
+
+
+236                                            Consejo Mexicano de Investigación Educativa
+La investigación basada en la práctica de las artes y los medios audiovisuales
+
+
+
+
+    Si bien es cierto, como continúa Nava, que sería contraproducente
+limitar la práctica artística dentro de parámetros exclusivos, es evidente
+que sí existe un consenso sobre los criterios metodológicos de la ibapa-
+ma . Esto puede observarse en el desarrollo que ha tenido este modelo de
+investigación en la última década. Existen marcos teóricos recurrentes así
+como disciplinas que sirven como metodologías: la auto-etnografía, los
+estudios performativos, la narrativa autobiográfica, la fenomenología apli-
+cada a las artes visuales, los estudios de género, la teoría queer o la crítica
+poscolonial. También hay, muchas formas de contextualizar la práctica,
+así como combinaciones entre corrientes de pensamiento y movimientos
+artísticos. En relación con los criterios metodológicos, podemos concluir
+que es primordial la revisión de un marco teórico y literario. Además, es
+importante especificar qué es lo que se pretende encontrar por medio del
+proceso de producción, y cómo es que la práctica refleja sobre la teoría
+en ese ámbito de estudio. En ese sentido, la investigación basada en la
+práctica involucra todas las etapas del proceso de investigación, desde
+la recolección de datos, análisis, interpretación y representación (Leavy,
+2009). Se recomienda que la tesis sea comparable en longitud y profun-
+didad teorética e histórica a cualquier otra de humanidades, exhortando
+al investigador doctoral a darle un enfoque inter-disciplinario a su tesis
+(Burgin, 2006).
+    Para satisfacer los requerimientos de un grado doctoral, el alumno
+debe producir una tesis escrita y un cuerpo sustancial de trabajo práctico.
+El trabajo escrito debe contextualizar, ofreciendo puntos de vista críticos
+en la historia de la práctica del arte en cuestión (Burgin, 2006:108). El
+contexto del artefacto es de suma importancia, se recomienda ubicarlo
+dentro de la producción; es decir, trazar, si es necesario, una historia o
+contexto de prácticas similares al artefacto que se produce. Además, de-
+terminar un criterio para la selección de casos de estudio que sirvan como
+marco para la investigación. Por ejemplo, si se pretende realizar un video
+o una instalación multimedia, se recomienda buscar una serie de artefactos
+aproximados al tema de estudio que puedan otorgar un contexto histórico,
+social o cultural de producción. Toda producción cultural emerge desde
+ciertos ámbitos históricos, intelectuales, estéticos, políticos y biográficos,
+asimismo todo artefacto adhiere o rompe con ciertas convenciones y tie-
+ne o no un contenido analítico (Nava, 2005). De este modo, cualquier
+
+
+
+Revista Mexicana de Investigación Educativa                                      237
+                                                                          Carrillo Quiroga
+
+
+
+
+artefacto mediático o audiovisual es capaz de producir significado y de
+afectar a los espectadores por medio de su diseminación (Nava, 2005:4),
+debe sustentar una propuesta crítica, que emerja de un contexto multi-
+disciplinario, situado dentro de un marco histórico, lo que le otorga rigor
+metodológico a la investigación.
+
+Conclusiones
+Podemos concluir que la investigación basada en la práctica es una vía ne-
+cesaria dentro de las artes visuales y los medios de comunicación. A pesar
+de que este modelo no ha sido institucionalizado en México, la adición de
+este género metodológico como vía de titulación doctoral sería una buena
+estrategia para responder a las inquietudes de artistas y practicantes de los
+medios audiovisuales que están planeando incursionar en la investigación
+doctoral. Con esto, cambiaríamos las posibilidades de las nuevas generacio-
+nes de investigadores en estas áreas del conocimiento. Será posible generar
+laboratorios de práctica creativa en cada una de nuestras universidades y
+producir investigación tanto teórica como creativa.
+   La investigación basada en la práctica de las artes y los medios audiovi-
+suales, además, presenta nuevas direcciones epistemológicas para producir
+conocimiento en áreas innovadoras dentro de las industrias culturales y
+la práctica creativa. Es primordial combatir los viejos prejuicios hacia los
+enfoques subjetivos dentro de las humanidades y despertar el interés de
+los investigadores para ampliar el abanico de posibilidades metodológicas
+disponibles en las instituciones de enseñanza superior en México. Además,
+como académicos, es importante abrir nuestro criterio hacia las nuevas
+corrientes de pensamiento y tendencias en investigación educativa en las
+artes visuales y la comunicación, de otro modo estaríamos condenando
+tanto la producción cultural como la investigación en estas disciplinas a
+la obsolescencia.
+   Como una nota final me gustaría agregar que, al terminar de escribir
+este artículo, me encuentro desarrollando parte del programa académi-
+co de un nuevo doctorado en Comunicación que será impartido en la
+Universidad Autónoma de Tamaulipas, el cual incluirá una línea de
+investigación en industrias creativas y culturales que ofrece como vía
+metodológica la investigación basada en la práctica de las artes y los me-
+dios audiovisuales.
+
+
+
+238                                            Consejo Mexicano de Investigación Educativa
+La investigación basada en la práctica de las artes y los medios audiovisuales
+
+
+
+
+Notas
+    1                                                              2
+      John Hartley escribe que, desde tiempos                        El término embodiment no tiene una tra-
+feudales, en Europa, los medios impresos se                   ducción directa al español. Literalmente, significa
+posicionaron como una tecnología social para                  “corporización”. Es un concepto en fenomenología
+la difusión del conocimiento. En ese tiempo, la               que surge de la obra de Maurice Merleau-Ponty.
+prensa estaba al servicio de la industria y, sobre            Se refiere al cuerpo como la base de la experiencia
+todo, de los intereses religiosos y más tarde se              subjetiva, el centro de los procesos de percepción
+convertiría en uno de los sistemas textuales                  y de la conciencia. Es una forma de cognición
+realistas más importantes de la modernidad,                   corporizada. El término ha ganado aceptación en
+tales como la ciencia, el periodismo y la novela              las últimas décadas en las humanidades y las artes
+(2009:140).                                                   como parte de la teoría del cuerpo (body theory).
+
+
+Referencias
+Biggs, Michael y Büchler, Daniela (2007). “Rigor and practice-based research”, Design
+    Issues, vol. 23, núm. 3, pp. 62-69.
+Bolt, Barbara (2009). “The magic is in handling” en Barret, Estelle y Bolt, Barbara (editores),
+    Practice as Research: Context, Method, Knowledge, Londres: I.B. Tauris & Co. Ltd.
+Burgin, Victor (2006). “Thoughts on ‘research’ degrees in visual arts departments”, Journal
+    of Media Practice (Reino Unido), vol. 7, núm. 2, noviembre, pp. 101-108.
+Conaculta (2009). Centro Multimedia. Centro Nacional de las Artes, quince años, México:
+    Conaculta.
+Griffiths, Morweena (2010). “Research and the self ” en Michael Biggs y Henrik Karlsson
+    (editores), The Routledge Companion to Research in the Arts, Reino Unido: Routledge,
+    pp. 167-185.
+Hartley, John (2009). “Digital scholarship and pedagogy, the next step: Cultural science”,
+    Society for Cinema & Media Studies, (Estados Unidos) vol. 48, núm. 2, pp.138-145.
+Hernández, Fernando (2008). “La investigación basada en las artes. Propuestas para repensar
+    la investigación en educación”, Educatio Siglo XXI (España), núm. 26, pp. 85-118.
+Jasso, Karla (2004). Centros y festivales de artes electrónicas en América Latina, México:
+    Programa de Apoyo a la Producción e Investigación en Arte y Medios del Centro
+    Multimedia del Conaculta.
+Kälvemark, Torsten (2010). “University politics and practice-based research” en Michael
+    Biggs y Henrik Karlsson (editores), The Routledge Companion to Research in the Arts,
+    Reino Unido: Routledge, pp. 3-23.
+Klinke, Harald (2014) (ed.). Art Theory as Visual Epistemology, Cambridge: Cambridge
+    Scholars Publishing.
+Leavy, Patricia (2009). Method Meets Art, Nueva York: The Guilford Press.
+Lebow, Alisa (2008). “avphd: supervising in the dark”, Journal of Media Practice (Reino
+    Unido) vol. 9, núm. 3, pp. 201- 213.
+Lizarralde Gómez, Cristian Felipe (2014). Los laboratorios de medios: hacia la construcción
+    de interfaces sociales de resistencia, coloquio doctoral del XI Foro Académico del Diseño,
+    13 Festival Internacional de la Imagen, 5-9 mayo, Centro Cultural y de Convenciones,
+    Manizales, Colombia.
+
+
+
+Revista Mexicana de Investigación Educativa                                                                 239
+                                                                                  Carrillo Quiroga
+
+
+
+Moran, Dermot (2000). Introduction to Phenomenology, Londres: Routledge.
+Nava, Mica (2005). “Thoughts on contextualizing practice”, Journal of Media Practice
+   (Reino Unido) vol. 6, núm. 3, pp.179-184.
+Rascaroli, Laura (2009). The Personal Camera, Subjective Cinema and The Essay Film,
+   Londres: Wallflower Press.
+Rutherford, Anne (1998). “Cinema and embodied affect”, Senses of Cinema, núm. 25 (en
+   línea). Disponible en http://sensesofcinema.com/2003/feature-articles/embodied_affect/
+Sobchack, Vivian (2004). Carnal Th oughts, Embodiment and Moving Image Culture,
+   Berkeley: University of California Press.
+Thomas, Rosie y Dowmunt, Tony (2005). “Supervising and examining practice-based
+   PhDs in the moving image, a report of one-day symposium on Friday 1st October
+   2004 at the University of Westminster, Regent Street”, Journal of Media Practice (Reino
+   Unido) vol. 6, núm. 2, pp. 121-126.
+
+
+
+
+Artículo recibido: 4 de febrero de 2014
+Dictaminado: 26 de junio de 2014
+Segunda versión: 13 de agosto de 2014
+Comentarios: 22 de agosto de 2014
+Aceptado: 25 de agosto de 2014
+
+
+240                                                    Consejo Mexicano de Investigación Educativa
+

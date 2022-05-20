@@ -1,0 +1,1164 @@
+                                EL VIDEOJUEGO COMO
+                                HERRAMIENTA PROSOCIAL:                                                      Carlos Germán Sandoval Forero**
+                                IMPLICACIONES Y                                                                     Álvaro Triana Sánchez***
+                                APLICACIONES PARA
+                                LA RECONSTRUCCIÓN
+                                EN COLOMBIA*
+
+            RESUMEN
+
+            Este artículo busca contribuir a la comprensión del videojuego como herramienta prosocial, con un creciente
+            potencial en la pedagogía global y en la construcción de comportamientos sociales específicos. Primero, se
+            indaga por los elementos que conforman el concepto del videojuego, sus aspectos sociales, económicos y
+            tecnológicos que lo enmarcan. Luego, se realiza un historial de las implicaciones de los videojuegos en su
+            abordaje de conflictos contemporáneos de alta susceptibilidad. Después, se exploran algunas experiencias que
+            han acogido al videojuego en apoyo a resolución de problemáticas de diversa índole. En ese sentido, se analiza
+            el uso del videojuego por parte de organizaciones y gobiernos para la consolidación de políticas públicas.
+            Finalmente, se explica el desarrollo y la validación de un videojuego prosocial en Colombia, Reconstrucción,
+            para comprender sus alcances.
+
+            Palabras clave: videojuegos, prosocial, Colombia, conceptos, desarrollos.
+[38]
+            THE VIDEOGAME AS A PROSOCIAL TOOL: IMPLIC ATIONS AND APPLIC ATIONS FOR
+            RECONSTRUC TION IN COLOMBIA
+
+            ABSTR AC T
+
+            This article seeks to contribute to the understanding of the videogame as a prosocial tool with growing potential
+            in global pedagogy and in generation of specific social behavior. First, the elements that comprise the video
+            game concept are explored as well as the social, economic and technological aspects that characterize them.
+            Subsequently, a historical survey is undertaken of the implications of videogames with respect to highly
+            susceptible contemporary conflicts. Then, experiences involving reliance on videogames in support of diverse
+            forms of problem resolution are explored. The use of videogames by organizations and governments for the
+            consolidation of public policies in that context is analyzed and finally, the development and evaluation of a
+            specific prosocial videogame in Colombia, “Reconstruction”, is explained in order to clarify its scope.
+
+            Keywords: videogames, prosocial, Colombia, concepts, developments.
+
+            Fecha de recepción: 15/10/2016
+            Fecha de aprobación: 15/12/2016
+
+                           *
+                                El presente texto forma parte de los resultados del proyecto “Reconstrucción”, financiado por Deutsche Gesellschaft für Inter-
+                                             nationale Zusammenarbeit (GIZ) y desarrollado por ViveLab-Bogotá/Universidad Nacional de Colombia en 2016.
+                               **
+                                    Politólogo, magíster en Análisis de Problemas Políticos, Económicos y de Relaciones Internacionales. Docente e investigador
+                                                  del Instituto de Estudios Políticos y Relaciones Internacionales (Iepri, de la Universidad Nacional de Colombia).
+                                                                                                                      Correo electrónico: cgsandovalf@unal.edu.co
+                                                  ***
+                                                        Ingeniero de Sistemas con especialización en Gerencia de Proyectos. Líder en desarrollo de ViveLab-Bogotá.
+                                                                                                                       Correo electrónico: altrianasa@unal.edu.co
+
+análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia                    Carlos Germán Sandoval Forero
+                                                                                                                                      Álvaro Triana Sánchez
+
+
+
+
+                                                                                                                                                                   Democracia
+INTRODUCCIÓN
+
+    En los inicios del año 2006, algunos medios noticiosos y parte de la sociedad colombiana co-
+mentaban con cierta sorpresa y curiosidad la aparición de videojuegos sobre el conflicto armado en
+Colombia, que basaban su jugabilidad en la representación de la violencia y en la caracterización
+de guerrilleros, paramilitares, narcos y fuerzas oficiales del gobierno. La endémica y dramática
+dinámica de la violencia en Colombia, con su compleja combinación de causas, actores y disputas,
+se había acomodado desde tiempo atrás en los contenidos de los mass media y de los productos
+culturales e intelectuales: la novela, los noticieros, el cine, etc. Lo que se ignoraba en ese momento
+era que la relación entre los videojuegos y la situación colombiana provenía desde finales de los
+años noventa y que tanto actores armados en Colombia como industrias globales del videojuego,
+habían utilizado el software lúdico para fomentar sus intereses estratégicos.
+
+    El hecho anecdótico también ignoraba que los videojuegos habían dejado de ser una actividad
+ociosa de niños, jóvenes y adolescentes sentados frente a una pantalla machacando botones de un
+control. El concepto del videojuego había cambiado, ya a finales de la década de los noventa, e
+integraba nichos de adultos y organizaciones que aprovechaban un potencial de simulación, inte-
+ligencia artificial y gestión estratégica sin precedentes; combinado con gráficos 3D, multijugador
+y multiplataforma. De igual manera, la pedagogía global, el estímulo sensorial y cognitivo para
+el aprendizaje se abrían paso en el océano de estudios sobre la adicción y los impulsos violentos
+asociados a los videojuegos.
+
+   Antes del 2006, los videojuegos no formaban parte de la agenda de gobierno, de la academia o
+de los sectores tecnológicos y culturales en Colombia. Restringido a entusiastas, el videojuego en                                                                    [39]
+Colombia se discutía de manera marginal en los pasillos de los torneos de Fifa o StarCraft, en los
+game center o en las redadas antipiratería de las autoridades, en las principales ciudades del país.
+Aun así, para esa fecha, 2006, el videojuego se había convertido en una de las más poderosas in-
+dustrias del entretenimiento en el mundo y había transformado en lúdico sinnúmero de conflictos
+y problemáticas intraestatales e internacionales, con muchas lecciones para aprender que también
+ignorábamos.
+
+   En la actualidad, su innegable impacto sobre la cultura contemporánea, su reinado sobre las
+industrias tecnológicas y del entretenimiento y su capacidad para generar paradigmas de apren-
+dizaje/pedagogía, convierten a esta industria cultural y tecnológica en un fenómeno cada vez más
+vinculado a la consolidación de políticas públicas y a la promoción de iniciativas prosociales en
+países como Colombia.
+
+    Este artículo presenta los resultados de una investigación que inició años atrás en el Instituto de
+Estudios Políticos y Relaciones Internacionales (Iepri) de la Universidad Nacional de Colombia y
+finaliza en el marco del desarrollo de un videojuego prosocial liderado por ViveLab-Bogotá1 con
+el apoyo de Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)2.
+
+
+1
+    ViveLab-Bogotá es un laboratorio enfocado en la creación, innovación, emprendimiento y usabilidad de contenidos
+    digitales para la ciudad capital. El laboratorio tiene el auspicio del Ministerio de Tecnologías de la Información y las
+    Comunicaciones, Colciencias, la Alcaldía Mayor de Bogotá, a través de la Alta Consejería para las TIC, la Universidad
+    Nacional de Colombia y Señal Colombia.
+2
+    GIZ es una Agencia Alemana para la Cooperación Internacional, que trabaja en Colombia por encargo del Ministerio
+    Federal de Cooperación Económica y Desarrollo, el Ministerio Federal de Relaciones Exteriores y el Ministerio Federal
+    de Medio Ambiente, Protección de la Naturaleza, Obras Públicas y Seguridad Nuclear alemán.
+
+                                                                                                            análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+            El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia   Carlos Germán Sandoval Forero
+                                                                                                                                 Álvaro Triana Sánchez
+
+
+
+                El texto tiene por objetivo reajustar los acercamientos conceptuales y prácticos que se tienen
+            sobre el videojuego, para entender su vinculación con las iniciativas y los comportamientos
+            prosociales. Comenzamos con una aproximación a los principales elementos que definen el
+            concepto y la naturaleza del videojuego, para comprender lo que tenemos entre manos. Luego,
+            queremos llevar al lector en un recorrido por algunos antecedentes que marcaron el abordaje de
+            conflictos y problemáticas de alta susceptibilidad social y política, por parte de los videojuegos.
+            Ese apartado permitirá entender el porqué de la relación entre una serie de videojuegos y las
+            dinámicas del conflicto armado en Colombia. En la parte final, dedicaremos especial atención
+            a documentar el uso del videojuego como herramienta prosocial que apoya políticas e iniciati-
+            vas de diversa índole. Allí analizaremos la experiencia de organizaciones internacionales como
+            Naciones Unidas en el uso de videojuegos para la resolución de problemáticas sociales, ambien-
+            tales, etc., y el efecto de estas experiencias sobre el boom de videojuegos prosociales que vive
+            Colombia. A manera de conclusión, tomaremos la experiencia del desarrollo del videojuego
+            Reconstrucción para evidenciar los alcances metodológicos y conceptuales de esta nueva gene-
+            ración de herramientas lúdicas.
+
+            EL CONCEPTO DEL VIDEOJUEGO
+
+                Los videojuegos forman parte de la vida cotidiana de cualquier individuo familiarizado con
+            un computador, una consola, un celular. Con la masificación del entretenimiento, el software y el
+            hardware lúdico también se diversificaron y, en la actualidad, el abanico de géneros en la producción
+            de juegos para videoconsolas, ordenadores y móviles es tan significativo como diverso.
+
+[40]           Es un fenómeno que involucra a comunidades que juegan a partir de un software multimedia,
+            con la mediación de dispositivos electrónicos, usualmente conectados en red. Son elementos del
+            género sociocultural, tecnológico y comunicativo más atípico que se haya visto, y esto desafía la
+            búsqueda de un acercamiento conceptual y metodológico conveniente.
+
+                Iniciemos con una aproximación común, que se obtiene al observar cualquier videojuego en
+            pantalla. Un videojuego es un conjunto de reglas simuladas en entornos 2D y/o 3D (Bavelier et al.,
+            2011). Pero para que esto sea un videojuego y no un AutoCAD, estas reglas deben corresponder
+            de manera satisfactoria a las necesidades de entretenimiento del usuario (jugador) y a las mecá-
+            nicas de jugabilidad que suministra el videojuego (Fang, Chan, Brzezinski y Nair, 2010; Oswald,
+            Prorock y Murphy, 2014; Shafer, 2012). De esa manera, se establece una relación simbiótica entre
+            el videojuego (emisor), el (los) jugador(es) (receptores activos) y el desarrollador del juego (conarra-
+            dor), para crear un escenario interactivo con reglas y retos (Granic, Lobel y Engels, 2014). Si a eso
+            agregamos la opción multijugador, la capacidad particular que tiene el videojuego de conectar a
+            varios jugadores humanos en tiempo real a través del Internet o una intrarred, allí tenemos un
+            Mario Bros o un Pokemon contemporáneo.
+
+                No obstante, esta definición es forzada y deja muchos cabos sueltos en la naturaleza del fenó-
+            meno. Requerimos señalar a continuación algunas miradas relevantes que seguramente aportarán
+            al lector en su comprensión integral del concepto de videojuego.
+
+
+
+
+análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia                    Carlos Germán Sandoval Forero
+                                                                                                                                      Álvaro Triana Sánchez
+
+
+
+
+                                                                                                                                                                   Democracia
+Miradas desde las ciencias sociales y humanas al videojuego
+
+    A principios de la década de los ochenta, la mayoría de los videojuegos eran arcades3, es decir,
+juegos donde lo más importante es la velocidad de respuesta y coordinación en los dedos de las
+manos a partir de los estímulos visuales generados en pantalla. Con la evolución de las mecánicas
+de juego y el tipo de jugadores, el campo se ha ido ampliando y actualmente existen videojuegos
+de aventuras, de rol, de estrategia, survival, simuladores, deportivos, shooters, tácticos, etc., donde
+inciden otros factores que se asocian con la comprensión de los géneros narrativos, la aplicación de
+la racionalidad, la estrategia, la gestión, la experiencia del jugador y su percepción de las conductas
+de los demás jugadores o de la inteligencia artificial.
+
+    Buena parte de los estudios sobre videojuegos se emprende desde la comunicación, la antropo-
+logía, la psicología y la pedagogía, con enfoques tan diversos como los mass media, el ocio y el juego
+humano, la sociopatía y las conductas prosociales. Veamos esto en detalle.
+
+   Los estudios mass media de los videojuegos parten del campo “nuevos medios”, que explican la
+convergencia de los recursos tecnológicos y de redes dirigidos a la jugabilidad masiva (Haddon,
+2004). Estas perspectivas señalan que los marcos teóricos y metodológicos de los estudios de me-
+dios tradicionales fueron desbordados por los videojuegos: los impactos de la interactividad, la
+complejidad de la simulación, la inteligencia artificial y las comunidades en red no encajan con los
+conceptos y metodologías aplicados a los estudios de la radio, la televisión, el cine, etc.4.
+
+     En efecto, videojuegos como Second Life o League of Legends5 agrupan cerca de 25 millones de
+jugadores diarios, simultáneos e interactivos en una realidad digital persistente: no solo escuchan,                                                                  [41]
+no solo ven, también organizan, exploran, discuten, viven en la red. Todo un reto para los estudios
+sobre medios de comunicación. Parte de los problemas de esta corriente de nuevos medios para
+definir los videojuegos se encuentra en los abordajes de la narración y la semiótica de la jugabili-
+dad, fundamentados aún en los clásicos Provenzo Jr. y Herz, que analizaron los videojuegos desde
+las relaciones de poder, la cultura popular, la manipulación y la hegemonía (Herz, 1997; Provenzo
+Jr., 1992).
+
+    El videojuego entendido como una actividad recreativa del ser humano contemporáneo ha
+sido recogido en las perspectivas sobre la cultura de la satisfacción (Poels, Hoogen, Ijsselsteijn y De
+Kort, 2012; Russoniello, O’Brien y Parks, 2009; Ryan, Rigby y Przybylski, 2006). En estas aproxi-
+maciones se resaltan los efectos positivos sobre los estados de ánimo de los jugadores, sus efectos
+relajantes y terapéuticos.
+
+
+
+
+3
+    De hecho, el primer videojuego de la historia, Tennis for two, creado en 1958 por el físico nuclear Willy Higinbotham
+    del Laboratorio Nacional de Brookhaven en Nueva York, es considerado un arcade que requería de un osciloscopio
+    para jugarse.
+4
+    Algunas resistencias a categorizar los videojuegos en los estudios clásicos de los medios de comunicación provienen
+    principalmente de los mismos creadores y desarrolladores, incluso de los jugadores. Como explica Matthew Southern
+    en su artículo “El estudio cultural del videojuego: más que solo juego”, los jugadores nunca hacen una relación directa
+    entre el videojuego y el formato televisivo de entretenimiento, curiosamente, los no jugadores y la mayoría de estudiosos
+    del tema lo hacen (Southern, 2001, p. 12).
+5
+    League of Legends tiene una red de servidores que registra 27 millones de personas diarias, de las cuales 7,5 millones
+    están jugando de manera simultánea. En total, los registros del portal indican 67 millones de jugadores cada mes (Riot,
+    League of Legends, 2016).
+
+                                                                                                            análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+            El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia   Carlos Germán Sandoval Forero
+                                                                                                                                 Álvaro Triana Sánchez
+
+
+
+                El videojuego como campo de interacción de conductas violentas, conductas sociópatas, orien-
+            taciones sexistas, generador de estereotipos y adicciones6 ha sido abordado de manera amplia en
+            diversos estudios (Anderson y Bushman, 2001; Cassell y Jenkins, 2000; Jerabeck y Ferguson, 2013).
+            En particular, los estudios de Anderson y Bushman (2001) desarrollaron el “modelo general de la
+            agresión” utilizado en la actualidad para medir el impacto cognitivo, afectivo y fisiológico de los
+            contenidos violentos de los videojuegos sobre los jugadores y así determinar su categoría y censu-
+            ra. Jerabeck y Ferguson (2013) por su parte, asocian los videojuegos con la emergencia de nuevas
+            problemáticas en las familias contemporáneas, como el aumento de la ansiedad y la disminución
+            de la expresividad y de las conductas de empatía en los jóvenes jugadores hacia el resto de familia
+            no jugadora.
+
+                Por su parte, para los estudios de la pedagogía, los videojuegos son herramientas que permiten
+            a las personas desarrollar habilidades cognitivas que facilitan el aprendizaje (Prensky, 2006). Se
+            destacan las investigaciones de Wai, Lubinski, Benbow y Steiger (2010) y Uttal et al. (2013) sobre
+            el mejoramiento de las capacidades de razonamiento viso-espacial y el desarrollo de habilidades
+            para resolver problemas cotidianos. También encontramos los estudios de Vélez y Ewoldsen (2013)
+            y Granic (2014) y sobre el desarrollo de pensamiento crítico, capacidad de gestión y relaciones
+            interpersonales que se asocian a videojuegos de estrategia y rol.
+
+                Por su parte, el videojuego asumido como herramienta prosocial se genera en las corrientes
+            pedagógicas y profundiza en las teorías conductistas. Para autores como Buckley y Anderson (2006),
+            Greitemeyer y Osswald (2010) y Mengel (2014) los videojuegos son espacios de entrenamiento de
+            conductas delineadas en la sociedad. En tal sentido, se puede llegar a influir o reforzar los valores,
+[42]        los niveles de empatía y las capacidades de colaboración y de responsabilidad social. El estudio em-
+            pírico más importante de esta corriente es el de Gentile et al. (2009), quienes observaron la conducta
+            de los niños y adolescentes del Japón y Singapur en escuelas públicas, expuestos a videojuegos con
+            alto y bajo contenido violento. Los resultados de dicha investigación mostraban que las conductas
+            prosociales de los niños con estos rasgos se reforzaban, incluso en los videojuegos violentos. Los
+            jugadores con menos conductas prosociales previas, asumían los videojuegos con agresividad.
+
+                Autores como Telle y Pfister (2012) y Tear y Nielsen (2013) definen los videojuegos como predic-
+            tores de la conducta prosocial. Esta definición es de enorme importancia para sustentar las posibilidades
+            de los videojuegos frente a la construcción de paz, la convivencia y la resolución de problemáticas
+            sociales, asunto que trataremos de profundizar más adelante en este texto.
+
+            Miradas al videojuego desde la economía y el mercado
+
+               Hacia finales de la década de los noventa, las industrias desarrolladoras de software lúdico en
+            Estados Unidos, la Unión Europa y países asiáticos emergieron como un nuevo y exitoso sector
+            productivo transnacional, con una rápida expansión en los mercados internacionales que hasta
+            entonces, década de los ochenta y principios de los noventa, habían sido un oligopolio dominado
+            por la empresa estadounidense Atari y las japonesas Sega y Nintendo.
+
+               En los años dos mil, cientos de empresas consolidaron su posición como mayores productoras
+            de contenidos lúdicos multimedia, por encima de compañías dedicadas al software empresarial
+
+
+            6
+                Los usuarios de los videojuegos pueden construir dependencias con el sistema de juego que les permiten preservar su
+                sentido de pertenencia a unos mundos posibles donde actúan y a la vez escapan de la “realidad” (Salguero, 2001).
+
+análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia                    Carlos Germán Sandoval Forero
+                                                                                                                                      Álvaro Triana Sánchez
+
+
+
+
+                                                                                                                                                                   Democracia
+como Microsoft e IBM, y las cifras de comercialización de estos contenidos se acercaron, a partir
+del 2002, a la industria del cine y la música7.
+
+    Los reportes anuales de mercado para el sector, liderados por la organización InStat en los Es-
+tados Unidos y por la organización Euromonitor International para el caso europeo, indican, hace
+más de un decenio, que los videojuegos constituyen el sector tecnológico y de entretenimiento más
+influyente del mundo globalizado (InStat Industry Group, 2002). Posición que se ha forjado con
+alianzas en los sectores políticos, militares, económicos y culturales de los países desarrollados, y
+con un mercado potencial en los países emergentes (Euromonitor International, 2015).
+
+   La entrada del gigante Microsoft en el 2001 al mundo de los videojuegos con las Xbox, es
+evidencia de esta tendencia. Un nuevo negocio rentable entre manos para la industria del software
+y hardware, asunto que ya había advertido otro gigante, el japonés Sony, con el desarrollo de las
+consolas PlayStation.
+
+                          Gráfico 1. Mercado de los videojuegos por dispositivo en millones de dólares (2014-2016)
+
+
+
+
+                                                                                                                                                                      [43]
+
+
+
+
+Fuente: elaboración propia con base en Euromonitor International (2015).
+
+
+
+    De acuerdo con los estudios del DigiWorld Institute (2015), especializado en los mercados de
+entretenimiento, en el 2014, los videojuegos comerciales facturaron US$ 64 900 millones, superados
+solo por la industria fílmica que registró US$ 90 200 millones, pero muy por encima de la industria
+de la música que se ubicó con US$ 20 970 millones. La tasa de crecimiento del sector de los video-
+juegos se estima en 9,6 % entre 2013 y 2018, frente a un 4,5 % del sector del cine y el 0,1 % de la
+música. El mercado latinoamericano en 2014 tiene 191 millones de jugadores que gastaron US$ 4000
+millones en videojuegos, con un crecimiento anual de cerca del 18 % (DigiWorld Institute, 2015).
+
+   Para el caso latinoamericano, cabe resaltar el estudio pionero sobre las perspectivas de la in-
+dustria del videojuego en América Latina, realizado por Lugo, Sampson y Lossada (2002). Allí se
+indicaba cómo el esquema de maquila había imperado en las inversiones de Nintendo en Brasil
+desde 1993 y había continuado con las inversiones de Microsoft y Sega en México y Brasil para el
+desarrollo de consolas y videojuegos.
+
+
+
+7
+    En 2002, Euromonitor International anunciaba, a través de su informe anual, que por primera vez, la industria del
+    videojuego había generado US$ 7000 millones, superando a la industria del cine en US$ 2000 millones y a la industria
+    de la música en US$ 4000 millones (Euromonitor International, 2002).
+
+                                                                                                            análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+            El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia   Carlos Germán Sandoval Forero
+                                                                                                                                 Álvaro Triana Sánchez
+
+
+
+               Pero los años recientes han generado cambios significativos en la industria del videojuego en
+            muchas regiones del mundo. Grupos de desarrolladores indie8 en todos los continentes, apoyados
+            en plataformas de financiación colaborativas9 como Kickstarter e Indiegogo, desafían los linea-
+            mientos del mercado de las grandes corporaciones del videojuego. El crecimiento de videojuegos
+            independientes, con bajo presupuesto y producidos fuera del sistema de grandes editores, es un
+            fenómeno manifiesto en los juegos de móviles que han impulsado un despegue de la industria en
+            países tradicionalmente excluidos de este circuito. Esta tendencia es pieza clave en el desarrollo
+            de los llamados videojuegos prosociales, incentivados por la innovación y la experimentación de
+            nuevas mecánicas de juego y alineados con objetivos de sectores gubernamentales y de cooperación,
+            como también lo abordaremos más adelante.
+
+                La vinculación de Latinoamérica en 2015 a la International Game Developers Association, la
+            asociación más grande de desarrolladores de videojuegos, ha dado impulso a una nueva era de
+            producciones “criollas”. Para el caso colombiano, el mercado móvil favorece, desde el 2010, la
+            producción nacional de videojuegos en plataformas iOS y Android10. Sin embargo, el abordaje
+            académico es marginal y se carece de estudios sistemáticos que permitan entender en profundidad
+            el estado de la industria del videojuego en Colombia.
+
+            Miradas desde un campo de estudio especializado
+
+                Los estudios especializados en videojuegos nacieron en el 2001, cuando diversas revistas del
+            sector fueron indexadas y consolidaron un campo académico emergente. La revista pionera Simu-
+            lation & Gaming, de los años sesenta, junto a las de final de siglo: Games Studies, Games and Culture,
+[44]        International Journal of Gaming and Computer­Mediated Simulations e International Journal of Game-Based
+            Learning, habían logrado la aceptación y la credibilidad académica tras décadas de publicación de
+            resultados de investigación y desarrollo en el sector de los videojuegos.
+
+                Katie Salen y Eric Zimmerman (2004) exploraron los estudios publicados en esas revistas y
+            definieron 5 perspectivas analíticas en el campo de investigación, presentes en 105 artículos de
+            una generación de investigadores multidisciplinarios, entre humanistas, científicos informáticos y
+            diseñadores de juegos:
+
+                  a) El diseño del juego: estudios centrados en estructuras, estéticas y técnicas de jugabilidad y
+                     representación del mundo del juego.
+
+                  b) Los jugadores: estudios antropológicos, sociológicos y psicológicos sobre quienes son juga-
+                     dores y cómo utilizan los videojuegos. Esta perspectiva de las ciencias sociales humanas se
+
+
+            8
+                 Expresión en inglés que se utiliza para referirse a culturas independientes.
+            9
+                 Estas plataformas promueven y coordinan el financiamiento colectivo para generar recursos que posibiliten proyectos
+                 de todo tipo y tamaño.
+            10
+                 La industria nacional del videojuego ha trabajado con modelos de financiamiento de coproducción y work for hire. En
+                 el primero un publisher (compañía que busca videojuegos para publicar en las tiendas, encargándose del lanzamiento
+                 del producto pero no de su desarrollo) invierte un porcentaje del costo del desarrollo del juego y a cambio recibe un
+                 porcentaje de las ventas del mismo. En este caso, el desarrollador invierte también en el juego, compartiendo el riesgo
+                 con el publisher pero recibiendo el beneficio de participar activamente en la toma de decisiones respecto al producto
+                 que se desarrolla. En el modelo de work for hire, una empresa encarga el desarrollo de un videojuego (o alguno de sus
+                 componentes) con características específicas y el desarrollador recibe un pago a cambio. Este pago puede ser directo o
+                 también en algún porcentaje respecto a las ventas del producto. De esta forma el riesgo para el estudio contratado es
+                 menor, ya que recibe el pago acordado por el trabajo definido, pero su aporte creativo se ve disminuido.
+
+análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia                    Carlos Germán Sandoval Forero
+                                                                                                                                      Álvaro Triana Sánchez
+
+
+
+
+                                                                                                                                                                   Democracia
+            destaca por favorecer análisis donde el jugador y la actividad de jugar es más importante
+            que el videojuego.
+
+     c) La cultura: estudios de comunidades, subculturas, comunicación y patrones de juego.
+
+     d) La ontología: estudios donde se examina el fundamento filosófico de los videojuegos. Esto
+        se aprecia en las dinámicas de culto a ciertos videojuegos, que establecen una relación “tras-
+        cendental” y “espiritual” entre el jugador y el juego de video. The Journey o el reciente The
+        Last Guardian, son ejemplos de videojuegos que concentran este tipo de enfoques.
+
+     e) Las métricas: investigaciones que se concentran en el creciente interés por los datos y las
+        medidas de comportamiento del jugador. Generalmente estos estudios buscan aportar a los
+        desarrolladores en las mejoras de la experiencia del jugador.
+
+                                         Tabla 1. Campos y metodologías especializadas en videojuegos
+
+
+
+       Tipo de análisis                      Metodología                            Enfoque teórico                              Resultados
+
+ El juego                        Análisis de jugabilidad                  Comunicación                              Diseños y significados
+                                 Observación, entrevistas y análisis Sociología, antropología, etnografía,
+ Los jugadores                                                                                             Uso del videojuego en comunidad
+                                 del discurso                        psicología
+ La cultura                      Entrevista y análisis cualitativos       Estudios culturales                       Definición de subculturas
+ La ontología                    Métodos filosóficos                      Filosofía, historia                       Definir lógicas y fundamentos
+                                                                                                                                                                      [45]
+                                                                                                                    Generación de estadísticas, tendencias,
+ Las métricas                    Métodos estadísticos                     Conductista
+                                                                                                                    patrones
+
+Fuente: elaboración propia con base en Salen y Zimmerman (2004).
+
+
+    Los estudios especializados en videojuegos hoy se dirigen principalmente a la realidad virtual,
+los simuladores industriales y militares, el aprendizaje activo y experiencial, los estudios de casos,
+las metodologías relacionadas y los videojuegos prosociales.
+
+   En consecuencia, estas diversas perspectivas aportan al concepto del videojuego y nos ayudan
+a entender la complejidad del fenómeno. No obstante, hemos obviado algo muy importante: las
+temáticas que abordan los videojuegos. Los tipos de contenidos que presentan los videojuegos
+contemporáneos son muy amplios y suelen enmarcarse entre sus cualidades y sus vicios por re-
+presentar mecánicas de juego violentas, sexistas y discriminatorias.
+
+    A nuestro juicio, tal visión del videojuego, a partir de sus temáticas, implica reconocer la tran-
+sición del tipo jugadores, de un género de ficción –extraterrestre, mítico, medieval e infantil– a
+tópicos más adultos y realistas, inspirados sobre todo en las problemáticas emergentes del orden
+internacional. La guerra y los conflictos son el contenido de mayor recurrencia en los videojuegos.
+
+ABORDAJE DE LOS CONFLICTOS EN LOS VIDEOJUEGOS
+
+   En esta sección, queremos llevar al lector en un recorrido por algunos antecedentes que marca-
+ron el abordaje de conflictos y problemáticas de alta susceptibilidad social y política por parte de los
+videojuegos. Desde esta perspectiva queremos subrayar el impacto de estos contenidos y temáticas
+
+                                                                                                            análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+            El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia   Carlos Germán Sandoval Forero
+                                                                                                                                 Álvaro Triana Sánchez
+
+
+
+            sobre diversas sociedades, que han privilegiado posiciones ideológicas, intereses estratégicos y/o
+            comerciales por parte de las empresas desarrolladoras.
+
+            En el ámbito estadounidense
+
+               La enorme proliferación de videojuegos sobre el terrorismo, después del 11 de septiembre, fue
+            una tendencia que emprendió la industria lúdica norteamericana con la creación de Counter-Strike11,
+            un juego que simulaba un comando antiterrorista con operaciones en múltiples lugares conflictivos
+            del planeta. Involucrar al videojuego con los conflictos del mundo es el detonante de un debate
+            plagado de contradicciones entre diversos sectores del gobierno y la sociedad norteamericana.
+
+                Por ejemplo, tras los acontecimientos del 11 de septiembre el gobierno estadounidense, en voz
+            del secretario de Justicia, John Ashcroft, señaló que “los videojuegos bélicos son fomentadores del
+            terrorismo internacional”12; sin embargo, el ejército americano diseñó al año siguiente una estrategia
+            de apoyo directo al desarrollo de software militar lúdico denominado America’s Army, con el firme
+            objetivo de potenciar el reclutamiento ideológico y el entrenamiento militar virtual de millones de
+            jóvenes occidentales en contra del terrorismo internacional13.
+
+               Con las consecuencias políticas que acarreó el ataque del 11 de septiembre y con los señalamientos
+            posteriores hacia el videojuego, la industria revisó algunos de los contenidos de sus lanzamientos
+            con el fin de evitar que las imágenes o las historias causaran molestias a un público estadounidense
+            muy susceptible por la magnitud de la tragedia.
+
+[46]           La suspensión de juegos en línea, el veto a algunos títulos en los que los usuarios pueden
+            desempeñar el papel de terrorista y la eliminación de imágenes bélicas o catastróficas en las que
+            aparece Nueva York, fueron algunas de las medidas tomadas por pocos meses en la industria.
+            Uno de los primeros títulos afectados fue Majesty, juego en línea para mayores de 18 años en el
+            que con correos electrónicos, llamadas telefónicas y con la información facilitada por páginas web
+            sumergían al jugador en una compleja conspiración política contra el gobierno de Estados Unidos.
+
+                El juego, creado por Electronic Arts, se canceló. Microsoft por su parte, tuvo que eliminar las
+            Torres Gemelas de los escenarios de vuelo de su Flight Simulator 2002, cuya simulación, se sospe-
+            chaba, la utilizaron los terroristas aéreos. La compañía requirió elaborar programas especiales para
+            excluir este escenario de las versiones adquiridas del simulador y cambiar el video de introducción
+            del Flight Simulator 2002, en el que unos aprendices comentan en broma que han estado a punto
+            de chocar contra el Empire State Building.
+
+
+
+            11
+                 Counter-Strike, de la empresa estadounidense Sierra, es un juego en red en el que opcionalmente puede desempeñarse
+                 el papel de terrorista o comando SWAT. Los servidores oficiales del juego cerraron durante una semana tras el 11 de
+                 septiembre y fueron saboteados con proclamas, algunas ilustradas con el logo “Games against terrorism”. Asimismo, la
+                 organización de los World Cyber Games, que reúne a 25 países en un campeonato mundial de videojuegos, eliminó a
+                 Counter-Strike de sus pruebas.
+            12
+                 Así lo registraron diversos medios noticiosos en el 2001: “Arremetida contra industria del videojuego”, en IBLNEWS,
+                 Nueva York, 21 de septiembre de 2001.
+            13
+                 El ejército estadounidense gastó US$ 7 millones, el precio de un tanque de guerra, para desarrollar America´s Army:
+                 Operations Recon, un arcade de disparos en primera persona, en el que el jugador se pone en el rol de un nuevo recluta
+                 del ejército estadounidense. El objetivo era despertar en los jóvenes la afición por la carrera militar y la lucha antite-
+                 rrorista. El videojuego se estrenó de forma gratuita en Internet el 4 de julio del 2002, y en apenas unos días superó el
+                 medio millón de descargas (Nieborg, 2004).
+
+análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia                    Carlos Germán Sandoval Forero
+                                                                                                                                      Álvaro Triana Sánchez
+
+
+
+
+                                                                                                                                                                   Democracia
+    La industria estadounidense ha recreado cada conflicto internacional del siglo XX y XXI en vi-
+deojuego. Son conocidas las franquicias de Tom`s Clancy dedicadas a la Guerra Fría y el conflicto del
+Medio Oriente a través de videojuegos shooters, tácticos y estratégicos. La guerra de Irak, Afganistán
+e incluso los conflictos africanos son tema de múltiples videojuegos, desde la perspectiva “gringa”.
+
+En el ámbito europeo
+
+    Alemania se ha pronunciado repetidamente contra las empresas norteamericanas que se apli-
+can a la producción de videojuegos sobre la Segunda Guerra Mundial (IIGM)14. En estos juegos
+de táctica bélica desde la óptica de los soldados vencedores –estadounidenses, ingleses y rusos–,
+el jugador debe acabar con tropas nazis en escenarios realistas de la guerra, donde se incorporan
+rasgos culturales propios de los alemanes (como idioma, vestido y arquitectura). Los videojuegos
+shooters IIGM ocupan las primeras posiciones en ventas mundiales en los recientes años y algunos
+como Call of Duty, Medal of Honor o Battlefield han sido galardonados como los mejores videojuegos
+de sus temporadas, según diversos premios especializados.
+
+   El asunto también ha afectado a Francia donde se prohíbe el empleo de símbolos nazis, que
+usualmente aparecen en estos videojuegos. De igual forma, el gobierno italiano censuró a Mafia15,
+un videojuego que hacía alusión a familias delictivas de ese país. En estos tres países se conformaron
+comisiones al interior de los Parlamentos nacionales que evalúan los contenidos de los videojuegos
+y emiten notas de censura o restricción registradas ante la Unión Europea.
+
+    La industria europea de los videojuegos mantiene una tendencia a desarrollar juegos sobre
+aspectos históricos y gloriosos del Imperio romano, aventuras gráficas medievales, la Guerra Fría y                                                                   [47]
+algunos de los conflictos africanos. Son empresas de menor envergadura que las norteamericanas
+y japonesas, más relacionadas con sus gobiernos, pero a la vez más proclives al cierre o fusión con
+otras firmas transnacionales.
+
+En el ámbito de Medio y Lejano Oriente
+
+    Allí diversas comunidades musulmanas rechazan la imagen que desempeñan los árabes en estos
+videojuegos y presionan al sector lúdico para la eliminación de estereotipos que señalan la ecuación
+árabe = terrorista. Sin embargo, estas mismas comunidades libran reñidas batallas virtuales a través
+de los servidores de Internet, en particular contra jugadores israelíes.
+
+    Por su parte, en la India, los sikhs iniciaron una petición formal ante la Organización Mundial
+del Comercio para solicitar la retirada del juego Hitman 2: Silent Assassin de la compañía londinense
+Eidos, lanzado en 2002, cuya última misión consiste en un ataque a los militantes de una gurdwara,
+un templo sikh (Meristation Magazine, 2002b). El templo del juego recuerda al Harmandir Sahib de
+Amritsar, el lugar más sagrado de los sikhs, y el juego nos propone eliminar a un grupo de “cre-
+yentes fanáticos”. El juego no se retiró, pero permitió restringir la utilización de estos escenarios
+en el Hitman 3, lanzado a finales del 2004.
+
+
+14
+     Así lo reseñaban algunos medios europeos: “Alarma por los videojuegos nazis”, en La Vanguardia, Madrid, 8 de abril
+     de 2002.
+15
+     Mafia: The City of Lost Heaven es un juego que creó la empresa checa Illusions Softworks (hoy 2K Czech) y que vetó el
+     Parlamento italiano (Meristation Magazine, 2002a). Llama la atención que películas como El padrino, que desarrollaba la
+     misma temática, no se censuraron en Italia.
+
+                                                                                                            análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+            El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia   Carlos Germán Sandoval Forero
+                                                                                                                                 Álvaro Triana Sánchez
+
+
+
+            En el ámbito latinoamericano
+
+               Incluir los rostros caricaturizados de Fidel Castro, el Che Guevara y Hugo Chávez, además de
+            parodiar el manejo dictatorial de una isla tropical, llevó a censurar el videojuego Trópico de 2001
+            por parte de los gobiernos de Cuba y Venezuela (Coha, 2013).
+
+                Entre el 2003 y 2014, la saga de videojuegos Grand Theft Auto (GTA), de la empresa norteame-
+            ricana Rockstar Games, rompió récords de ventas con más de ochenta millones de copias vendidas
+            en el mundo, la mitad de ellas en los Estados Unidos. En estos juegos se recrean actividades delic-
+            tivas donde pandillas de colombianos, puertorriqueños, haitianos, cubanos e italianos se disputan
+            el control de una ciudad. Una demanda de US$ 200 millones se instaló por parte de comunidades
+            latinas y caribeñas en diciembre de 2003 contra las firmas Rockstar Games y Sony Computer En-
+            tertainment America Inc., por “incita[r] a cometer delitos motivados por el odio contra los latinos
+            en Estados Unidos” (Agencia Efe, 2008, p. 1). En el 2012, la entonces senadora Hillary Clinton
+            acusó a GTA de promover la violencia contra las mujeres y el odio racial contra latinos en Estados
+            Unidos y propuso “discutir soluciones legislativas para alejar a los jóvenes de contenido inapropiado
+            en los videojuegos (Vandalnet Magazine, 14 de julio de 2005).
+
+            En el ámbito colombiano
+
+               El conflicto armado en Colombia se abordó por primera vez en un videojuego comercial hacia
+            1999. La aparición de Power Tank de la compañía europea FX Interactive, llevaba a los jugadores
+            a un simulador de tanque de guerra en las “selvas de Yarumal” y en otros “lugares peligrosos del
+[48]        planeta”16.
+
+                                                                   Ilustración 1. Página web de Power Tank
+
+
+
+
+                               Fuente: FX Interactive (1999).
+
+
+               Dos años después, en el 2001, la empresa norteamericana Raven lanzó al mercado el video-
+            juego Soldier of Fortune II. El juego incluía la última tecnología en inteligencia artificial e “impacto
+            de malla”17. Pero lo particular era que involucraba a las Farc y a los narcotraficantes colombianos
+
+            16
+                 “Poner orden en los lugares más peligrosos del planeta… Afganistán, Colombia, Nepal, Liberia”, es la consigna publi-
+                 citaria del videojuego que aún se comercializa en Internet y cuyas ventas superan el millón de copias en el mundo. El
+                 juego pasó desapercibido en Colombia y en consecuencia no despertó ninguna reacción de sector alguno de la sociedad
+                 y del gobierno colombiano (FX Interactive, 1999).
+            17
+                 Por primera vez en un videojuego, los enemigos podían ser heridos, sin ser aniquilados por ello.
+
+análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia                    Carlos Germán Sandoval Forero
+                                                                                                                                      Álvaro Triana Sánchez
+
+
+
+
+                                                                                                                                                                   Democracia
+en una compleja trama internacional de tráfico de armas biológicas. El videojuego introduce al
+jugador en el entorno tridimensional, bastante logrado, a decir verdad, de las selvas colombianas,
+combatiendo contra guerrilleros y aniquilando “narcos”. Era la primera vez que un videojuego
+ofrecía a sus usuarios la posibilidad de participar en el conflicto armado, en modo single player o
+multijugador.
+
+                                      Ilustración 2. Boceto de guerrillero y mercenario en Soldier of Fortune
+
+
+
+
+Fuente: www.meristation.com
+
+
+    En el 2002 se produjo un hito en la historia del conflicto armado en Colombia: las Autodefensas
+Unidas de Colombia (AUC) habían desarrollado el primer videojuego indie del conflicto colombiano,
+dirigido al reclutamiento ideológico y la propaganda de guerra (Sandoval, 2006). Los participantes
+en este videojuego debían defender un pequeño poblado colombiano y matar a “farcistas” y “elenos”.
+El Bloque Élmer Cárdenas, que estuvo bajo el mando de Freddy Rendón alias “El Alemán”, había
+decidido internacionalizar el conflicto a través de las plataformas web (accubec.org) por donde se
+distribuía el juego (Kapkin, 2016).                                                                                                                                   [49]
+
+                                               Ilustración 3. Pantalla de Matabandoleros, AUC, 2002
+
+
+
+
+Fuente: archive.org, 2016
+
+
+    Solo hasta el año 2006, como señalábamos al inicio de este artículo, algunos medios noticiosos
+nacionales e internacionales y una parte de la sociedad colombiana comentaban la aparición de
+videojuegos sobre el conflicto armado en Colombia. La razón, la compañía europea City Interactive
+lanzaba al mercado el videojuego Terrorist Takedown: War in Colombia. La amplia estrategia publici-
+taria del juego despertó una opinión pública nacional que apuntaba las consecuencias de “matar
+
+                                                                                                            análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+            El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia        Carlos Germán Sandoval Forero
+                                                                                                                                      Álvaro Triana Sánchez
+
+
+
+            colombianos a su gusto y hacer un bien a la humanidad con solo hundir un botón” (El Tiempo, 16 de
+            enero de 2006). El videojuego se comercializó en todo el mundo, incluido, por supuesto, Colombia.
+
+                                                      Ilustración 4. Pantalla de Terrorist Takedown: War in Colombia, 2006
+
+
+
+
+            Fuente: http://games.gamepressure.com
+
+
+
+                En muchas de las naciones o sociedades impactadas por la aparición de sus conflictos en los
+            videojuegos, se han conformado comisiones especiales gubernamentales –al interior de los Par-
+            lamentos, en ministerios de comunicaciones y de cultura– u organizaciones civiles y ONG, para
+            tratar estos asuntos y se han dispuesto equipos de expertos que interactúan con la empresas de-
+            sarrolladoras de videojuegos a fin de orientar los contenidos y agregar elementos que permitan
+[50]        aproximarse al conflicto más allá de la violencia y la acción sin contexto. Al igual que en el tema de
+            la paz, las lecciones internacionales en el manejo de estos productos informáticos son importantes
+            para Colombia.
+
+                A nuestro juicio, con el grado de evolución técnica, los tipos de contenidos y la masificación que
+            presentan estos videojuegos, sin duda impactan de manera profunda sobre el imaginario colectivo
+            y las representaciones que se tienen del escenario mundial y de los conflictos regionales, lo que
+            hace necesario la revisión crítica de sus temáticas y la búsqueda de alternativas que aprovechen el
+            enorme potencial simulador y de aprendizaje que poseen.
+
+            UNA GENERACIÓN DE VIDEOJUEGOS PROSOCIALES: ALCANCES Y POSIBILIDADES
+
+                Estudiar y desarrollar videojuegos requiere hoy acoger una mirada al enorme potencial de estas
+            herramientas para el aprendizaje, el reconocimiento social de los propios conflictos y la definición
+            de las conductas de las personas frente a la realidad que las rodea. Pero ¿pueden los videojuegos
+            realmente afrontar estos enormes retos sociales? ¿Puede un videojuego abordar conflictos e impactar
+            en los comportamientos prosociales de sus jugadores para aportar en la solución del conflicto? En
+            esta parte final del texto presentaremos algunos elementos para responder a estos interrogantes.
+
+            Los videojuegos prosociales de la Organización de las Naciones Unidas
+
+               El videojuego concebido como una herramienta prosocial ha obtenido un gran respaldo de la
+            Organización de las Naciones Unidas (ONU), en la reciente década. Construida según el “modelo
+            general de aprendizaje” que planteó Buckley y Anderson (2006), una generación de videojuegos
+
+
+análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia                    Carlos Germán Sandoval Forero
+                                                                                                                                      Álvaro Triana Sánchez
+
+
+
+
+                                                                                                                                                                   Democracia
+con diversos contenidos ayuda a la sensibilización y la resolución de problemáticas internacionales
+a través de las conductas de sus jugadores.
+
+    Food Force, Contra viento y marea y Stop Disaster, entre otros, son videojuegos que se diseñan con
+el objeto de desplegar una serie de conductas en el jugador, sin las cuales no podría pasar los ni-
+veles del juego. La mecánica se basa en ensayos, repeticiones, retroinformación y aprendizaje de
+conceptos para resolver cada escenario del juego (Greitemeyer y Osswald, 2010).
+
+   Food Force (UN-PMA, 2006) fue lanzado en 2005 por el Programa Mundial de Alimentos (PMA)
+de las Naciones Unidas. El videojuego recrea “misiones de intervención de emergencia”, con las
+mismas dificultades a las que se enfrenta el PMA en la crisis alimentaria del África. Integra, por
+ejemplo, la gestión de los containers de alimento, su distribución sobre terreno, la negociación
+con rebeldes armados y el paso de convoyes con comida. El jugador tiene una guía de protocolos
+para tomar la mejor decisión. El PMA reconoce el enorme valor de las métricas generadas por los
+millones de jugadores para optimizar sus procesos reales (Gómez, 2014).
+
+    El Alto Comisionado de las Naciones Unidas para los Refugiados (Acnur) publicó en el 2006 el
+videojuego Contra viento y marea (Acnur, 2006). Este videojuego de rol se fundamentó para apoyar
+el artículo 14 de la Declaración Universal de los Derechos Humanos: “En caso de persecución, toda
+persona tiene derecho a buscar asilo, y a disfrutar de él, en cualquier país”. Diez años después, es
+la joya de la corona de los videojuegos prosociales, al ser traducido a diez idiomas, ser introducido
+como herramienta pedagógica en el sistema educativo de la Unión Europea e inspirar a otros juegos
+indie sobre los efectos de la guerra y sus víctimas. Contra viento y marea busca informar y concienciar
+a estudiantes y profesores sobre los refugiados: “de dónde vienen, qué situaciones deben afrontar                                                                     [51]
+y cómo se adaptan a sus nuevas vidas”. El juego se acompaña de una guía para profesores y edu-
+cadores, material informativo, ejercicios y temas de debate para reforzar la comprensión de los
+estudiantes respecto a los refugiados.
+
+   Otro de los videojuegos de la ONU es Stop Disaster (EIRD, 2010). La Estrategia Internacional
+para la Reducción de los Desastres (EIRD) de las Naciones Unidas vinculó a numerosas organiza-
+ciones, universidades e instituciones para diseñar un plan que permitiera reducir el número de
+muertos y heridos en los desastres provocados por la naturaleza. El resultado fue un videojuego.
+Este propone al jugador prevenir o reaccionar con estrategia, salvando vidas, ante cinco escenarios:
+tsunami, terremoto, ciclón, incendio forestal e inundación. Las métricas originadas por el video-
+juego aportan a la agencia para adoptar muchas medidas en escenarios reales.
+
+    Junto a estos referentes, se encuentran cientos de iniciativas similares impulsadas por organiza-
+ciones gubernamentales y no gubernamentales en todo el mundo18. Todos estos videojuegos buscan
+que los jugadores reflexionen sobre problemáticas sociopolíticas, que se materializan y simulan
+a través del software lúdico, y les permitan la aplicación directa de conceptos y estrategias para la
+resolución de escenarios reales o probables. De esta forma, se desarrolla la capacidad de análisis,
+reacción, exploración y gestión de múltiples variables en tiempo real, estimación del riesgo y de
+las consecuencias de las propias decisiones.
+
+
+18
+      No alcanzaría el espacio de este artículo para referenciar los videojuegos prosociales actuales, pero recomendamos el
+     libro ¿Pueden los videojuegos cambiar el mundo?: una introducción a los serious games (Gómez, 2014) donde se reseñan,
+     entre otras, iniciativas para controlar la inflación (Economía, del Banco Central Europeo), el dengue (Pitanga Town),
+     etc.
+
+                                                                                                            análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+            El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia   Carlos Germán Sandoval Forero
+                                                                                                                                 Álvaro Triana Sánchez
+
+
+
+            Ascenso de los videojuegos prosociales en Colombia
+
+               Los videojuegos prosociales en Colombia transitan en la actualidad por una “edad dorada”,
+            favorecida por la búsqueda de salidas al conflicto armado y una eventual implementación del pos-
+            conflicto. El Ministerio de Tecnologías de la Información y las Comunicaciones desde el 2014, ha
+            abierto convocatorias para apoyar con fondos públicos el desarrollo de videojuegos que tengan que
+            ver con resolución de conflictos o temas de paz. Igualmente, empresas, agencias de cooperación
+            y centros académicos universitarios se han venido integrando al desarrollo de videojuegos que
+            apoyen iniciativas sociales.
+
+                 Estas sinergias han configurado un boom de videojuegos colombianos prosociales para dispo-
+            sitivos móviles que permiten su descarga gratuita a través de las principales tiendas de Android y
+            Apple. Entre los múltiples e interesantes desarrollos se pueden destacar:
+
+               Vitimalz, videojuego desarrollado por la microempresa Anglus del Parque de Innovación Em-
+            presarial de la Universidad Nacional de Colombia, sede Manizales. Aborda temáticas que giran en
+            torno a la reparación integral de víctimas (ley 1448/2011), con dinámicas de juego que permiten
+            brindar información a los jugadores y evaluar sus conceptos respecto a la ley.
+
+               Sabiduría ancestral indígena, serie de videojuegos educativos apoyada por el Grupo Sura y desa-
+            rrollada por la empresa Colombia Games, se dirige a niños y niñas de educación primaria. Busca
+            mediante la lúdica dar a conocer la riqueza cultural de las comunidades indígenas en Colombia.
+
+[52]            Paz a la voz, videojuego dirigido a niños, niñas y adolescentes víctimas del conflicto armado
+            en Colombia, con el cual se socializa el protocolo de participación de la Unidad de Víctimas. Lo
+            apoyó la Organización Internacional para las Migraciones y la Agencia de los Estados Unidos para
+            el Desarrollo Internacional.
+
+                Aliaterra, videojuego de prácticas ambientales para aprender a cuidar y a manejar la cuenca
+            del río Chinchiná (Caldas, Colombia). Fue desarrollado por la Universidad Nacional de Colombia,
+            sede Manizales, en apoyo a la Secretaría de Educación de Caldas.
+
+                Reconstrucción, videojuego que propone al jugador un acercamiento a las víctimas y a los com-
+            batientes del conflicto armado colombiano, a través de una fortaleza narrativa y la toma de decisio-
+            nes. El videojuego recrea escenarios en 3D asociados al conflicto armado (pueblo, campamentos,
+            selva), diversos personajes (civiles, combatientes, víctimas) y una historia con soporte en cómic y
+            cortos documentales que, en su conjunto, le plantean al jugador asumir dilemas con consecuencias
+            sobre la misma historia y los personajes del juego. Este proyecto lo desarrolló el laboratorio de
+            innovación ViveLab-Bogotá, con apoyo de GIZ, Pathos Audiovisual y la Universidad Nacional de
+            Colombia, sede Bogotá.
+
+            Experiencia de desarrollo de un videojuego prosocial: el caso Reconstrucción
+
+               Reconstrucción se ideó con el propósito de generar un videojuego pedagógico, que aprovechara el
+            avance de la narrativa transmedia19 para procurar condiciones que atiendan a la comprensión de lo
+
+
+            19
+                 El término transmedia o narración transmedia, hace referencia a contenidos o historias desplegados en diversos medios,
+                 utilizados para informar y enganchar de manera más contundente a los usuarios (Scolari, 2013).
+
+análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia                    Carlos Germán Sandoval Forero
+                                                                                                                                      Álvaro Triana Sánchez
+
+
+
+
+                                                                                                                                                                   Democracia
+que pasó en el conflicto armado colombiano, a la perspectiva de víctimas y victimarios, a la búsqueda
+de reconciliación con derechos y obligaciones, a la generación de igualdad de oportunidades y a la
+construcción de un proceso esperanzador dentro de las poblaciones jóvenes y urbanas, receptoras
+de un número importante de excombatientes. Está dirigido a jugadores entre 18 y 34 años, habi-
+tantes de ciudades grandes e intermedias del país, familiarizados con los avances tecnológicos, los
+contenidos digitales, etc., pero ajenos a las historias y perspectivas de conflicto armado en Colombia.
+
+     El proyecto se estructuró en cinco componentes coordinados:
+
+Investigación
+
+   La investigación estuvo orientada al objetivo general del proyecto. Buscaba generar insumos
+para crear la historia del videojuego, el cómic y los documentales, a la vez que involucrara a las
+poblaciones que dan foco al proyecto y sustentara académicamente el concepto de videojuego como
+herramienta prosocial. Para esto se contemplaron las siguientes actividades:
+
+     • Construcción de historias: a partir de talleres y entrevistas a los actores del conflicto, se
+       crearon historias para ser contadas. Estas historias son el fundamento de la experiencia
+       del jugador y el insumo central del videojuego. Para esto se logró el apoyo del Centro de
+       Memoria, Paz y Reconciliación y de la Agencia Colombiana para la Reintegración.
+
+     • Definición de lenguaje: trabajando en conjunto con las víctimas y excombatientes, se de-
+       finieron los lenguajes para contar las historias, teniendo como base el respeto hacia sus
+       experiencias. Esto marcó el estilo empleado en el guion del videojuego y el cómic.                                                                             [53]
+
+     • Construcción de la experiencia del jugador: usando las historias definidas se diseñaron
+       mecánicas de juego. Esto incluyó pruebas de validación e interacción con un grupo de
+       jugadores para conocer sus reacciones ante los escenarios, los personajes, los diálogos, las
+       decisiones y la jugabilidad.
+
+     • Revisión bibliográfica y documentación de los videojuegos como herramienta prosocial:
+       resultado que se encuentra expuesto en este artículo.
+
+Arte
+
+   A partir de las historias y las experiencias precisadas, el equipo de arte creó los escenarios y los
+personajes representados en el videojuego. El flujo de trabajo artístico implicó:
+
+     • Arte conceptual: en este proceso se crearon las ilustraciones que definieron la línea artística
+       del proyecto.
+
+     • Modelado: a partir del arte conceptual los artistas generaron modelos 3D para el videojuego
+       y el cómic.
+
+     • Texturizado: las texturas son el complemento de los modelos 3D.
+
+     • Animación: los animadores tomaron modelos y crearon animaciones en colaboración con
+       los programadores y los investigadores, para diseñar una experiencia al jugador.
+
+                                                                                                            análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+            El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia                 Carlos Germán Sandoval Forero
+                                                                                                                                               Álvaro Triana Sánchez
+
+
+
+                  • Diseño de niveles: este trabajo involucró el uso de herramientas y habilidades artísticas y
+                    técnicas para la construcción de mecánicas de juego en cada escenario.
+
+                  • Creación del cómic: el cómic se creó usando las piezas de arte generadas para el videojuego,
+                    esto con el fin de establecer un lazo entre la aventura que vive el jugador y la historia que
+                    se narra en los paneles de la historieta.
+
+                  • Creación de cápsulas documentales: las cápsulas documentales complementan las experien-
+                    cias de juego que se buscan reforzar. Estos videos cortos, realizados a hombres y mujeres
+                    combatientes y excombatientes, se articulan al videojuego y dan fuerza a los personajes,
+                    lugares o sucesos representados.
+
+            Desarrollo
+
+                Se conformó un equipo multidisciplinario para trabajar en el desarrollo del proyecto, con la
+            metodología Scrum (Scrum Alliance, 2013)20, durante seis meses. El videojuego Reconstrucción uti-
+            liza el motor Unity 3D, una de las herramientas de creación de videojuegos más usadas por los
+            desarrolladores indie, debido a su versatilidad y bajo costo.
+
+            Pruebas de validación con jugadores
+
+                En el marco del proyecto se diseñó un mecanismo de validación que permitiera tener una
+            aproximación a la forma como los jugadores interpretaban y daban relevancia a los elementos
+[54]        integrados al videojuego: los personajes, los escenarios, la historia, los dilemas, las decisiones y
+            los valores implicados. Se conformó un grupo focal de veinte jugadores (adolescentes y jóvenes
+            profesionales). Se emplearon herramientas y metodologías cualitativas provenientes del análisis
+            del discurso y su representación en mapas cognitivos. Los instrumentos y los resultados de estas
+            pruebas de validación, para el primer capítulo del videojuego21, se resumen en la tabla 2.
+
+                                                                    Tabla 2. Instrumentos metodológicos
+
+
+                                                                                 Instrumento 1
+
+              Las tarjetas de apreciación: cada jugador identifica con palabras o terminologías clave su comprensión y entendimiento del conflicto armado en
+              Colombia antes y después de jugar Reconstrucción. Estos momentos y palabras se sistematizan y clasifican, se codifican en Nvivo (software de
+              análisis cualitativo) y se generan mapas cognitivos.
+
+              Objetivo: identificar un esquema de ubicación temática del videojuego en la estructura cognitiva del jugador, entre lo que concibe del conflicto y lo
+              que el videojuego activó, a partir de palabras o terminologías clave. Este esquema de ubicación permitirá sacar conclusiones sobre el alcance o el
+              carácter temático que el videojuego abarca, con relación al conflicto en Colombia y entender si se cumplen los objetivos de aportar a los temas de
+              sensibilización y conductas prosociales.
+
+
+
+
+            20
+                 La metodología Scrum es un conjunto de tareas para trabajar colaborativamente. Las tareas se enfocan en entregas
+                 parciales y regulares del producto final, priorizadas por el beneficio que aportan al receptor del proyecto (véase http://
+                 www.scrumguides.org/).
+            21
+                 El proyecto validó los tres capítulos que componen el videojuego. Los resultados son amplios y podrán consultarse en:
+                 reconstrucción.co
+
+análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia                    Carlos Germán Sandoval Forero
+                                                                                                                                      Álvaro Triana Sánchez
+
+
+
+
+                                                                                                                                                                   Democracia
+ Análisis: el videojuego Reconstrucción genera un espectro mayor de conceptos para los jugadores con relación al conflicto armado en Colombia.
+ En general, el capítulo 1 abarca buena parte de los planteamientos conceptuales con que llegan los jugadores. En el caso específico de los actores
+ armados implicados en el conflicto, estos son definidos (paramilitares y guerrilla), al igual que suman o reafirman otros conceptos como víctimas,
+ familia, pueblo y campesinos.
+
+                                                                     Instrumento 2
+ El tablero valorativo: que representa personajes, escenarios e historia del videojuego. Los jugadores reunidos tras jugar colocan fichas de color en
+ el tablero para manifestar: lo que les agrada, molesta, impacta, les es indiferente o incomprensible con relación a personajes, escenarios o historia
+ del videojuego. Esta información se sistematiza, se clasifica, se codifica en Nvivo y se generan mapas cognitivos.
+
+ Objetivo: identificar un esquema de relaciones valorativas y atributos alrededor de personajes, escenarios e historia del videojuego, que ayude a
+ determinar si los personajes, escenarios e historia son creíbles, generan susceptibilidades o incitan comportamientos o actitudes particulares entre
+ los jugadores.                                                                                                                                                       [55]
+
+
+
+
+ Análisis: el videojuego Reconstrucción tiene un eje valorativo hacia la identificación, la comprensión y la empatía con la protagonista del juego
+ (Victoria), el escenario donde se desarrolla (Pueblo) y la historia general. Los paramilitares constituyen la parte más sensible en términos de
+ afectación al jugador frente al conflicto, esto porque los jugadores los relacionan con una agresión hacia Victoria y el Pueblo, siendo estos últimos
+ los elementos del videojuego con los cuales los jugadores se sienten identificados. Otros personajes y escenarios (guerrilleros, la escuela y otros
+ habitantes del pueblo) generan dudas, inquietud y es allí donde los jugadores se sienten más comprometidos a proponer aportes para mejorar la
+ dinámica del juego y entender
+
+                                                                     Instrumento 3
+ Las métricas: que realizan seguimiento a las decisiones del jugador ante los dilemas que plantea el videojuego. Estos datos anónimos los recoge
+ el software en cada interacción del jugador con el programa lúdico, si el dispositivo se encuentra conectado a Internet.
+ Objetivo: identificar un esquema de decisiones, comportamientos y rejugabilidad de los jugadores frente a los contenidos del videojuego, que facilite
+ determinar comportamientos o actitudes particulares entre los jugadores.
+
+
+                                                                                                            análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+            El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia                  Carlos Germán Sandoval Forero
+                                                                                                                                                Álvaro Triana Sánchez
+
+
+
+
+              Análisis: estos resultados de métricas son preliminares y no pretenden ser generalizables a todos los jugadores de Reconstrucción, debido a que no
+              se ha contado con una muestra representativa por el tipo de muestreo que se realizó y por el corto periodo de aplicación (dos meses). En todo caso,
+              los jugadores toman sus decisiones dependiendo de sus conocimientos o experiencias reales previas y de algunas variables que se asocian con la
+              experiencia de juego (como la diversión, el riesgo seguro, la moral y la conexión con la historia), que permitirán predicciones de los comportamientos
+              prosociales de los jugadores (Granic et al., 2014)
+
+            Fuente: elaboración propia.
+
+
+            Difusión y socialización de la experiencia
+[56]
+                Este componente es de enorme importancia para generar un impacto en comunidades, me-
+            dios de comunicación y entidades gubernamentales. A través del portal web reconstruccion.co, se
+            integra información complementaria sobre el videojuego, se registran las reseñas en la prensa y se
+            vinculan las redes sociales virtuales.
+
+            CONCLUSIONES
+
+                Al indagar por los elementos que conforman el concepto del videojuego, sus aspectos técnicos,
+            económicos, tecnológicos y comunidades que lo enmarcan, encontramos estudios desde diversas
+            perspectivas que evidencian tres factores clave: el videojuego como espacio de interacción de con-
+            ductas y comportamientos humanos; el videojuego como un mercado que se consolida gracias al
+            avance en la tecnología electrónica e informática, la diversificación de contenidos y de usuarios; y
+            el videojuego como nuevo campo de estudio construido para comprender cómo funciona y cómo
+            difiere de otros productos de la industria cultural.
+
+                Los abordajes que del conflicto y la violencia hacen los videojuegos, sin duda impactan de modo
+            profundo en el imaginario colectivo y las representaciones sociales que millones de jugadores tienen
+            sobre su entorno social y político. No fue el propósito de este artículo buscar correlaciones entre
+            los videojuegos con contenidos violentos y jugadores que se comportan de manera violenta en la
+            sociedad. Pero sí buscamos evidencias de iniciativas y conductas prosociales reforzadas por video-
+            juegos. Estas orientaciones se fundamentan en el aprendizaje que el jugador recibe de su entorno
+            real y la retroinformación que este realiza de su conducta a través del videojuego, lo cual puede
+            robustecer creencias y actitudes. En ese sentido, el videojuego se constituye como una herramienta
+            prosocial, un predictor y un simulador de comportamientos.
+
+análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia                    Carlos Germán Sandoval Forero
+                                                                                                                                      Álvaro Triana Sánchez
+
+
+
+
+                                                                                                                                                                   Democracia
+    Atribuir al videojuego estas virtudes ha requerido un cambio en su formulación y desarrollo.
+Esto significa transitar de una orientación exclusivamente económica y de mercadeo, hacia lógicas
+de desarrollo más independientes, enfocadas en alcanzar objetivos alineados con políticas, valores
+y ejercicios de comunidad.
+
+    En el marco de los requerimientos que imponen los escenarios de posacuerdo y posconflicto
+en la actualidad colombiana y considerando las históricas problemáticas referidas a la reinserción
+y la reconciliación entre víctimas, victimarios, hombres y mujeres de distinto género, edad, etnia,
+nivel socioeconómico, territorio, medioambiente, etc., debemos reconocer en el videojuego un
+enorme potencial para incidir en niños y adolescentes, gamers, comunidades en red y, en general,
+nuevas generaciones que no solo escuchan, no solo ven, también organizan, exploran, discuten y
+viven en la red.
+
+REFERENCIAS
+
+Alto Comisionado de las Naciones Unidas para los Refugiados. (2006). Contra viento y marea. Disponible en: http://www.acnur.
+         org/recursos/juegos/
+Agencia Efe. (2008). En los videojuegos, los latinos llenan los apartados “malos” y “criminales”. Disponible en: http://www.efe.com/
+         efe/america/mexico/en-los-videojuegos-latinos-llenan-apartados-malos-y-criminales/50000545-2996053
+Anderson, C. A. y Bushman, B. J. (2001). Effects of violent video games on aggressive behavior, aggressive cognition, aggressive
+         affect, physiological arousal, and prosocial behavior: a meta-analytic review of the scientific literature. Psychological Science,
+         12(5), pp. 353-359.
+Bavelier, D., Green, C. S., Han, D. H., Renshaw, P. F., Merzenich, M. M. y Gentile, D. A. (2011). Brains on video games. Nature
+         Reviews Neuroscience, 12(12), pp. 763-768.                                                                                                                   [57]
+Buckley, K. E. y Anderson, C. A. (2006). A theoretical model of the effects and consequences of playing video games. Playing video
+         games: motives, responses, and consequences.
+Cassell, J. y Jenkins, H. (2000). From Barbie to Mortal Kombat: gender and computer games. Massachusetts: MIT Press.
+Council on Hemispheric Affairs. (3 de abril de 2013). La violenta historia de Latinoamérica en videojuegos. Disponible en: http://
+         www.coha.org/la-violenta-historia-de-latinoamerica-en-videojuegos/
+DigiWorld Institute. (2015). DigiWorld Institute by Idate, Think tank, consulting and research: telecoms, Internet, media. Dispo-
+         nible en: http://www.idate.org/en/Home/
+Estrategia Internacional para la Reducción de Desastres. (2010). ¡Alto a los desastres! Disponible en: http://www.stopdisastersgame.
+         org/es/playgame.html
+El Tiempo. (16 de enero de 2006). Jugando con un país. Disponible en: http://www.eltiempo.com/archivo/documento/MAM-1885667
+Euromonitor International. (2002). Toys and games: global trends, developments, and prospects. Londres: Euromonitor International.
+Euromonitor International. (2015). Toys and games report. Disponible en: http://www.euromonitor.com/
+Fang, X., Chan, S., Brzezinski, J. y Nair, C. (2010). Development of an instrument to measure enjoyment of computer game play.
+         Intl. Journal of Human-Computer Interaction, 26(9), pp. 868-886.
+FX Interactive. (1999). Power Tank. Disponible en: http://www.fxinteractive.com/p006/p006.htm
+Gentile, D. A., Anderson, C. A., Yukawa, S., Ihori, N., Saleem, M., Ming, L. K. y Bushman, B. J. (2009). The effects of prosocial
+         video games on prosocial behaviors: international evidence from correlational, longitudinal, and experimental studies.
+         Personality and Social Psychology Bulletin.
+Gómez, S. (2014). ¿Pueden los videojuegos cambiar el mundo?: una introducción a los serious games. Logroño: Editorial Universidad In-
+         ternacional de La Rioja.
+Granic, I., Lobel, A. y Engels, R. C. (2014). The benefits of playing video games. American Psychologist, 69(1), 66.
+Greitemeyer, T. y Osswald, S. (2010). Effects of prosocial video games on prosocial behavior. Journal of Personality and Social Psycho-
+         logy, 98(2), 211.
+Haddon, L. (2004). Information and communication technologies in everyday life: a concise introduction and research guide. Oxford: Berg.
+
+
+                                                                                                            análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+            El videojuego como herramienta prosocial: implicaciones y aplicaciones para la reconstrucción en Colombia        Carlos Germán Sandoval Forero
+                                                                                                                                      Álvaro Triana Sánchez
+
+
+
+            Herz, J. C. (1997). Joystick nation: how videogames are your quarters, won our hearts, and rewired our minds. Boston: Little, Brown & Co. Inc.
+            InStat Industry Group. (2002). Industry reports. Pittsburgh: InStat Industry Group.
+            Jerabeck, J. M. y Ferguson, C. J. (2013). The influence of solitary and cooperative violent video game play on aggressive and pro-
+                      social behavior. Computers in Human Behavior, 29(6), pp. 2573-2578.
+            Kapkin, S. (16 de noviembre de 2016). Los videojuegos que se inventaron las AUC: reclutar matando guerrilleros. Pacifista. Dispo-
+                      nible en: http://pacifista.co/los-videojuegos-que-se-inventaron-las-auc-reclutar-matando-guerrilleros/
+            Lugo, J., Sampson, T. y Lossada, M. (2002). Latin America’s new cultural industries still play old games. Game Studies, 2(2).
+            Mengel, F. (2014). Computer games and prosocial behaviour. PloS One, 9(4), e94099.
+            Meristation Magazine. (2002a). Problemas en Italia para Mafia: City of Lost Heaven. Disponible en: http://www.meristation.com/
+                      noticias/problemas-en-italia-para-mafia-city-of-lost-heaven/1625900
+            Meristation Magazine. (2002b). Los sikhs contra Hitman 2. Disponible en: http://www.meristation.com/noticias/los-sikhs-contra-
+                      hitman-2/1629019
+            Nieborg, D. (2004). America’s Army: more than a game. Nueva York.
+            Oswald, C. A., Prorock, C. y Murphy, S. M. (2014). The perceived meaning of the video game experience: an exploratory study.
+                      Psychology of Popular Media Culture, 3(2), 110.
+            Poels, K., Hoogen, W., Van den Ijsselsteijn, W. y De Kort, Y. (2012). Pleasure to play, arousal to stay: the effect of player emotions
+                      on digital game preferences and playing time. CyberPsychology, Behavior, and Social Networking, 15(1), pp. 1-6.
+            Prensky, M. (2006). Don’t bother me, mom, I’m learning!: how computer and video games are preparing your kids for 21st century success and
+                      how you can help! Saint Paul: Paragon House.
+            Provenzo Jr., E. F. (1992). The video generation. American School Board Journal, 179(3), pp. 29-32.
+            Riot, League of Legends. (2016). League of Legends. Disponible en: http://las.leagueoflegends.com/
+            Russoniello, C. V., O’Brien, K. y Parks, J. M. (2009). EEG, HRV and psychological correlates while playing Bejeweled II: a rando-
+                      mized controlled study. Stud Health Technol Inform, 144, pp. 189-92.
+[58]        Ryan, R. M., Rigby, C. S. y Przybylski, A. (2006). The motivational pull of video games: a self-determination theory approach.
+                      Motivation and Emotion, 30(4), pp. 344-360.
+            Salen, K. y Zimmerman, E. (2004). Rules of play: game design fundamentals. Massachusetts: MIT Press.
+            Salguero, R. T. (2001). La adicción a los videojuegos. Una revisión. Adicciones, 13(4), pp. 407-413.
+            Sandoval, C. G. (2006). Los “juegos” del conflicto colombiano. UN Periódico. Disponible en: http://historico.unperiodico.unal.edu.
+                      co/ediciones/87/05.htm
+            Scolari, C. A. (2013). Narrativas transmedia: cuando todos los medios cuentan.
+            Shafer, D. M. (2012). Causes of state hostility and enjoyment in player versus player and player versus environment video games.
+                      Journal of Communication, 62(4), pp. 719-737.
+            Southern, M. (2001). The cultural study of games: more than just games.
+            Tear, M. J. y Nielsen, M. (2013). Failure to demonstrate that playing violent video games diminishes prosocial behavior. PLoS One,
+                      8(7), e68382.
+            Telle, N.-T. y Pfister, H.-R. (2012). Not only the miserable receive help: empathy promotes prosocial behaviour toward the happy.
+                      Current Psychology, 31(4), pp. 393-413.
+            UN-PMA. (2006). Food force (WFP). Disponible en: https://www.unric.org/en/games/27352-food-force-wfp
+            Uttal, D. H., Meadow, N. G., Tipton, E., Hand, L. L., Alden, A. R., Warren, C. y Newcombe, N. S. (2013). The malleability of spatial
+                      skills: a meta-analysis of training studies. Psychological Bulletin, 139(2), 352.
+            Vandalnet Magazine. (14 de julio de 2005). Hillary Clinton pedirá explicaciones por el mod porno de GTA: San Andreas. Dispo-
+                      nible en: http://www.vandal.net/noticia/17474/hillary-clinton-pedira-explicaciones-por-el-mod-porno-de-gta-san-andreas/
+            Vélez, J. A. y Ewoldsen, D. R. (2013). Helping behaviors during video game play. Journal of Media Psychology.
+            Wai, J., Lubinski, D., Benbow, C. P. y Steiger, J. H. (2010). Accomplishment in science, technology, engineering, and mathematics
+                      (STEM) and its relation to STEM educational dose: a 25-year longitudinal study. Journal of Educational Psychology, 102(4), 860.
+
+
+
+
+análisis político nº 89, Bogotá, enero-abril, 2017: págs. 38-58
+ Reproduced with permission of copyright owner.
+Further reproduction prohibited without permission.
+
